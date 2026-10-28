@@ -1,0 +1,121 @@
+[
+  {
+    "repo": "rohanbeingsocial/ipo-radar",
+    "sha": "08c3a343c3fdbf895a8eed28df0c1662c1989bbf",
+    "path": "README.md",
+    "url": "https://github.com/rohanbeingsocial/ipo-radar/blob/08c3a343c3fdbf895a8eed28df0c1662c1989bbf/README.md",
+    "bytes": 8398
+  },
+  {
+    "repo": "rohanbeingsocial/ipo-radar",
+    "sha": "08c3a343c3fdbf895a8eed28df0c1662c1989bbf",
+    "path": "backend/app/pipeline/financial_extractor.py",
+    "url": "https://github.com/rohanbeingsocial/ipo-radar/blob/08c3a343c3fdbf895a8eed28df0c1662c1989bbf/backend/app/pipeline/financial_extractor.py",
+    "bytes": 30789
+  },
+  {
+    "repo": "rohanbeingsocial/ipo-radar",
+    "sha": "08c3a343c3fdbf895a8eed28df0c1662c1989bbf",
+    "path": "backend/app/pipeline/valuation.py",
+    "url": "https://github.com/rohanbeingsocial/ipo-radar/blob/08c3a343c3fdbf895a8eed28df0c1662c1989bbf/backend/app/pipeline/valuation.py",
+    "bytes": 6507
+  },
+  {
+    "repo": "rohanbeingsocial/ipo-radar",
+    "sha": "08c3a343c3fdbf895a8eed28df0c1662c1989bbf",
+    "path": "backend/app/pipeline/scoring.py",
+    "url": "https://github.com/rohanbeingsocial/ipo-radar/blob/08c3a343c3fdbf895a8eed28df0c1662c1989bbf/backend/app/pipeline/scoring.py",
+    "bytes": 20882
+  },
+  {
+    "repo": "rohanbeingsocial/ipo-radar",
+    "sha": "08c3a343c3fdbf895a8eed28df0c1662c1989bbf",
+    "path": "backend/app/pipeline/forensic.py",
+    "url": "https://github.com/rohanbeingsocial/ipo-radar/blob/08c3a343c3fdbf895a8eed28df0c1662c1989bbf/backend/app/pipeline/forensic.py",
+    "bytes": 5244
+  },
+  {
+    "repo": "rohanbeingsocial/ipo-radar",
+    "sha": "08c3a343c3fdbf895a8eed28df0c1662c1989bbf",
+    "path": "backend/app/pipeline/pdf_processor.py",
+    "url": "https://github.com/rohanbeingsocial/ipo-radar/blob/08c3a343c3fdbf895a8eed28df0c1662c1989bbf/backend/app/pipeline/pdf_processor.py",
+    "bytes": 1606
+  },
+  {
+    "repo": "rohanbeingsocial/ipo-radar",
+    "sha": "08c3a343c3fdbf895a8eed28df0c1662c1989bbf",
+    "path": "backend/app/pipeline/orchestrator.py",
+    "url": "https://github.com/rohanbeingsocial/ipo-radar/blob/08c3a343c3fdbf895a8eed28df0c1662c1989bbf/backend/app/pipeline/orchestrator.py",
+    "bytes": 11119
+  },
+  {
+    "repo": "rohanbeingsocial/ipo-radar",
+    "sha": "08c3a343c3fdbf895a8eed28df0c1662c1989bbf",
+    "path": "backend/app/models.py",
+    "url": "https://github.com/rohanbeingsocial/ipo-radar/blob/08c3a343c3fdbf895a8eed28df0c1662c1989bbf/backend/app/models.py",
+    "bytes": 8082
+  },
+  {
+    "repo": "rohanbeingsocial/ipo-radar",
+    "sha": "08c3a343c3fdbf895a8eed28df0c1662c1989bbf",
+    "path": "backend/tests/test_pipeline.py",
+    "url": "https://github.com/rohanbeingsocial/ipo-radar/blob/08c3a343c3fdbf895a8eed28df0c1662c1989bbf/backend/tests/test_pipeline.py",
+    "bytes": 17123
+  },
+  {
+    "repo": "rohanbeingsocial/ipo-radar",
+    "sha": "08c3a343c3fdbf895a8eed28df0c1662c1989bbf",
+    "path": "backend/tools/analyze_standalone.py",
+    "url": "https://github.com/rohanbeingsocial/ipo-radar/blob/08c3a343c3fdbf895a8eed28df0c1662c1989bbf/backend/tools/analyze_standalone.py",
+    "bytes": 6127
+  },
+  {
+    "repo": "rohanbeingsocial/ipo-radar",
+    "sha": "08c3a343c3fdbf895a8eed28df0c1662c1989bbf",
+    "path": "backend/requirements.txt",
+    "url": "https://github.com/rohanbeingsocial/ipo-radar/blob/08c3a343c3fdbf895a8eed28df0c1662c1989bbf/backend/requirements.txt",
+    "bytes": 296
+  },
+  {
+    "repo": "gagandt/ipo-ai",
+    "sha": "767a6c7a22916cd46ef7744c585044fdc3bc1aee",
+    "path": "README.md",
+    "url": "https://github.com/gagandt/ipo-ai/blob/767a6c7a22916cd46ef7744c585044fdc3bc1aee/README.md",
+    "bytes": 7773
+  },
+  {
+    "repo": "gagandt/ipo-ai",
+    "sha": "767a6c7a22916cd46ef7744c585044fdc3bc1aee",
+    "path": "src/build_dataset.py",
+    "url": "https://github.com/gagandt/ipo-ai/blob/767a6c7a22916cd46ef7744c585044fdc3bc1aee/src/build_dataset.py",
+    "bytes": 9525
+  },
+  {
+    "repo": "gagandt/ipo-ai",
+    "sha": "767a6c7a22916cd46ef7744c585044fdc3bc1aee",
+    "path": "src/cg_scrape.py",
+    "url": "https://github.com/gagandt/ipo-ai/blob/767a6c7a22916cd46ef7744c585044fdc3bc1aee/src/cg_scrape.py",
+    "bytes": 13119
+  },
+  {
+    "repo": "gagandt/ipo-ai",
+    "sha": "767a6c7a22916cd46ef7744c585044fdc3bc1aee",
+    "path": "src/fetch_master.py",
+    "url": "https://github.com/gagandt/ipo-ai/blob/767a6c7a22916cd46ef7744c585044fdc3bc1aee/src/fetch_master.py",
+    "bytes": 4114
+  },
+  {
+    "repo": "gagandt/ipo-ai",
+    "sha": "767a6c7a22916cd46ef7744c585044fdc3bc1aee",
+    "path": "src/parse_nse.py",
+    "url": "https://github.com/gagandt/ipo-ai/blob/767a6c7a22916cd46ef7744c585044fdc3bc1aee/src/parse_nse.py",
+    "bytes": 6438
+  },
+  {
+    "repo": "gagandt/ipo-ai",
+    "sha": "767a6c7a22916cd46ef7744c585044fdc3bc1aee",
+    "path": "requirements.txt",
+    "url": "https://github.com/gagandt/ipo-ai/blob/767a6c7a22916cd46ef7744c585044fdc3bc1aee/requirements.txt",
+    "bytes": 74
+  }
+]

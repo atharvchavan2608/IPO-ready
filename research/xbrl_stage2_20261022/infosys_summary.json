@@ -1,0 +1,14 @@
+{
+  "facts": 417,
+  "contexts": 81,
+  "units": 4,
+  "contexts_with_dimensions": 78,
+  "nil_facts": 0,
+  "comparison_rows": 16,
+  "numeric_matches": 16,
+  "period_matches": 8,
+  "differing_value_groups_under_same_inspected_aspects": 35,
+  "schema_refs": [
+    "Ind-AS_entry_point_2020-03-31.xsd"
+  ]
+}

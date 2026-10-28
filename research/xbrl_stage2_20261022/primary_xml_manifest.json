@@ -1,0 +1,14 @@
+[
+  {
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_104589_1099938_19042024112830.xml",
+    "status": "failed",
+    "error": "The read operation timed out",
+    "retrieved_on": "2026-10-22"
+  },
+  {
+    "url": "https://www.bseindia.com/XBRLFILES/IFIndasDuplicateUploadDocument/Integrated_Finance_Ind_As_500209_1062025192516_IFIndAs.xml",
+    "status": "failed",
+    "error": "HTTP Error 403: Forbidden",
+    "retrieved_on": "2026-10-22"
+  }
+]

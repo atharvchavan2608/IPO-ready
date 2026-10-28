@@ -1,0 +1,262 @@
+[
+  {
+    "label": "Revenue from operations",
+    "pdf_page": 20,
+    "period": "quarter",
+    "pdf_raw_million": "2247.20",
+    "nse_raw_lakh": "22472.00",
+    "pdf_converted_lakh": "22472.00",
+    "nse_minus_pdf_lakh": "0.00",
+    "interpretation": "same label"
+  },
+  {
+    "label": "Other income",
+    "pdf_page": 20,
+    "period": "quarter",
+    "pdf_raw_million": "96.67",
+    "nse_raw_lakh": "966.70",
+    "pdf_converted_lakh": "966.70",
+    "nse_minus_pdf_lakh": "0.00",
+    "interpretation": "same label"
+  },
+  {
+    "label": "Total income",
+    "pdf_page": 20,
+    "period": "quarter",
+    "pdf_raw_million": "2343.87",
+    "nse_raw_lakh": "23438.70",
+    "pdf_converted_lakh": "23438.70",
+    "nse_minus_pdf_lakh": "0.00",
+    "interpretation": "same label"
+  },
+  {
+    "label": "Finance costs",
+    "pdf_page": 20,
+    "period": "quarter",
+    "pdf_raw_million": "18.10",
+    "nse_raw_lakh": "181.00",
+    "pdf_converted_lakh": "181.00",
+    "nse_minus_pdf_lakh": "0.00",
+    "interpretation": "same label"
+  },
+  {
+    "label": "Depreciation and amortisation",
+    "pdf_page": 20,
+    "period": "quarter",
+    "pdf_raw_million": "152.71",
+    "nse_raw_lakh": "1527.10",
+    "pdf_converted_lakh": "1527.10",
+    "nse_minus_pdf_lakh": "0.00",
+    "interpretation": "same label"
+  },
+  {
+    "label": "Profit before tax",
+    "pdf_page": 20,
+    "period": "quarter",
+    "pdf_raw_million": "615.04",
+    "nse_raw_lakh": "6150.40",
+    "pdf_converted_lakh": "6150.40",
+    "nse_minus_pdf_lakh": "0.00",
+    "interpretation": "same label"
+  },
+  {
+    "label": "PAT",
+    "pdf_page": 20,
+    "period": "quarter",
+    "pdf_raw_million": "435.72",
+    "nse_raw_lakh": "4357.20",
+    "pdf_converted_lakh": "4357.20",
+    "nse_minus_pdf_lakh": "0.00",
+    "interpretation": "same label"
+  },
+  {
+    "label": "Revenue from operations",
+    "pdf_page": 20,
+    "period": "half-year",
+    "pdf_raw_million": "4390.54",
+    "nse_raw_lakh": "43905.40",
+    "pdf_converted_lakh": "43905.40",
+    "nse_minus_pdf_lakh": "0.00",
+    "interpretation": "same label"
+  },
+  {
+    "label": "PAT",
+    "pdf_page": 20,
+    "period": "half-year",
+    "pdf_raw_million": "837.15",
+    "nse_raw_lakh": "8371.50",
+    "pdf_converted_lakh": "8371.50",
+    "nse_minus_pdf_lakh": "0.00",
+    "interpretation": "same label"
+  },
+  {
+    "label": "Total assets",
+    "pdf_page": 24,
+    "period": "instant",
+    "pdf_raw_million": "27499.04",
+    "nse_raw_lakh": "274990.40",
+    "pdf_converted_lakh": "274990.40",
+    "nse_minus_pdf_lakh": "0.00",
+    "interpretation": "same label"
+  },
+  {
+    "label": "Cash and cash equivalents, balance sheet",
+    "pdf_page": 24,
+    "period": "instant",
+    "pdf_raw_million": "33.40",
+    "nse_raw_lakh": "334.00",
+    "pdf_converted_lakh": "334.00",
+    "nse_minus_pdf_lakh": "0.00",
+    "interpretation": "same label"
+  },
+  {
+    "label": "Current borrowings",
+    "pdf_page": 26,
+    "period": "instant",
+    "pdf_raw_million": "1479.18",
+    "nse_raw_lakh": "14791.80",
+    "pdf_converted_lakh": "14791.80",
+    "nse_minus_pdf_lakh": "0.00",
+    "interpretation": "same label"
+  },
+  {
+    "label": "Operating cash flow",
+    "pdf_page": 28,
+    "period": "half-year",
+    "pdf_raw_million": "1306.13",
+    "nse_raw_lakh": "13061.30",
+    "pdf_converted_lakh": "13061.30",
+    "nse_minus_pdf_lakh": "0.00",
+    "interpretation": "same label"
+  },
+  {
+    "label": "Investing cash flow",
+    "pdf_page": 28,
+    "period": "half-year",
+    "pdf_raw_million": "-3461.00",
+    "nse_raw_lakh": "-34610.00",
+    "pdf_converted_lakh": "-34610.00",
+    "nse_minus_pdf_lakh": "0.00",
+    "interpretation": "same label"
+  },
+  {
+    "label": "Financing cash flow",
+    "pdf_page": 28,
+    "period": "half-year",
+    "pdf_raw_million": "331.34",
+    "nse_raw_lakh": "3313.40",
+    "pdf_converted_lakh": "3313.40",
+    "nse_minus_pdf_lakh": "0.00",
+    "interpretation": "same label"
+  },
+  {
+    "label": "Cash flow closing balance",
+    "pdf_page": 28,
+    "period": "instant",
+    "pdf_raw_million": "561.72",
+    "nse_raw_lakh": "5617.20",
+    "pdf_converted_lakh": "5617.20",
+    "nse_minus_pdf_lakh": "0.00",
+    "interpretation": "same label; broader than balance-sheet cash"
+  },
+  {
+    "label": "Quarter total expenses",
+    "pdf_page": 20,
+    "period": "quarter",
+    "pdf_raw_million": "1702.41",
+    "nse_raw_lakh": "17020.40",
+    "pdf_converted_lakh": "17024.10",
+    "nse_minus_pdf_lakh": "-3.70",
+    "interpretation": "numeric conflict"
+  },
+  {
+    "label": "Quarter other expenses",
+    "pdf_page": 20,
+    "period": "quarter",
+    "pdf_raw_million": "300.15",
+    "nse_raw_lakh": "3001.40",
+    "pdf_converted_lakh": "3001.50",
+    "nse_minus_pdf_lakh": "-0.10",
+    "interpretation": "numeric conflict"
+  },
+  {
+    "label": "Half-year tax expense",
+    "pdf_page": 20,
+    "period": "half-year",
+    "pdf_raw_million": "309.38",
+    "nse_raw_lakh": "3093.90",
+    "pdf_converted_lakh": "3093.80",
+    "nse_minus_pdf_lakh": "0.10",
+    "interpretation": "numeric conflict"
+  },
+  {
+    "label": "Capital work in progress",
+    "pdf_page": 24,
+    "period": "instant",
+    "pdf_raw_million": "5290.27",
+    "nse_raw_lakh": "57374.00",
+    "pdf_converted_lakh": "52902.70",
+    "nse_minus_pdf_lakh": "4471.30",
+    "interpretation": "numeric/classification conflict"
+  },
+  {
+    "label": "Intangible assets",
+    "pdf_page": 24,
+    "period": "instant",
+    "pdf_raw_million": "8.27",
+    "nse_raw_lakh": "16913.60",
+    "pdf_converted_lakh": "82.70",
+    "nse_minus_pdf_lakh": "16830.90",
+    "interpretation": "numeric/classification conflict"
+  },
+  {
+    "label": "Non-current lease liabilities / NSE non-current borrowings",
+    "pdf_page": 24,
+    "period": "instant",
+    "pdf_raw_million": "143.96",
+    "nse_raw_lakh": "1439.60",
+    "pdf_converted_lakh": "1439.60",
+    "nse_minus_pdf_lakh": "0.00",
+    "interpretation": "equal number; different label"
+  },
+  {
+    "label": "Deferred tax liabilities / NSE other non-current liabilities",
+    "pdf_page": 24,
+    "period": "instant",
+    "pdf_raw_million": "583.35",
+    "nse_raw_lakh": "5833.40",
+    "pdf_converted_lakh": "5833.50",
+    "nse_minus_pdf_lakh": "-0.10",
+    "interpretation": "different label and number"
+  },
+  {
+    "label": "Cash generated from operations",
+    "pdf_page": 28,
+    "period": "half-year",
+    "pdf_raw_million": "1530.97",
+    "nse_raw_lakh": "15681.40",
+    "pdf_converted_lakh": "15309.70",
+    "nse_minus_pdf_lakh": "371.70",
+    "interpretation": "numeric/classification conflict"
+  },
+  {
+    "label": "PPE purchases, signed / NSE purchase amount unsigned",
+    "pdf_page": 28,
+    "period": "half-year",
+    "pdf_raw_million": "-1003.78",
+    "nse_raw_lakh": "5566.50",
+    "pdf_converted_lakh": "-10037.80",
+    "nse_minus_pdf_lakh": "15604.30",
+    "interpretation": "sign convention and amount differ"
+  },
+  {
+    "label": "Investment income / NSE dividends received",
+    "pdf_page": 28,
+    "period": "half-year",
+    "pdf_raw_million": "37.17",
+    "nse_raw_lakh": "371.70",
+    "pdf_converted_lakh": "371.70",
+    "nse_minus_pdf_lakh": "0.00",
+    "interpretation": "equal number; label not established equivalent"
+  }
+]

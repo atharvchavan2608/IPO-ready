@@ -1,0 +1,8 @@
+requests
+pandas>=2.0
+pyarrow
+beautifulsoup4
+lxml
+matplotlib
+jupyter
+scipy

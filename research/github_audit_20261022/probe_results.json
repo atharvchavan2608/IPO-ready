@@ -1,0 +1,62 @@
+[
+  {
+    "case": "Nonconsecutive fiscal years",
+    "input": "FY23 revenue 100, FY25 revenue 121",
+    "observed_cagr": 0.20999999999999996,
+    "calendar_year_cagr": 0.1,
+    "interpretation": "Function uses the number of retained observations minus one, not elapsed fiscal years."
+  },
+  {
+    "case": "Only long-term debt extracted",
+    "input": "Long-term debt 100, short-term debt unknown",
+    "observed_total_debt": 100,
+    "interpretation": "Missing debt component is treated as zero during derivation."
+  },
+  {
+    "case": "Other income not extracted",
+    "input": "Total income 120, other income unknown",
+    "observed_revenue": 120,
+    "interpretation": "Other income defaults to zero in revenue derivation."
+  },
+  {
+    "case": "EPS fallback",
+    "input": "Offer price 100, supplied EPS 5, peer P/Es 10 and 12",
+    "observed_issuer_pe": 20.0,
+    "observed_call": "overvalued",
+    "interpretation": "The function accepts EPS without identifying whether it is current annual, TTM or multi-year weighted EPS."
+  },
+  {
+    "case": "Unsorted financial period columns",
+    "input": [
+      "31 Mar 2023",
+      "31 Mar 2025",
+      "31 Dec 2025"
+    ],
+    "selected_indices": [
+      0,
+      1
+    ],
+    "interpretation": "The first two March year-ends are used in input order rather than sorted by date."
+  },
+  {
+    "case": "Unknown PAT in loss flag expression",
+    "input": [
+      "missing",
+      -5,
+      5
+    ],
+    "observed_is_lossmaking": [
+      false,
+      true,
+      false
+    ],
+    "interpretation": "The comparison used in build_dataset.py maps a missing numeric PAT to False. Keep an explicit unknown state."
+  },
+  {
+    "case": "Two dilution definitions",
+    "input": "Pre-issue shares 100, post-issue shares 125",
+    "repo_equity_dilution_pct": 25.0,
+    "old_holder_ownership_dilution_pct": 19.999999999999996,
+    "interpretation": "The repository metric measures share-count expansion. It differs from the reduction in an unchanged shareholder stake."
+  }
+]

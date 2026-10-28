@@ -1,0 +1,154 @@
+[
+  {
+    "source_id": "U01",
+    "url": "https://www.sec.gov/search-filings/edgar-application-programming-interfaces",
+    "requested_at_utc": "2026-10-22T11:58:49.017612+00:00",
+    "status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "final_url": "https://www.sec.gov/search-filings/edgar-application-programming-interfaces",
+    "file": "sec_api.html",
+    "bytes": 69381,
+    "sha256": "57e9d4d85d9fa087af9f5c7e2366e72e5ff7b9599000a1effb6d8e429ec01022"
+  },
+  {
+    "source_id": "U02",
+    "url": "https://www.sec.gov/search-filings/edgar-search-assistance/accessing-edgar-data",
+    "requested_at_utc": "2026-10-22T11:58:50.055078+00:00",
+    "status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "final_url": "https://www.sec.gov/search-filings/edgar-search-assistance/accessing-edgar-data",
+    "file": "sec_access.html",
+    "bytes": 80737,
+    "sha256": "76061ab2902ed0db98d5070481529f945d2ab107fb37291de77f487b8dae5d1e"
+  },
+  {
+    "source_id": "U03",
+    "url": "https://www.sec.gov/about/divisions-offices/division-corporation-finance/draft-registration-statement-processing-procedures-expanded",
+    "requested_at_utc": "2026-10-22T11:58:50.792286+00:00",
+    "status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "final_url": "https://www.sec.gov/about/divisions-offices/division-corporation-finance/draft-registration-statement-processing-procedures-expanded",
+    "file": "sec_nonpublic_review.html",
+    "bytes": 78189,
+    "sha256": "bbe056d56e58a96acab74948d01e680e2d36ef42ac1477b1d9c8b2a7ee39b37e"
+  },
+  {
+    "source_id": "U04",
+    "url": "https://www.sec.gov/files/formf-1.pdf",
+    "requested_at_utc": "2026-10-22T11:58:52.163070+00:00",
+    "status": 403,
+    "error": "HTTP Error 403: Forbidden",
+    "file": "form_f1.pdf.error",
+    "bytes": 1925,
+    "sha256": "724599f38f97ecea81d8eb82825de54d22b86f6e5047a358728179176c8209fb"
+  },
+  {
+    "source_id": "U05",
+    "url": "https://www.investor.gov/introduction-investing/investing-basics/how-stock-markets-work/public-companies",
+    "requested_at_utc": "2026-10-22T11:58:52.945807+00:00",
+    "status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "final_url": "https://www.investor.gov/introduction-investing/investing-basics/how-stock-markets-work/public-companies",
+    "file": "public_companies.html",
+    "bytes": 63597,
+    "sha256": "4a855dc573b606e4541e9a0c95098d9b865deaaf4f3652531d0830b738c67065"
+  },
+  {
+    "source_id": "U06",
+    "url": "https://www.sec.gov/Archives/edgar/data/1713445/000162828024006294/0001628280-24-006294-index.htm",
+    "requested_at_utc": "2026-10-22T11:58:54.812142+00:00",
+    "status": 200,
+    "content_type": "text/html; charset=UTF-8",
+    "final_url": "https://www.sec.gov/Archives/edgar/data/1713445/000162828024006294/0001628280-24-006294-index.htm",
+    "file": "reddit_s1_index.html",
+    "bytes": 28412,
+    "sha256": "33ade32ed9ba860bc452c20b1c98aad3c9ca208bb9891ff0ae237fb980c7c778"
+  },
+  {
+    "source_id": "U06",
+    "url": "https://data.sec.gov/submissions/CIK0001713445.json",
+    "requested_at_utc": "2026-10-22T11:58:55.757667+00:00",
+    "status": 200,
+    "content_type": "application/json",
+    "final_url": "https://data.sec.gov/submissions/CIK0001713445.json",
+    "file": "reddit_submissions.json",
+    "bytes": 78970,
+    "sha256": "d3f9c63a3df4a6024030a6460a10b2d6bc27e4965efcbc1efc6f52c9cec02b72",
+    "top_level_keys": [
+      "cik",
+      "entityType",
+      "sic",
+      "sicDescription",
+      "ownerOrg",
+      "insiderTransactionForOwnerExists",
+      "insiderTransactionForIssuerExists",
+      "name",
+      "tickers",
+      "exchanges",
+      "ein",
+      "lei",
+      "description",
+      "website",
+      "investorWebsite",
+      "category",
+      "fiscalYearEnd",
+      "stateOfIncorporation",
+      "stateOfIncorporationDescription",
+      "addresses",
+      "phone",
+      "flags",
+      "formerNames",
+      "filings"
+    ],
+    "recent_filings_count": 495,
+    "recent_ipo_form_rows": [
+      {
+        "form": "S-1/A",
+        "filingDate": "2024-03-19",
+        "accessionNumber": "0001628280-24-011789",
+        "primaryDocument": "reddit-sx1a3.htm"
+      },
+      {
+        "form": "S-1/A",
+        "filingDate": "2024-03-15",
+        "accessionNumber": "0001628280-24-011448",
+        "primaryDocument": "reddit-sx1a2.htm"
+      },
+      {
+        "form": "S-1/A",
+        "filingDate": "2024-03-11",
+        "accessionNumber": "0001628280-24-010137",
+        "primaryDocument": "reddit-sx1a1.htm"
+      },
+      {
+        "form": "S-1",
+        "filingDate": "2024-02-22",
+        "accessionNumber": "0001628280-24-006294",
+        "primaryDocument": "reddits-1q423.htm"
+      }
+    ],
+    "older_history_files": []
+  },
+  {
+    "source_id": "U06",
+    "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001713445.json",
+    "requested_at_utc": "2026-10-22T11:58:58.254230+00:00",
+    "status": 200,
+    "content_type": "application/json",
+    "final_url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001713445.json",
+    "file": "reddit_companyfacts.json",
+    "bytes": 563002,
+    "sha256": "0de3273cdf4e90e399bd2a3b275c85df453dbeee51e4e0a4b0561a688e521785",
+    "top_level_keys": [
+      "cik",
+      "entityName",
+      "facts"
+    ],
+    "taxonomy_concept_counts": {
+      "us-gaap": 222,
+      "dei": 1,
+      "ecd": 7,
+      "srt": 1
+    }
+  }
+]

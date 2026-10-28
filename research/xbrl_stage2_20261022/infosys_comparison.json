@@ -1,0 +1,306 @@
+[
+  {
+    "concept_qname": "{http://www.bseindia.com/xbrl/fin/2020-03-31/in-bse-fin}RevenueFromOperations",
+    "context_id": "OneD",
+    "context_period": {
+      "startDate": "2024-01-01",
+      "endDate": "2024-03-31"
+    },
+    "explicit_reporting_start": "2024-01-01",
+    "expected_pdf_start": "2024-01-01",
+    "pdf_page": 13,
+    "pdf_value": "37923",
+    "pdf_unit": "INR crore",
+    "xml_raw": "379230000000.00",
+    "unit_ref": "INR",
+    "decimals": "-7",
+    "normalized_xml": "37923.00",
+    "number_matches": true,
+    "context_period_matches": true
+  },
+  {
+    "concept_qname": "{http://www.bseindia.com/xbrl/fin/2020-03-31/in-bse-fin}OtherIncome",
+    "context_id": "OneD",
+    "context_period": {
+      "startDate": "2024-01-01",
+      "endDate": "2024-03-31"
+    },
+    "explicit_reporting_start": "2024-01-01",
+    "expected_pdf_start": "2024-01-01",
+    "pdf_page": 13,
+    "pdf_value": "2729",
+    "pdf_unit": "INR crore",
+    "xml_raw": "27290000000.00",
+    "unit_ref": "INR",
+    "decimals": "-7",
+    "normalized_xml": "2729.00",
+    "number_matches": true,
+    "context_period_matches": true
+  },
+  {
+    "concept_qname": "{http://www.bseindia.com/xbrl/fin/2020-03-31/in-bse-fin}Income",
+    "context_id": "OneD",
+    "context_period": {
+      "startDate": "2024-01-01",
+      "endDate": "2024-03-31"
+    },
+    "explicit_reporting_start": "2024-01-01",
+    "expected_pdf_start": "2024-01-01",
+    "pdf_page": 13,
+    "pdf_value": "40652",
+    "pdf_unit": "INR crore",
+    "xml_raw": "406520000000.00",
+    "unit_ref": "INR",
+    "decimals": "-7",
+    "normalized_xml": "40652.00",
+    "number_matches": true,
+    "context_period_matches": true
+  },
+  {
+    "concept_qname": "{http://www.bseindia.com/xbrl/fin/2020-03-31/in-bse-fin}Expenses",
+    "context_id": "OneD",
+    "context_period": {
+      "startDate": "2024-01-01",
+      "endDate": "2024-03-31"
+    },
+    "explicit_reporting_start": "2024-01-01",
+    "expected_pdf_start": "2024-01-01",
+    "pdf_page": 13,
+    "pdf_value": "30412",
+    "pdf_unit": "INR crore",
+    "xml_raw": "304120000000.00",
+    "unit_ref": "INR",
+    "decimals": "-7",
+    "normalized_xml": "30412.00",
+    "number_matches": true,
+    "context_period_matches": true
+  },
+  {
+    "concept_qname": "{http://www.bseindia.com/xbrl/fin/2020-03-31/in-bse-fin}ProfitBeforeTax",
+    "context_id": "OneD",
+    "context_period": {
+      "startDate": "2024-01-01",
+      "endDate": "2024-03-31"
+    },
+    "explicit_reporting_start": "2024-01-01",
+    "expected_pdf_start": "2024-01-01",
+    "pdf_page": 13,
+    "pdf_value": "10240",
+    "pdf_unit": "INR crore",
+    "xml_raw": "102400000000.00",
+    "unit_ref": "INR",
+    "decimals": "-7",
+    "normalized_xml": "10240.00",
+    "number_matches": true,
+    "context_period_matches": true
+  },
+  {
+    "concept_qname": "{http://www.bseindia.com/xbrl/fin/2020-03-31/in-bse-fin}ProfitLossForPeriod",
+    "context_id": "OneD",
+    "context_period": {
+      "startDate": "2024-01-01",
+      "endDate": "2024-03-31"
+    },
+    "explicit_reporting_start": "2024-01-01",
+    "expected_pdf_start": "2024-01-01",
+    "pdf_page": 13,
+    "pdf_value": "7975",
+    "pdf_unit": "INR crore",
+    "xml_raw": "79750000000.00",
+    "unit_ref": "INR",
+    "decimals": "-7",
+    "normalized_xml": "7975.00",
+    "number_matches": true,
+    "context_period_matches": true
+  },
+  {
+    "concept_qname": "{http://www.bseindia.com/xbrl/fin/2020-03-31/in-bse-fin}ProfitOrLossAttributableToOwnersOfParent",
+    "context_id": "OneD",
+    "context_period": {
+      "startDate": "2024-01-01",
+      "endDate": "2024-03-31"
+    },
+    "explicit_reporting_start": "2024-01-01",
+    "expected_pdf_start": "2024-01-01",
+    "pdf_page": 13,
+    "pdf_value": "7969",
+    "pdf_unit": "INR crore",
+    "xml_raw": "79690000000.00",
+    "unit_ref": "INR",
+    "decimals": "-7",
+    "normalized_xml": "7969.00",
+    "number_matches": true,
+    "context_period_matches": true
+  },
+  {
+    "concept_qname": "{http://www.bseindia.com/xbrl/fin/2020-03-31/in-bse-fin}DilutedEarningsLossPerShareFromContinuingOperations",
+    "context_id": "OneD",
+    "context_period": {
+      "startDate": "2024-01-01",
+      "endDate": "2024-03-31"
+    },
+    "explicit_reporting_start": "2024-01-01",
+    "expected_pdf_start": "2024-01-01",
+    "pdf_page": 13,
+    "pdf_value": "19.22",
+    "pdf_unit": "INR/share",
+    "xml_raw": "19.22",
+    "unit_ref": "INRPerShare",
+    "decimals": "INF",
+    "normalized_xml": "19.22",
+    "number_matches": true,
+    "context_period_matches": true
+  },
+  {
+    "concept_qname": "{http://www.bseindia.com/xbrl/fin/2020-03-31/in-bse-fin}RevenueFromOperations",
+    "context_id": "FourD",
+    "context_period": {
+      "startDate": "2024-01-01",
+      "endDate": "2024-03-31"
+    },
+    "explicit_reporting_start": "2023-04-01",
+    "expected_pdf_start": "2023-04-01",
+    "pdf_page": 13,
+    "pdf_value": "153670",
+    "pdf_unit": "INR crore",
+    "xml_raw": "1536700000000.00",
+    "unit_ref": "INR",
+    "decimals": "-7",
+    "normalized_xml": "153670.00",
+    "number_matches": true,
+    "context_period_matches": false
+  },
+  {
+    "concept_qname": "{http://www.bseindia.com/xbrl/fin/2020-03-31/in-bse-fin}OtherIncome",
+    "context_id": "FourD",
+    "context_period": {
+      "startDate": "2024-01-01",
+      "endDate": "2024-03-31"
+    },
+    "explicit_reporting_start": "2023-04-01",
+    "expected_pdf_start": "2023-04-01",
+    "pdf_page": 13,
+    "pdf_value": "4711",
+    "pdf_unit": "INR crore",
+    "xml_raw": "47110000000.00",
+    "unit_ref": "INR",
+    "decimals": "-7",
+    "normalized_xml": "4711.00",
+    "number_matches": true,
+    "context_period_matches": false
+  },
+  {
+    "concept_qname": "{http://www.bseindia.com/xbrl/fin/2020-03-31/in-bse-fin}Income",
+    "context_id": "FourD",
+    "context_period": {
+      "startDate": "2024-01-01",
+      "endDate": "2024-03-31"
+    },
+    "explicit_reporting_start": "2023-04-01",
+    "expected_pdf_start": "2023-04-01",
+    "pdf_page": 13,
+    "pdf_value": "158381",
+    "pdf_unit": "INR crore",
+    "xml_raw": "1583810000000.00",
+    "unit_ref": "INR",
+    "decimals": "-7",
+    "normalized_xml": "158381.00",
+    "number_matches": true,
+    "context_period_matches": false
+  },
+  {
+    "concept_qname": "{http://www.bseindia.com/xbrl/fin/2020-03-31/in-bse-fin}Expenses",
+    "context_id": "FourD",
+    "context_period": {
+      "startDate": "2024-01-01",
+      "endDate": "2024-03-31"
+    },
+    "explicit_reporting_start": "2023-04-01",
+    "expected_pdf_start": "2023-04-01",
+    "pdf_page": 13,
+    "pdf_value": "122393",
+    "pdf_unit": "INR crore",
+    "xml_raw": "1223930000000.00",
+    "unit_ref": "INR",
+    "decimals": "-7",
+    "normalized_xml": "122393.00",
+    "number_matches": true,
+    "context_period_matches": false
+  },
+  {
+    "concept_qname": "{http://www.bseindia.com/xbrl/fin/2020-03-31/in-bse-fin}ProfitBeforeTax",
+    "context_id": "FourD",
+    "context_period": {
+      "startDate": "2024-01-01",
+      "endDate": "2024-03-31"
+    },
+    "explicit_reporting_start": "2023-04-01",
+    "expected_pdf_start": "2023-04-01",
+    "pdf_page": 13,
+    "pdf_value": "35988",
+    "pdf_unit": "INR crore",
+    "xml_raw": "359880000000.00",
+    "unit_ref": "INR",
+    "decimals": "-7",
+    "normalized_xml": "35988.00",
+    "number_matches": true,
+    "context_period_matches": false
+  },
+  {
+    "concept_qname": "{http://www.bseindia.com/xbrl/fin/2020-03-31/in-bse-fin}ProfitLossForPeriod",
+    "context_id": "FourD",
+    "context_period": {
+      "startDate": "2024-01-01",
+      "endDate": "2024-03-31"
+    },
+    "explicit_reporting_start": "2023-04-01",
+    "expected_pdf_start": "2023-04-01",
+    "pdf_page": 13,
+    "pdf_value": "26248",
+    "pdf_unit": "INR crore",
+    "xml_raw": "262480000000.00",
+    "unit_ref": "INR",
+    "decimals": "-7",
+    "normalized_xml": "26248.00",
+    "number_matches": true,
+    "context_period_matches": false
+  },
+  {
+    "concept_qname": "{http://www.bseindia.com/xbrl/fin/2020-03-31/in-bse-fin}ProfitOrLossAttributableToOwnersOfParent",
+    "context_id": "FourD",
+    "context_period": {
+      "startDate": "2024-01-01",
+      "endDate": "2024-03-31"
+    },
+    "explicit_reporting_start": "2023-04-01",
+    "expected_pdf_start": "2023-04-01",
+    "pdf_page": 13,
+    "pdf_value": "26233",
+    "pdf_unit": "INR crore",
+    "xml_raw": "262330000000.00",
+    "unit_ref": "INR",
+    "decimals": "-7",
+    "normalized_xml": "26233.00",
+    "number_matches": true,
+    "context_period_matches": false
+  },
+  {
+    "concept_qname": "{http://www.bseindia.com/xbrl/fin/2020-03-31/in-bse-fin}DilutedEarningsLossPerShareFromContinuingOperations",
+    "context_id": "FourD",
+    "context_period": {
+      "startDate": "2024-01-01",
+      "endDate": "2024-03-31"
+    },
+    "explicit_reporting_start": "2023-04-01",
+    "expected_pdf_start": "2023-04-01",
+    "pdf_page": 13,
+    "pdf_value": "63.29",
+    "pdf_unit": "INR/share",
+    "xml_raw": "63.29",
+    "unit_ref": "INRPerShare",
+    "decimals": "INF",
+    "normalized_xml": "63.29",
+    "number_matches": true,
+    "context_period_matches": false
+  }
+]

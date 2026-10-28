@@ -1,0 +1,1992 @@
+{
+  "9M Dec-2021": {
+    "issuer": "Aether Industries",
+    "period": "9M Dec-2021",
+    "period_kind": "interim",
+    "retrospective": true,
+    "source_document_date": "2022-05-16",
+    "historical_evidence_cutoff": "2022-05-18",
+    "reconstructed_at": "2026-10-22T08:15:13.748437+00:00",
+    "engine_version": "0.1.0",
+    "input_sha256": "40a33071833f82663dbf11513a0752be09a30e1bbc3a8318dfd3bbca9d7e7483",
+    "source_status": "Hand-transcribed research pilot; not a fully adjudicated benchmark",
+    "facts": [
+      {
+        "metric": "Revenue from operations",
+        "value": 4425.44,
+        "raw_unit": "INR million",
+        "pdf_page": 66,
+        "printed_page": 63,
+        "basis": "Standalone restated",
+        "note": "Operating revenue",
+        "url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2022/1652869529567.pdf#page=66",
+        "period_start": "2021-04-01",
+        "period_end": "2021-12-31"
+      },
+      {
+        "metric": "Other income",
+        "value": 67.71,
+        "raw_unit": "INR million",
+        "pdf_page": 66,
+        "printed_page": 63,
+        "basis": "Standalone restated",
+        "note": "Separate from operating revenue",
+        "url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2022/1652869529567.pdf#page=66",
+        "period_start": "2021-04-01",
+        "period_end": "2021-12-31"
+      },
+      {
+        "metric": "Total income",
+        "value": 4493.15,
+        "raw_unit": "INR million",
+        "pdf_page": 66,
+        "printed_page": 63,
+        "basis": "Standalone restated",
+        "note": "Operating revenue plus other income",
+        "url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2022/1652869529567.pdf#page=66",
+        "period_start": "2021-04-01",
+        "period_end": "2021-12-31"
+      },
+      {
+        "metric": "Profit before tax",
+        "value": 1113.11,
+        "raw_unit": "INR million",
+        "pdf_page": 66,
+        "printed_page": 63,
+        "basis": "Standalone restated",
+        "note": "Before income tax",
+        "url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2022/1652869529567.pdf#page=66",
+        "period_start": "2021-04-01",
+        "period_end": "2021-12-31"
+      },
+      {
+        "metric": "Finance costs",
+        "value": 100.35,
+        "raw_unit": "INR million",
+        "pdf_page": 66,
+        "printed_page": 63,
+        "basis": "Standalone restated",
+        "note": "As reported",
+        "url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2022/1652869529567.pdf#page=66",
+        "period_start": "2021-04-01",
+        "period_end": "2021-12-31"
+      },
+      {
+        "metric": "Depreciation and amortisation",
+        "value": 114.19,
+        "raw_unit": "INR million",
+        "pdf_page": 66,
+        "printed_page": 63,
+        "basis": "Standalone restated",
+        "note": "As reported",
+        "url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2022/1652869529567.pdf#page=66",
+        "period_start": "2021-04-01",
+        "period_end": "2021-12-31"
+      },
+      {
+        "metric": "Profit after tax",
+        "value": 829.06,
+        "raw_unit": "INR million",
+        "pdf_page": 66,
+        "printed_page": 63,
+        "basis": "Standalone restated",
+        "note": "Excludes other comprehensive income",
+        "url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2022/1652869529567.pdf#page=66",
+        "period_start": "2021-04-01",
+        "period_end": "2021-12-31"
+      },
+      {
+        "metric": "EBITDA excluding other income",
+        "value": 1259.95,
+        "raw_unit": "INR million",
+        "pdf_page": 302,
+        "printed_page": 299,
+        "basis": "Issuer non-GAAP measure",
+        "note": "PBT + finance costs + D&A - other income",
+        "url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2022/1652869529567.pdf#page=302",
+        "period_start": "2021-04-01",
+        "period_end": "2021-12-31"
+      },
+      {
+        "metric": "Net cash from operating activities",
+        "value": 24.04,
+        "raw_unit": "INR million",
+        "pdf_page": 67,
+        "printed_page": 64,
+        "basis": "Standalone restated",
+        "note": "After income tax paid",
+        "url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2022/1652869529567.pdf#page=67",
+        "period_start": "2021-04-01",
+        "period_end": "2021-12-31"
+      },
+      {
+        "metric": "Non-current borrowings",
+        "value": 1018.46,
+        "raw_unit": "INR million",
+        "pdf_page": 303,
+        "printed_page": 300,
+        "basis": "Issuer debt reconciliation",
+        "note": "Excludes separately disclosed lease liabilities",
+        "url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2022/1652869529567.pdf#page=303",
+        "period_start": "2021-04-01",
+        "period_end": "2021-12-31"
+      },
+      {
+        "metric": "Current borrowings",
+        "value": 1328.84,
+        "raw_unit": "INR million",
+        "pdf_page": 303,
+        "printed_page": 300,
+        "basis": "Issuer debt reconciliation",
+        "note": "Excludes separately disclosed lease liabilities",
+        "url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2022/1652869529567.pdf#page=303",
+        "period_start": "2021-04-01",
+        "period_end": "2021-12-31"
+      },
+      {
+        "metric": "Debt as disclosed",
+        "value": 2347.3,
+        "raw_unit": "INR million",
+        "pdf_page": 303,
+        "printed_page": 300,
+        "basis": "Issuer non-GAAP measure",
+        "note": "Current plus non-current borrowings",
+        "url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2022/1652869529567.pdf#page=303",
+        "period_start": "2021-04-01",
+        "period_end": "2021-12-31"
+      },
+      {
+        "metric": "Total equity",
+        "value": 3602.76,
+        "raw_unit": "INR million",
+        "pdf_page": 64,
+        "printed_page": 61,
+        "basis": "Standalone restated",
+        "note": "Statement equity, not an inferred market value",
+        "url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2022/1652869529567.pdf#page=64",
+        "period_start": "2021-04-01",
+        "period_end": "2021-12-31"
+      },
+      {
+        "metric": "Total assets",
+        "value": 7095.61,
+        "raw_unit": "INR million",
+        "pdf_page": 64,
+        "printed_page": 61,
+        "basis": "Standalone restated",
+        "note": "Dec-2020 differs from 4009.95 on PDF p303. Retain discrepancy.",
+        "url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2022/1652869529567.pdf#page=64",
+        "period_start": "2021-04-01",
+        "period_end": "2021-12-31"
+      },
+      {
+        "metric": "Total liabilities",
+        "value": 3492.85,
+        "raw_unit": "INR million",
+        "pdf_page": 65,
+        "printed_page": 62,
+        "basis": "Standalone restated",
+        "note": "Includes operating and financing liabilities",
+        "url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2022/1652869529567.pdf#page=65",
+        "period_start": "2021-04-01",
+        "period_end": "2021-12-31"
+      },
+      {
+        "metric": "Cash and bank balances combined",
+        "value": 484.78,
+        "raw_unit": "INR million",
+        "pdf_page": 303,
+        "printed_page": 300,
+        "basis": "Issuer reconciliation",
+        "note": "Includes bank balances beyond cash equivalents; reported rounding retained",
+        "url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2022/1652869529567.pdf#page=303",
+        "period_start": "2021-04-01",
+        "period_end": "2021-12-31"
+      },
+      {
+        "metric": "Current investments",
+        "value": 191.31,
+        "raw_unit": "INR million",
+        "pdf_page": 302,
+        "printed_page": 299,
+        "basis": "Issuer reconciliation",
+        "note": "Used in issuer capital-employed calculation",
+        "url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2022/1652869529567.pdf#page=302",
+        "period_start": "2021-04-01",
+        "period_end": "2021-12-31"
+      },
+      {
+        "metric": "Capital employed",
+        "value": 5273.97,
+        "raw_unit": "INR million",
+        "pdf_page": 302,
+        "printed_page": 299,
+        "basis": "Issuer non-GAAP measure",
+        "note": "Equity + borrowings - current investments - cash/bank balances",
+        "url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2022/1652869529567.pdf#page=302",
+        "period_start": "2021-04-01",
+        "period_end": "2021-12-31"
+      },
+      {
+        "metric": "EBIT excluding other income",
+        "value": 1145.75,
+        "raw_unit": "INR million",
+        "pdf_page": 302,
+        "printed_page": 299,
+        "basis": "Issuer non-GAAP measure",
+        "note": "PBT + finance costs - other income",
+        "url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2022/1652869529567.pdf#page=302",
+        "period_start": "2021-04-01",
+        "period_end": "2021-12-31"
+      },
+      {
+        "metric": "Basic and diluted EPS",
+        "value": 7.45,
+        "raw_unit": "INR per share",
+        "pdf_page": 66,
+        "printed_page": 63,
+        "basis": "Restated EPS",
+        "note": "Nine-month EPS is not annualised; share basis differs from post-offer shares",
+        "url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2022/1652869529567.pdf#page=66",
+        "period_start": "2021-04-01",
+        "period_end": "2021-12-31"
+      },
+      {
+        "metric": "Non-current lease liabilities",
+        "value": 52.99,
+        "raw_unit": "INR million",
+        "pdf_page": 65,
+        "printed_page": 62,
+        "basis": "Standalone restated",
+        "note": "Separate financing liability",
+        "url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2022/1652869529567.pdf#page=65",
+        "period_start": "2021-04-01",
+        "period_end": "2021-12-31"
+      },
+      {
+        "metric": "Current lease liabilities",
+        "value": 8.56,
+        "raw_unit": "INR million",
+        "pdf_page": 65,
+        "printed_page": 62,
+        "basis": "Standalone restated",
+        "note": "Separate financing liability",
+        "url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2022/1652869529567.pdf#page=65",
+        "period_start": "2021-04-01",
+        "period_end": "2021-12-31"
+      }
+    ],
+    "derived": {
+      "ebitda_margin": 0.2847061535124191,
+      "pat_margin": 0.1873395639755595,
+      "cfo_pat": 0.028996695052227826,
+      "debt_equity": 0.6515282727686551
+    },
+    "checks": [
+      {
+        "check": "Revenue + other income = total income",
+        "residual_million": 0.0,
+        "tolerance_million": 0.02,
+        "passed": true
+      },
+      {
+        "check": "EBITDA definition bridge",
+        "residual_million": -0.01,
+        "tolerance_million": 0.02,
+        "passed": true
+      },
+      {
+        "check": "Borrowings components = disclosed debt",
+        "residual_million": 0.0,
+        "tolerance_million": 0.02,
+        "passed": true
+      },
+      {
+        "check": "Equity + liabilities = assets",
+        "residual_million": 0.0,
+        "tolerance_million": 0.02,
+        "passed": true
+      }
+    ],
+    "flags": [
+      {
+        "title": "Operating cash trails accounting profit",
+        "detail": "CFO/PAT is 0.029x for 9M Dec-2021. This invites working-capital investigation; it does not establish fraud or future distress.",
+        "pages": [
+          66,
+          67
+        ]
+      },
+      {
+        "title": "Conflicting repeated assets figure",
+        "detail": "9M Dec-2020 assets: INR 4,000.95 million on PDF p.64 versus 4,009.95 million on p.303. Statement value retained for display; cause unresolved.",
+        "pages": [
+          64,
+          303
+        ]
+      },
+      {
+        "title": "Valuation inputs require review",
+        "detail": "Original price-band advertisement and post-offer share basis remain unresolved. No fair-value range or investment recommendation is generated.",
+        "pages": [
+          109,
+          111
+        ]
+      },
+      {
+        "title": "Peer accounting bases differ",
+        "detail": "The RHP peer table mixes standalone and consolidated figures. Automated peer selection and normalized peer valuation are future work.",
+        "pages": [
+          111
+        ]
+      }
+    ],
+    "summary": "For 9M Dec-2021, operating revenue is INR 442.54 crore and PAT is INR 82.91 crore. EBITDA margin is 28.5%; operating cash flow is 0.029 times PAT. Read cash conversion alongside profit growth and review the underlying accounting definitions.",
+    "annual_trend_crore": [
+      {
+        "period": "FY19",
+        "Revenue from operations": 201.18,
+        "Profit after tax": 23.335,
+        "Net cash from operating activities": 22.744
+      },
+      {
+        "period": "FY20",
+        "Revenue from operations": 301.806,
+        "Profit after tax": 39.956,
+        "Net cash from operating activities": 17.695
+      },
+      {
+        "period": "FY21",
+        "Revenue from operations": 449.816,
+        "Profit after tax": 71.119,
+        "Net cash from operating activities": 23.196
+      }
+    ],
+    "revenue_cagr_fy19_fy21": 0.4952886876019311,
+    "trace": [
+      {
+        "step": 1,
+        "tool": "load_curated_evidence",
+        "reason": "Use the previously transcribed RHP pilot; do not invent missing inputs.",
+        "outcome": "22 metrics across five dated periods loaded. No automated PDF extraction in this prototype."
+      },
+      {
+        "step": 2,
+        "tool": "select_period",
+        "reason": "Annual and interim observations must remain distinct.",
+        "outcome": "9M Dec-2021: 2021-04-01 to 2021-12-31; no interim annualisation."
+      },
+      {
+        "step": 3,
+        "tool": "reconcile_arithmetic",
+        "reason": "Check internal arithmetic before explaining the figures.",
+        "outcome": "4/4 checks within INR 0.02 million. These checks do not establish financial health."
+      },
+      {
+        "step": 4,
+        "tool": "route_review_items",
+        "reason": "Preserve known conflicts and label provisional definitions.",
+        "outcome": "4 research/review items retained; no automatic approval."
+      },
+      {
+        "step": 5,
+        "tool": "compose_template_summary",
+        "reason": "Every number comes from evidence or deterministic calculations.",
+        "outcome": "Template explanation generated. No model inference, predictive score or autonomous agent execution."
+      }
+    ],
+    "mode": "deterministic workflow prototype"
+  },
+  "9M Dec-2020": {
+    "issuer": "Aether Industries",
+    "period": "9M Dec-2020",
+    "period_kind": "interim",
+    "retrospective": true,
+    "source_document_date": "2022-05-16",
+    "historical_evidence_cutoff": "2022-05-18",
+    "reconstructed_at": "2026-10-22T08:15:13.748437+00:00",
+    "engine_version": "0.1.0",
+    "input_sha256": "40a33071833f82663dbf11513a0752be09a30e1bbc3a8318dfd3bbca9d7e7483",
+    "source_status": "Hand-transcribed research pilot; not a fully adjudicated benchmark",
+    "facts": [
+      {
+        "metric": "Revenue from operations",
+        "value": 3340.9,
+        "raw_unit": "INR million",
+        "pdf_page": 66,
+        "printed_page": 63,
+        "basis": "Standalone restated",
+        "note": "Operating revenue",
+        "url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2022/1652869529567.pdf#page=66",
+        "period_start": "2020-04-01",
+        "period_end": "2020-12-31"
+      },
+      {
+        "metric": "Other income",
+        "value": 32.5,
+        "raw_unit": "INR million",
+        "pdf_page": 66,
+        "printed_page": 63,
+        "basis": "Standalone restated",
+        "note": "Separate from operating revenue",
+        "url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2022/1652869529567.pdf#page=66",
+        "period_start": "2020-04-01",
+        "period_end": "2020-12-31"
+      },
+      {
+        "metric": "Total income",
+        "value": 3373.41,
+        "raw_unit": "INR million",
+        "pdf_page": 66,
+        "printed_page": 63,
+        "basis": "Standalone restated",
+        "note": "Operating revenue plus other income",
+        "url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2022/1652869529567.pdf#page=66",
+        "period_start": "2020-04-01",
+        "period_end": "2020-12-31"
+      },
+      {
+        "metric": "Profit before tax",
+        "value": 634.57,
+        "raw_unit": "INR million",
+        "pdf_page": 66,
+        "printed_page": 63,
+        "basis": "Standalone restated",
+        "note": "Before income tax",
+        "url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2022/1652869529567.pdf#page=66",
+        "period_start": "2020-04-01",
+        "period_end": "2020-12-31"
+      },
+      {
+        "metric": "Finance costs",
+        "value": 79.69,
+        "raw_unit": "INR million",
+        "pdf_page": 66,
+        "printed_page": 63,
+        "basis": "Standalone restated",
+        "note": "As reported",
+        "url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2022/1652869529567.pdf#page=66",
+        "period_start": "2020-04-01",
+        "period_end": "2020-12-31"
+      },
+      {
+        "metric": "Depreciation and amortisation",
+        "value": 83.67,
+        "raw_unit": "INR million",
+        "pdf_page": 66,
+        "printed_page": 63,
+        "basis": "Standalone restated",
+        "note": "As reported",
+        "url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2022/1652869529567.pdf#page=66",
+        "period_start": "2020-04-01",
+        "period_end": "2020-12-31"
+      },
+      {
+        "metric": "Profit after tax",
+        "value": 482.54,
+        "raw_unit": "INR million",
+        "pdf_page": 66,
+        "printed_page": 63,
+        "basis": "Standalone restated",
+        "note": "Excludes other comprehensive income",
+        "url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2022/1652869529567.pdf#page=66",
+        "period_start": "2020-04-01",
+        "period_end": "2020-12-31"
+      },
+      {
+        "metric": "EBITDA excluding other income",
+        "value": 765.42,
+        "raw_unit": "INR million",
+        "pdf_page": 302,
+        "printed_page": 299,
+        "basis": "Issuer non-GAAP measure",
+        "note": "PBT + finance costs + D&A - other income",
+        "url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2022/1652869529567.pdf#page=302",
+        "period_start": "2020-04-01",
+        "period_end": "2020-12-31"
+      },
+      {
+        "metric": "Net cash from operating activities",
+        "value": 318.89,
+        "raw_unit": "INR million",
+        "pdf_page": 67,
+        "printed_page": 64,
+        "basis": "Standalone restated",
+        "note": "After income tax paid",
+        "url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2022/1652869529567.pdf#page=67",
+        "period_start": "2020-04-01",
+        "period_end": "2020-12-31"
+      },
+      {
+        "metric": "Non-current borrowings",
+        "value": 1100.54,
+        "raw_unit": "INR million",
+        "pdf_page": 303,
+        "printed_page": 300,
+        "basis": "Issuer debt reconciliation",
+        "note": "Excludes separately disclosed lease liabilities",
+        "url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2022/1652869529567.pdf#page=303",
+        "period_start": "2020-04-01",
+        "period_end": "2020-12-31"
+      },
+      {
+        "metric": "Current borrowings",
+        "value": 957.49,
+        "raw_unit": "INR million",
+        "pdf_page": 303,
+        "printed_page": 300,
+        "basis": "Issuer debt reconciliation",
+        "note": "Excludes separately disclosed lease liabilities",
+        "url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2022/1652869529567.pdf#page=303",
+        "period_start": "2020-04-01",
+        "period_end": "2020-12-31"
+      },
+      {
+        "metric": "Debt as disclosed",
+        "value": 2058.03,
+        "raw_unit": "INR million",
+        "pdf_page": 303,
+        "printed_page": 300,
+        "basis": "Issuer non-GAAP measure",
+        "note": "Current plus non-current borrowings",
+        "url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2022/1652869529567.pdf#page=303",
+        "period_start": "2020-04-01",
+        "period_end": "2020-12-31"
+      },
+      {
+        "metric": "Total equity",
+        "value": 1263.99,
+        "raw_unit": "INR million",
+        "pdf_page": 64,
+        "printed_page": 61,
+        "basis": "Standalone restated",
+        "note": "Statement equity, not an inferred market value",
+        "url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2022/1652869529567.pdf#page=64",
+        "period_start": "2020-04-01",
+        "period_end": "2020-12-31"
+      },
+      {
+        "metric": "Total assets",
+        "value": 4000.95,
+        "raw_unit": "INR million",
+        "pdf_page": 64,
+        "printed_page": 61,
+        "basis": "Standalone restated",
+        "note": "Dec-2020 differs from 4009.95 on PDF p303. Retain discrepancy.",
+        "url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2022/1652869529567.pdf#page=64",
+        "period_start": "2020-04-01",
+        "period_end": "2020-12-31"
+      },
+      {
+        "metric": "Total liabilities",
+        "value": 2736.96,
+        "raw_unit": "INR million",
+        "pdf_page": 65,
+        "printed_page": 62,
+        "basis": "Standalone restated",
+        "note": "Includes operating and financing liabilities",
+        "url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2022/1652869529567.pdf#page=65",
+        "period_start": "2020-04-01",
+        "period_end": "2020-12-31"
+      },
+      {
+        "metric": "Cash and bank balances combined",
+        "value": 34.31,
+        "raw_unit": "INR million",
+        "pdf_page": 303,
+        "printed_page": 300,
+        "basis": "Issuer reconciliation",
+        "note": "Includes bank balances beyond cash equivalents; reported rounding retained",
+        "url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2022/1652869529567.pdf#page=303",
+        "period_start": "2020-04-01",
+        "period_end": "2020-12-31"
+      },
+      {
+        "metric": "Current investments",
+        "value": 0.13,
+        "raw_unit": "INR million",
+        "pdf_page": 302,
+        "printed_page": 299,
+        "basis": "Issuer reconciliation",
+        "note": "Used in issuer capital-employed calculation",
+        "url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2022/1652869529567.pdf#page=302",
+        "period_start": "2020-04-01",
+        "period_end": "2020-12-31"
+      },
+      {
+        "metric": "Capital employed",
+        "value": 3287.58,
+        "raw_unit": "INR million",
+        "pdf_page": 302,
+        "printed_page": 299,
+        "basis": "Issuer non-GAAP measure",
+        "note": "Equity + borrowings - current investments - cash/bank balances",
+        "url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2022/1652869529567.pdf#page=302",
+        "period_start": "2020-04-01",
+        "period_end": "2020-12-31"
+      },
+      {
+        "metric": "EBIT excluding other income",
+        "value": 681.75,
+        "raw_unit": "INR million",
+        "pdf_page": 302,
+        "printed_page": 299,
+        "basis": "Issuer non-GAAP measure",
+        "note": "PBT + finance costs - other income",
+        "url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2022/1652869529567.pdf#page=302",
+        "period_start": "2020-04-01",
+        "period_end": "2020-12-31"
+      },
+      {
+        "metric": "Basic and diluted EPS",
+        "value": 5.12,
+        "raw_unit": "INR per share",
+        "pdf_page": 66,
+        "printed_page": 63,
+        "basis": "Restated EPS",
+        "note": "Nine-month EPS is not annualised; share basis differs from post-offer shares",
+        "url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2022/1652869529567.pdf#page=66",
+        "period_start": "2020-04-01",
+        "period_end": "2020-12-31"
+      },
+      {
+        "metric": "Non-current lease liabilities",
+        "value": 27.57,
+        "raw_unit": "INR million",
+        "pdf_page": 65,
+        "printed_page": 62,
+        "basis": "Standalone restated",
+        "note": "Separate financing liability",
+        "url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2022/1652869529567.pdf#page=65",
+        "period_start": "2020-04-01",
+        "period_end": "2020-12-31"
+      },
+      {
+        "metric": "Current lease liabilities",
+        "value": 4.0,
+        "raw_unit": "INR million",
+        "pdf_page": 65,
+        "printed_page": 62,
+        "basis": "Standalone restated",
+        "note": "Separate financing liability",
+        "url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2022/1652869529567.pdf#page=65",
+        "period_start": "2020-04-01",
+        "period_end": "2020-12-31"
+      }
+    ],
+    "derived": {
+      "ebitda_margin": 0.2291059295399443,
+      "pat_margin": 0.14443413451465173,
+      "cfo_pat": 0.6608571310150453,
+      "debt_equity": 1.6282011724776304
+    },
+    "checks": [
+      {
+        "check": "Revenue + other income = total income",
+        "residual_million": -0.01,
+        "tolerance_million": 0.02,
+        "passed": true
+      },
+      {
+        "check": "EBITDA definition bridge",
+        "residual_million": 0.01,
+        "tolerance_million": 0.02,
+        "passed": true
+      },
+      {
+        "check": "Borrowings components = disclosed debt",
+        "residual_million": -0.0,
+        "tolerance_million": 0.02,
+        "passed": true
+      },
+      {
+        "check": "Equity + liabilities = assets",
+        "residual_million": 0.0,
+        "tolerance_million": 0.02,
+        "passed": true
+      }
+    ],
+    "flags": [
+      {
+        "title": "Operating cash trails accounting profit",
+        "detail": "CFO/PAT is 0.661x for 9M Dec-2020. This invites working-capital investigation; it does not establish fraud or future distress.",
+        "pages": [
+          66,
+          67
+        ]
+      },
+      {
+        "title": "Conflicting repeated assets figure",
+        "detail": "9M Dec-2020 assets: INR 4,000.95 million on PDF p.64 versus 4,009.95 million on p.303. Statement value retained for display; cause unresolved.",
+        "pages": [
+          64,
+          303
+        ]
+      },
+      {
+        "title": "Valuation inputs require review",
+        "detail": "Original price-band advertisement and post-offer share basis remain unresolved. No fair-value range or investment recommendation is generated.",
+        "pages": [
+          109,
+          111
+        ]
+      },
+      {
+        "title": "Peer accounting bases differ",
+        "detail": "The RHP peer table mixes standalone and consolidated figures. Automated peer selection and normalized peer valuation are future work.",
+        "pages": [
+          111
+        ]
+      }
+    ],
+    "summary": "For 9M Dec-2020, operating revenue is INR 334.09 crore and PAT is INR 48.25 crore. EBITDA margin is 22.9%; operating cash flow is 0.661 times PAT. Read cash conversion alongside profit growth and review the underlying accounting definitions.",
+    "annual_trend_crore": [
+      {
+        "period": "FY19",
+        "Revenue from operations": 201.18,
+        "Profit after tax": 23.335,
+        "Net cash from operating activities": 22.744
+      },
+      {
+        "period": "FY20",
+        "Revenue from operations": 301.806,
+        "Profit after tax": 39.956,
+        "Net cash from operating activities": 17.695
+      },
+      {
+        "period": "FY21",
+        "Revenue from operations": 449.816,
+        "Profit after tax": 71.119,
+        "Net cash from operating activities": 23.196
+      }
+    ],
+    "revenue_cagr_fy19_fy21": 0.4952886876019311,
+    "trace": [
+      {
+        "step": 1,
+        "tool": "load_curated_evidence",
+        "reason": "Use the previously transcribed RHP pilot; do not invent missing inputs.",
+        "outcome": "22 metrics across five dated periods loaded. No automated PDF extraction in this prototype."
+      },
+      {
+        "step": 2,
+        "tool": "select_period",
+        "reason": "Annual and interim observations must remain distinct.",
+        "outcome": "9M Dec-2020: 2020-04-01 to 2020-12-31; no interim annualisation."
+      },
+      {
+        "step": 3,
+        "tool": "reconcile_arithmetic",
+        "reason": "Check internal arithmetic before explaining the figures.",
+        "outcome": "4/4 checks within INR 0.02 million. These checks do not establish financial health."
+      },
+      {
+        "step": 4,
+        "tool": "route_review_items",
+        "reason": "Preserve known conflicts and label provisional definitions.",
+        "outcome": "4 research/review items retained; no automatic approval."
+      },
+      {
+        "step": 5,
+        "tool": "compose_template_summary",
+        "reason": "Every number comes from evidence or deterministic calculations.",
+        "outcome": "Template explanation generated. No model inference, predictive score or autonomous agent execution."
+      }
+    ],
+    "mode": "deterministic workflow prototype"
+  },
+  "FY21": {
+    "issuer": "Aether Industries",
+    "period": "FY21",
+    "period_kind": "annual",
+    "retrospective": true,
+    "source_document_date": "2022-05-16",
+    "historical_evidence_cutoff": "2022-05-18",
+    "reconstructed_at": "2026-10-22T08:15:13.748437+00:00",
+    "engine_version": "0.1.0",
+    "input_sha256": "40a33071833f82663dbf11513a0752be09a30e1bbc3a8318dfd3bbca9d7e7483",
+    "source_status": "Hand-transcribed research pilot; not a fully adjudicated benchmark",
+    "facts": [
+      {
+        "metric": "Revenue from operations",
+        "value": 4498.16,
+        "raw_unit": "INR million",
+        "pdf_page": 66,
+        "printed_page": 63,
+        "basis": "Standalone restated",
+        "note": "Operating revenue",
+        "url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2022/1652869529567.pdf#page=66",
+        "period_start": "2020-04-01",
+        "period_end": "2021-03-31"
+      },
+      {
+        "metric": "Other income",
+        "value": 39.73,
+        "raw_unit": "INR million",
+        "pdf_page": 66,
+        "printed_page": 63,
+        "basis": "Standalone restated",
+        "note": "Separate from operating revenue",
+        "url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2022/1652869529567.pdf#page=66",
+        "period_start": "2020-04-01",
+        "period_end": "2021-03-31"
+      },
+      {
+        "metric": "Total income",
+        "value": 4537.89,
+        "raw_unit": "INR million",
+        "pdf_page": 66,
+        "printed_page": 63,
+        "basis": "Standalone restated",
+        "note": "Operating revenue plus other income",
+        "url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2022/1652869529567.pdf#page=66",
+        "period_start": "2020-04-01",
+        "period_end": "2021-03-31"
+      },
+      {
+        "metric": "Profit before tax",
+        "value": 938.06,
+        "raw_unit": "INR million",
+        "pdf_page": 66,
+        "printed_page": 63,
+        "basis": "Standalone restated",
+        "note": "Before income tax",
+        "url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2022/1652869529567.pdf#page=66",
+        "period_start": "2020-04-01",
+        "period_end": "2021-03-31"
+      },
+      {
+        "metric": "Finance costs",
+        "value": 113.15,
+        "raw_unit": "INR million",
+        "pdf_page": 66,
+        "printed_page": 63,
+        "basis": "Standalone restated",
+        "note": "As reported",
+        "url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2022/1652869529567.pdf#page=66",
+        "period_start": "2020-04-01",
+        "period_end": "2021-03-31"
+      },
+      {
+        "metric": "Depreciation and amortisation",
+        "value": 110.11,
+        "raw_unit": "INR million",
+        "pdf_page": 66,
+        "printed_page": 63,
+        "basis": "Standalone restated",
+        "note": "As reported",
+        "url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2022/1652869529567.pdf#page=66",
+        "period_start": "2020-04-01",
+        "period_end": "2021-03-31"
+      },
+      {
+        "metric": "Profit after tax",
+        "value": 711.19,
+        "raw_unit": "INR million",
+        "pdf_page": 66,
+        "printed_page": 63,
+        "basis": "Standalone restated",
+        "note": "Excludes other comprehensive income",
+        "url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2022/1652869529567.pdf#page=66",
+        "period_start": "2020-04-01",
+        "period_end": "2021-03-31"
+      },
+      {
+        "metric": "EBITDA excluding other income",
+        "value": 1121.59,
+        "raw_unit": "INR million",
+        "pdf_page": 302,
+        "printed_page": 299,
+        "basis": "Issuer non-GAAP measure",
+        "note": "PBT + finance costs + D&A - other income",
+        "url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2022/1652869529567.pdf#page=302",
+        "period_start": "2020-04-01",
+        "period_end": "2021-03-31"
+      },
+      {
+        "metric": "Net cash from operating activities",
+        "value": 231.96,
+        "raw_unit": "INR million",
+        "pdf_page": 67,
+        "printed_page": 64,
+        "basis": "Standalone restated",
+        "note": "After income tax paid",
+        "url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2022/1652869529567.pdf#page=67",
+        "period_start": "2020-04-01",
+        "period_end": "2021-03-31"
+      },
+      {
+        "metric": "Non-current borrowings",
+        "value": 1037.87,
+        "raw_unit": "INR million",
+        "pdf_page": 303,
+        "printed_page": 300,
+        "basis": "Issuer debt reconciliation",
+        "note": "Excludes separately disclosed lease liabilities",
+        "url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2022/1652869529567.pdf#page=303",
+        "period_start": "2020-04-01",
+        "period_end": "2021-03-31"
+      },
+      {
+        "metric": "Current borrowings",
+        "value": 1044.13,
+        "raw_unit": "INR million",
+        "pdf_page": 303,
+        "printed_page": 300,
+        "basis": "Issuer debt reconciliation",
+        "note": "Excludes separately disclosed lease liabilities",
+        "url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2022/1652869529567.pdf#page=303",
+        "period_start": "2020-04-01",
+        "period_end": "2021-03-31"
+      },
+      {
+        "metric": "Debt as disclosed",
+        "value": 2082.0,
+        "raw_unit": "INR million",
+        "pdf_page": 303,
+        "printed_page": 300,
+        "basis": "Issuer non-GAAP measure",
+        "note": "Current plus non-current borrowings",
+        "url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2022/1652869529567.pdf#page=303",
+        "period_start": "2020-04-01",
+        "period_end": "2021-03-31"
+      },
+      {
+        "metric": "Total equity",
+        "value": 1743.33,
+        "raw_unit": "INR million",
+        "pdf_page": 64,
+        "printed_page": 61,
+        "basis": "Standalone restated",
+        "note": "Statement equity, not an inferred market value",
+        "url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2022/1652869529567.pdf#page=64",
+        "period_start": "2020-04-01",
+        "period_end": "2021-03-31"
+      },
+      {
+        "metric": "Total assets",
+        "value": 4529.44,
+        "raw_unit": "INR million",
+        "pdf_page": 64,
+        "printed_page": 61,
+        "basis": "Standalone restated",
+        "note": "Dec-2020 differs from 4009.95 on PDF p303. Retain discrepancy.",
+        "url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2022/1652869529567.pdf#page=64",
+        "period_start": "2020-04-01",
+        "period_end": "2021-03-31"
+      },
+      {
+        "metric": "Total liabilities",
+        "value": 2786.11,
+        "raw_unit": "INR million",
+        "pdf_page": 65,
+        "printed_page": 62,
+        "basis": "Standalone restated",
+        "note": "Includes operating and financing liabilities",
+        "url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2022/1652869529567.pdf#page=65",
+        "period_start": "2020-04-01",
+        "period_end": "2021-03-31"
+      },
+      {
+        "metric": "Cash and bank balances combined",
+        "value": 55.63,
+        "raw_unit": "INR million",
+        "pdf_page": 303,
+        "printed_page": 300,
+        "basis": "Issuer reconciliation",
+        "note": "Includes bank balances beyond cash equivalents; reported rounding retained",
+        "url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2022/1652869529567.pdf#page=303",
+        "period_start": "2020-04-01",
+        "period_end": "2021-03-31"
+      },
+      {
+        "metric": "Current investments",
+        "value": 220.9,
+        "raw_unit": "INR million",
+        "pdf_page": 302,
+        "printed_page": 299,
+        "basis": "Issuer reconciliation",
+        "note": "Used in issuer capital-employed calculation",
+        "url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2022/1652869529567.pdf#page=302",
+        "period_start": "2020-04-01",
+        "period_end": "2021-03-31"
+      },
+      {
+        "metric": "Capital employed",
+        "value": 3548.8,
+        "raw_unit": "INR million",
+        "pdf_page": 302,
+        "printed_page": 299,
+        "basis": "Issuer non-GAAP measure",
+        "note": "Equity + borrowings - current investments - cash/bank balances",
+        "url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2022/1652869529567.pdf#page=302",
+        "period_start": "2020-04-01",
+        "period_end": "2021-03-31"
+      },
+      {
+        "metric": "EBIT excluding other income",
+        "value": 1011.48,
+        "raw_unit": "INR million",
+        "pdf_page": 302,
+        "printed_page": 299,
+        "basis": "Issuer non-GAAP measure",
+        "note": "PBT + finance costs - other income",
+        "url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2022/1652869529567.pdf#page=302",
+        "period_start": "2020-04-01",
+        "period_end": "2021-03-31"
+      },
+      {
+        "metric": "Basic and diluted EPS",
+        "value": 7.36,
+        "raw_unit": "INR per share",
+        "pdf_page": 66,
+        "printed_page": 63,
+        "basis": "Restated EPS",
+        "note": "Nine-month EPS is not annualised; share basis differs from post-offer shares",
+        "url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2022/1652869529567.pdf#page=66",
+        "period_start": "2020-04-01",
+        "period_end": "2021-03-31"
+      },
+      {
+        "metric": "Non-current lease liabilities",
+        "value": 27.11,
+        "raw_unit": "INR million",
+        "pdf_page": 65,
+        "printed_page": 62,
+        "basis": "Standalone restated",
+        "note": "Separate financing liability",
+        "url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2022/1652869529567.pdf#page=65",
+        "period_start": "2020-04-01",
+        "period_end": "2021-03-31"
+      },
+      {
+        "metric": "Current lease liabilities",
+        "value": 3.56,
+        "raw_unit": "INR million",
+        "pdf_page": 65,
+        "printed_page": 62,
+        "basis": "Standalone restated",
+        "note": "Separate financing liability",
+        "url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2022/1652869529567.pdf#page=65",
+        "period_start": "2020-04-01",
+        "period_end": "2021-03-31"
+      }
+    ],
+    "derived": {
+      "ebitda_margin": 0.24934417628541447,
+      "pat_margin": 0.1581068703647714,
+      "cfo_pat": 0.3261575668949226,
+      "debt_equity": 1.1942661458243706
+    },
+    "checks": [
+      {
+        "check": "Revenue + other income = total income",
+        "residual_million": -0.0,
+        "tolerance_million": 0.02,
+        "passed": true
+      },
+      {
+        "check": "EBITDA definition bridge",
+        "residual_million": 0.0,
+        "tolerance_million": 0.02,
+        "passed": true
+      },
+      {
+        "check": "Borrowings components = disclosed debt",
+        "residual_million": 0.0,
+        "tolerance_million": 0.02,
+        "passed": true
+      },
+      {
+        "check": "Equity + liabilities = assets",
+        "residual_million": 0.0,
+        "tolerance_million": 0.02,
+        "passed": true
+      }
+    ],
+    "flags": [
+      {
+        "title": "Operating cash trails accounting profit",
+        "detail": "CFO/PAT is 0.326x for FY21. This invites working-capital investigation; it does not establish fraud or future distress.",
+        "pages": [
+          66,
+          67
+        ]
+      },
+      {
+        "title": "Conflicting repeated assets figure",
+        "detail": "9M Dec-2020 assets: INR 4,000.95 million on PDF p.64 versus 4,009.95 million on p.303. Statement value retained for display; cause unresolved.",
+        "pages": [
+          64,
+          303
+        ]
+      },
+      {
+        "title": "Valuation inputs require review",
+        "detail": "Original price-band advertisement and post-offer share basis remain unresolved. No fair-value range or investment recommendation is generated.",
+        "pages": [
+          109,
+          111
+        ]
+      },
+      {
+        "title": "Peer accounting bases differ",
+        "detail": "The RHP peer table mixes standalone and consolidated figures. Automated peer selection and normalized peer valuation are future work.",
+        "pages": [
+          111
+        ]
+      }
+    ],
+    "summary": "For FY21, operating revenue is INR 449.82 crore and PAT is INR 71.12 crore. EBITDA margin is 24.9%; operating cash flow is 0.326 times PAT. Read cash conversion alongside profit growth and review the underlying accounting definitions.",
+    "annual_trend_crore": [
+      {
+        "period": "FY19",
+        "Revenue from operations": 201.18,
+        "Profit after tax": 23.335,
+        "Net cash from operating activities": 22.744
+      },
+      {
+        "period": "FY20",
+        "Revenue from operations": 301.806,
+        "Profit after tax": 39.956,
+        "Net cash from operating activities": 17.695
+      },
+      {
+        "period": "FY21",
+        "Revenue from operations": 449.816,
+        "Profit after tax": 71.119,
+        "Net cash from operating activities": 23.196
+      }
+    ],
+    "revenue_cagr_fy19_fy21": 0.4952886876019311,
+    "trace": [
+      {
+        "step": 1,
+        "tool": "load_curated_evidence",
+        "reason": "Use the previously transcribed RHP pilot; do not invent missing inputs.",
+        "outcome": "22 metrics across five dated periods loaded. No automated PDF extraction in this prototype."
+      },
+      {
+        "step": 2,
+        "tool": "select_period",
+        "reason": "Annual and interim observations must remain distinct.",
+        "outcome": "FY21: 2020-04-01 to 2021-03-31; no interim annualisation."
+      },
+      {
+        "step": 3,
+        "tool": "reconcile_arithmetic",
+        "reason": "Check internal arithmetic before explaining the figures.",
+        "outcome": "4/4 checks within INR 0.02 million. These checks do not establish financial health."
+      },
+      {
+        "step": 4,
+        "tool": "route_review_items",
+        "reason": "Preserve known conflicts and label provisional definitions.",
+        "outcome": "4 research/review items retained; no automatic approval."
+      },
+      {
+        "step": 5,
+        "tool": "compose_template_summary",
+        "reason": "Every number comes from evidence or deterministic calculations.",
+        "outcome": "Template explanation generated. No model inference, predictive score or autonomous agent execution."
+      }
+    ],
+    "mode": "deterministic workflow prototype"
+  },
+  "FY20": {
+    "issuer": "Aether Industries",
+    "period": "FY20",
+    "period_kind": "annual",
+    "retrospective": true,
+    "source_document_date": "2022-05-16",
+    "historical_evidence_cutoff": "2022-05-18",
+    "reconstructed_at": "2026-10-22T08:15:13.748437+00:00",
+    "engine_version": "0.1.0",
+    "input_sha256": "40a33071833f82663dbf11513a0752be09a30e1bbc3a8318dfd3bbca9d7e7483",
+    "source_status": "Hand-transcribed research pilot; not a fully adjudicated benchmark",
+    "facts": [
+      {
+        "metric": "Revenue from operations",
+        "value": 3018.06,
+        "raw_unit": "INR million",
+        "pdf_page": 66,
+        "printed_page": 63,
+        "basis": "Standalone restated",
+        "note": "Operating revenue",
+        "url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2022/1652869529567.pdf#page=66",
+        "period_start": "2019-04-01",
+        "period_end": "2020-03-31"
+      },
+      {
+        "metric": "Other income",
+        "value": 19.75,
+        "raw_unit": "INR million",
+        "pdf_page": 66,
+        "printed_page": 63,
+        "basis": "Standalone restated",
+        "note": "Separate from operating revenue",
+        "url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2022/1652869529567.pdf#page=66",
+        "period_start": "2019-04-01",
+        "period_end": "2020-03-31"
+      },
+      {
+        "metric": "Total income",
+        "value": 3037.81,
+        "raw_unit": "INR million",
+        "pdf_page": 66,
+        "printed_page": 63,
+        "basis": "Standalone restated",
+        "note": "Operating revenue plus other income",
+        "url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2022/1652869529567.pdf#page=66",
+        "period_start": "2019-04-01",
+        "period_end": "2020-03-31"
+      },
+      {
+        "metric": "Profit before tax",
+        "value": 565.07,
+        "raw_unit": "INR million",
+        "pdf_page": 66,
+        "printed_page": 63,
+        "basis": "Standalone restated",
+        "note": "Before income tax",
+        "url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2022/1652869529567.pdf#page=66",
+        "period_start": "2019-04-01",
+        "period_end": "2020-03-31"
+      },
+      {
+        "metric": "Finance costs",
+        "value": 93.76,
+        "raw_unit": "INR million",
+        "pdf_page": 66,
+        "printed_page": 63,
+        "basis": "Standalone restated",
+        "note": "As reported",
+        "url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2022/1652869529567.pdf#page=66",
+        "period_start": "2019-04-01",
+        "period_end": "2020-03-31"
+      },
+      {
+        "metric": "Depreciation and amortisation",
+        "value": 78.48,
+        "raw_unit": "INR million",
+        "pdf_page": 66,
+        "printed_page": 63,
+        "basis": "Standalone restated",
+        "note": "As reported",
+        "url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2022/1652869529567.pdf#page=66",
+        "period_start": "2019-04-01",
+        "period_end": "2020-03-31"
+      },
+      {
+        "metric": "Profit after tax",
+        "value": 399.56,
+        "raw_unit": "INR million",
+        "pdf_page": 66,
+        "printed_page": 63,
+        "basis": "Standalone restated",
+        "note": "Excludes other comprehensive income",
+        "url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2022/1652869529567.pdf#page=66",
+        "period_start": "2019-04-01",
+        "period_end": "2020-03-31"
+      },
+      {
+        "metric": "EBITDA excluding other income",
+        "value": 717.56,
+        "raw_unit": "INR million",
+        "pdf_page": 302,
+        "printed_page": 299,
+        "basis": "Issuer non-GAAP measure",
+        "note": "PBT + finance costs + D&A - other income",
+        "url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2022/1652869529567.pdf#page=302",
+        "period_start": "2019-04-01",
+        "period_end": "2020-03-31"
+      },
+      {
+        "metric": "Net cash from operating activities",
+        "value": 176.95,
+        "raw_unit": "INR million",
+        "pdf_page": 67,
+        "printed_page": 64,
+        "basis": "Standalone restated",
+        "note": "After income tax paid",
+        "url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2022/1652869529567.pdf#page=67",
+        "period_start": "2019-04-01",
+        "period_end": "2020-03-31"
+      },
+      {
+        "metric": "Non-current borrowings",
+        "value": 950.98,
+        "raw_unit": "INR million",
+        "pdf_page": 303,
+        "printed_page": 300,
+        "basis": "Issuer debt reconciliation",
+        "note": "Excludes separately disclosed lease liabilities",
+        "url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2022/1652869529567.pdf#page=303",
+        "period_start": "2019-04-01",
+        "period_end": "2020-03-31"
+      },
+      {
+        "metric": "Current borrowings",
+        "value": 753.91,
+        "raw_unit": "INR million",
+        "pdf_page": 303,
+        "printed_page": 300,
+        "basis": "Issuer debt reconciliation",
+        "note": "Excludes separately disclosed lease liabilities",
+        "url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2022/1652869529567.pdf#page=303",
+        "period_start": "2019-04-01",
+        "period_end": "2020-03-31"
+      },
+      {
+        "metric": "Debt as disclosed",
+        "value": 1704.89,
+        "raw_unit": "INR million",
+        "pdf_page": 303,
+        "printed_page": 300,
+        "basis": "Issuer non-GAAP measure",
+        "note": "Current plus non-current borrowings",
+        "url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2022/1652869529567.pdf#page=303",
+        "period_start": "2019-04-01",
+        "period_end": "2020-03-31"
+      },
+      {
+        "metric": "Total equity",
+        "value": 782.77,
+        "raw_unit": "INR million",
+        "pdf_page": 64,
+        "printed_page": 61,
+        "basis": "Standalone restated",
+        "note": "Statement equity, not an inferred market value",
+        "url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2022/1652869529567.pdf#page=64",
+        "period_start": "2019-04-01",
+        "period_end": "2020-03-31"
+      },
+      {
+        "metric": "Total assets",
+        "value": 3004.67,
+        "raw_unit": "INR million",
+        "pdf_page": 64,
+        "printed_page": 61,
+        "basis": "Standalone restated",
+        "note": "Dec-2020 differs from 4009.95 on PDF p303. Retain discrepancy.",
+        "url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2022/1652869529567.pdf#page=64",
+        "period_start": "2019-04-01",
+        "period_end": "2020-03-31"
+      },
+      {
+        "metric": "Total liabilities",
+        "value": 2221.9,
+        "raw_unit": "INR million",
+        "pdf_page": 65,
+        "printed_page": 62,
+        "basis": "Standalone restated",
+        "note": "Includes operating and financing liabilities",
+        "url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2022/1652869529567.pdf#page=65",
+        "period_start": "2019-04-01",
+        "period_end": "2020-03-31"
+      },
+      {
+        "metric": "Cash and bank balances combined",
+        "value": 36.0,
+        "raw_unit": "INR million",
+        "pdf_page": 303,
+        "printed_page": 300,
+        "basis": "Issuer reconciliation",
+        "note": "Includes bank balances beyond cash equivalents; reported rounding retained",
+        "url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2022/1652869529567.pdf#page=303",
+        "period_start": "2019-04-01",
+        "period_end": "2020-03-31"
+      },
+      {
+        "metric": "Current investments",
+        "value": 0.13,
+        "raw_unit": "INR million",
+        "pdf_page": 302,
+        "printed_page": 299,
+        "basis": "Issuer reconciliation",
+        "note": "Used in issuer capital-employed calculation",
+        "url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2022/1652869529567.pdf#page=302",
+        "period_start": "2019-04-01",
+        "period_end": "2020-03-31"
+      },
+      {
+        "metric": "Capital employed",
+        "value": 2451.53,
+        "raw_unit": "INR million",
+        "pdf_page": 302,
+        "printed_page": 299,
+        "basis": "Issuer non-GAAP measure",
+        "note": "Equity + borrowings - current investments - cash/bank balances",
+        "url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2022/1652869529567.pdf#page=302",
+        "period_start": "2019-04-01",
+        "period_end": "2020-03-31"
+      },
+      {
+        "metric": "EBIT excluding other income",
+        "value": 639.08,
+        "raw_unit": "INR million",
+        "pdf_page": 302,
+        "printed_page": 299,
+        "basis": "Issuer non-GAAP measure",
+        "note": "PBT + finance costs - other income",
+        "url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2022/1652869529567.pdf#page=302",
+        "period_start": "2019-04-01",
+        "period_end": "2020-03-31"
+      },
+      {
+        "metric": "Basic and diluted EPS",
+        "value": 4.24,
+        "raw_unit": "INR per share",
+        "pdf_page": 66,
+        "printed_page": 63,
+        "basis": "Restated EPS",
+        "note": "Nine-month EPS is not annualised; share basis differs from post-offer shares",
+        "url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2022/1652869529567.pdf#page=66",
+        "period_start": "2019-04-01",
+        "period_end": "2020-03-31"
+      },
+      {
+        "metric": "Non-current lease liabilities",
+        "value": 15.94,
+        "raw_unit": "INR million",
+        "pdf_page": 65,
+        "printed_page": 62,
+        "basis": "Standalone restated",
+        "note": "Separate financing liability",
+        "url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2022/1652869529567.pdf#page=65",
+        "period_start": "2019-04-01",
+        "period_end": "2020-03-31"
+      },
+      {
+        "metric": "Current lease liabilities",
+        "value": 2.54,
+        "raw_unit": "INR million",
+        "pdf_page": 65,
+        "printed_page": 62,
+        "basis": "Standalone restated",
+        "note": "Separate financing liability",
+        "url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2022/1652869529567.pdf#page=65",
+        "period_start": "2019-04-01",
+        "period_end": "2020-03-31"
+      }
+    ],
+    "derived": {
+      "ebitda_margin": 0.2377553792833807,
+      "pat_margin": 0.13238968078832097,
+      "cfo_pat": 0.4428621483631995,
+      "debt_equity": 2.1780216410950857
+    },
+    "checks": [
+      {
+        "check": "Revenue + other income = total income",
+        "residual_million": 0.0,
+        "tolerance_million": 0.02,
+        "passed": true
+      },
+      {
+        "check": "EBITDA definition bridge",
+        "residual_million": 0.0,
+        "tolerance_million": 0.02,
+        "passed": true
+      },
+      {
+        "check": "Borrowings components = disclosed debt",
+        "residual_million": -0.0,
+        "tolerance_million": 0.02,
+        "passed": true
+      },
+      {
+        "check": "Equity + liabilities = assets",
+        "residual_million": 0.0,
+        "tolerance_million": 0.02,
+        "passed": true
+      }
+    ],
+    "flags": [
+      {
+        "title": "Operating cash trails accounting profit",
+        "detail": "CFO/PAT is 0.443x for FY20. This invites working-capital investigation; it does not establish fraud or future distress.",
+        "pages": [
+          66,
+          67
+        ]
+      },
+      {
+        "title": "Conflicting repeated assets figure",
+        "detail": "9M Dec-2020 assets: INR 4,000.95 million on PDF p.64 versus 4,009.95 million on p.303. Statement value retained for display; cause unresolved.",
+        "pages": [
+          64,
+          303
+        ]
+      },
+      {
+        "title": "Valuation inputs require review",
+        "detail": "Original price-band advertisement and post-offer share basis remain unresolved. No fair-value range or investment recommendation is generated.",
+        "pages": [
+          109,
+          111
+        ]
+      },
+      {
+        "title": "Peer accounting bases differ",
+        "detail": "The RHP peer table mixes standalone and consolidated figures. Automated peer selection and normalized peer valuation are future work.",
+        "pages": [
+          111
+        ]
+      }
+    ],
+    "summary": "For FY20, operating revenue is INR 301.81 crore and PAT is INR 39.96 crore. EBITDA margin is 23.8%; operating cash flow is 0.443 times PAT. Read cash conversion alongside profit growth and review the underlying accounting definitions.",
+    "annual_trend_crore": [
+      {
+        "period": "FY19",
+        "Revenue from operations": 201.18,
+        "Profit after tax": 23.335,
+        "Net cash from operating activities": 22.744
+      },
+      {
+        "period": "FY20",
+        "Revenue from operations": 301.806,
+        "Profit after tax": 39.956,
+        "Net cash from operating activities": 17.695
+      },
+      {
+        "period": "FY21",
+        "Revenue from operations": 449.816,
+        "Profit after tax": 71.119,
+        "Net cash from operating activities": 23.196
+      }
+    ],
+    "revenue_cagr_fy19_fy21": 0.4952886876019311,
+    "trace": [
+      {
+        "step": 1,
+        "tool": "load_curated_evidence",
+        "reason": "Use the previously transcribed RHP pilot; do not invent missing inputs.",
+        "outcome": "22 metrics across five dated periods loaded. No automated PDF extraction in this prototype."
+      },
+      {
+        "step": 2,
+        "tool": "select_period",
+        "reason": "Annual and interim observations must remain distinct.",
+        "outcome": "FY20: 2019-04-01 to 2020-03-31; no interim annualisation."
+      },
+      {
+        "step": 3,
+        "tool": "reconcile_arithmetic",
+        "reason": "Check internal arithmetic before explaining the figures.",
+        "outcome": "4/4 checks within INR 0.02 million. These checks do not establish financial health."
+      },
+      {
+        "step": 4,
+        "tool": "route_review_items",
+        "reason": "Preserve known conflicts and label provisional definitions.",
+        "outcome": "4 research/review items retained; no automatic approval."
+      },
+      {
+        "step": 5,
+        "tool": "compose_template_summary",
+        "reason": "Every number comes from evidence or deterministic calculations.",
+        "outcome": "Template explanation generated. No model inference, predictive score or autonomous agent execution."
+      }
+    ],
+    "mode": "deterministic workflow prototype"
+  },
+  "FY19": {
+    "issuer": "Aether Industries",
+    "period": "FY19",
+    "period_kind": "annual",
+    "retrospective": true,
+    "source_document_date": "2022-05-16",
+    "historical_evidence_cutoff": "2022-05-18",
+    "reconstructed_at": "2026-10-22T08:15:13.756279+00:00",
+    "engine_version": "0.1.0",
+    "input_sha256": "40a33071833f82663dbf11513a0752be09a30e1bbc3a8318dfd3bbca9d7e7483",
+    "source_status": "Hand-transcribed research pilot; not a fully adjudicated benchmark",
+    "facts": [
+      {
+        "metric": "Revenue from operations",
+        "value": 2011.8,
+        "raw_unit": "INR million",
+        "pdf_page": 66,
+        "printed_page": 63,
+        "basis": "Standalone restated",
+        "note": "Operating revenue",
+        "url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2022/1652869529567.pdf#page=66",
+        "period_start": "2018-04-01",
+        "period_end": "2019-03-31"
+      },
+      {
+        "metric": "Other income",
+        "value": 20.97,
+        "raw_unit": "INR million",
+        "pdf_page": 66,
+        "printed_page": 63,
+        "basis": "Standalone restated",
+        "note": "Separate from operating revenue",
+        "url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2022/1652869529567.pdf#page=66",
+        "period_start": "2018-04-01",
+        "period_end": "2019-03-31"
+      },
+      {
+        "metric": "Total income",
+        "value": 2032.77,
+        "raw_unit": "INR million",
+        "pdf_page": 66,
+        "printed_page": 63,
+        "basis": "Standalone restated",
+        "note": "Operating revenue plus other income",
+        "url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2022/1652869529567.pdf#page=66",
+        "period_start": "2018-04-01",
+        "period_end": "2019-03-31"
+      },
+      {
+        "metric": "Profit before tax",
+        "value": 325.97,
+        "raw_unit": "INR million",
+        "pdf_page": 66,
+        "printed_page": 63,
+        "basis": "Standalone restated",
+        "note": "Before income tax",
+        "url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2022/1652869529567.pdf#page=66",
+        "period_start": "2018-04-01",
+        "period_end": "2019-03-31"
+      },
+      {
+        "metric": "Finance costs",
+        "value": 106.0,
+        "raw_unit": "INR million",
+        "pdf_page": 66,
+        "printed_page": 63,
+        "basis": "Standalone restated",
+        "note": "As reported",
+        "url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2022/1652869529567.pdf#page=66",
+        "period_start": "2018-04-01",
+        "period_end": "2019-03-31"
+      },
+      {
+        "metric": "Depreciation and amortisation",
+        "value": 64.07,
+        "raw_unit": "INR million",
+        "pdf_page": 66,
+        "printed_page": 63,
+        "basis": "Standalone restated",
+        "note": "As reported",
+        "url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2022/1652869529567.pdf#page=66",
+        "period_start": "2018-04-01",
+        "period_end": "2019-03-31"
+      },
+      {
+        "metric": "Profit after tax",
+        "value": 233.35,
+        "raw_unit": "INR million",
+        "pdf_page": 66,
+        "printed_page": 63,
+        "basis": "Standalone restated",
+        "note": "Excludes other comprehensive income",
+        "url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2022/1652869529567.pdf#page=66",
+        "period_start": "2018-04-01",
+        "period_end": "2019-03-31"
+      },
+      {
+        "metric": "EBITDA excluding other income",
+        "value": 475.07,
+        "raw_unit": "INR million",
+        "pdf_page": 302,
+        "printed_page": 299,
+        "basis": "Issuer non-GAAP measure",
+        "note": "PBT + finance costs + D&A - other income",
+        "url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2022/1652869529567.pdf#page=302",
+        "period_start": "2018-04-01",
+        "period_end": "2019-03-31"
+      },
+      {
+        "metric": "Net cash from operating activities",
+        "value": 227.44,
+        "raw_unit": "INR million",
+        "pdf_page": 67,
+        "printed_page": 64,
+        "basis": "Standalone restated",
+        "note": "After income tax paid",
+        "url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2022/1652869529567.pdf#page=67",
+        "period_start": "2018-04-01",
+        "period_end": "2019-03-31"
+      },
+      {
+        "metric": "Non-current borrowings",
+        "value": 757.2,
+        "raw_unit": "INR million",
+        "pdf_page": 303,
+        "printed_page": 300,
+        "basis": "Issuer debt reconciliation",
+        "note": "Excludes separately disclosed lease liabilities",
+        "url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2022/1652869529567.pdf#page=303",
+        "period_start": "2018-04-01",
+        "period_end": "2019-03-31"
+      },
+      {
+        "metric": "Current borrowings",
+        "value": 504.07,
+        "raw_unit": "INR million",
+        "pdf_page": 303,
+        "printed_page": 300,
+        "basis": "Issuer debt reconciliation",
+        "note": "Excludes separately disclosed lease liabilities",
+        "url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2022/1652869529567.pdf#page=303",
+        "period_start": "2018-04-01",
+        "period_end": "2019-03-31"
+      },
+      {
+        "metric": "Debt as disclosed",
+        "value": 1261.27,
+        "raw_unit": "INR million",
+        "pdf_page": 303,
+        "printed_page": 300,
+        "basis": "Issuer non-GAAP measure",
+        "note": "Current plus non-current borrowings",
+        "url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2022/1652869529567.pdf#page=303",
+        "period_start": "2018-04-01",
+        "period_end": "2019-03-31"
+      },
+      {
+        "metric": "Total equity",
+        "value": 385.45,
+        "raw_unit": "INR million",
+        "pdf_page": 64,
+        "printed_page": 61,
+        "basis": "Standalone restated",
+        "note": "Statement equity, not an inferred market value",
+        "url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2022/1652869529567.pdf#page=64",
+        "period_start": "2018-04-01",
+        "period_end": "2019-03-31"
+      },
+      {
+        "metric": "Total assets",
+        "value": 2066.75,
+        "raw_unit": "INR million",
+        "pdf_page": 64,
+        "printed_page": 61,
+        "basis": "Standalone restated",
+        "note": "Dec-2020 differs from 4009.95 on PDF p303. Retain discrepancy.",
+        "url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2022/1652869529567.pdf#page=64",
+        "period_start": "2018-04-01",
+        "period_end": "2019-03-31"
+      },
+      {
+        "metric": "Total liabilities",
+        "value": 1681.3,
+        "raw_unit": "INR million",
+        "pdf_page": 65,
+        "printed_page": 62,
+        "basis": "Standalone restated",
+        "note": "Includes operating and financing liabilities",
+        "url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2022/1652869529567.pdf#page=65",
+        "period_start": "2018-04-01",
+        "period_end": "2019-03-31"
+      },
+      {
+        "metric": "Cash and bank balances combined",
+        "value": 13.01,
+        "raw_unit": "INR million",
+        "pdf_page": 303,
+        "printed_page": 300,
+        "basis": "Issuer reconciliation",
+        "note": "Includes bank balances beyond cash equivalents; reported rounding retained",
+        "url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2022/1652869529567.pdf#page=303",
+        "period_start": "2018-04-01",
+        "period_end": "2019-03-31"
+      },
+      {
+        "metric": "Current investments",
+        "value": 0.12,
+        "raw_unit": "INR million",
+        "pdf_page": 302,
+        "printed_page": 299,
+        "basis": "Issuer reconciliation",
+        "note": "Used in issuer capital-employed calculation",
+        "url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2022/1652869529567.pdf#page=302",
+        "period_start": "2018-04-01",
+        "period_end": "2019-03-31"
+      },
+      {
+        "metric": "Capital employed",
+        "value": 1633.59,
+        "raw_unit": "INR million",
+        "pdf_page": 302,
+        "printed_page": 299,
+        "basis": "Issuer non-GAAP measure",
+        "note": "Equity + borrowings - current investments - cash/bank balances",
+        "url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2022/1652869529567.pdf#page=302",
+        "period_start": "2018-04-01",
+        "period_end": "2019-03-31"
+      },
+      {
+        "metric": "EBIT excluding other income",
+        "value": 411.0,
+        "raw_unit": "INR million",
+        "pdf_page": 302,
+        "printed_page": 299,
+        "basis": "Issuer non-GAAP measure",
+        "note": "PBT + finance costs - other income",
+        "url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2022/1652869529567.pdf#page=302",
+        "period_start": "2018-04-01",
+        "period_end": "2019-03-31"
+      },
+      {
+        "metric": "Basic and diluted EPS",
+        "value": 2.48,
+        "raw_unit": "INR per share",
+        "pdf_page": 66,
+        "printed_page": 63,
+        "basis": "Restated EPS",
+        "note": "Nine-month EPS is not annualised; share basis differs from post-offer shares",
+        "url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2022/1652869529567.pdf#page=66",
+        "period_start": "2018-04-01",
+        "period_end": "2019-03-31"
+      },
+      {
+        "metric": "Non-current lease liabilities",
+        "value": 2.67,
+        "raw_unit": "INR million",
+        "pdf_page": 65,
+        "printed_page": 62,
+        "basis": "Standalone restated",
+        "note": "Separate financing liability",
+        "url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2022/1652869529567.pdf#page=65",
+        "period_start": "2018-04-01",
+        "period_end": "2019-03-31"
+      },
+      {
+        "metric": "Current lease liabilities",
+        "value": 0.94,
+        "raw_unit": "INR million",
+        "pdf_page": 65,
+        "printed_page": 62,
+        "basis": "Standalone restated",
+        "note": "Separate financing liability",
+        "url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2022/1652869529567.pdf#page=65",
+        "period_start": "2018-04-01",
+        "period_end": "2019-03-31"
+      }
+    ],
+    "derived": {
+      "ebitda_margin": 0.23614176359479075,
+      "pat_margin": 0.11599065513470525,
+      "cfo_pat": 0.9746732376258839,
+      "debt_equity": 3.2722013231288107
+    },
+    "checks": [
+      {
+        "check": "Revenue + other income = total income",
+        "residual_million": 0.0,
+        "tolerance_million": 0.02,
+        "passed": true
+      },
+      {
+        "check": "EBITDA definition bridge",
+        "residual_million": 0.0,
+        "tolerance_million": 0.02,
+        "passed": true
+      },
+      {
+        "check": "Borrowings components = disclosed debt",
+        "residual_million": 0.0,
+        "tolerance_million": 0.02,
+        "passed": true
+      },
+      {
+        "check": "Equity + liabilities = assets",
+        "residual_million": 0.0,
+        "tolerance_million": 0.02,
+        "passed": true
+      }
+    ],
+    "flags": [
+      {
+        "title": "Operating cash trails accounting profit",
+        "detail": "CFO/PAT is 0.975x for FY19. This invites working-capital investigation; it does not establish fraud or future distress.",
+        "pages": [
+          66,
+          67
+        ]
+      },
+      {
+        "title": "Conflicting repeated assets figure",
+        "detail": "9M Dec-2020 assets: INR 4,000.95 million on PDF p.64 versus 4,009.95 million on p.303. Statement value retained for display; cause unresolved.",
+        "pages": [
+          64,
+          303
+        ]
+      },
+      {
+        "title": "Valuation inputs require review",
+        "detail": "Original price-band advertisement and post-offer share basis remain unresolved. No fair-value range or investment recommendation is generated.",
+        "pages": [
+          109,
+          111
+        ]
+      },
+      {
+        "title": "Peer accounting bases differ",
+        "detail": "The RHP peer table mixes standalone and consolidated figures. Automated peer selection and normalized peer valuation are future work.",
+        "pages": [
+          111
+        ]
+      }
+    ],
+    "summary": "For FY19, operating revenue is INR 201.18 crore and PAT is INR 23.34 crore. EBITDA margin is 23.6%; operating cash flow is 0.975 times PAT. Read cash conversion alongside profit growth and review the underlying accounting definitions.",
+    "annual_trend_crore": [
+      {
+        "period": "FY19",
+        "Revenue from operations": 201.18,
+        "Profit after tax": 23.335,
+        "Net cash from operating activities": 22.744
+      },
+      {
+        "period": "FY20",
+        "Revenue from operations": 301.806,
+        "Profit after tax": 39.956,
+        "Net cash from operating activities": 17.695
+      },
+      {
+        "period": "FY21",
+        "Revenue from operations": 449.816,
+        "Profit after tax": 71.119,
+        "Net cash from operating activities": 23.196
+      }
+    ],
+    "revenue_cagr_fy19_fy21": 0.4952886876019311,
+    "trace": [
+      {
+        "step": 1,
+        "tool": "load_curated_evidence",
+        "reason": "Use the previously transcribed RHP pilot; do not invent missing inputs.",
+        "outcome": "22 metrics across five dated periods loaded. No automated PDF extraction in this prototype."
+      },
+      {
+        "step": 2,
+        "tool": "select_period",
+        "reason": "Annual and interim observations must remain distinct.",
+        "outcome": "FY19: 2018-04-01 to 2019-03-31; no interim annualisation."
+      },
+      {
+        "step": 3,
+        "tool": "reconcile_arithmetic",
+        "reason": "Check internal arithmetic before explaining the figures.",
+        "outcome": "4/4 checks within INR 0.02 million. These checks do not establish financial health."
+      },
+      {
+        "step": 4,
+        "tool": "route_review_items",
+        "reason": "Preserve known conflicts and label provisional definitions.",
+        "outcome": "4 research/review items retained; no automatic approval."
+      },
+      {
+        "step": 5,
+        "tool": "compose_template_summary",
+        "reason": "Every number comes from evidence or deterministic calculations.",
+        "outcome": "Template explanation generated. No model inference, predictive score or autonomous agent execution."
+      }
+    ],
+    "mode": "deterministic workflow prototype"
+  }
+}

@@ -1,0 +1,28 @@
+# Local environments and caches
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+node_modules/
+.pytest_cache/
+.ipynb_checkpoints/
+.coverage
+htmlcov/
+
+# Credentials and local configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.aws/
+.codex/
+
+# Editor and OS files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+*.log
+
+# Research evidence and reviewed outputs are intentionally retained.

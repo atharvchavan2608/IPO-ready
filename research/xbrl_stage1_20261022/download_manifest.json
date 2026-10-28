@@ -1,0 +1,142 @@
+[
+  {
+    "url": "https://nsearchives.nseindia.com/corporate/ixbrl/INTEGRATED_FILING_INDAS_127119_13112025150257_iXBRL_WEB.html",
+    "file": "aether_20250930_rendered.html",
+    "status": "failed",
+    "reason": "The read operation timed out"
+  },
+  {
+    "url": "https://www.nseindia.com/static/companies-listing/xbrl-information",
+    "file": "nse_xbrl_information.html",
+    "status": "failed",
+    "reason": "The read operation timed out"
+  },
+  {
+    "url": "https://api.github.com/repos/ShantanuAnant/nse-xbrl/git/trees/main?recursive=1",
+    "file": "nse-xbrl_tree.json",
+    "sha256": "623806b1d40e72ca07c097be0bde4dd695fadc0c643f1dc6f370ec5d83e105bb",
+    "bytes": 4267,
+    "retrieved_on": "2026-10-22",
+    "status": "downloaded"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/ShantanuAnant/nse-xbrl/3750df000adcd4877194eb7fbd894e1ac71f020c/README.md",
+    "file": "nse-xbrl/README.md",
+    "sha256": "6cdbbeadf63e494eb331a160211cc7c1d1693fbebd934629b3ab16c3444770d9",
+    "bytes": 6812,
+    "retrieved_on": "2026-10-22",
+    "status": "downloaded"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/ShantanuAnant/nse-xbrl/3750df000adcd4877194eb7fbd894e1ac71f020c/LICENSE",
+    "file": "nse-xbrl/LICENSE",
+    "sha256": "17cac273ace174552bc8a64b6d5fce1e5daca32e087b9df28d251b41b5510fb0",
+    "bytes": 1074,
+    "retrieved_on": "2026-10-22",
+    "status": "downloaded"
+  },
+  {
+    "url": "https://api.github.com/repos/dhananjaym182/india-xbrl-filings/git/trees/main?recursive=1",
+    "file": "india-xbrl-filings_tree.json",
+    "sha256": "92efd271a7b5ac3d38b4595b3b8bf3a9dcde184de97306656c6b37ba9994295b",
+    "bytes": 14756,
+    "retrieved_on": "2026-10-22",
+    "status": "downloaded"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/dhananjaym182/india-xbrl-filings/b08a5ad7bb9b4bfe1e427ecf27341acd3853af31/README.md",
+    "file": "india-xbrl-filings/README.md",
+    "sha256": "3a50c4cea85a7484787e9a4fa8f2b5ac068940a21e64342af30ed1a6651b2d75",
+    "bytes": 5934,
+    "retrieved_on": "2026-10-22",
+    "status": "downloaded"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/dhananjaym182/india-xbrl-filings/b08a5ad7bb9b4bfe1e427ecf27341acd3853af31/LICENSE",
+    "file": "india-xbrl-filings/LICENSE",
+    "sha256": "439dc3e7d2dfe8b8f5919300317d91e3075873663b363d91c97b27ab8d9273fe",
+    "bytes": 1088,
+    "retrieved_on": "2026-10-22",
+    "status": "downloaded"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/ShantanuAnant/nse-xbrl/3750df000adcd4877194eb7fbd894e1ac71f020c/src/nse_xbrl/xbrl.py",
+    "file": "nse-xbrl/src/nse_xbrl/xbrl.py",
+    "sha256": "8c890ffc2e6ecc7e7332e3765cec82212a4c21cfe84ec70645f1d0dd26c24ef1",
+    "bytes": 7751,
+    "status": "downloaded",
+    "retrieved_on": "2026-10-22"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/ShantanuAnant/nse-xbrl/3750df000adcd4877194eb7fbd894e1ac71f020c/src/nse_xbrl/models.py",
+    "file": "nse-xbrl/src/nse_xbrl/models.py",
+    "sha256": "49d8f3815b8c206066c01f16ab1c078a2879f8e1a38f9435796df7d0ec3fb631",
+    "bytes": 8827,
+    "status": "downloaded",
+    "retrieved_on": "2026-10-22"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/ShantanuAnant/nse-xbrl/3750df000adcd4877194eb7fbd894e1ac71f020c/src/nse_xbrl/tags.py",
+    "file": "nse-xbrl/src/nse_xbrl/tags.py",
+    "sha256": "d970ae1a697935b0e05831f63b7941e9ecdebef4a15174664215904090466092",
+    "bytes": 7032,
+    "status": "downloaded",
+    "retrieved_on": "2026-10-22"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/ShantanuAnant/nse-xbrl/3750df000adcd4877194eb7fbd894e1ac71f020c/tests/fixtures/sample_filing.xml",
+    "file": "nse-xbrl/tests/fixtures/sample_filing.xml",
+    "sha256": "84e518d4f57c7e517136f68797016f73402b78fcd513afcb64b3e8faa93054ae",
+    "bytes": 11308,
+    "status": "downloaded",
+    "retrieved_on": "2026-10-22"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/ShantanuAnant/nse-xbrl/3750df000adcd4877194eb7fbd894e1ac71f020c/tests/test_xbrl.py",
+    "file": "nse-xbrl/tests/test_xbrl.py",
+    "sha256": "3f2410e28877c8cff71777e890473dee4da388a729031861312c17922ad6e789",
+    "bytes": 4094,
+    "status": "downloaded",
+    "retrieved_on": "2026-10-22"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/dhananjaym182/india-xbrl-filings/b08a5ad7bb9b4bfe1e427ecf27341acd3853af31/src/india_xbrl/reader.py",
+    "file": "india-xbrl-filings/src/india_xbrl/reader.py",
+    "sha256": "5f7210020d9e486a359f91e90ca64d7f8fea77f174d8c35db5c1e135027e566f",
+    "bytes": 11914,
+    "status": "downloaded",
+    "retrieved_on": "2026-10-22"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/dhananjaym182/india-xbrl-filings/b08a5ad7bb9b4bfe1e427ecf27341acd3853af31/src/india_xbrl/taxonomy.py",
+    "file": "india-xbrl-filings/src/india_xbrl/taxonomy.py",
+    "sha256": "6e4041765a7347a1ebe584efe5068e782857bb2c6e15efe7df225a904a8e38c9",
+    "bytes": 10502,
+    "status": "downloaded",
+    "retrieved_on": "2026-10-22"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/dhananjaym182/india-xbrl-filings/b08a5ad7bb9b4bfe1e427ecf27341acd3853af31/tests/fixtures/in-capmkt/sample_integrated_2025.xml",
+    "file": "india-xbrl-filings/tests/fixtures/in-capmkt/sample_integrated_2025.xml",
+    "sha256": "39adedd7a84badf39e6a7316e126390bdffe38515eda2cbeebf8b2c213911c39",
+    "bytes": 2411,
+    "status": "downloaded",
+    "retrieved_on": "2026-10-22"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/dhananjaym182/india-xbrl-filings/b08a5ad7bb9b4bfe1e427ecf27341acd3853af31/vendor/taxonomies/in-capmkt-finance/META-INF/taxonomyPackage.xml",
+    "file": "india-xbrl-filings/vendor/taxonomies/in-capmkt-finance/META-INF/taxonomyPackage.xml",
+    "sha256": "44e8a81bb635b87ee50d7b673eb09d3e8e4fd83914f2d6a4fc55c00d218d2812",
+    "bytes": 1443,
+    "status": "downloaded",
+    "retrieved_on": "2026-10-22"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/dhananjaym182/india-xbrl-filings/b08a5ad7bb9b4bfe1e427ecf27341acd3853af31/vendor/taxonomies/in-capmkt-finance/IntegratedFinance_IndAS/in-capmkt-ent-2025-01-31.xsd",
+    "file": "india-xbrl-filings/vendor/taxonomies/in-capmkt-finance/IntegratedFinance_IndAS/in-capmkt-ent-2025-01-31.xsd",
+    "sha256": "9e1f5d3e0ded76d34b38701f5ddf4d791cc2c3447f05eff19020d9fd78e57d80",
+    "bytes": 2592,
+    "status": "downloaded",
+    "retrieved_on": "2026-10-22"
+  }
+]

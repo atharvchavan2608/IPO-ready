@@ -1,0 +1,616 @@
+{
+  "sha": "767a6c7a22916cd46ef7744c585044fdc3bc1aee",
+  "url": "https://api.github.com/repos/gagandt/ipo-ai/git/trees/767a6c7a22916cd46ef7744c585044fdc3bc1aee",
+  "tree": [
+    {
+      "path": ".gitignore",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "96f544a01ba2111ce79e7bb9635716cd16ea3548",
+      "size": 104,
+      "url": "https://api.github.com/repos/gagandt/ipo-ai/git/blobs/96f544a01ba2111ce79e7bb9635716cd16ea3548"
+    },
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "01f1c507afa9dbe4b35c72d6e94c442af4f59f68",
+      "size": 7773,
+      "url": "https://api.github.com/repos/gagandt/ipo-ai/git/blobs/01f1c507afa9dbe4b35c72d6e94c442af4f59f68"
+    },
+    {
+      "path": "data",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "6b99057804527cc5ccf7e0baf4cbba232640f3d5",
+      "url": "https://api.github.com/repos/gagandt/ipo-ai/git/trees/6b99057804527cc5ccf7e0baf4cbba232640f3d5"
+    },
+    {
+      "path": "data/out",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "d4bb2b5bd983b725c554e6ec7a2eb7f88f1e453a",
+      "url": "https://api.github.com/repos/gagandt/ipo-ai/git/trees/d4bb2b5bd983b725c554e6ec7a2eb7f88f1e453a"
+    },
+    {
+      "path": "data/out/ipos.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1019361e6737a7cee723596d2f6e34c305bd033b",
+      "size": 642610,
+      "url": "https://api.github.com/repos/gagandt/ipo-ai/git/blobs/1019361e6737a7cee723596d2f6e34c305bd033b"
+    },
+    {
+      "path": "data/out/ipos.parquet",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fcbc1190ab9c193fe94c230af60461d1bb31c108",
+      "size": 475934,
+      "url": "https://api.github.com/repos/gagandt/ipo-ai/git/blobs/fcbc1190ab9c193fe94c230af60461d1bb31c108"
+    },
+    {
+      "path": "data/raw",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "1065adde73c6fa5f4400c2edb4e2e521f2828fd5",
+      "url": "https://api.github.com/repos/gagandt/ipo-ai/git/trees/1065adde73c6fa5f4400c2edb4e2e521f2828fd5"
+    },
+    {
+      "path": "data/raw/cg_ipo_urls.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f435590f6c276bbc15e1d836f22913540cd84215",
+      "size": 190006,
+      "url": "https://api.github.com/repos/gagandt/ipo-ai/git/blobs/f435590f6c276bbc15e1d836f22913540cd84215"
+    },
+    {
+      "path": "data/raw/cg_map.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7fac53d6cdc3ed04ab13e20c8ed96dada89dc5e4",
+      "size": 67960,
+      "url": "https://api.github.com/repos/gagandt/ipo-ai/git/blobs/7fac53d6cdc3ed04ab13e20c8ed96dada89dc5e4"
+    },
+    {
+      "path": "data/raw/cg_parsed.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6aef215c2f81589bbe2301cbb2e894370ff934ec",
+      "size": 577855,
+      "url": "https://api.github.com/repos/gagandt/ipo-ai/git/blobs/6aef215c2f81589bbe2301cbb2e894370ff934ec"
+    },
+    {
+      "path": "data/raw/cg_rejected.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cd74ed0561655c78a26e84bad801a64aad9e48ea",
+      "size": 22,
+      "url": "https://api.github.com/repos/gagandt/ipo-ai/git/blobs/cd74ed0561655c78a26e84bad801a64aad9e48ea"
+    },
+    {
+      "path": "data/raw/cg_sector_to_nse.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fd13ca943132b18ddc031c90513853ba6eb189ef",
+      "size": 1930,
+      "url": "https://api.github.com/repos/gagandt/ipo-ai/git/blobs/fd13ca943132b18ddc031c90513853ba6eb189ef"
+    },
+    {
+      "path": "data/raw/cg_sectors.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ab675cd4a6604ac43da1661cb9d0cff0b0adc456",
+      "size": 2159,
+      "url": "https://api.github.com/repos/gagandt/ipo-ai/git/blobs/ab675cd4a6604ac43da1661cb9d0cff0b0adc456"
+    },
+    {
+      "path": "data/raw/cg_url_lists.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "70c5634c3903bd5e5831f9d11362272d00373afb",
+      "size": 578103,
+      "url": "https://api.github.com/repos/gagandt/ipo-ai/git/blobs/70c5634c3903bd5e5831f9d11362272d00373afb"
+    },
+    {
+      "path": "data/raw/master_gapfill.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a36e623942b8795a759962ec9a60748a8c1d60d0",
+      "size": 2235,
+      "url": "https://api.github.com/repos/gagandt/ipo-ai/git/blobs/a36e623942b8795a759962ec9a60748a8c1d60d0"
+    },
+    {
+      "path": "data/raw/master_mainboard.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ac804f8066e58e70e311c10904ef68832fc47116",
+      "size": 55588,
+      "url": "https://api.github.com/repos/gagandt/ipo-ai/git/blobs/ac804f8066e58e70e311c10904ef68832fc47116"
+    },
+    {
+      "path": "data/raw/nse_equity_master.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "34f69aaa00bc77aaf780991a2858d6de7e24fb90",
+      "size": 180271,
+      "url": "https://api.github.com/repos/gagandt/ipo-ai/git/blobs/34f69aaa00bc77aaf780991a2858d6de7e24fb90"
+    },
+    {
+      "path": "data/raw/nse_parsed.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4f7e56893ff616be8965dc14b485e0f38ab41b25",
+      "size": 264909,
+      "url": "https://api.github.com/repos/gagandt/ipo-ai/git/blobs/4f7e56893ff616be8965dc14b485e0f38ab41b25"
+    },
+    {
+      "path": "data/raw/nse_past_issues_all.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2df79c2d6af09963a53aed87cf1651f5e702f975",
+      "size": 263162,
+      "url": "https://api.github.com/repos/gagandt/ipo-ai/git/blobs/2df79c2d6af09963a53aed87cf1651f5e702f975"
+    },
+    {
+      "path": "data/raw/price_panel.parquet",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9689b153bd158b573428b0ae023b9a970b9e987a",
+      "size": 3802986,
+      "url": "https://api.github.com/repos/gagandt/ipo-ai/git/blobs/9689b153bd158b573428b0ae023b9a970b9e987a"
+    },
+    {
+      "path": "notebooks",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "7f7d7881f5f23b6e928d1c6dd7d7fa053f2a36d0",
+      "url": "https://api.github.com/repos/gagandt/ipo-ai/git/trees/7f7d7881f5f23b6e928d1c6dd7d7fa053f2a36d0"
+    },
+    {
+      "path": "notebooks/analysis.ipynb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7c192451cea238ffe4a52e1b8e3f7b2c36221215",
+      "size": 176964,
+      "url": "https://api.github.com/repos/gagandt/ipo-ai/git/blobs/7c192451cea238ffe4a52e1b8e3f7b2c36221215"
+    },
+    {
+      "path": "requirements.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "25ed33b2cacf59bac04ee82d0f10319b03ed0406",
+      "size": 74,
+      "url": "https://api.github.com/repos/gagandt/ipo-ai/git/blobs/25ed33b2cacf59bac04ee82d0f10319b03ed0406"
+    },
+    {
+      "path": "src",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "863cd60af4fc6f0b116205ca8a5a3ab6858a7c38",
+      "url": "https://api.github.com/repos/gagandt/ipo-ai/git/trees/863cd60af4fc6f0b116205ca8a5a3ab6858a7c38"
+    },
+    {
+      "path": "src/build_dataset.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a9a202a96736e52b8f052363c31d3013daa75191",
+      "size": 9525,
+      "url": "https://api.github.com/repos/gagandt/ipo-ai/git/blobs/a9a202a96736e52b8f052363c31d3013daa75191"
+    },
+    {
+      "path": "src/cg_scrape.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1b2ef9f1e1a3f6a99bbf32c8806faf7c0fe1f46b",
+      "size": 13119,
+      "url": "https://api.github.com/repos/gagandt/ipo-ai/git/blobs/1b2ef9f1e1a3f6a99bbf32c8806faf7c0fe1f46b"
+    },
+    {
+      "path": "src/cg_sector.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "92ae403a5120035a88e13f87444bb9da68ad9424",
+      "size": 5319,
+      "url": "https://api.github.com/repos/gagandt/ipo-ai/git/blobs/92ae403a5120035a88e13f87444bb9da68ad9424"
+    },
+    {
+      "path": "src/cg_urls.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bf1c3b08c051e5cd9bceb45e5a21f48b45b22c1e",
+      "size": 4434,
+      "url": "https://api.github.com/repos/gagandt/ipo-ai/git/blobs/bf1c3b08c051e5cd9bceb45e5a21f48b45b22c1e"
+    },
+    {
+      "path": "src/export_web.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a10cb2dc4a873818928cf7668af71fd9a5cc8351",
+      "size": 10770,
+      "url": "https://api.github.com/repos/gagandt/ipo-ai/git/blobs/a10cb2dc4a873818928cf7668af71fd9a5cc8351"
+    },
+    {
+      "path": "src/fetch_detail.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "52a7601d96a753ceeb95f91f6de3808d55921916",
+      "size": 1137,
+      "url": "https://api.github.com/repos/gagandt/ipo-ai/git/blobs/52a7601d96a753ceeb95f91f6de3808d55921916"
+    },
+    {
+      "path": "src/fetch_master.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ad63de5df52528e9a4ce97c5283feebaa69c9c1d",
+      "size": 4114,
+      "url": "https://api.github.com/repos/gagandt/ipo-ai/git/blobs/ad63de5df52528e9a4ce97c5283feebaa69c9c1d"
+    },
+    {
+      "path": "src/fetch_prices.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "dccc0947ef015dcc3482c14e6256519a882aa26d",
+      "size": 2324,
+      "url": "https://api.github.com/repos/gagandt/ipo-ai/git/blobs/dccc0947ef015dcc3482c14e6256519a882aa26d"
+    },
+    {
+      "path": "src/fetch_upcoming.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "18bffad6fb50a979169eefc6dc4f9a72278db0a0",
+      "size": 8746,
+      "url": "https://api.github.com/repos/gagandt/ipo-ai/git/blobs/18bffad6fb50a979169eefc6dc4f9a72278db0a0"
+    },
+    {
+      "path": "src/fill_gaps.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b02d0a205644faffc8c6df182234ffc5e0a39f56",
+      "size": 5092,
+      "url": "https://api.github.com/repos/gagandt/ipo-ai/git/blobs/b02d0a205644faffc8c6df182234ffc5e0a39f56"
+    },
+    {
+      "path": "src/nse.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e4e51ca0ba6009ab1b966f1f24a2d99736213185",
+      "size": 3145,
+      "url": "https://api.github.com/repos/gagandt/ipo-ai/git/blobs/e4e51ca0ba6009ab1b966f1f24a2d99736213185"
+    },
+    {
+      "path": "src/parse_nse.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "28ec4284968cb0030dcb7688a6dcc691795a5694",
+      "size": 6438,
+      "url": "https://api.github.com/repos/gagandt/ipo-ai/git/blobs/28ec4284968cb0030dcb7688a6dcc691795a5694"
+    },
+    {
+      "path": "web",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "bc7ac349f91cb7654e6c84df09ab967000985544",
+      "url": "https://api.github.com/repos/gagandt/ipo-ai/git/trees/bc7ac349f91cb7654e6c84df09ab967000985544"
+    },
+    {
+      "path": "web/.gitignore",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1e13af28734b84f7f08873e82fec9754f3cd9305",
+      "size": 71,
+      "url": "https://api.github.com/repos/gagandt/ipo-ai/git/blobs/1e13af28734b84f7f08873e82fec9754f3cd9305"
+    },
+    {
+      "path": "web/AGENTS.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "643577dfaef36ee8032915ef80a0f0638f7beda0",
+      "size": 678,
+      "url": "https://api.github.com/repos/gagandt/ipo-ai/git/blobs/643577dfaef36ee8032915ef80a0f0638f7beda0"
+    },
+    {
+      "path": "web/CLAUDE.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "43c994c2d3617f947bcb5adf1933e21dabe46bb5",
+      "size": 11,
+      "url": "https://api.github.com/repos/gagandt/ipo-ai/git/blobs/43c994c2d3617f947bcb5adf1933e21dabe46bb5"
+    },
+    {
+      "path": "web/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7d0249c235da6c2bdf979d9df2b8b8252b3267c2",
+      "size": 6208,
+      "url": "https://api.github.com/repos/gagandt/ipo-ai/git/blobs/7d0249c235da6c2bdf979d9df2b8b8252b3267c2"
+    },
+    {
+      "path": "web/next.config.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2f6491cfba10ee06776b2acad06b2a5e440360b1",
+      "size": 130,
+      "url": "https://api.github.com/repos/gagandt/ipo-ai/git/blobs/2f6491cfba10ee06776b2acad06b2a5e440360b1"
+    },
+    {
+      "path": "web/package-lock.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "dccb4989283542b82db64f0388886318a942d259",
+      "size": 86390,
+      "url": "https://api.github.com/repos/gagandt/ipo-ai/git/blobs/dccb4989283542b82db64f0388886318a942d259"
+    },
+    {
+      "path": "web/package.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8148666fc8e72618645553f881ddc770e1ca4bd3",
+      "size": 787,
+      "url": "https://api.github.com/repos/gagandt/ipo-ai/git/blobs/8148666fc8e72618645553f881ddc770e1ca4bd3"
+    },
+    {
+      "path": "web/postcss.config.mjs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d062fcdae9dd9b353832f04e63a83de020ec4fbe",
+      "size": 83,
+      "url": "https://api.github.com/repos/gagandt/ipo-ai/git/blobs/d062fcdae9dd9b353832f04e63a83de020ec4fbe"
+    },
+    {
+      "path": "web/public",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "a908282868a5b10350415d7379cad4a518d6b821",
+      "url": "https://api.github.com/repos/gagandt/ipo-ai/git/trees/a908282868a5b10350415d7379cad4a518d6b821"
+    },
+    {
+      "path": "web/public/data",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "c6845c1cddd90d7170c2ed06cb9fad7b934191ce",
+      "url": "https://api.github.com/repos/gagandt/ipo-ai/git/trees/c6845c1cddd90d7170c2ed06cb9fad7b934191ce"
+    },
+    {
+      "path": "web/public/data/ipos.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "319394cbd49ab689dbbe9f6820afff53f674db98",
+      "size": 926723,
+      "url": "https://api.github.com/repos/gagandt/ipo-ai/git/blobs/319394cbd49ab689dbbe9f6820afff53f674db98"
+    },
+    {
+      "path": "web/public/data/upcoming.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "703e8f26b5aeb1605ebe2d2e24916d77655302da",
+      "size": 32239,
+      "url": "https://api.github.com/repos/gagandt/ipo-ai/git/blobs/703e8f26b5aeb1605ebe2d2e24916d77655302da"
+    },
+    {
+      "path": "web/src",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "5b0ffcd52d4680ff70620fb4f11abe8c1ca07c8f",
+      "url": "https://api.github.com/repos/gagandt/ipo-ai/git/trees/5b0ffcd52d4680ff70620fb4f11abe8c1ca07c8f"
+    },
+    {
+      "path": "web/src/app",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "9718a50cc97b53169224b585766bfca6e38f4240",
+      "url": "https://api.github.com/repos/gagandt/ipo-ai/git/trees/9718a50cc97b53169224b585766bfca6e38f4240"
+    },
+    {
+      "path": "web/src/app/api",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "edf7d09231ff940e19a56fc0294d3985a995f805",
+      "url": "https://api.github.com/repos/gagandt/ipo-ai/git/trees/edf7d09231ff940e19a56fc0294d3985a995f805"
+    },
+    {
+      "path": "web/src/app/api/upcoming",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "0baf1e392d40ee700e43843b2517a501b239a487",
+      "url": "https://api.github.com/repos/gagandt/ipo-ai/git/trees/0baf1e392d40ee700e43843b2517a501b239a487"
+    },
+    {
+      "path": "web/src/app/api/upcoming/route.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cb4218ac1a52bc939a19ad270b6ac864a9f38c4e",
+      "size": 4359,
+      "url": "https://api.github.com/repos/gagandt/ipo-ai/git/blobs/cb4218ac1a52bc939a19ad270b6ac864a9f38c4e"
+    },
+    {
+      "path": "web/src/app/globals.css",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "708a9b7bb0cc64d2368c40a7534ee004959cc8f0",
+      "size": 2064,
+      "url": "https://api.github.com/repos/gagandt/ipo-ai/git/blobs/708a9b7bb0cc64d2368c40a7534ee004959cc8f0"
+    },
+    {
+      "path": "web/src/app/layout.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ebb286736bfbe49d046dcb5f040b72c944c32dde",
+      "size": 879,
+      "url": "https://api.github.com/repos/gagandt/ipo-ai/git/blobs/ebb286736bfbe49d046dcb5f040b72c944c32dde"
+    },
+    {
+      "path": "web/src/app/page.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ae11b270cbc855f2ad25c06e9b3e1e47f15e8353",
+      "size": 6321,
+      "url": "https://api.github.com/repos/gagandt/ipo-ai/git/blobs/ae11b270cbc855f2ad25c06e9b3e1e47f15e8353"
+    },
+    {
+      "path": "web/src/app/upcoming",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "aaf8535dc08e67535e618a28a3b820112820c9a9",
+      "url": "https://api.github.com/repos/gagandt/ipo-ai/git/trees/aaf8535dc08e67535e618a28a3b820112820c9a9"
+    },
+    {
+      "path": "web/src/app/upcoming/page.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cdbeba639b9ae7308695c27c660099317226f056",
+      "size": 7527,
+      "url": "https://api.github.com/repos/gagandt/ipo-ai/git/blobs/cdbeba639b9ae7308695c27c660099317226f056"
+    },
+    {
+      "path": "web/src/components",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "c971edc27d602a54439b7fef58b4aab5cddfda7a",
+      "url": "https://api.github.com/repos/gagandt/ipo-ai/git/trees/c971edc27d602a54439b7fef58b4aab5cddfda7a"
+    },
+    {
+      "path": "web/src/components/ChartShell.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e916e495c345a2a24105cc3b997c6203c9fdd630",
+      "size": 2005,
+      "url": "https://api.github.com/repos/gagandt/ipo-ai/git/blobs/e916e495c345a2a24105cc3b997c6203c9fdd630"
+    },
+    {
+      "path": "web/src/components/Charts.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "901f2e6f02dc83404357d3e77fd30ffe1b2f192f",
+      "size": 13996,
+      "url": "https://api.github.com/repos/gagandt/ipo-ai/git/blobs/901f2e6f02dc83404357d3e77fd30ffe1b2f192f"
+    },
+    {
+      "path": "web/src/components/Comparables.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fdb7d6208aaeb86a53bf8a20d0cf8f6596b59f57",
+      "size": 13220,
+      "url": "https://api.github.com/repos/gagandt/ipo-ai/git/blobs/fdb7d6208aaeb86a53bf8a20d0cf8f6596b59f57"
+    },
+    {
+      "path": "web/src/components/DataTable.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "36b0d17b5f8d47341d5832d3e68487eddbfd8e2c",
+      "size": 12680,
+      "url": "https://api.github.com/repos/gagandt/ipo-ai/git/blobs/36b0d17b5f8d47341d5832d3e68487eddbfd8e2c"
+    },
+    {
+      "path": "web/src/components/FilterRail.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "99cc80c3cc10f8a4b42eb51b32f0fcd8f45eaa0c",
+      "size": 9745,
+      "url": "https://api.github.com/repos/gagandt/ipo-ai/git/blobs/99cc80c3cc10f8a4b42eb51b32f0fcd8f45eaa0c"
+    },
+    {
+      "path": "web/src/components/GlobalSearch.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "830e47fa95ea54c5dc473e1ba163de53bacf43dc",
+      "size": 7109,
+      "url": "https://api.github.com/repos/gagandt/ipo-ai/git/blobs/830e47fa95ea54c5dc473e1ba163de53bacf43dc"
+    },
+    {
+      "path": "web/src/components/SiteHeader.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "32e582c52782fdfb9e6d778b6850a65c58dbe388",
+      "size": 1313,
+      "url": "https://api.github.com/repos/gagandt/ipo-ai/git/blobs/32e582c52782fdfb9e6d778b6850a65c58dbe388"
+    },
+    {
+      "path": "web/src/components/StatRow.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "85434961442d68e7ebc5752551208e5317c53538",
+      "size": 2128,
+      "url": "https://api.github.com/repos/gagandt/ipo-ai/git/blobs/85434961442d68e7ebc5752551208e5317c53538"
+    },
+    {
+      "path": "web/src/components/ViewTabs.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "378968d862080a69b6eb6da710ba725e4d3a1579",
+      "size": 1343,
+      "url": "https://api.github.com/repos/gagandt/ipo-ai/git/blobs/378968d862080a69b6eb6da710ba725e4d3a1579"
+    },
+    {
+      "path": "web/src/lib",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "8558742a1327bb2a53683884676be24d6c1c69f6",
+      "url": "https://api.github.com/repos/gagandt/ipo-ai/git/trees/8558742a1327bb2a53683884676be24d6c1c69f6"
+    },
+    {
+      "path": "web/src/lib/filter.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5350848b32e815eda235f80c0c44b6ec9221be3a",
+      "size": 1508,
+      "url": "https://api.github.com/repos/gagandt/ipo-ai/git/blobs/5350848b32e815eda235f80c0c44b6ec9221be3a"
+    },
+    {
+      "path": "web/src/lib/format.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2004092eeb5913a35e7d9edc56491ab7458c9642",
+      "size": 2374,
+      "url": "https://api.github.com/repos/gagandt/ipo-ai/git/blobs/2004092eeb5913a35e7d9edc56491ab7458c9642"
+    },
+    {
+      "path": "web/src/lib/schema.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9fcb5e56772b4695806718ac6c6d886088ea3982",
+      "size": 9985,
+      "url": "https://api.github.com/repos/gagandt/ipo-ai/git/blobs/9fcb5e56772b4695806718ac6c6d886088ea3982"
+    },
+    {
+      "path": "web/src/lib/schema.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ea4499db6e7e3a33a366dce92f07498973936113",
+      "size": 1644,
+      "url": "https://api.github.com/repos/gagandt/ipo-ai/git/blobs/ea4499db6e7e3a33a366dce92f07498973936113"
+    },
+    {
+      "path": "web/src/lib/similarity.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4668db618723fc2b21985e2f4758186262104d9c",
+      "size": 7408,
+      "url": "https://api.github.com/repos/gagandt/ipo-ai/git/blobs/4668db618723fc2b21985e2f4758186262104d9c"
+    },
+    {
+      "path": "web/src/lib/types.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b9d6246f25437b6f5bc5e190b1d4baa1f0ab3cea",
+      "size": 376,
+      "url": "https://api.github.com/repos/gagandt/ipo-ai/git/blobs/b9d6246f25437b6f5bc5e190b1d4baa1f0ab3cea"
+    },
+    {
+      "path": "web/tsconfig.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7bbb10fdf08b79cc3bc0f1d6e981bcee004acdaa",
+      "size": 702,
+      "url": "https://api.github.com/repos/gagandt/ipo-ai/git/blobs/7bbb10fdf08b79cc3bc0f1d6e981bcee004acdaa"
+    },
+    {
+      "path": "web/vercel.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "73489ff3ae100c3021cc6166a480842e36881edd",
+      "size": 80,
+      "url": "https://api.github.com/repos/gagandt/ipo-ai/git/blobs/73489ff3ae100c3021cc6166a480842e36881edd"
+    }
+  ],
+  "truncated": false
+}

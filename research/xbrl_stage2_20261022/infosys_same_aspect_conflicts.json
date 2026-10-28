@@ -1,0 +1,1083 @@
+[
+  {
+    "concept_qname": "{http://www.bseindia.com/xbrl/fin/2020-03-31/in-bse-fin}DateOfStartOfReportingPeriod",
+    "facts": [
+      {
+        "qname": "{http://www.bseindia.com/xbrl/fin/2020-03-31/in-bse-fin}DateOfStartOfReportingPeriod",
+        "context_id": "OneD",
+        "unit_id": null,
+        "decimals": null,
+        "nil": null,
+        "raw_text": "2024-01-01",
+        "attributes": {
+          "contextRef": "OneD"
+        }
+      },
+      {
+        "qname": "{http://www.bseindia.com/xbrl/fin/2020-03-31/in-bse-fin}DateOfStartOfReportingPeriod",
+        "context_id": "FourD",
+        "unit_id": null,
+        "decimals": null,
+        "nil": null,
+        "raw_text": "2023-04-01",
+        "attributes": {
+          "contextRef": "FourD"
+        }
+      }
+    ]
+  },
+  {
+    "concept_qname": "{http://www.bseindia.com/xbrl/fin/2020-03-31/in-bse-fin}RevenueFromOperations",
+    "facts": [
+      {
+        "qname": "{http://www.bseindia.com/xbrl/fin/2020-03-31/in-bse-fin}RevenueFromOperations",
+        "context_id": "OneD",
+        "unit_id": "INR",
+        "decimals": "-7",
+        "nil": null,
+        "raw_text": "379230000000.00",
+        "attributes": {
+          "contextRef": "OneD",
+          "unitRef": "INR",
+          "decimals": "-7"
+        }
+      },
+      {
+        "qname": "{http://www.bseindia.com/xbrl/fin/2020-03-31/in-bse-fin}RevenueFromOperations",
+        "context_id": "FourD",
+        "unit_id": "INR",
+        "decimals": "-7",
+        "nil": null,
+        "raw_text": "1536700000000.00",
+        "attributes": {
+          "contextRef": "FourD",
+          "unitRef": "INR",
+          "decimals": "-7"
+        }
+      }
+    ]
+  },
+  {
+    "concept_qname": "{http://www.bseindia.com/xbrl/fin/2020-03-31/in-bse-fin}OtherIncome",
+    "facts": [
+      {
+        "qname": "{http://www.bseindia.com/xbrl/fin/2020-03-31/in-bse-fin}OtherIncome",
+        "context_id": "OneD",
+        "unit_id": "INR",
+        "decimals": "-7",
+        "nil": null,
+        "raw_text": "27290000000.00",
+        "attributes": {
+          "contextRef": "OneD",
+          "unitRef": "INR",
+          "decimals": "-7"
+        }
+      },
+      {
+        "qname": "{http://www.bseindia.com/xbrl/fin/2020-03-31/in-bse-fin}OtherIncome",
+        "context_id": "FourD",
+        "unit_id": "INR",
+        "decimals": "-7",
+        "nil": null,
+        "raw_text": "47110000000.00",
+        "attributes": {
+          "contextRef": "FourD",
+          "unitRef": "INR",
+          "decimals": "-7"
+        }
+      }
+    ]
+  },
+  {
+    "concept_qname": "{http://www.bseindia.com/xbrl/fin/2020-03-31/in-bse-fin}Income",
+    "facts": [
+      {
+        "qname": "{http://www.bseindia.com/xbrl/fin/2020-03-31/in-bse-fin}Income",
+        "context_id": "OneD",
+        "unit_id": "INR",
+        "decimals": "-7",
+        "nil": null,
+        "raw_text": "406520000000.00",
+        "attributes": {
+          "contextRef": "OneD",
+          "unitRef": "INR",
+          "decimals": "-7"
+        }
+      },
+      {
+        "qname": "{http://www.bseindia.com/xbrl/fin/2020-03-31/in-bse-fin}Income",
+        "context_id": "FourD",
+        "unit_id": "INR",
+        "decimals": "-7",
+        "nil": null,
+        "raw_text": "1583810000000.00",
+        "attributes": {
+          "contextRef": "FourD",
+          "unitRef": "INR",
+          "decimals": "-7"
+        }
+      }
+    ]
+  },
+  {
+    "concept_qname": "{http://www.bseindia.com/xbrl/fin/2020-03-31/in-bse-fin}EmployeeBenefitExpense",
+    "facts": [
+      {
+        "qname": "{http://www.bseindia.com/xbrl/fin/2020-03-31/in-bse-fin}EmployeeBenefitExpense",
+        "context_id": "OneD",
+        "unit_id": "INR",
+        "decimals": "-7",
+        "nil": null,
+        "raw_text": "203930000000.00",
+        "attributes": {
+          "contextRef": "OneD",
+          "unitRef": "INR",
+          "decimals": "-7"
+        }
+      },
+      {
+        "qname": "{http://www.bseindia.com/xbrl/fin/2020-03-31/in-bse-fin}EmployeeBenefitExpense",
+        "context_id": "FourD",
+        "unit_id": "INR",
+        "decimals": "-7",
+        "nil": null,
+        "raw_text": "826200000000.00",
+        "attributes": {
+          "contextRef": "FourD",
+          "unitRef": "INR",
+          "decimals": "-7"
+        }
+      }
+    ]
+  },
+  {
+    "concept_qname": "{http://www.bseindia.com/xbrl/fin/2020-03-31/in-bse-fin}FinanceCosts",
+    "facts": [
+      {
+        "qname": "{http://www.bseindia.com/xbrl/fin/2020-03-31/in-bse-fin}FinanceCosts",
+        "context_id": "OneD",
+        "unit_id": "INR",
+        "decimals": "-7",
+        "nil": null,
+        "raw_text": "1100000000.00",
+        "attributes": {
+          "contextRef": "OneD",
+          "unitRef": "INR",
+          "decimals": "-7"
+        }
+      },
+      {
+        "qname": "{http://www.bseindia.com/xbrl/fin/2020-03-31/in-bse-fin}FinanceCosts",
+        "context_id": "FourD",
+        "unit_id": "INR",
+        "decimals": "-7",
+        "nil": null,
+        "raw_text": "4700000000.00",
+        "attributes": {
+          "contextRef": "FourD",
+          "unitRef": "INR",
+          "decimals": "-7"
+        }
+      }
+    ]
+  },
+  {
+    "concept_qname": "{http://www.bseindia.com/xbrl/fin/2020-03-31/in-bse-fin}DepreciationDepletionAndAmortisationExpense",
+    "facts": [
+      {
+        "qname": "{http://www.bseindia.com/xbrl/fin/2020-03-31/in-bse-fin}DepreciationDepletionAndAmortisationExpense",
+        "context_id": "OneD",
+        "unit_id": "INR",
+        "decimals": "-7",
+        "nil": null,
+        "raw_text": "11630000000.00",
+        "attributes": {
+          "contextRef": "OneD",
+          "unitRef": "INR",
+          "decimals": "-7"
+        }
+      },
+      {
+        "qname": "{http://www.bseindia.com/xbrl/fin/2020-03-31/in-bse-fin}DepreciationDepletionAndAmortisationExpense",
+        "context_id": "FourD",
+        "unit_id": "INR",
+        "decimals": "-7",
+        "nil": null,
+        "raw_text": "46780000000.00",
+        "attributes": {
+          "contextRef": "FourD",
+          "unitRef": "INR",
+          "decimals": "-7"
+        }
+      }
+    ]
+  },
+  {
+    "concept_qname": "{http://www.bseindia.com/xbrl/fin/2020-03-31/in-bse-fin}OtherExpenses",
+    "facts": [
+      {
+        "qname": "{http://www.bseindia.com/xbrl/fin/2020-03-31/in-bse-fin}OtherExpenses",
+        "context_id": "OneD",
+        "unit_id": "INR",
+        "decimals": "-7",
+        "nil": null,
+        "raw_text": "87460000000.00",
+        "attributes": {
+          "contextRef": "OneD",
+          "unitRef": "INR",
+          "decimals": "-7"
+        }
+      },
+      {
+        "qname": "{http://www.bseindia.com/xbrl/fin/2020-03-31/in-bse-fin}OtherExpenses",
+        "context_id": "FourD",
+        "unit_id": "INR",
+        "decimals": "-7",
+        "nil": null,
+        "raw_text": "346250000000.00",
+        "attributes": {
+          "contextRef": "FourD",
+          "unitRef": "INR",
+          "decimals": "-7"
+        }
+      }
+    ]
+  },
+  {
+    "concept_qname": "{http://www.bseindia.com/xbrl/fin/2020-03-31/in-bse-fin}Expenses",
+    "facts": [
+      {
+        "qname": "{http://www.bseindia.com/xbrl/fin/2020-03-31/in-bse-fin}Expenses",
+        "context_id": "OneD",
+        "unit_id": "INR",
+        "decimals": "-7",
+        "nil": null,
+        "raw_text": "304120000000.00",
+        "attributes": {
+          "contextRef": "OneD",
+          "unitRef": "INR",
+          "decimals": "-7"
+        }
+      },
+      {
+        "qname": "{http://www.bseindia.com/xbrl/fin/2020-03-31/in-bse-fin}Expenses",
+        "context_id": "FourD",
+        "unit_id": "INR",
+        "decimals": "-7",
+        "nil": null,
+        "raw_text": "1223930000000.00",
+        "attributes": {
+          "contextRef": "FourD",
+          "unitRef": "INR",
+          "decimals": "-7"
+        }
+      }
+    ]
+  },
+  {
+    "concept_qname": "{http://www.bseindia.com/xbrl/fin/2020-03-31/in-bse-fin}ProfitBeforeExceptionalItemsAndTax",
+    "facts": [
+      {
+        "qname": "{http://www.bseindia.com/xbrl/fin/2020-03-31/in-bse-fin}ProfitBeforeExceptionalItemsAndTax",
+        "context_id": "OneD",
+        "unit_id": "INR",
+        "decimals": "-7",
+        "nil": null,
+        "raw_text": "102400000000.00",
+        "attributes": {
+          "contextRef": "OneD",
+          "unitRef": "INR",
+          "decimals": "-7"
+        }
+      },
+      {
+        "qname": "{http://www.bseindia.com/xbrl/fin/2020-03-31/in-bse-fin}ProfitBeforeExceptionalItemsAndTax",
+        "context_id": "FourD",
+        "unit_id": "INR",
+        "decimals": "-7",
+        "nil": null,
+        "raw_text": "359880000000.00",
+        "attributes": {
+          "contextRef": "FourD",
+          "unitRef": "INR",
+          "decimals": "-7"
+        }
+      }
+    ]
+  },
+  {
+    "concept_qname": "{http://www.bseindia.com/xbrl/fin/2020-03-31/in-bse-fin}ProfitBeforeTax",
+    "facts": [
+      {
+        "qname": "{http://www.bseindia.com/xbrl/fin/2020-03-31/in-bse-fin}ProfitBeforeTax",
+        "context_id": "OneD",
+        "unit_id": "INR",
+        "decimals": "-7",
+        "nil": null,
+        "raw_text": "102400000000.00",
+        "attributes": {
+          "contextRef": "OneD",
+          "unitRef": "INR",
+          "decimals": "-7"
+        }
+      },
+      {
+        "qname": "{http://www.bseindia.com/xbrl/fin/2020-03-31/in-bse-fin}ProfitBeforeTax",
+        "context_id": "FourD",
+        "unit_id": "INR",
+        "decimals": "-7",
+        "nil": null,
+        "raw_text": "359880000000.00",
+        "attributes": {
+          "contextRef": "FourD",
+          "unitRef": "INR",
+          "decimals": "-7"
+        }
+      }
+    ]
+  },
+  {
+    "concept_qname": "{http://www.bseindia.com/xbrl/fin/2020-03-31/in-bse-fin}CurrentTax",
+    "facts": [
+      {
+        "qname": "{http://www.bseindia.com/xbrl/fin/2020-03-31/in-bse-fin}CurrentTax",
+        "context_id": "OneD",
+        "unit_id": "INR",
+        "decimals": "-7",
+        "nil": null,
+        "raw_text": "11730000000.00",
+        "attributes": {
+          "contextRef": "OneD",
+          "unitRef": "INR",
+          "decimals": "-7"
+        }
+      },
+      {
+        "qname": "{http://www.bseindia.com/xbrl/fin/2020-03-31/in-bse-fin}CurrentTax",
+        "context_id": "FourD",
+        "unit_id": "INR",
+        "decimals": "-7",
+        "nil": null,
+        "raw_text": "83900000000.00",
+        "attributes": {
+          "contextRef": "FourD",
+          "unitRef": "INR",
+          "decimals": "-7"
+        }
+      }
+    ]
+  },
+  {
+    "concept_qname": "{http://www.bseindia.com/xbrl/fin/2020-03-31/in-bse-fin}DeferredTax",
+    "facts": [
+      {
+        "qname": "{http://www.bseindia.com/xbrl/fin/2020-03-31/in-bse-fin}DeferredTax",
+        "context_id": "OneD",
+        "unit_id": "INR",
+        "decimals": "-7",
+        "nil": null,
+        "raw_text": "10920000000.00",
+        "attributes": {
+          "contextRef": "OneD",
+          "unitRef": "INR",
+          "decimals": "-7"
+        }
+      },
+      {
+        "qname": "{http://www.bseindia.com/xbrl/fin/2020-03-31/in-bse-fin}DeferredTax",
+        "context_id": "FourD",
+        "unit_id": "INR",
+        "decimals": "-7",
+        "nil": null,
+        "raw_text": "13500000000.00",
+        "attributes": {
+          "contextRef": "FourD",
+          "unitRef": "INR",
+          "decimals": "-7"
+        }
+      }
+    ]
+  },
+  {
+    "concept_qname": "{http://www.bseindia.com/xbrl/fin/2020-03-31/in-bse-fin}TaxExpense",
+    "facts": [
+      {
+        "qname": "{http://www.bseindia.com/xbrl/fin/2020-03-31/in-bse-fin}TaxExpense",
+        "context_id": "OneD",
+        "unit_id": "INR",
+        "decimals": "-7",
+        "nil": null,
+        "raw_text": "22650000000.00",
+        "attributes": {
+          "contextRef": "OneD",
+          "unitRef": "INR",
+          "decimals": "-7"
+        }
+      },
+      {
+        "qname": "{http://www.bseindia.com/xbrl/fin/2020-03-31/in-bse-fin}TaxExpense",
+        "context_id": "FourD",
+        "unit_id": "INR",
+        "decimals": "-7",
+        "nil": null,
+        "raw_text": "97400000000.00",
+        "attributes": {
+          "contextRef": "FourD",
+          "unitRef": "INR",
+          "decimals": "-7"
+        }
+      }
+    ]
+  },
+  {
+    "concept_qname": "{http://www.bseindia.com/xbrl/fin/2020-03-31/in-bse-fin}ProfitLossForPeriodFromContinuingOperations",
+    "facts": [
+      {
+        "qname": "{http://www.bseindia.com/xbrl/fin/2020-03-31/in-bse-fin}ProfitLossForPeriodFromContinuingOperations",
+        "context_id": "OneD",
+        "unit_id": "INR",
+        "decimals": "-7",
+        "nil": null,
+        "raw_text": "79750000000.00",
+        "attributes": {
+          "contextRef": "OneD",
+          "unitRef": "INR",
+          "decimals": "-7"
+        }
+      },
+      {
+        "qname": "{http://www.bseindia.com/xbrl/fin/2020-03-31/in-bse-fin}ProfitLossForPeriodFromContinuingOperations",
+        "context_id": "FourD",
+        "unit_id": "INR",
+        "decimals": "-7",
+        "nil": null,
+        "raw_text": "262480000000.00",
+        "attributes": {
+          "contextRef": "FourD",
+          "unitRef": "INR",
+          "decimals": "-7"
+        }
+      }
+    ]
+  },
+  {
+    "concept_qname": "{http://www.bseindia.com/xbrl/fin/2020-03-31/in-bse-fin}ProfitLossForPeriod",
+    "facts": [
+      {
+        "qname": "{http://www.bseindia.com/xbrl/fin/2020-03-31/in-bse-fin}ProfitLossForPeriod",
+        "context_id": "OneD",
+        "unit_id": "INR",
+        "decimals": "-7",
+        "nil": null,
+        "raw_text": "79750000000.00",
+        "attributes": {
+          "contextRef": "OneD",
+          "unitRef": "INR",
+          "decimals": "-7"
+        }
+      },
+      {
+        "qname": "{http://www.bseindia.com/xbrl/fin/2020-03-31/in-bse-fin}ProfitLossForPeriod",
+        "context_id": "FourD",
+        "unit_id": "INR",
+        "decimals": "-7",
+        "nil": null,
+        "raw_text": "262480000000.00",
+        "attributes": {
+          "contextRef": "FourD",
+          "unitRef": "INR",
+          "decimals": "-7"
+        }
+      }
+    ]
+  },
+  {
+    "concept_qname": "{http://www.bseindia.com/xbrl/fin/2020-03-31/in-bse-fin}OtherComprehensiveIncomeNetOfTaxes",
+    "facts": [
+      {
+        "qname": "{http://www.bseindia.com/xbrl/fin/2020-03-31/in-bse-fin}OtherComprehensiveIncomeNetOfTaxes",
+        "context_id": "OneD",
+        "unit_id": "INR",
+        "decimals": "-7",
+        "nil": null,
+        "raw_text": "-1520000000.00",
+        "attributes": {
+          "contextRef": "OneD",
+          "unitRef": "INR",
+          "decimals": "-7"
+        }
+      },
+      {
+        "qname": "{http://www.bseindia.com/xbrl/fin/2020-03-31/in-bse-fin}OtherComprehensiveIncomeNetOfTaxes",
+        "context_id": "FourD",
+        "unit_id": "INR",
+        "decimals": "-7",
+        "nil": null,
+        "raw_text": "5200000000.00",
+        "attributes": {
+          "contextRef": "FourD",
+          "unitRef": "INR",
+          "decimals": "-7"
+        }
+      }
+    ]
+  },
+  {
+    "concept_qname": "{http://www.bseindia.com/xbrl/fin/2020-03-31/in-bse-fin}ComprehensiveIncomeForThePeriod",
+    "facts": [
+      {
+        "qname": "{http://www.bseindia.com/xbrl/fin/2020-03-31/in-bse-fin}ComprehensiveIncomeForThePeriod",
+        "context_id": "OneD",
+        "unit_id": "INR",
+        "decimals": "-7",
+        "nil": null,
+        "raw_text": "78230000000.00",
+        "attributes": {
+          "contextRef": "OneD",
+          "unitRef": "INR",
+          "decimals": "-7"
+        }
+      },
+      {
+        "qname": "{http://www.bseindia.com/xbrl/fin/2020-03-31/in-bse-fin}ComprehensiveIncomeForThePeriod",
+        "context_id": "FourD",
+        "unit_id": "INR",
+        "decimals": "-7",
+        "nil": null,
+        "raw_text": "267680000000.00",
+        "attributes": {
+          "contextRef": "FourD",
+          "unitRef": "INR",
+          "decimals": "-7"
+        }
+      }
+    ]
+  },
+  {
+    "concept_qname": "{http://www.bseindia.com/xbrl/fin/2020-03-31/in-bse-fin}ProfitOrLossAttributableToOwnersOfParent",
+    "facts": [
+      {
+        "qname": "{http://www.bseindia.com/xbrl/fin/2020-03-31/in-bse-fin}ProfitOrLossAttributableToOwnersOfParent",
+        "context_id": "OneD",
+        "unit_id": "INR",
+        "decimals": "-7",
+        "nil": null,
+        "raw_text": "79690000000.00",
+        "attributes": {
+          "contextRef": "OneD",
+          "unitRef": "INR",
+          "decimals": "-7"
+        }
+      },
+      {
+        "qname": "{http://www.bseindia.com/xbrl/fin/2020-03-31/in-bse-fin}ProfitOrLossAttributableToOwnersOfParent",
+        "context_id": "FourD",
+        "unit_id": "INR",
+        "decimals": "-7",
+        "nil": null,
+        "raw_text": "262330000000.00",
+        "attributes": {
+          "contextRef": "FourD",
+          "unitRef": "INR",
+          "decimals": "-7"
+        }
+      }
+    ]
+  },
+  {
+    "concept_qname": "{http://www.bseindia.com/xbrl/fin/2020-03-31/in-bse-fin}ProfitOrLossAttributableToNonControllingInterests",
+    "facts": [
+      {
+        "qname": "{http://www.bseindia.com/xbrl/fin/2020-03-31/in-bse-fin}ProfitOrLossAttributableToNonControllingInterests",
+        "context_id": "OneD",
+        "unit_id": "INR",
+        "decimals": "-7",
+        "nil": null,
+        "raw_text": "60000000.00",
+        "attributes": {
+          "contextRef": "OneD",
+          "unitRef": "INR",
+          "decimals": "-7"
+        }
+      },
+      {
+        "qname": "{http://www.bseindia.com/xbrl/fin/2020-03-31/in-bse-fin}ProfitOrLossAttributableToNonControllingInterests",
+        "context_id": "FourD",
+        "unit_id": "INR",
+        "decimals": "-7",
+        "nil": null,
+        "raw_text": "150000000.00",
+        "attributes": {
+          "contextRef": "FourD",
+          "unitRef": "INR",
+          "decimals": "-7"
+        }
+      }
+    ]
+  },
+  {
+    "concept_qname": "{http://www.bseindia.com/xbrl/fin/2020-03-31/in-bse-fin}ComprehensiveIncomeForThePeriodAttributableToOwnersOfParent",
+    "facts": [
+      {
+        "qname": "{http://www.bseindia.com/xbrl/fin/2020-03-31/in-bse-fin}ComprehensiveIncomeForThePeriodAttributableToOwnersOfParent",
+        "context_id": "OneD",
+        "unit_id": "INR",
+        "decimals": "-7",
+        "nil": null,
+        "raw_text": "78210000000.00",
+        "attributes": {
+          "contextRef": "OneD",
+          "unitRef": "INR",
+          "decimals": "-7"
+        }
+      },
+      {
+        "qname": "{http://www.bseindia.com/xbrl/fin/2020-03-31/in-bse-fin}ComprehensiveIncomeForThePeriodAttributableToOwnersOfParent",
+        "context_id": "FourD",
+        "unit_id": "INR",
+        "decimals": "-7",
+        "nil": null,
+        "raw_text": "267540000000.00",
+        "attributes": {
+          "contextRef": "FourD",
+          "unitRef": "INR",
+          "decimals": "-7"
+        }
+      }
+    ]
+  },
+  {
+    "concept_qname": "{http://www.bseindia.com/xbrl/fin/2020-03-31/in-bse-fin}ComprehensiveIncomeForThePeriodAttributableToOwnersOfParentNonControllingInterests",
+    "facts": [
+      {
+        "qname": "{http://www.bseindia.com/xbrl/fin/2020-03-31/in-bse-fin}ComprehensiveIncomeForThePeriodAttributableToOwnersOfParentNonControllingInterests",
+        "context_id": "OneD",
+        "unit_id": "INR",
+        "decimals": "-7",
+        "nil": null,
+        "raw_text": "20000000.00",
+        "attributes": {
+          "contextRef": "OneD",
+          "unitRef": "INR",
+          "decimals": "-7"
+        }
+      },
+      {
+        "qname": "{http://www.bseindia.com/xbrl/fin/2020-03-31/in-bse-fin}ComprehensiveIncomeForThePeriodAttributableToOwnersOfParentNonControllingInterests",
+        "context_id": "FourD",
+        "unit_id": "INR",
+        "decimals": "-7",
+        "nil": null,
+        "raw_text": "140000000.00",
+        "attributes": {
+          "contextRef": "FourD",
+          "unitRef": "INR",
+          "decimals": "-7"
+        }
+      }
+    ]
+  },
+  {
+    "concept_qname": "{http://www.bseindia.com/xbrl/fin/2020-03-31/in-bse-fin}BasicEarningsLossPerShareFromContinuingOperations",
+    "facts": [
+      {
+        "qname": "{http://www.bseindia.com/xbrl/fin/2020-03-31/in-bse-fin}BasicEarningsLossPerShareFromContinuingOperations",
+        "context_id": "OneD",
+        "unit_id": "INRPerShare",
+        "decimals": "INF",
+        "nil": null,
+        "raw_text": "19.25",
+        "attributes": {
+          "contextRef": "OneD",
+          "unitRef": "INRPerShare",
+          "decimals": "INF"
+        }
+      },
+      {
+        "qname": "{http://www.bseindia.com/xbrl/fin/2020-03-31/in-bse-fin}BasicEarningsLossPerShareFromContinuingOperations",
+        "context_id": "FourD",
+        "unit_id": "INRPerShare",
+        "decimals": "INF",
+        "nil": null,
+        "raw_text": "63.39",
+        "attributes": {
+          "contextRef": "FourD",
+          "unitRef": "INRPerShare",
+          "decimals": "INF"
+        }
+      }
+    ]
+  },
+  {
+    "concept_qname": "{http://www.bseindia.com/xbrl/fin/2020-03-31/in-bse-fin}DilutedEarningsLossPerShareFromContinuingOperations",
+    "facts": [
+      {
+        "qname": "{http://www.bseindia.com/xbrl/fin/2020-03-31/in-bse-fin}DilutedEarningsLossPerShareFromContinuingOperations",
+        "context_id": "OneD",
+        "unit_id": "INRPerShare",
+        "decimals": "INF",
+        "nil": null,
+        "raw_text": "19.22",
+        "attributes": {
+          "contextRef": "OneD",
+          "unitRef": "INRPerShare",
+          "decimals": "INF"
+        }
+      },
+      {
+        "qname": "{http://www.bseindia.com/xbrl/fin/2020-03-31/in-bse-fin}DilutedEarningsLossPerShareFromContinuingOperations",
+        "context_id": "FourD",
+        "unit_id": "INRPerShare",
+        "decimals": "INF",
+        "nil": null,
+        "raw_text": "63.29",
+        "attributes": {
+          "contextRef": "FourD",
+          "unitRef": "INRPerShare",
+          "decimals": "INF"
+        }
+      }
+    ]
+  },
+  {
+    "concept_qname": "{http://www.bseindia.com/xbrl/fin/2020-03-31/in-bse-fin}BasicEarningsLossPerShareFromContinuingAndDiscontinuedOperations",
+    "facts": [
+      {
+        "qname": "{http://www.bseindia.com/xbrl/fin/2020-03-31/in-bse-fin}BasicEarningsLossPerShareFromContinuingAndDiscontinuedOperations",
+        "context_id": "OneD",
+        "unit_id": "INRPerShare",
+        "decimals": "INF",
+        "nil": null,
+        "raw_text": "19.25",
+        "attributes": {
+          "contextRef": "OneD",
+          "unitRef": "INRPerShare",
+          "decimals": "INF"
+        }
+      },
+      {
+        "qname": "{http://www.bseindia.com/xbrl/fin/2020-03-31/in-bse-fin}BasicEarningsLossPerShareFromContinuingAndDiscontinuedOperations",
+        "context_id": "FourD",
+        "unit_id": "INRPerShare",
+        "decimals": "INF",
+        "nil": null,
+        "raw_text": "63.39",
+        "attributes": {
+          "contextRef": "FourD",
+          "unitRef": "INRPerShare",
+          "decimals": "INF"
+        }
+      }
+    ]
+  },
+  {
+    "concept_qname": "{http://www.bseindia.com/xbrl/fin/2020-03-31/in-bse-fin}DilutedEarningsLossPerShareFromContinuingAndDiscontinuedOperations",
+    "facts": [
+      {
+        "qname": "{http://www.bseindia.com/xbrl/fin/2020-03-31/in-bse-fin}DilutedEarningsLossPerShareFromContinuingAndDiscontinuedOperations",
+        "context_id": "OneD",
+        "unit_id": "INRPerShare",
+        "decimals": "INF",
+        "nil": null,
+        "raw_text": "19.22",
+        "attributes": {
+          "contextRef": "OneD",
+          "unitRef": "INRPerShare",
+          "decimals": "INF"
+        }
+      },
+      {
+        "qname": "{http://www.bseindia.com/xbrl/fin/2020-03-31/in-bse-fin}DilutedEarningsLossPerShareFromContinuingAndDiscontinuedOperations",
+        "context_id": "FourD",
+        "unit_id": "INRPerShare",
+        "decimals": "INF",
+        "nil": null,
+        "raw_text": "63.29",
+        "attributes": {
+          "contextRef": "FourD",
+          "unitRef": "INRPerShare",
+          "decimals": "INF"
+        }
+      }
+    ]
+  },
+  {
+    "concept_qname": "{http://www.bseindia.com/xbrl/fin/2020-03-31/in-bse-fin}SegmentRevenue",
+    "facts": [
+      {
+        "qname": "{http://www.bseindia.com/xbrl/fin/2020-03-31/in-bse-fin}SegmentRevenue",
+        "context_id": "OneD",
+        "unit_id": "INR",
+        "decimals": "-7",
+        "nil": null,
+        "raw_text": "379230000000.00",
+        "attributes": {
+          "contextRef": "OneD",
+          "unitRef": "INR",
+          "decimals": "-7"
+        }
+      },
+      {
+        "qname": "{http://www.bseindia.com/xbrl/fin/2020-03-31/in-bse-fin}SegmentRevenue",
+        "context_id": "FourD",
+        "unit_id": "INR",
+        "decimals": "-7",
+        "nil": null,
+        "raw_text": "1536700000000.00",
+        "attributes": {
+          "contextRef": "FourD",
+          "unitRef": "INR",
+          "decimals": "-7"
+        }
+      }
+    ]
+  },
+  {
+    "concept_qname": "{http://www.bseindia.com/xbrl/fin/2020-03-31/in-bse-fin}SegmentRevenueFromOperations",
+    "facts": [
+      {
+        "qname": "{http://www.bseindia.com/xbrl/fin/2020-03-31/in-bse-fin}SegmentRevenueFromOperations",
+        "context_id": "OneD",
+        "unit_id": "INR",
+        "decimals": "-7",
+        "nil": null,
+        "raw_text": "379230000000.00",
+        "attributes": {
+          "contextRef": "OneD",
+          "unitRef": "INR",
+          "decimals": "-7"
+        }
+      },
+      {
+        "qname": "{http://www.bseindia.com/xbrl/fin/2020-03-31/in-bse-fin}SegmentRevenueFromOperations",
+        "context_id": "FourD",
+        "unit_id": "INR",
+        "decimals": "-7",
+        "nil": null,
+        "raw_text": "1536700000000.00",
+        "attributes": {
+          "contextRef": "FourD",
+          "unitRef": "INR",
+          "decimals": "-7"
+        }
+      }
+    ]
+  },
+  {
+    "concept_qname": "{http://www.bseindia.com/xbrl/fin/2020-03-31/in-bse-fin}SegmentProfitLossBeforeTaxAndFinanceCosts",
+    "facts": [
+      {
+        "qname": "{http://www.bseindia.com/xbrl/fin/2020-03-31/in-bse-fin}SegmentProfitLossBeforeTaxAndFinanceCosts",
+        "context_id": "OneD",
+        "unit_id": "INR",
+        "decimals": "-7",
+        "nil": null,
+        "raw_text": "87840000000.00",
+        "attributes": {
+          "contextRef": "OneD",
+          "unitRef": "INR",
+          "decimals": "-7"
+        }
+      },
+      {
+        "qname": "{http://www.bseindia.com/xbrl/fin/2020-03-31/in-bse-fin}SegmentProfitLossBeforeTaxAndFinanceCosts",
+        "context_id": "FourD",
+        "unit_id": "INR",
+        "decimals": "-7",
+        "nil": null,
+        "raw_text": "364250000000.00",
+        "attributes": {
+          "contextRef": "FourD",
+          "unitRef": "INR",
+          "decimals": "-7"
+        }
+      }
+    ]
+  },
+  {
+    "concept_qname": "{http://www.bseindia.com/xbrl/fin/2020-03-31/in-bse-fin}SegmentFinanceCosts",
+    "facts": [
+      {
+        "qname": "{http://www.bseindia.com/xbrl/fin/2020-03-31/in-bse-fin}SegmentFinanceCosts",
+        "context_id": "OneD",
+        "unit_id": "INR",
+        "decimals": "-7",
+        "nil": null,
+        "raw_text": "1100000000.00",
+        "attributes": {
+          "contextRef": "OneD",
+          "unitRef": "INR",
+          "decimals": "-7"
+        }
+      },
+      {
+        "qname": "{http://www.bseindia.com/xbrl/fin/2020-03-31/in-bse-fin}SegmentFinanceCosts",
+        "context_id": "FourD",
+        "unit_id": "INR",
+        "decimals": "-7",
+        "nil": null,
+        "raw_text": "4700000000.00",
+        "attributes": {
+          "contextRef": "FourD",
+          "unitRef": "INR",
+          "decimals": "-7"
+        }
+      }
+    ]
+  },
+  {
+    "concept_qname": "{http://www.bseindia.com/xbrl/fin/2020-03-31/in-bse-fin}OtherUnallocableExpenditureNetOffUnAllocableIncome",
+    "facts": [
+      {
+        "qname": "{http://www.bseindia.com/xbrl/fin/2020-03-31/in-bse-fin}OtherUnallocableExpenditureNetOffUnAllocableIncome",
+        "context_id": "OneD",
+        "unit_id": "INR",
+        "decimals": "-7",
+        "nil": null,
+        "raw_text": "-15660000000.00",
+        "attributes": {
+          "contextRef": "OneD",
+          "unitRef": "INR",
+          "decimals": "-7"
+        }
+      },
+      {
+        "qname": "{http://www.bseindia.com/xbrl/fin/2020-03-31/in-bse-fin}OtherUnallocableExpenditureNetOffUnAllocableIncome",
+        "context_id": "FourD",
+        "unit_id": "INR",
+        "decimals": "-7",
+        "nil": null,
+        "raw_text": "-330000000.00",
+        "attributes": {
+          "contextRef": "FourD",
+          "unitRef": "INR",
+          "decimals": "-7"
+        }
+      }
+    ]
+  },
+  {
+    "concept_qname": "{http://www.bseindia.com/xbrl/fin/2020-03-31/in-bse-fin}SegmentProfitBeforeTax",
+    "facts": [
+      {
+        "qname": "{http://www.bseindia.com/xbrl/fin/2020-03-31/in-bse-fin}SegmentProfitBeforeTax",
+        "context_id": "OneD",
+        "unit_id": "INR",
+        "decimals": "-7",
+        "nil": null,
+        "raw_text": "102400000000.00",
+        "attributes": {
+          "contextRef": "OneD",
+          "unitRef": "INR",
+          "decimals": "-7"
+        }
+      },
+      {
+        "qname": "{http://www.bseindia.com/xbrl/fin/2020-03-31/in-bse-fin}SegmentProfitBeforeTax",
+        "context_id": "FourD",
+        "unit_id": "INR",
+        "decimals": "-7",
+        "nil": null,
+        "raw_text": "359880000000.00",
+        "attributes": {
+          "contextRef": "FourD",
+          "unitRef": "INR",
+          "decimals": "-7"
+        }
+      }
+    ]
+  },
+  {
+    "concept_qname": "{http://www.bseindia.com/xbrl/fin/2020-03-31/in-bse-fin}CashAndCashEquivalentsCashFlowStatement",
+    "facts": [
+      {
+        "qname": "{http://www.bseindia.com/xbrl/fin/2020-03-31/in-bse-fin}CashAndCashEquivalentsCashFlowStatement",
+        "context_id": "FourD",
+        "unit_id": "INR",
+        "decimals": "-7",
+        "nil": null,
+        "raw_text": "121730000000.00",
+        "attributes": {
+          "contextRef": "FourD",
+          "unitRef": "INR",
+          "decimals": "-7"
+        }
+      },
+      {
+        "qname": "{http://www.bseindia.com/xbrl/fin/2020-03-31/in-bse-fin}CashAndCashEquivalentsCashFlowStatement",
+        "context_id": "FourD",
+        "unit_id": "INR",
+        "decimals": "-7",
+        "nil": null,
+        "raw_text": "147860000000.00",
+        "attributes": {
+          "contextRef": "FourD",
+          "unitRef": "INR",
+          "decimals": "-7"
+        }
+      }
+    ]
+  },
+  {
+    "concept_qname": "{http://www.bseindia.com/xbrl/fin/2020-03-31/in-bse-fin}AmountOfItemThatWillNotBeReclassifiedToProfitAndLoss",
+    "facts": [
+      {
+        "qname": "{http://www.bseindia.com/xbrl/fin/2020-03-31/in-bse-fin}AmountOfItemThatWillNotBeReclassifiedToProfitAndLoss",
+        "context_id": "OneD",
+        "unit_id": "INR",
+        "decimals": "-7",
+        "nil": null,
+        "raw_text": "140000000.00",
+        "attributes": {
+          "contextRef": "OneD",
+          "unitRef": "INR",
+          "decimals": "-7"
+        }
+      },
+      {
+        "qname": "{http://www.bseindia.com/xbrl/fin/2020-03-31/in-bse-fin}AmountOfItemThatWillNotBeReclassifiedToProfitAndLoss",
+        "context_id": "FourD",
+        "unit_id": "INR",
+        "decimals": "-7",
+        "nil": null,
+        "raw_text": "1390000000.00",
+        "attributes": {
+          "contextRef": "FourD",
+          "unitRef": "INR",
+          "decimals": "-7"
+        }
+      }
+    ]
+  },
+  {
+    "concept_qname": "{http://www.bseindia.com/xbrl/fin/2020-03-31/in-bse-fin}AmountOfItemThatWillBeReclassifiedToProfitAndLoss",
+    "facts": [
+      {
+        "qname": "{http://www.bseindia.com/xbrl/fin/2020-03-31/in-bse-fin}AmountOfItemThatWillBeReclassifiedToProfitAndLoss",
+        "context_id": "OneD",
+        "unit_id": "INR",
+        "decimals": "-7",
+        "nil": null,
+        "raw_text": "-1660000000.00",
+        "attributes": {
+          "contextRef": "OneD",
+          "unitRef": "INR",
+          "decimals": "-7"
+        }
+      },
+      {
+        "qname": "{http://www.bseindia.com/xbrl/fin/2020-03-31/in-bse-fin}AmountOfItemThatWillBeReclassifiedToProfitAndLoss",
+        "context_id": "FourD",
+        "unit_id": "INR",
+        "decimals": "-7",
+        "nil": null,
+        "raw_text": "3810000000.00",
+        "attributes": {
+          "contextRef": "FourD",
+          "unitRef": "INR",
+          "decimals": "-7"
+        }
+      }
+    ]
+  }
+]
