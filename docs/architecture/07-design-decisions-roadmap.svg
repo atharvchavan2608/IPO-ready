@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="1200" viewBox="0 0 1700 1200">
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="context-stroke"/></marker></defs>
+<rect x="0" y="0" width="1700" height="1200" rx="0" fill="#FFFFFF" stroke="none" stroke-width="1.2"/>
+<rect x="0" y="0" width="1700" height="10" rx="0" fill="#117F82" stroke="none" stroke-width="1.2"/>
+<text x="48" y="52.3" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" fill="#117F82" font-weight="700">IPO-READY  /  PRODUCT ARCHITECTURE</text>
+<text x="48" y="102.06" font-family="DejaVu Sans, Arial, sans-serif" font-size="33" fill="#142B43" font-weight="700">Architecture decisions | Product delivery roadmap</text>
+<text x="48" y="134.12" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" fill="#52677C" font-weight="400">The startup product is the design target. Repository mockups and attached reports supply context and examples, not architectural constraints.</text>
+<polyline points="48,163 1652,163" fill="none" stroke="#B8C7D5" stroke-width="1"/>
+<polyline points="48,1148 1652,1148" fill="none" stroke="#B8C7D5" stroke-width="1"/>
+<text x="48" y="1174.84" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" fill="#52677C" font-weight="400">MBA (Business Analytics) | Programming Analytics Lab | Target product design | 29 Oct 2026</text>
+<text x="1535" y="1174.84" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" fill="#52677C" font-weight="700">07 / 07</text>
+<rect x="48" y="220" width="368" height="245" rx="12" fill="#EAF2FD" stroke="#2463AA" stroke-width="1.2"/>
+<rect x="48" y="235" width="4" height="215" rx="0" fill="#2463AA" stroke="none" stroke-width="1.2"/>
+<text x="66" y="248.02" font-family="DejaVu Sans, Arial, sans-serif" font-size="11" fill="#2463AA" font-weight="700">1 / FOUNDATION</text>
+<text x="66" y="275.58" font-family="DejaVu Sans, Arial, sans-serif" font-size="19" fill="#142B43" font-weight="700">Define the intelligence</text>
+<text x="66" y="299.58" font-family="DejaVu Sans, Arial, sans-serif" font-size="19" fill="#142B43" font-weight="700">contract</text>
+<text x="66" y="328.94" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" fill="#52677C" font-weight="400">Company / offering identities; metric</text>
+<text x="66" y="352.4" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" fill="#52677C" font-weight="400">and factor policies; peer rules;</text>
+<text x="66" y="375.86" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" fill="#52677C" font-weight="400">evidence schema; representative</text>
+<text x="66" y="399.32" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" fill="#52677C" font-weight="400">reference cases.</text>
+<polyline points="416,343 460,343" fill="none" stroke="#117F82" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="460" y="220" width="368" height="245" rx="12" fill="#EAF2FD" stroke="#2463AA" stroke-width="1.2"/>
+<rect x="460" y="235" width="4" height="215" rx="0" fill="#2463AA" stroke="none" stroke-width="1.2"/>
+<text x="478" y="248.02" font-family="DejaVu Sans, Arial, sans-serif" font-size="11" fill="#2463AA" font-weight="700">2 / CORE PRODUCT</text>
+<text x="478" y="275.58" font-family="DejaVu Sans, Arial, sans-serif" font-size="19" fill="#142B43" font-weight="700">Ship discovery and</text>
+<text x="478" y="299.58" font-family="DejaVu Sans, Arial, sans-serif" font-size="19" fill="#142B43" font-weight="700">comparison</text>
+<text x="478" y="328.94" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" fill="#52677C" font-weight="400">Screener, company pages, peer</text>
+<text x="478" y="352.4" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" fill="#52677C" font-weight="400">comparison, explicit selection criteria,</text>
+<text x="478" y="375.86" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" fill="#52677C" font-weight="400">valuation scenarios, evidence and</text>
+<text x="478" y="399.32" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" fill="#52677C" font-weight="400">saved shortlists.</text>
+<polyline points="828,343 872,343" fill="none" stroke="#117F82" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="872" y="220" width="368" height="245" rx="12" fill="#EAF2FD" stroke="#2463AA" stroke-width="1.2"/>
+<rect x="872" y="235" width="4" height="215" rx="0" fill="#2463AA" stroke="none" stroke-width="1.2"/>
+<text x="890" y="248.02" font-family="DejaVu Sans, Arial, sans-serif" font-size="11" fill="#2463AA" font-weight="700">3 / AUTOMATION</text>
+<text x="890" y="275.58" font-family="DejaVu Sans, Arial, sans-serif" font-size="19" fill="#142B43" font-weight="700">Make research repeatable</text>
+<text x="890" y="304.94" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" fill="#52677C" font-weight="400">Reliable acquisition / extraction;</text>
+<text x="890" y="328.4" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" fill="#52677C" font-weight="400">exception queue; model approval;</text>
+<text x="890" y="351.86" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" fill="#52677C" font-weight="400">published snapshot refresh; watchlist</text>
+<text x="890" y="375.32" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" fill="#52677C" font-weight="400">changes; cited assistant.</text>
+<polyline points="1240,343 1284,343" fill="none" stroke="#117F82" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="1284" y="220" width="368" height="245" rx="12" fill="#E9F6F3" stroke="#117F82" stroke-width="1.2"/>
+<rect x="1284" y="235" width="4" height="215" rx="0" fill="#117F82" stroke="none" stroke-width="1.2"/>
+<text x="1302" y="248.02" font-family="DejaVu Sans, Arial, sans-serif" font-size="11" fill="#117F82" font-weight="700">4 / EXPANSION</text>
+<text x="1302" y="275.58" font-family="DejaVu Sans, Arial, sans-serif" font-size="19" fill="#142B43" font-weight="700">Grow coverage and capacity</text>
+<text x="1302" y="304.94" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" fill="#52677C" font-weight="400">Additional sectors / jurisdictions;</text>
+<text x="1302" y="328.4" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" fill="#52677C" font-weight="400">evaluate new models; scale workers</text>
+<text x="1302" y="351.86" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" fill="#52677C" font-weight="400">and read services using observed</text>
+<text x="1302" y="375.32" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" fill="#52677C" font-weight="400">demand.</text>
+<text x="48" y="521.94" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" fill="#117F82" font-weight="700">KEY ARCHITECTURE DECISIONS</text>
+<rect x="48" y="546" width="600" height="40" rx="0" fill="#117F82" stroke="#B8C7D5" stroke-width="1.2"/>
+<text x="61" y="567.48" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" fill="#FFFFFF" font-weight="700">Decision</text>
+<rect x="648" y="546" width="1004" height="40" rx="0" fill="#117F82" stroke="#B8C7D5" stroke-width="1.2"/>
+<text x="661" y="567.48" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" fill="#FFFFFF" font-weight="700">Why it belongs in this product</text>
+<rect x="48" y="586" width="600" height="53" rx="0" fill="#F4F7FA" stroke="#B8C7D5" stroke-width="1.2"/>
+<text x="61" y="607.48" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" fill="#142B43" font-weight="400">C4 context + container + separate logical views</text>
+<rect x="648" y="586" width="1004" height="53" rx="0" fill="#F4F7FA" stroke="#B8C7D5" stroke-width="1.2"/>
+<text x="661" y="607.48" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" fill="#142B43" font-weight="400">Keep users, runtime units, domain models and deployment concerns explicit.</text>
+<rect x="48" y="639" width="600" height="53" rx="0" fill="#FFFFFF" stroke="#B8C7D5" stroke-width="1.2"/>
+<text x="61" y="660.48" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" fill="#142B43" font-weight="400">Modular backend + asynchronous workers</text>
+<rect x="648" y="639" width="1004" height="53" rx="0" fill="#FFFFFF" stroke="#B8C7D5" stroke-width="1.2"/>
+<text x="661" y="660.48" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" fill="#142B43" font-weight="400">Support domain separation and independent compute scaling without a service fleet.</text>
+<rect x="48" y="692" width="600" height="53" rx="0" fill="#F4F7FA" stroke="#B8C7D5" stroke-width="1.2"/>
+<text x="61" y="713.48" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" fill="#142B43" font-weight="400">Published read projections + immutable snapshots</text>
+<rect x="648" y="692" width="1004" height="53" rx="0" fill="#F4F7FA" stroke="#B8C7D5" stroke-width="1.2"/>
+<text x="661" y="713.48" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" fill="#142B43" font-weight="400">Fast discovery/comparison; users see one coherent research version with freshness.</text>
+<rect x="48" y="745" width="600" height="53" rx="0" fill="#FFFFFF" stroke="#B8C7D5" stroke-width="1.2"/>
+<text x="61" y="766.48" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" fill="#142B43" font-weight="400">Versioned peer / factor / valuation policies</text>
+<rect x="648" y="745" width="1004" height="53" rx="0" fill="#FFFFFF" stroke="#B8C7D5" stroke-width="1.2"/>
+<text x="661" y="766.48" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" fill="#142B43" font-weight="400">Selection and analytical advice can be explained, tested and revised.</text>
+<rect x="48" y="798" width="600" height="53" rx="0" fill="#F4F7FA" stroke="#B8C7D5" stroke-width="1.2"/>
+<text x="61" y="819.48" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" fill="#142B43" font-weight="400">Point-in-time facts + operand lineage</text>
+<rect x="648" y="798" width="1004" height="53" rx="0" fill="#F4F7FA" stroke="#B8C7D5" stroke-width="1.2"/>
+<text x="661" y="819.48" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" fill="#142B43" font-weight="400">Reproduce research and prevent later disclosures from leaking into an earlier view.</text>
+<rect x="48" y="851" width="600" height="53" rx="0" fill="#FFFFFF" stroke="#B8C7D5" stroke-width="1.2"/>
+<text x="61" y="872.48" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" fill="#142B43" font-weight="400">Outbox + idempotent processing</text>
+<rect x="648" y="851" width="1004" height="53" rx="0" fill="#FFFFFF" stroke="#B8C7D5" stroke-width="1.2"/>
+<text x="661" y="872.48" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" fill="#142B43" font-weight="400">Make source/model changes and downstream refresh recoverable under retries.</text>
+<text x="48" y="955.48" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" fill="#117F82" font-weight="700">ARCHITECTURE REFERENCES  /  PRIMARY GUIDANCE</text>
+<text x="48" y="985.66" font-family="DejaVu Sans, Arial, sans-serif" font-size="13" fill="#52677C" font-weight="400">C4: c4model.com/diagrams/system-context and /container  |  Microsoft: Azure Architecture Center /patterns/cqrs</text>
+<text x="48" y="1010.66" font-family="DejaVu Sans, Arial, sans-serif" font-size="13" fill="#52677C" font-weight="400">AWS Prescriptive Guidance: cloud-design-patterns/transactional-outbox.html  |  Accessed 29 Oct 2026</text>
+<rect x="48" y="1045" width="1604" height="71" rx="10" fill="#E9F6F3" stroke="none" stroke-width="1.2"/>
+<text x="66" y="1071.3" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" fill="#117F82" font-weight="700">DELIVERY PRINCIPLE</text>
+<text x="66" y="1093.66" font-family="DejaVu Sans, Arial, sans-serif" font-size="13" fill="#52677C" font-weight="400">Validate financial logic, ranking stability, evidence accuracy and user understanding before expanding analytical claims or product scope.</text>
+</svg>

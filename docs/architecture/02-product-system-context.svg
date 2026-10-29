@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="1200" viewBox="0 0 1700 1200">
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="context-stroke"/></marker></defs>
+<rect x="0" y="0" width="1700" height="1200" rx="0" fill="#FFFFFF" stroke="none" stroke-width="1.2"/>
+<rect x="0" y="0" width="1700" height="10" rx="0" fill="#117F82" stroke="none" stroke-width="1.2"/>
+<text x="48" y="52.3" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" fill="#117F82" font-weight="700">IPO-READY  /  PRODUCT ARCHITECTURE</text>
+<text x="48" y="102.06" font-family="DejaVu Sans, Arial, sans-serif" font-size="33" fill="#142B43" font-weight="700">Product scope | System context</text>
+<text x="48" y="134.12" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" fill="#52677C" font-weight="400">C4 system context view: the product is defined by investor decisions and external dependencies, independent of any prototype.</text>
+<polyline points="48,163 1652,163" fill="none" stroke="#B8C7D5" stroke-width="1"/>
+<polyline points="48,1148 1652,1148" fill="none" stroke="#B8C7D5" stroke-width="1"/>
+<text x="48" y="1174.84" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" fill="#52677C" font-weight="400">MBA (Business Analytics) | Programming Analytics Lab | Target product design | 29 Oct 2026</text>
+<text x="1535" y="1174.84" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" fill="#52677C" font-weight="700">02 / 07</text>
+<rect x="48" y="221" width="400" height="170" rx="12" fill="#EAF2FD" stroke="#2463AA" stroke-width="1.2"/>
+<rect x="48" y="236" width="4" height="140" rx="0" fill="#2463AA" stroke="none" stroke-width="1.2"/>
+<text x="66" y="255.57999999999998" font-family="DejaVu Sans, Arial, sans-serif" font-size="19" fill="#142B43" font-weight="700">Investor / research user [Person]</text>
+<text x="66" y="284.94" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" fill="#52677C" font-weight="400">Find relevant companies; compare</text>
+<text x="66" y="308.4" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" fill="#52677C" font-weight="400">alternatives; understand financial quality,</text>
+<text x="66" y="331.86" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" fill="#52677C" font-weight="400">valuation and risks; save and monitor a</text>
+<text x="66" y="355.32" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" fill="#52677C" font-weight="400">shortlist.</text>
+<rect x="1252" y="221" width="400" height="170" rx="12" fill="#EAF2FD" stroke="#2463AA" stroke-width="1.2"/>
+<rect x="1252" y="236" width="4" height="140" rx="0" fill="#2463AA" stroke="none" stroke-width="1.2"/>
+<text x="1270" y="255.57999999999998" font-family="DejaVu Sans, Arial, sans-serif" font-size="19" fill="#142B43" font-weight="700">Research / operations team</text>
+<text x="1270" y="279.58" font-family="DejaVu Sans, Arial, sans-serif" font-size="19" fill="#142B43" font-weight="700">[Person]</text>
+<text x="1270" y="308.94" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" fill="#52677C" font-weight="400">Manage coverage; resolve exceptions;</text>
+<text x="1270" y="332.4" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" fill="#52677C" font-weight="400">approve methodologies and releases;</text>
+<text x="1270" y="355.86" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" fill="#52677C" font-weight="400">monitor quality and model behavior.</text>
+<rect x="650" y="221" width="400" height="137" rx="12" fill="#FFF5DE" stroke="#A36B12" stroke-width="1.2"/>
+<rect x="650" y="236" width="4" height="107" rx="0" fill="#A36B12" stroke="none" stroke-width="1.2"/>
+<text x="668" y="253.94" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" fill="#142B43" font-weight="700">Identity platform [External system]</text>
+<text x="668" y="282.12" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" fill="#52677C" font-weight="400">Authenticates investor and operations</text>
+<text x="668" y="304.2" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" fill="#52677C" font-weight="400">accounts.</text>
+<rect x="548" y="468" width="604" height="240" rx="12" fill="#E9F6F3" stroke="#117F82" stroke-width="1.2"/>
+<rect x="548" y="483" width="4" height="210" rx="0" fill="#117F82" stroke="none" stroke-width="1.2"/>
+<text x="566" y="502.58" font-family="DejaVu Sans, Arial, sans-serif" font-size="19" fill="#142B43" font-weight="700">IPO-READY [Software system]</text>
+<text x="566" y="535.22" font-family="DejaVu Sans, Arial, sans-serif" font-size="21" fill="#52677C" font-weight="400">Analytical company research and decision support.</text>
+<text x="566" y="564.2" font-family="DejaVu Sans, Arial, sans-serif" font-size="21" fill="#52677C" font-weight="400">Combines trusted disclosures, comparable-company</text>
+<text x="566" y="593.1800000000001" font-family="DejaVu Sans, Arial, sans-serif" font-size="21" fill="#52677C" font-weight="400">analysis, financial models and explainable ranking</text>
+<text x="566" y="622.1600000000001" font-family="DejaVu Sans, Arial, sans-serif" font-size="21" fill="#52677C" font-weight="400">with evidence-linked research.</text>
+<polyline points="448,306 503,306 503,548 548,548" fill="none" stroke="#2463AA" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="469" y="412" width="182.953125" height="18" rx="2" fill="#FFFFFF" stroke="none" stroke-width="1.2"/>
+<text x="473" y="423.84" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" fill="#2463AA" font-weight="400">discover, compare, evaluate</text>
+<polyline points="1252,306 1197,306 1197,548 1152,548" fill="none" stroke="#2463AA" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="1195" y="412" width="128.87109375" height="18" rx="2" fill="#FFFFFF" stroke="none" stroke-width="1.2"/>
+<text x="1199" y="423.84" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" fill="#2463AA" font-weight="400">review and operate</text>
+<polyline points="850,468 850,358" fill="none" stroke="#A36B12" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="866" y="401" width="124.576171875" height="18" rx="2" fill="#FFFFFF" stroke="none" stroke-width="1.2"/>
+<text x="870" y="412.84" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" fill="#A36B12" font-weight="400">authenticate users</text>
+<rect x="48" y="827" width="500" height="208" rx="12" fill="#FFF5DE" stroke="#A36B12" stroke-width="1.2"/>
+<rect x="48" y="842" width="4" height="178" rx="0" fill="#A36B12" stroke="none" stroke-width="1.2"/>
+<text x="66" y="861.58" font-family="DejaVu Sans, Arial, sans-serif" font-size="19" fill="#142B43" font-weight="700">Financial disclosure / market systems</text>
+<text x="66" y="885.58" font-family="DejaVu Sans, Arial, sans-serif" font-size="19" fill="#142B43" font-weight="700">[External]</text>
+<text x="66" y="914.94" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" fill="#52677C" font-weight="400">Regulatory filing indexes, prospectus documents,</text>
+<text x="66" y="938.4000000000001" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" fill="#52677C" font-weight="400">company reports, structured peer financials, offer</text>
+<text x="66" y="961.86" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" fill="#52677C" font-weight="400">terms and dated prices. Jurisdiction adapters map</text>
+<text x="66" y="985.32" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" fill="#52677C" font-weight="400">these into one research model.</text>
+<rect x="1152" y="827" width="500" height="208" rx="12" fill="#F1ECF8" stroke="#7353A3" stroke-width="1.2"/>
+<rect x="1152" y="842" width="4" height="178" rx="0" fill="#7353A3" stroke="none" stroke-width="1.2"/>
+<text x="1170" y="861.58" font-family="DejaVu Sans, Arial, sans-serif" font-size="19" fill="#142B43" font-weight="700">AI language model [Optional external</text>
+<text x="1170" y="885.58" font-family="DejaVu Sans, Arial, sans-serif" font-size="19" fill="#142B43" font-weight="700">system]</text>
+<text x="1170" y="914.94" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" fill="#52677C" font-weight="400">Provides cited conversational explanation and text</text>
+<text x="1170" y="938.4000000000001" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" fill="#52677C" font-weight="400">assistance through constrained tools. Financial</text>
+<text x="1170" y="961.86" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" fill="#52677C" font-weight="400">calculations, ranking rules and publication authority</text>
+<text x="1170" y="985.32" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" fill="#52677C" font-weight="400">stay in IPO-Ready.</text>
+<polyline points="548,642 510,642 510,783 298,783 298,827" fill="none" stroke="#A36B12" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="44" y="749" width="206.232421875" height="18" rx="2" fill="#FFFFFF" stroke="none" stroke-width="1.2"/>
+<text x="48" y="760.84" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" fill="#A36B12" font-weight="400">acquire evidence and snapshots</text>
+<polyline points="1152,642 1190,642 1190,783 1402,783 1402,827" fill="none" stroke="#7353A3" stroke-width="2" stroke-dasharray="6 5" marker-end="url(#arrow)"/>
+<rect x="1261" y="749" width="174.955078125" height="18" rx="2" fill="#FFFFFF" stroke="none" stroke-width="1.2"/>
+<text x="1265" y="760.84" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" fill="#7353A3" font-weight="400">grounded explanation calls</text>
+<rect x="48" y="1080" width="1604" height="58" rx="10" fill="#E9F6F3" stroke="none" stroke-width="1.2"/>
+<text x="66" y="1106.3" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" fill="#117F82" font-weight="700">PRODUCT OUTCOME</text>
+<text x="66" y="1128.66" font-family="DejaVu Sans, Arial, sans-serif" font-size="13" fill="#52677C" font-weight="400">A user can explain why a company is shortlisted, how it compares, what could change the view, and which evidence supports that view.</text>
+</svg>

@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="1200" viewBox="0 0 1700 1200">
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="context-stroke"/></marker></defs>
+<rect x="0" y="0" width="1700" height="1200" rx="0" fill="#FFFFFF" stroke="none" stroke-width="1.2"/>
+<rect x="0" y="0" width="1700" height="10" rx="0" fill="#117F82" stroke="none" stroke-width="1.2"/>
+<text x="48" y="52.3" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" fill="#117F82" font-weight="700">IPO-READY  /  PRODUCT ARCHITECTURE</text>
+<text x="48" y="102.06" font-family="DejaVu Sans, Arial, sans-serif" font-size="33" fill="#142B43" font-weight="700">Research state | Evidence, versions and consistency</text>
+<text x="48" y="134.12" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" fill="#52677C" font-weight="400">Point-in-time data and frozen model inputs make a shortlist or comparison explainable and reproducible after the data changes.</text>
+<polyline points="48,163 1652,163" fill="none" stroke="#B8C7D5" stroke-width="1"/>
+<polyline points="48,1148 1652,1148" fill="none" stroke="#B8C7D5" stroke-width="1"/>
+<text x="48" y="1174.84" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" fill="#52677C" font-weight="400">MBA (Business Analytics) | Programming Analytics Lab | Target product design | 29 Oct 2026</text>
+<text x="1535" y="1174.84" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" fill="#52677C" font-weight="700">05 / 07</text>
+<rect x="48" y="240" width="296" height="216" rx="12" fill="#E9F6F3" stroke="#117F82" stroke-width="1.2"/>
+<rect x="48" y="255" width="4" height="186" rx="0" fill="#117F82" stroke="none" stroke-width="1.2"/>
+<text x="66" y="274.58" font-family="DejaVu Sans, Arial, sans-serif" font-size="19" fill="#142B43" font-weight="700">DocumentVersion</text>
+<text x="66" y="303.12" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" fill="#52677C" font-weight="400">Source identity; immutable</text>
+<text x="66" y="325.2" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" fill="#52677C" font-weight="400">hash; publication / retrieval</text>
+<text x="66" y="347.28" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" fill="#52677C" font-weight="400">time; supersedes relation</text>
+<polyline points="344,348 375,348" fill="none" stroke="#117F82" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="375" y="240" width="296" height="216" rx="12" fill="#E9F6F3" stroke="#117F82" stroke-width="1.2"/>
+<rect x="375" y="255" width="4" height="186" rx="0" fill="#117F82" stroke="none" stroke-width="1.2"/>
+<text x="393" y="274.58" font-family="DejaVu Sans, Arial, sans-serif" font-size="19" fill="#142B43" font-weight="700">FactVersion</text>
+<text x="393" y="303.12" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" fill="#52677C" font-weight="400">Raw + canonical value; metric;</text>
+<text x="393" y="325.2" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" fill="#52677C" font-weight="400">period / basis; evidence anchor;</text>
+<text x="393" y="347.28" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" fill="#52677C" font-weight="400">review / mapping version</text>
+<polyline points="671,348 702,348" fill="none" stroke="#117F82" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="702" y="240" width="296" height="216" rx="12" fill="#E9F6F3" stroke="#117F82" stroke-width="1.2"/>
+<rect x="702" y="255" width="4" height="186" rx="0" fill="#117F82" stroke="none" stroke-width="1.2"/>
+<text x="720" y="274.58" font-family="DejaVu Sans, Arial, sans-serif" font-size="19" fill="#142B43" font-weight="700">MetricFeatureSet</text>
+<text x="720" y="303.12" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" fill="#52677C" font-weight="400">Snapshot of derived metrics;</text>
+<text x="720" y="325.2" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" fill="#52677C" font-weight="400">formula versions; operand fact</text>
+<text x="720" y="347.28" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" fill="#52677C" font-weight="400">IDs; coverage states</text>
+<polyline points="998,348 1029,348" fill="none" stroke="#117F82" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="1029" y="240" width="296" height="216" rx="12" fill="#E9F6F3" stroke="#117F82" stroke-width="1.2"/>
+<rect x="1029" y="255" width="4" height="186" rx="0" fill="#117F82" stroke="none" stroke-width="1.2"/>
+<text x="1047" y="274.58" font-family="DejaVu Sans, Arial, sans-serif" font-size="19" fill="#142B43" font-weight="700">ResearchRun</text>
+<text x="1047" y="303.12" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" fill="#52677C" font-weight="400">Fact / feature manifests; peer</text>
+<text x="1047" y="325.2" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" fill="#52677C" font-weight="400">set; policy / model version;</text>
+<text x="1047" y="347.28" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" fill="#52677C" font-weight="400">scenarios; code and run state</text>
+<polyline points="1325,348 1356,348" fill="none" stroke="#117F82" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="1356" y="240" width="296" height="216" rx="12" fill="#E9F6F3" stroke="#117F82" stroke-width="1.2"/>
+<rect x="1356" y="255" width="4" height="186" rx="0" fill="#117F82" stroke="none" stroke-width="1.2"/>
+<text x="1374" y="274.58" font-family="DejaVu Sans, Arial, sans-serif" font-size="19" fill="#142B43" font-weight="700">ResearchSnapshot</text>
+<text x="1374" y="303.12" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" fill="#52677C" font-weight="400">Approved outputs; cohort and</text>
+<text x="1374" y="325.2" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" fill="#52677C" font-weight="400">assumptions; evidence;</text>
+<text x="1374" y="347.28" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" fill="#52677C" font-weight="400">publication / expiry timestamps</text>
+<rect x="48" y="533" width="774" height="220" rx="12" fill="#EAF2FD" stroke="#2463AA" stroke-width="1.2"/>
+<rect x="48" y="548" width="4" height="190" rx="0" fill="#2463AA" stroke="none" stroke-width="1.2"/>
+<text x="66" y="567.58" font-family="DejaVu Sans, Arial, sans-serif" font-size="19" fill="#142B43" font-weight="700">Run manifest | the reproducibility contract</text>
+<text x="66" y="597.76" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" fill="#52677C" font-weight="400">Pin source and fact versions; analysis cutoff; financial periods; market-data as-of</text>
+<text x="66" y="622.6" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" fill="#52677C" font-weight="400">times; currency/basis rules; peer membership; factor definitions and weights;</text>
+<text x="66" y="647.4399999999999" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" fill="#52677C" font-weight="400">model/scenario versions; code version; reviewer and release decision.</text>
+<rect x="872" y="533" width="780" height="220" rx="12" fill="#EAF2FD" stroke="#2463AA" stroke-width="1.2"/>
+<rect x="872" y="548" width="4" height="190" rx="0" fill="#2463AA" stroke="none" stroke-width="1.2"/>
+<text x="890" y="567.58" font-family="DejaVu Sans, Arial, sans-serif" font-size="19" fill="#142B43" font-weight="700">Serving contract | one coherent research version</text>
+<text x="890" y="597.76" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" fill="#52677C" font-weight="400">All screener, company, comparison and explanation responses identify the</text>
+<text x="890" y="622.6" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" fill="#52677C" font-weight="400">research snapshot, coverage and relevant market-data time. Build projections</text>
+<text x="890" y="647.4399999999999" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" fill="#52677C" font-weight="400">before switching the published pointer. Cache keys include snapshot and</text>
+<text x="890" y="672.28" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" fill="#52677C" font-weight="400">query/criteria IDs.</text>
+<text x="48" y="822.12" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" fill="#117F82" font-weight="700">RELIABLE CHANGE PROPAGATION</text>
+<rect x="48" y="847" width="368" height="126" rx="12" fill="#E9F6F3" stroke="#117F82" stroke-width="1.2"/>
+<rect x="48" y="862" width="4" height="96" rx="0" fill="#117F82" stroke="none" stroke-width="1.2"/>
+<text x="66" y="879.94" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" fill="#142B43" font-weight="700">Commit change + outbox</text>
+<text x="66" y="907.3" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" fill="#52677C" font-weight="400">One database transaction</text>
+<polyline points="416,910 460,910" fill="none" stroke="#117F82" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="460" y="847" width="368" height="126" rx="12" fill="#E9F6F3" stroke="#117F82" stroke-width="1.2"/>
+<rect x="460" y="862" width="4" height="96" rx="0" fill="#117F82" stroke="none" stroke-width="1.2"/>
+<text x="478" y="879.94" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" fill="#142B43" font-weight="700">Dispatch work event</text>
+<text x="478" y="907.3" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" fill="#52677C" font-weight="400">Retry-safe event ID</text>
+<polyline points="828,910 872,910" fill="none" stroke="#117F82" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="872" y="847" width="368" height="126" rx="12" fill="#E9F6F3" stroke="#117F82" stroke-width="1.2"/>
+<rect x="872" y="862" width="4" height="96" rx="0" fill="#117F82" stroke="none" stroke-width="1.2"/>
+<text x="890" y="879.94" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" fill="#142B43" font-weight="700">Rebuild affected outputs</text>
+<text x="890" y="907.3" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" fill="#52677C" font-weight="400">Idempotent worker / projector</text>
+<polyline points="1240,910 1284,910" fill="none" stroke="#117F82" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="1284" y="847" width="368" height="126" rx="12" fill="#E9F6F3" stroke="#117F82" stroke-width="1.2"/>
+<rect x="1284" y="862" width="4" height="96" rx="0" fill="#117F82" stroke="none" stroke-width="1.2"/>
+<text x="1302" y="879.94" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" fill="#142B43" font-weight="700">Release + invalidate</text>
+<text x="1302" y="907.3" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" fill="#52677C" font-weight="400">Versioned pointer + cache event</text>
+<rect x="48" y="1015" width="1604" height="67" rx="10" fill="#E9F6F3" stroke="none" stroke-width="1.2"/>
+<text x="66" y="1041.3" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" fill="#117F82" font-weight="700">TEMPORAL RULE</text>
+<text x="66" y="1063.66" font-family="DejaVu Sans, Arial, sans-serif" font-size="13" fill="#52677C" font-weight="400">Source-publication time controls eligibility; retrieval time records when the platform learned it. Historical reconstruction is labelled. Later amendments do not rewrite older research.</text>
+<text x="48" y="1119.48" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" fill="#52677C" font-weight="400">History, audit records and outbox events are retained; full event sourcing is not required for this design.</text>
+</svg>

@@ -1,4 +1,10 @@
-# IPO-Ready research workspace
+# IPO-Ready financial intelligence platform
+
+## Target product architecture - 29 October 2026
+
+Active development follows the [fintech product architecture](docs/architecture/IPO_Ready_Design_Framework.md), [seven-view diagram PDF](docs/architecture/IPO_Ready_Architecture_Design.pdf), and [implementation backlog](docs/architecture/IMPLEMENTATION_BACKLOG.md). Discover, compare, evaluate, shortlist and monitor companies. The earlier mockup is a reference fixture, not a design constraint. Components and analytical policies remain proposed, not implemented or validated.
+
+## Historical research workspace
 
 Research for a Python programming-analytics project with a possible longer-term financial-research application. Scope expanded on 2026-10-22 to foreign pre-IPO companies, prioritising free APIs. Active work is [initial planning with a US-first source pilot](docs/research/topics/pre-ipo-global-plan.md); product design follows later. The Indian IPO pilot is retained as prior work.
 

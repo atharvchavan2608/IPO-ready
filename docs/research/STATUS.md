@@ -1,3 +1,9 @@
+# Active direction: target product architecture
+
+Updated 2026-10-29. Start with the [product framework](../architecture/IPO_Ready_Design_Framework.md) and [implementation backlog](../architecture/IMPLEMENTATION_BACKLOG.md). The planning-only direction below is historical. Existing observations and evidence limits remain preserved. This update does not claim new source acquisition or financial validation.
+
+---
+
 # Current status and next work
 
 Updated: 2026-10-22.
