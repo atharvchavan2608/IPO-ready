@@ -1,0 +1,5047 @@
+{
+ "id": "pharmed",
+ "name": "Pharmed Ltd",
+ "short": "Pharmed",
+ "hierarchy": [
+  "Healthcare",
+  "Pharmaceuticals",
+  "Branded Formulations",
+  "Prescription & Nutraceutical Products"
+ ],
+ "model": "manufacturer",
+ "listed_peers": [
+  "ALKEM",
+  "IPCALAB"
+ ],
+ "status_note": null,
+ "market_status": "Provider labels shares delisted",
+ "quote": {
+  "price_inr": "710.00",
+  "state": "reported",
+  "change_raw": "+ 0.00 %",
+  "kind": "unlisted dealer quote (indicative, not an exchange trade)",
+  "as_of": "2026-11-23T17:58:37+00:00",
+  "high_52w": "710.00 (29/08/26)",
+  "low_52w": "690.00 (20/08/26)",
+  "ev": "ev1"
+ },
+ "profile": {
+  "provider_sector": "Healthcare",
+  "isin": "INE0EEI01017",
+  "cin": "U24230MH1946PLC005121",
+  "registration_date": "10/08/1946",
+  "face_value": "2",
+  "lot_size": "1000",
+  "drhp_filed": "No",
+  "depository": "nsdl",
+  "rofr": "No",
+  "description": null,
+  "share_details_as_of": null,
+  "ev": "ev2"
+ },
+ "periods": [
+  "FY2025",
+  "FY2026"
+ ],
+ "basis": "consolidated",
+ "raw_units": [
+  "INR crore"
+ ],
+ "layout": "detailed statements",
+ "fields": {
+  "total_income": {
+   "label": "Total income",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": "528.59",
+     "state": "reported",
+     "ev": "ev3"
+    },
+    "FY2026": {
+     "value": "612.34",
+     "state": "reported",
+     "ev": "ev4"
+    }
+   }
+  },
+  "revenue_ops": {
+   "label": "Revenue from operations",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": "505.6",
+     "state": "reported",
+     "ev": "ev5"
+    },
+    "FY2026": {
+     "value": "592.22",
+     "state": "reported",
+     "ev": "ev6"
+    }
+   }
+  },
+  "other_income": {
+   "label": "Other income",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": "22.99",
+     "state": "reported",
+     "ev": "ev7"
+    },
+    "FY2026": {
+     "value": "20.12",
+     "state": "reported",
+     "ev": "ev8"
+    }
+   }
+  },
+  "other_gains": {
+   "label": "Other gains / losses",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "job_work_revenue": {
+   "label": "Revenue from job work",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "total_expenses": {
+   "label": "Total expenses",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": "422.42",
+     "state": "reported",
+     "ev": "ev9"
+    },
+    "FY2026": {
+     "value": "511.28",
+     "state": "reported",
+     "ev": "ev10"
+    }
+   }
+  },
+  "finance_cost": {
+   "label": "Finance cost",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": "0.68",
+     "state": "reported",
+     "ev": "ev11"
+    },
+    "FY2026": {
+     "value": "0.8",
+     "state": "reported",
+     "ev": "ev12"
+    }
+   }
+  },
+  "depreciation": {
+   "label": "Depreciation",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": "4.57",
+     "state": "reported",
+     "ev": "ev13"
+    },
+    "FY2026": {
+     "value": "5.25",
+     "state": "reported",
+     "ev": "ev14"
+    }
+   }
+  },
+  "pbt": {
+   "label": "Profit before tax",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": "106.17",
+     "state": "reported",
+     "ev": "ev15"
+    },
+    "FY2026": {
+     "value": "99.56",
+     "state": "reported",
+     "ev": "ev16"
+    }
+   }
+  },
+  "tax": {
+   "label": "Tax",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "pat": {
+   "label": "Profit after tax",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": "80.83",
+     "state": "reported",
+     "ev": "ev17"
+    },
+    "FY2026": {
+     "value": "76.57",
+     "state": "reported",
+     "ev": "ev18"
+    }
+   }
+  },
+  "total_assets": {
+   "label": "Total assets",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": "450.25",
+     "state": "reported",
+     "ev": "ev19"
+    },
+    "FY2026": {
+     "value": "533.06",
+     "state": "reported",
+     "ev": "ev20"
+    }
+   }
+  },
+  "total_equity": {
+   "label": "Total equity",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": "358.83",
+     "state": "derived",
+     "ev": "ev21"
+    },
+    "FY2026": {
+     "value": "434.01",
+     "state": "derived",
+     "ev": "ev22"
+    }
+   }
+  },
+  "total_liabilities": {
+   "label": "Total liabilities",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "current_assets": {
+   "label": "Current assets",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": "102.74",
+     "state": "derived",
+     "ev": "ev23"
+    },
+    "FY2026": {
+     "value": "109.39",
+     "state": "derived",
+     "ev": "ev24"
+    }
+   }
+  },
+  "current_liabilities": {
+   "label": "Current liabilities",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": "77.90",
+     "state": "derived",
+     "ev": "ev25"
+    },
+    "FY2026": {
+     "value": "87.44",
+     "state": "derived",
+     "ev": "ev26"
+    }
+   }
+  },
+  "inventories": {
+   "label": "Inventories",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": "31.9",
+     "state": "reported",
+     "ev": "ev27"
+    },
+    "FY2026": {
+     "value": "25.77",
+     "state": "reported",
+     "ev": "ev28"
+    }
+   }
+  },
+  "cash": {
+   "label": "Cash & equivalents",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": "10.14",
+     "state": "reported",
+     "ev": "ev29"
+    },
+    "FY2026": {
+     "value": "18",
+     "state": "reported",
+     "ev": "ev30"
+    }
+   }
+  },
+  "loans": {
+   "label": "Loans",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "cfo": {
+   "label": "Cash from operations",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": "66.26",
+     "state": "reported",
+     "ev": "ev31"
+    },
+    "FY2026": {
+     "value": "74.81",
+     "state": "reported",
+     "ev": "ev32"
+    }
+   }
+  },
+  "cfi": {
+   "label": "Cash from investing",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": "-52.62",
+     "state": "reported",
+     "ev": "ev33"
+    },
+    "FY2026": {
+     "value": "-60.57",
+     "state": "reported",
+     "ev": "ev34"
+    }
+   }
+  },
+  "cff": {
+   "label": "Cash from financing",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": "-4.95",
+     "state": "reported",
+     "ev": "ev35"
+    },
+    "FY2026": {
+     "value": "-3.99",
+     "state": "reported",
+     "ev": "ev36"
+    }
+   }
+  },
+  "ebitda": {
+   "label": "EBITDA",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "eps": {
+   "label": "EPS (provider)",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "shares_outstanding": {
+   "label": "Shares outstanding",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "pat_pre_associate": {
+   "label": "Profit after tax before associate contribution",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "pat_owners": {
+   "label": "Profit attributable to owners",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "associate_profit": {
+   "label": "Share of associate profit",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "eps_basic": {
+   "label": "Reported basic EPS",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "eps_diluted": {
+   "label": "Reported diluted EPS",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "gross_profit": {
+   "label": "Gross profit",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "operating_profit": {
+   "label": "Operating profit",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "cost_of_sales": {
+   "label": "Cost of sales",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "trade_receivables": {
+   "label": "Trade receivables",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": "26.08",
+     "state": "reported",
+     "ev": "ev37"
+    },
+    "FY2026": {
+     "value": "24.79",
+     "state": "reported",
+     "ev": "ev38"
+    }
+   }
+  },
+  "trade_payables": {
+   "label": "Trade payables",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "fixed_assets": {
+   "label": "Fixed assets",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": "44.27",
+     "state": "reported",
+     "ev": "ev39"
+    },
+    "FY2026": {
+     "value": "45.44",
+     "state": "reported",
+     "ev": "ev40"
+    }
+   }
+  },
+  "borrowings": {
+   "label": "Borrowings",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "dividend_per_share": {
+   "label": "Dividend per share",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "gross_npa": {
+   "label": "Gross NPA",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "net_npa": {
+   "label": "Net NPA",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "nim": {
+   "label": "Net interest margin",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "provision_coverage": {
+   "label": "Provision coverage",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "capital_adequacy": {
+   "label": "Capital adequacy",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "claims_ratio": {
+   "label": "Incurred claims ratio",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "combined_ratio": {
+   "label": "Combined ratio",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "solvency_ratio": {
+   "label": "Solvency ratio",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  }
+ },
+ "cash_flow": {
+  "unit": "INR crore",
+  "by_period": {
+   "FY2025": {
+    "basis": "consolidated",
+    "origin": "provider",
+    "provider_name": "WWIPL",
+    "lines": {
+     "opening": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "cfo": {
+      "value": "66.26",
+      "state": "reported",
+      "ev": "ev31"
+     },
+     "cfi": {
+      "value": "-52.62",
+      "state": "reported",
+      "ev": "ev33"
+     },
+     "cff": {
+      "value": "-4.95",
+      "state": "reported",
+      "ev": "ev35"
+     },
+     "other_effects": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "net_change": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "closing": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "before_working_capital": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "receivables": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "other_assets": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "payables_and_liabilities": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "tax_paid": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "capex": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "net_investment_purchases": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "debt_principal": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "lease_principal": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "lease_interest": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "overdraft_interest": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "share_proceeds": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "dividends": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "current_accounts": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "settlement_accounts": {
+      "state": "not_in_source",
+      "value": null
+     }
+    },
+    "reconciliation": {
+     "state": "partial"
+    },
+    "provider_comparison": null
+   },
+   "FY2026": {
+    "basis": "consolidated",
+    "origin": "provider",
+    "provider_name": "WWIPL",
+    "lines": {
+     "opening": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "cfo": {
+      "value": "74.81",
+      "state": "reported",
+      "ev": "ev32"
+     },
+     "cfi": {
+      "value": "-60.57",
+      "state": "reported",
+      "ev": "ev34"
+     },
+     "cff": {
+      "value": "-3.99",
+      "state": "reported",
+      "ev": "ev36"
+     },
+     "other_effects": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "net_change": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "closing": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "before_working_capital": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "receivables": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "other_assets": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "payables_and_liabilities": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "tax_paid": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "capex": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "net_investment_purchases": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "debt_principal": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "lease_principal": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "lease_interest": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "overdraft_interest": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "share_proceeds": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "dividends": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "current_accounts": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "settlement_accounts": {
+      "state": "not_in_source",
+      "value": null
+     }
+    },
+    "reconciliation": {
+     "state": "partial"
+    },
+    "provider_comparison": null
+   }
+  }
+ },
+ "documents": [],
+ "reconciliation": null,
+ "agent": {
+  "inventories": {
+   "company": "pharmed",
+   "field": "inventories",
+   "status": "found_in_provider",
+   "summary": "Inventories reported by the provider for FY2025, FY2026.",
+   "how_to_verify": "Open the provider row from the evidence drawer; reconcile with the issuer's annual report before relying on it.",
+   "expectation": {
+    "level": "expected",
+    "reason": "Manufacturers carry raw material, work-in-progress and finished goods."
+   },
+   "evidence": [],
+   "evidence_total": 0,
+   "next_checks": [
+    "Audited annual report: balance sheet 'Inventories' line and note on valuation"
+   ],
+   "trace": [
+    {
+     "step": 1,
+     "tool": "provider_lookup",
+     "input": {
+      "company": "pharmed",
+      "field": "inventories"
+     },
+     "output": {
+      "found": true,
+      "periods": [
+       "FY2025",
+       "FY2026"
+      ],
+      "detail": "line present in provider statements"
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 2,
+     "tool": "applicability_rule",
+     "input": {
+      "field": "inventories",
+      "business_model": "manufacturer"
+     },
+     "output": {
+      "expectation": "expected",
+      "reason": "Manufacturers carry raw material, work-in-progress and finished goods."
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 3,
+     "tool": "statement_line_check",
+     "input": {
+      "document": null
+     },
+     "output": {
+      "skipped": true,
+      "why": "no retained issuer balance sheet for this company"
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 4,
+     "tool": "document_search",
+     "input": {
+      "documents": [],
+      "patterns": [
+       "\\binventor(?:y|ies)\\b"
+      ]
+     },
+     "output": {
+      "documents_searched": [],
+      "pages_with_word_matches": 0,
+      "pages_with_naive_substring": 0,
+      "note": "naive substring 'inventor' also matches unrelated words (e.g. 'COMPANY' contains 'NPA'); word-boundary patterns used"
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 5,
+     "tool": "classify_passages",
+     "input": {
+      "passages": 0
+     },
+     "output": {
+      "by_kind": {}
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 6,
+     "tool": "verdict",
+     "input": {
+      "signals": {
+       "provider": true,
+       "numeric": 0,
+       "explicit_na": 0,
+       "line_check": null,
+       "expectation": "expected"
+      }
+     },
+     "output": {
+      "status": "found_in_provider",
+      "summary": "Inventories reported by the provider for FY2025, FY2026.",
+      "how_to_verify": "Open the provider row from the evidence drawer; reconcile with the issuer's annual report before relying on it."
+     },
+     "ms": 0.0
+    }
+   ],
+   "executed": "deterministic tool sequence (no language model call)"
+  },
+  "npa": {
+   "company": "pharmed",
+   "field": "npa",
+   "status": "inapplicable",
+   "summary": "Not applicable by business model: NPA is a lender asset-quality measure; this business has no loan book to classify.",
+   "how_to_verify": "No mentions to review; the business-model rule decides.",
+   "expectation": {
+    "level": "not_applicable",
+    "reason": "NPA is a lender asset-quality measure; this business has no loan book to classify."
+   },
+   "evidence": [],
+   "evidence_total": 0,
+   "next_checks": [
+    "Annual report notes: 'Stage 3 assets', 'Gross NPA', 'Net NPA' (RBI disclosure for NBFCs)"
+   ],
+   "trace": [
+    {
+     "step": 1,
+     "tool": "provider_lookup",
+     "input": {
+      "company": "pharmed",
+      "field": "gross_npa"
+     },
+     "output": {
+      "found": false,
+      "periods": [],
+      "detail": "no matching line in the provider's parsed statements"
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 2,
+     "tool": "applicability_rule",
+     "input": {
+      "field": "npa",
+      "business_model": "manufacturer"
+     },
+     "output": {
+      "expectation": "not_applicable",
+      "reason": "NPA is a lender asset-quality measure; this business has no loan book to classify."
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 3,
+     "tool": "statement_line_check",
+     "input": {
+      "document": null
+     },
+     "output": {
+      "skipped": true,
+      "why": "no retained issuer balance sheet for this company"
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 4,
+     "tool": "document_search",
+     "input": {
+      "documents": [],
+      "patterns": [
+       "\\bG?N?NPAs?\\b",
+       "\\bnon[- ]performing (?:assets?|loans?)\\b",
+       "\\bstage\\s*(?:3|III)\\s+(?:assets|loans)\\b"
+      ]
+     },
+     "output": {
+      "documents_searched": [],
+      "pages_with_word_matches": 0,
+      "pages_with_naive_substring": 0,
+      "note": "naive substring 'npa' also matches unrelated words (e.g. 'COMPANY' contains 'NPA'); word-boundary patterns used"
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 5,
+     "tool": "classify_passages",
+     "input": {
+      "passages": 0
+     },
+     "output": {
+      "by_kind": {}
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 6,
+     "tool": "verdict",
+     "input": {
+      "signals": {
+       "provider": false,
+       "numeric": 0,
+       "explicit_na": 0,
+       "line_check": null,
+       "expectation": "not_applicable"
+      }
+     },
+     "output": {
+      "status": "inapplicable",
+      "summary": "Not applicable by business model: NPA is a lender asset-quality measure; this business has no loan book to classify.",
+      "how_to_verify": "No mentions to review; the business-model rule decides."
+     },
+     "ms": 0.0
+    }
+   ],
+   "executed": "deterministic tool sequence (no language model call)"
+  }
+ },
+ "metrics": {
+  "FY2025": {
+   "revenue_growth": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "(current / previous) - 1",
+    "inputs": {
+     "current": "505.6",
+     "previous": null
+    },
+    "unit": "%",
+    "ev": [
+     "ev5"
+    ]
+   },
+   "pat_margin": {
+    "value": "15.2916",
+    "state": "ok",
+    "formula": "PAT / total income x 100",
+    "inputs": {
+     "pat": "80.83",
+     "total_income": "528.59"
+    },
+    "unit": "%",
+    "ev": [
+     "ev17",
+     "ev3"
+    ]
+   },
+   "net_profit_ratio": {
+    "value": "15.9869",
+    "state": "ok",
+    "formula": "PAT / revenue from operations x 100",
+    "inputs": {
+     "pat": "80.83",
+     "revenue_ops": "505.6"
+    },
+    "unit": "%",
+    "ev": [
+     "ev17",
+     "ev5"
+    ]
+   },
+   "other_income_share": {
+    "value": "4.3493",
+    "state": "ok",
+    "formula": "other income / total income x 100",
+    "inputs": {
+     "other_income": "22.99",
+     "total_income": "528.59"
+    },
+    "unit": "%",
+    "ev": [
+     "ev7",
+     "ev3"
+    ]
+   },
+   "current_ratio": {
+    "value": "1.3189",
+    "state": "ok",
+    "formula": "current assets / current liabilities",
+    "inputs": {
+     "current_assets": "102.74",
+     "current_liabilities": "77.90"
+    },
+    "unit": "x",
+    "ev": [
+     "ev23",
+     "ev25"
+    ]
+   },
+   "quick_ratio": {
+    "value": "0.9094",
+    "state": "ok",
+    "formula": "(current assets - inventories) / current liabilities",
+    "inputs": {
+     "current_assets": "102.74",
+     "inventories": "31.9",
+     "current_liabilities": "77.90"
+    },
+    "unit": "x",
+    "ev": [
+     "ev23",
+     "ev25",
+     "ev27"
+    ]
+   },
+   "roe": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "PAT / average of opening and closing equity x 100",
+    "inputs": {
+     "pat": "80.83",
+     "average_equity": null
+    },
+    "unit": "%",
+    "ev": [
+     "ev17",
+     "ev21"
+    ]
+   },
+   "roce": {
+    "value": "28.6961",
+    "state": "ok",
+    "formula": "(PBT + finance cost) / (total assets - current liabilities) x 100",
+    "inputs": {
+     "ebit": "106.85",
+     "capital_employed": "372.35"
+    },
+    "unit": "%",
+    "ev": [
+     "ev15",
+     "ev11",
+     "ev19",
+     "ev25"
+    ]
+   },
+   "cfo_to_pat": {
+    "value": "0.8197",
+    "state": "ok",
+    "formula": "cash from operations / PAT",
+    "inputs": {
+     "cfo": "66.26",
+     "pat": "80.83"
+    },
+    "unit": "x",
+    "ev": [
+     "ev31",
+     "ev17"
+    ]
+   }
+  },
+  "FY2026": {
+   "revenue_growth": {
+    "value": "17.1321",
+    "state": "ok",
+    "formula": "(current / previous) - 1",
+    "inputs": {
+     "current": "592.22",
+     "previous": "505.6"
+    },
+    "unit": "%",
+    "ev": [
+     "ev6",
+     "ev5"
+    ]
+   },
+   "pat_margin": {
+    "value": "12.5045",
+    "state": "ok",
+    "formula": "PAT / total income x 100",
+    "inputs": {
+     "pat": "76.57",
+     "total_income": "612.34"
+    },
+    "unit": "%",
+    "ev": [
+     "ev18",
+     "ev4"
+    ]
+   },
+   "net_profit_ratio": {
+    "value": "12.9293",
+    "state": "ok",
+    "formula": "PAT / revenue from operations x 100",
+    "inputs": {
+     "pat": "76.57",
+     "revenue_ops": "592.22"
+    },
+    "unit": "%",
+    "ev": [
+     "ev18",
+     "ev6"
+    ]
+   },
+   "other_income_share": {
+    "value": "3.2858",
+    "state": "ok",
+    "formula": "other income / total income x 100",
+    "inputs": {
+     "other_income": "20.12",
+     "total_income": "612.34"
+    },
+    "unit": "%",
+    "ev": [
+     "ev8",
+     "ev4"
+    ]
+   },
+   "current_ratio": {
+    "value": "1.2510",
+    "state": "ok",
+    "formula": "current assets / current liabilities",
+    "inputs": {
+     "current_assets": "109.39",
+     "current_liabilities": "87.44"
+    },
+    "unit": "x",
+    "ev": [
+     "ev24",
+     "ev26"
+    ]
+   },
+   "quick_ratio": {
+    "value": "0.9563",
+    "state": "ok",
+    "formula": "(current assets - inventories) / current liabilities",
+    "inputs": {
+     "current_assets": "109.39",
+     "inventories": "25.77",
+     "current_liabilities": "87.44"
+    },
+    "unit": "x",
+    "ev": [
+     "ev24",
+     "ev26",
+     "ev28"
+    ]
+   },
+   "roe": {
+    "value": "19.3154",
+    "state": "ok",
+    "formula": "PAT / average of opening and closing equity x 100",
+    "inputs": {
+     "pat": "76.57",
+     "average_equity": "396.42"
+    },
+    "unit": "%",
+    "ev": [
+     "ev18",
+     "ev22",
+     "ev21"
+    ]
+   },
+   "roce": {
+    "value": "22.5214",
+    "state": "ok",
+    "formula": "(PBT + finance cost) / (total assets - current liabilities) x 100",
+    "inputs": {
+     "ebit": "100.36",
+     "capital_employed": "445.62"
+    },
+    "unit": "%",
+    "ev": [
+     "ev16",
+     "ev12",
+     "ev20",
+     "ev26"
+    ]
+   },
+   "cfo_to_pat": {
+    "value": "0.9770",
+    "state": "ok",
+    "formula": "cash from operations / PAT",
+    "inputs": {
+     "cfo": "74.81",
+     "pat": "76.57"
+    },
+    "unit": "x",
+    "ev": [
+     "ev32",
+     "ev18"
+    ]
+   }
+  }
+ },
+ "valuation": {
+  "period": "FY2026",
+  "shares_used": "4306200",
+  "shares_source": "shares_details",
+  "market_cap": {
+   "value": "305.7402",
+   "state": "ok",
+   "formula": "price (INR) x shares outstanding / 1e7",
+   "inputs": {
+    "price_inr": "710.00",
+    "shares": "4306200"
+   },
+   "unit": "INR crore"
+  },
+  "eps": {
+   "value": "177.8134",
+   "state": "ok",
+   "formula": "PAT (INR crore) x 1e7 / shares outstanding",
+   "inputs": {
+    "pat_cr": "76.57",
+    "shares": "4306200"
+   },
+   "unit": "INR"
+  },
+  "eps_reported_basic": null,
+  "eps_reported_diluted": null,
+  "pe": {
+   "value": "3.9930",
+   "state": "ok",
+   "formula": "price / EPS",
+   "inputs": {
+    "price_inr": "710.00",
+    "eps": "177.8133853513538618735776323"
+   },
+   "unit": "x",
+   "eps_basis": "pat_share_proxy",
+   "basis": "consolidated",
+   "ev": [
+    "ev18",
+    "ev1"
+   ],
+   "note": "Uses a calculated proxy of annual PAT divided by shares outstanding."
+  },
+  "pe_reported": {
+   "value": null,
+   "state": "missing_input",
+   "formula": "price / EPS",
+   "inputs": {
+    "price_inr": "710.00",
+    "eps": null
+   },
+   "unit": "x",
+   "eps_basis": "reported_basic",
+   "basis": "consolidated",
+   "ev": [
+    "ev1"
+   ]
+  },
+  "pe_proxy": {
+   "value": "3.9930",
+   "state": "ok",
+   "formula": "price / EPS",
+   "inputs": {
+    "price_inr": "710.00",
+    "eps": "177.8133853513538618735776323"
+   },
+   "unit": "x",
+   "eps_basis": "pat_share_proxy",
+   "basis": "consolidated",
+   "ev": [
+    "ev18",
+    "ev1"
+   ]
+  },
+  "pb": {
+   "value": "0.7045",
+   "state": "ok",
+   "formula": "market cap / total equity",
+   "inputs": {
+    "market_cap": "305.7402",
+    "total_equity": "434.01"
+   },
+   "unit": "x"
+  },
+  "ps": {
+   "value": "0.5163",
+   "state": "ok",
+   "formula": "market cap / operating revenue",
+   "inputs": {
+    "market_cap": "305.7402",
+    "operating_revenue": "592.22"
+   },
+   "unit": "x"
+  },
+  "provider": {
+   "pe": "3.99",
+   "mcap": "305.74 Crore",
+   "eps": "177.81"
+  },
+  "note": "Valued at an indicative unlisted dealer quote against the latest fiscal-year PAT; not a traded market price."
+ },
+ "coverage_gaps": [
+  {
+   "field": "eps",
+   "state": "not_in_source",
+   "label": "EPS (provider)"
+  },
+  {
+   "field": "shares_outstanding",
+   "state": "not_in_source",
+   "label": "Shares outstanding"
+  }
+ ],
+ "checks": [
+  {
+   "check": "income_identity",
+   "period": "FY2025",
+   "result": "pass",
+   "detail": "total income 528.59 - (operations 505.6 + other 22.99 + separate income lines 0) = 0.00"
+  },
+  {
+   "check": "income_identity",
+   "period": "FY2026",
+   "result": "pass",
+   "detail": "total income 612.34 - (operations 592.22 + other 20.12 + separate income lines 0) = 0.00"
+  }
+ ],
+ "provider_ratios": {
+  "Current Ratio": {
+   "FY2026": {
+    "raw_text": "1.25",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "1.32",
+    "state": "reported"
+   }
+  },
+  "Return on Equity Ratio": {
+   "FY2026": {
+    "raw_text": "19.31%",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "25.21%",
+    "state": "reported"
+   }
+  },
+  "Inventory Turnover Ratio": {
+   "FY2026": {
+    "raw_text": "5.03",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "4.38",
+    "state": "reported"
+   }
+  },
+  "Trade Receivables Turnover Ratio": {
+   "FY2026": {
+    "raw_text": "23.28",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "20.97",
+    "state": "reported"
+   }
+  },
+  "Trade Payables Turnover Ratio": {
+   "FY2026": {
+    "raw_text": "20.05",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "16.57",
+    "state": "reported"
+   }
+  },
+  "Net Capital Turnover Ratio": {
+   "FY2026": {
+    "raw_text": "1.49",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "1.58",
+    "state": "reported"
+   }
+  },
+  "Net Profit Ratio": {
+   "FY2026": {
+    "raw_text": "12.93%",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "15.99%",
+    "state": "reported"
+   }
+  },
+  "Return on Capital Employed": {
+   "FY2026": {
+    "raw_text": "22.62%",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "29.05%",
+    "state": "reported"
+   }
+  },
+  "Return on Investment": {
+   "FY2026": {
+    "raw_text": "5.76%",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "8.27%",
+    "state": "reported"
+   }
+  }
+ },
+ "evidence": {
+  "ev1": {
+   "source": "WWIPL company overview",
+   "url": "https://wwipl.com/unlisted-shares/pharmed-limited-unlisted-share-price",
+   "retrieved_at": "2026-11-23T17:58:37+00:00",
+   "sha256": "387505f82f84703ec581300e2cfd4715b6ecc1ab1ff08623d1fe1190cf720375",
+   "capture_run": "20261123T175837Z",
+   "file": "pharmed-overview.html",
+   "raw_label": "Last Traded Price",
+   "raw_text": "710.00"
+  },
+  "ev2": {
+   "source": "WWIPL company overview",
+   "url": "https://wwipl.com/unlisted-shares/pharmed-limited-unlisted-share-price",
+   "retrieved_at": "2026-11-23T17:58:37+00:00",
+   "sha256": "387505f82f84703ec581300e2cfd4715b6ecc1ab1ff08623d1fe1190cf720375",
+   "capture_run": "20261123T175837Z",
+   "file": "pharmed-overview.html",
+   "raw_label": "Company fundamentals block"
+  },
+  "ev3": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/pharmed-limited-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:39+00:00",
+   "sha256": "8dc9fc0cb7e8b4aa78829fcd0e643da45897f395ba0873ef5f6cd53d0e66d6be",
+   "capture_run": "20261123T175837Z",
+   "file": "pharmed-financial.html",
+   "raw_label": "Total Income",
+   "raw_text": "528.59",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "31-03-2025",
+   "basis": "consolidated",
+   "anchor": {
+    "file": "pharmed-financial.html",
+    "table_index": 2,
+    "row_index": 4,
+    "heading": "Pharmed Limited Consolidated Profit & Loss Statement (Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev4": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/pharmed-limited-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:39+00:00",
+   "sha256": "8dc9fc0cb7e8b4aa78829fcd0e643da45897f395ba0873ef5f6cd53d0e66d6be",
+   "capture_run": "20261123T175837Z",
+   "file": "pharmed-financial.html",
+   "raw_label": "Total Income",
+   "raw_text": "612.34",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "31-03-2026",
+   "basis": "consolidated",
+   "anchor": {
+    "file": "pharmed-financial.html",
+    "table_index": 2,
+    "row_index": 4,
+    "heading": "Pharmed Limited Consolidated Profit & Loss Statement (Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev5": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/pharmed-limited-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:39+00:00",
+   "sha256": "8dc9fc0cb7e8b4aa78829fcd0e643da45897f395ba0873ef5f6cd53d0e66d6be",
+   "capture_run": "20261123T175837Z",
+   "file": "pharmed-financial.html",
+   "raw_label": "Revenue from Operations",
+   "raw_text": "505.60",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "31-03-2025",
+   "basis": "consolidated",
+   "anchor": {
+    "file": "pharmed-financial.html",
+    "table_index": 2,
+    "row_index": 2,
+    "heading": "Pharmed Limited Consolidated Profit & Loss Statement (Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev6": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/pharmed-limited-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:39+00:00",
+   "sha256": "8dc9fc0cb7e8b4aa78829fcd0e643da45897f395ba0873ef5f6cd53d0e66d6be",
+   "capture_run": "20261123T175837Z",
+   "file": "pharmed-financial.html",
+   "raw_label": "Revenue from Operations",
+   "raw_text": "592.22",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "31-03-2026",
+   "basis": "consolidated",
+   "anchor": {
+    "file": "pharmed-financial.html",
+    "table_index": 2,
+    "row_index": 2,
+    "heading": "Pharmed Limited Consolidated Profit & Loss Statement (Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev7": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/pharmed-limited-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:39+00:00",
+   "sha256": "8dc9fc0cb7e8b4aa78829fcd0e643da45897f395ba0873ef5f6cd53d0e66d6be",
+   "capture_run": "20261123T175837Z",
+   "file": "pharmed-financial.html",
+   "raw_label": "Other Income",
+   "raw_text": "22.99",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "31-03-2025",
+   "basis": "consolidated",
+   "anchor": {
+    "file": "pharmed-financial.html",
+    "table_index": 2,
+    "row_index": 3,
+    "heading": "Pharmed Limited Consolidated Profit & Loss Statement (Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev8": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/pharmed-limited-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:39+00:00",
+   "sha256": "8dc9fc0cb7e8b4aa78829fcd0e643da45897f395ba0873ef5f6cd53d0e66d6be",
+   "capture_run": "20261123T175837Z",
+   "file": "pharmed-financial.html",
+   "raw_label": "Other Income",
+   "raw_text": "20.12",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "31-03-2026",
+   "basis": "consolidated",
+   "anchor": {
+    "file": "pharmed-financial.html",
+    "table_index": 2,
+    "row_index": 3,
+    "heading": "Pharmed Limited Consolidated Profit & Loss Statement (Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev9": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/pharmed-limited-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:39+00:00",
+   "sha256": "8dc9fc0cb7e8b4aa78829fcd0e643da45897f395ba0873ef5f6cd53d0e66d6be",
+   "capture_run": "20261123T175837Z",
+   "file": "pharmed-financial.html",
+   "raw_label": "Total Expenses",
+   "raw_text": "422.42",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "31-03-2025",
+   "basis": "consolidated",
+   "anchor": {
+    "file": "pharmed-financial.html",
+    "table_index": 2,
+    "row_index": 12,
+    "heading": "Pharmed Limited Consolidated Profit & Loss Statement (Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev10": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/pharmed-limited-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:39+00:00",
+   "sha256": "8dc9fc0cb7e8b4aa78829fcd0e643da45897f395ba0873ef5f6cd53d0e66d6be",
+   "capture_run": "20261123T175837Z",
+   "file": "pharmed-financial.html",
+   "raw_label": "Total Expenses",
+   "raw_text": "511.28",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "31-03-2026",
+   "basis": "consolidated",
+   "anchor": {
+    "file": "pharmed-financial.html",
+    "table_index": 2,
+    "row_index": 12,
+    "heading": "Pharmed Limited Consolidated Profit & Loss Statement (Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev11": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/pharmed-limited-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:39+00:00",
+   "sha256": "8dc9fc0cb7e8b4aa78829fcd0e643da45897f395ba0873ef5f6cd53d0e66d6be",
+   "capture_run": "20261123T175837Z",
+   "file": "pharmed-financial.html",
+   "raw_label": "Finance Costs",
+   "raw_text": "0.68",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "31-03-2025",
+   "basis": "consolidated",
+   "anchor": {
+    "file": "pharmed-financial.html",
+    "table_index": 2,
+    "row_index": 9,
+    "heading": "Pharmed Limited Consolidated Profit & Loss Statement (Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev12": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/pharmed-limited-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:39+00:00",
+   "sha256": "8dc9fc0cb7e8b4aa78829fcd0e643da45897f395ba0873ef5f6cd53d0e66d6be",
+   "capture_run": "20261123T175837Z",
+   "file": "pharmed-financial.html",
+   "raw_label": "Finance Costs",
+   "raw_text": "0.80",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "31-03-2026",
+   "basis": "consolidated",
+   "anchor": {
+    "file": "pharmed-financial.html",
+    "table_index": 2,
+    "row_index": 9,
+    "heading": "Pharmed Limited Consolidated Profit & Loss Statement (Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev13": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/pharmed-limited-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:39+00:00",
+   "sha256": "8dc9fc0cb7e8b4aa78829fcd0e643da45897f395ba0873ef5f6cd53d0e66d6be",
+   "capture_run": "20261123T175837Z",
+   "file": "pharmed-financial.html",
+   "raw_label": "Depreciation and Amortization Expenses",
+   "raw_text": "4.57",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "31-03-2025",
+   "basis": "consolidated",
+   "anchor": {
+    "file": "pharmed-financial.html",
+    "table_index": 2,
+    "row_index": 10,
+    "heading": "Pharmed Limited Consolidated Profit & Loss Statement (Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev14": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/pharmed-limited-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:39+00:00",
+   "sha256": "8dc9fc0cb7e8b4aa78829fcd0e643da45897f395ba0873ef5f6cd53d0e66d6be",
+   "capture_run": "20261123T175837Z",
+   "file": "pharmed-financial.html",
+   "raw_label": "Depreciation and Amortization Expenses",
+   "raw_text": "5.25",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "31-03-2026",
+   "basis": "consolidated",
+   "anchor": {
+    "file": "pharmed-financial.html",
+    "table_index": 2,
+    "row_index": 10,
+    "heading": "Pharmed Limited Consolidated Profit & Loss Statement (Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev15": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/pharmed-limited-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:39+00:00",
+   "sha256": "8dc9fc0cb7e8b4aa78829fcd0e643da45897f395ba0873ef5f6cd53d0e66d6be",
+   "capture_run": "20261123T175837Z",
+   "file": "pharmed-financial.html",
+   "raw_label": "Profit Before Tax",
+   "raw_text": "106.17",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "31-03-2025",
+   "basis": "consolidated",
+   "anchor": {
+    "file": "pharmed-financial.html",
+    "table_index": 2,
+    "row_index": 15,
+    "heading": "Pharmed Limited Consolidated Profit & Loss Statement (Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev16": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/pharmed-limited-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:39+00:00",
+   "sha256": "8dc9fc0cb7e8b4aa78829fcd0e643da45897f395ba0873ef5f6cd53d0e66d6be",
+   "capture_run": "20261123T175837Z",
+   "file": "pharmed-financial.html",
+   "raw_label": "Profit Before Tax",
+   "raw_text": "99.56",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "31-03-2026",
+   "basis": "consolidated",
+   "anchor": {
+    "file": "pharmed-financial.html",
+    "table_index": 2,
+    "row_index": 15,
+    "heading": "Pharmed Limited Consolidated Profit & Loss Statement (Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev17": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/pharmed-limited-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:39+00:00",
+   "sha256": "8dc9fc0cb7e8b4aa78829fcd0e643da45897f395ba0873ef5f6cd53d0e66d6be",
+   "capture_run": "20261123T175837Z",
+   "file": "pharmed-financial.html",
+   "raw_label": "Profit for the Period",
+   "raw_text": "80.83",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "31-03-2025",
+   "basis": "consolidated",
+   "anchor": {
+    "file": "pharmed-financial.html",
+    "table_index": 2,
+    "row_index": 18,
+    "heading": "Pharmed Limited Consolidated Profit & Loss Statement (Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev18": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/pharmed-limited-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:39+00:00",
+   "sha256": "8dc9fc0cb7e8b4aa78829fcd0e643da45897f395ba0873ef5f6cd53d0e66d6be",
+   "capture_run": "20261123T175837Z",
+   "file": "pharmed-financial.html",
+   "raw_label": "Profit for the Period",
+   "raw_text": "76.57",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "31-03-2026",
+   "basis": "consolidated",
+   "anchor": {
+    "file": "pharmed-financial.html",
+    "table_index": 2,
+    "row_index": 18,
+    "heading": "Pharmed Limited Consolidated Profit & Loss Statement (Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev19": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/pharmed-limited-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:39+00:00",
+   "sha256": "8dc9fc0cb7e8b4aa78829fcd0e643da45897f395ba0873ef5f6cd53d0e66d6be",
+   "capture_run": "20261123T175837Z",
+   "file": "pharmed-financial.html",
+   "raw_label": "Total Assets",
+   "raw_text": "450.25",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "31-03-2025",
+   "basis": "consolidated",
+   "anchor": {
+    "file": "pharmed-financial.html",
+    "table_index": 1,
+    "row_index": 19,
+    "heading": "Pharmed Limited Consolidated Balance Sheet (Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev20": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/pharmed-limited-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:39+00:00",
+   "sha256": "8dc9fc0cb7e8b4aa78829fcd0e643da45897f395ba0873ef5f6cd53d0e66d6be",
+   "capture_run": "20261123T175837Z",
+   "file": "pharmed-financial.html",
+   "raw_label": "Total Assets",
+   "raw_text": "533.06",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "31-03-2026",
+   "basis": "consolidated",
+   "anchor": {
+    "file": "pharmed-financial.html",
+    "table_index": 1,
+    "row_index": 19,
+    "heading": "Pharmed Limited Consolidated Balance Sheet (Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev21": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/pharmed-limited-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:39+00:00",
+   "sha256": "8dc9fc0cb7e8b4aa78829fcd0e643da45897f395ba0873ef5f6cd53d0e66d6be",
+   "capture_run": "20261123T175837Z",
+   "file": "pharmed-financial.html",
+   "raw_label": "Sum of 2 lines under 'equity'",
+   "raw_text": null,
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": null,
+   "basis": "consolidated",
+   "anchor": {
+    "file": "pharmed-financial.html",
+    "table_index": 1,
+    "row_index": 21,
+    "heading": "Pharmed Limited Consolidated Balance Sheet (Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": true,
+   "components": [
+    {
+     "label": "Equity Share Capital",
+     "value": "0.86"
+    },
+    {
+     "label": "Other Equity",
+     "value": "357.97"
+    }
+   ]
+  },
+  "ev22": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/pharmed-limited-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:39+00:00",
+   "sha256": "8dc9fc0cb7e8b4aa78829fcd0e643da45897f395ba0873ef5f6cd53d0e66d6be",
+   "capture_run": "20261123T175837Z",
+   "file": "pharmed-financial.html",
+   "raw_label": "Sum of 2 lines under 'equity'",
+   "raw_text": null,
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": null,
+   "basis": "consolidated",
+   "anchor": {
+    "file": "pharmed-financial.html",
+    "table_index": 1,
+    "row_index": 21,
+    "heading": "Pharmed Limited Consolidated Balance Sheet (Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": true,
+   "components": [
+    {
+     "label": "Equity Share Capital",
+     "value": "0.86"
+    },
+    {
+     "label": "Other Equity",
+     "value": "433.15"
+    }
+   ]
+  },
+  "ev23": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/pharmed-limited-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:39+00:00",
+   "sha256": "8dc9fc0cb7e8b4aa78829fcd0e643da45897f395ba0873ef5f6cd53d0e66d6be",
+   "capture_run": "20261123T175837Z",
+   "file": "pharmed-financial.html",
+   "raw_label": "Sum of 6 lines under 'current assets'",
+   "raw_text": null,
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": null,
+   "basis": "consolidated",
+   "anchor": {
+    "file": "pharmed-financial.html",
+    "table_index": 1,
+    "row_index": 12,
+    "heading": "Pharmed Limited Consolidated Balance Sheet (Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": true,
+   "components": [
+    {
+     "label": "Inventories",
+     "value": "31.9"
+    },
+    {
+     "label": "Trade Receivables",
+     "value": "26.08"
+    },
+    {
+     "label": "Cash And Cash Equivalents",
+     "value": "10.14"
+    },
+    {
+     "label": "Other Bank Balances",
+     "value": "22.17"
+    },
+    {
+     "label": "Other Financial Assets",
+     "value": "1.51"
+    },
+    {
+     "label": "Other Current Assets",
+     "value": "10.94"
+    }
+   ]
+  },
+  "ev24": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/pharmed-limited-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:39+00:00",
+   "sha256": "8dc9fc0cb7e8b4aa78829fcd0e643da45897f395ba0873ef5f6cd53d0e66d6be",
+   "capture_run": "20261123T175837Z",
+   "file": "pharmed-financial.html",
+   "raw_label": "Sum of 7 lines under 'current assets'",
+   "raw_text": null,
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": null,
+   "basis": "consolidated",
+   "anchor": {
+    "file": "pharmed-financial.html",
+    "table_index": 1,
+    "row_index": 12,
+    "heading": "Pharmed Limited Consolidated Balance Sheet (Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": true,
+   "components": [
+    {
+     "label": "Inventories",
+     "value": "25.77"
+    },
+    {
+     "label": "Trade Receivables",
+     "value": "24.79"
+    },
+    {
+     "label": "Cash And Cash Equivalents",
+     "value": "18"
+    },
+    {
+     "label": "Other Bank Balances",
+     "value": "24.56"
+    },
+    {
+     "label": "Other Financial Assets",
+     "value": "1.8"
+    },
+    {
+     "label": "Current Tax Assets (Net)",
+     "value": "0.26"
+    },
+    {
+     "label": "Other Current Assets",
+     "value": "14.21"
+    }
+   ]
+  },
+  "ev25": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/pharmed-limited-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:39+00:00",
+   "sha256": "8dc9fc0cb7e8b4aa78829fcd0e643da45897f395ba0873ef5f6cd53d0e66d6be",
+   "capture_run": "20261123T175837Z",
+   "file": "pharmed-financial.html",
+   "raw_label": "Sum of 7 lines under 'current liabilities'",
+   "raw_text": null,
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": null,
+   "basis": "consolidated",
+   "anchor": {
+    "file": "pharmed-financial.html",
+    "table_index": 1,
+    "row_index": 28,
+    "heading": "Pharmed Limited Consolidated Balance Sheet (Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": true,
+   "components": [
+    {
+     "label": "Lease Liabilities",
+     "value": "1.57"
+    },
+    {
+     "label": "Trade Payables - Micro And Small Enterprises",
+     "value": "5.94"
+    },
+    {
+     "label": "Trade Payables - Others",
+     "value": "10.67"
+    },
+    {
+     "label": "Other Financial Liabilities",
+     "value": "3.95"
+    },
+    {
+     "label": "Other Current Liabilities",
+     "value": "26.1"
+    },
+    {
+     "label": "Provisions",
+     "value": "29.6"
+    },
+    {
+     "label": "Current Tax Liabilities (Net)",
+     "value": "0.07"
+    }
+   ]
+  },
+  "ev26": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/pharmed-limited-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:39+00:00",
+   "sha256": "8dc9fc0cb7e8b4aa78829fcd0e643da45897f395ba0873ef5f6cd53d0e66d6be",
+   "capture_run": "20261123T175837Z",
+   "file": "pharmed-financial.html",
+   "raw_label": "Sum of 6 lines under 'current liabilities'",
+   "raw_text": null,
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": null,
+   "basis": "consolidated",
+   "anchor": {
+    "file": "pharmed-financial.html",
+    "table_index": 1,
+    "row_index": 28,
+    "heading": "Pharmed Limited Consolidated Balance Sheet (Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": true,
+   "components": [
+    {
+     "label": "Lease Liabilities",
+     "value": "1.37"
+    },
+    {
+     "label": "Trade Payables - Micro And Small Enterprises",
+     "value": "7.8"
+    },
+    {
+     "label": "Trade Payables - Others",
+     "value": "6.89"
+    },
+    {
+     "label": "Other Financial Liabilities",
+     "value": "3.72"
+    },
+    {
+     "label": "Other Current Liabilities",
+     "value": "27.99"
+    },
+    {
+     "label": "Provisions",
+     "value": "39.67"
+    }
+   ]
+  },
+  "ev27": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/pharmed-limited-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:39+00:00",
+   "sha256": "8dc9fc0cb7e8b4aa78829fcd0e643da45897f395ba0873ef5f6cd53d0e66d6be",
+   "capture_run": "20261123T175837Z",
+   "file": "pharmed-financial.html",
+   "raw_label": "Inventories",
+   "raw_text": "31.90",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "31-03-2025",
+   "basis": "consolidated",
+   "anchor": {
+    "file": "pharmed-financial.html",
+    "table_index": 1,
+    "row_index": 12,
+    "heading": "Pharmed Limited Consolidated Balance Sheet (Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev28": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/pharmed-limited-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:39+00:00",
+   "sha256": "8dc9fc0cb7e8b4aa78829fcd0e643da45897f395ba0873ef5f6cd53d0e66d6be",
+   "capture_run": "20261123T175837Z",
+   "file": "pharmed-financial.html",
+   "raw_label": "Inventories",
+   "raw_text": "25.77",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "31-03-2026",
+   "basis": "consolidated",
+   "anchor": {
+    "file": "pharmed-financial.html",
+    "table_index": 1,
+    "row_index": 12,
+    "heading": "Pharmed Limited Consolidated Balance Sheet (Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev29": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/pharmed-limited-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:39+00:00",
+   "sha256": "8dc9fc0cb7e8b4aa78829fcd0e643da45897f395ba0873ef5f6cd53d0e66d6be",
+   "capture_run": "20261123T175837Z",
+   "file": "pharmed-financial.html",
+   "raw_label": "Cash And Cash Equivalents",
+   "raw_text": "10.14",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "31-03-2025",
+   "basis": "consolidated",
+   "anchor": {
+    "file": "pharmed-financial.html",
+    "table_index": 1,
+    "row_index": 14,
+    "heading": "Pharmed Limited Consolidated Balance Sheet (Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev30": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/pharmed-limited-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:39+00:00",
+   "sha256": "8dc9fc0cb7e8b4aa78829fcd0e643da45897f395ba0873ef5f6cd53d0e66d6be",
+   "capture_run": "20261123T175837Z",
+   "file": "pharmed-financial.html",
+   "raw_label": "Cash And Cash Equivalents",
+   "raw_text": "18.00",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "31-03-2026",
+   "basis": "consolidated",
+   "anchor": {
+    "file": "pharmed-financial.html",
+    "table_index": 1,
+    "row_index": 14,
+    "heading": "Pharmed Limited Consolidated Balance Sheet (Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev31": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/pharmed-limited-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:39+00:00",
+   "sha256": "8dc9fc0cb7e8b4aa78829fcd0e643da45897f395ba0873ef5f6cd53d0e66d6be",
+   "capture_run": "20261123T175837Z",
+   "file": "pharmed-financial.html",
+   "raw_label": "Net Cash Flow from Operating Activities",
+   "raw_text": "66.26",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "31-03-2025",
+   "basis": "consolidated",
+   "anchor": {
+    "file": "pharmed-financial.html",
+    "table_index": 3,
+    "row_index": 27,
+    "heading": "Pharmed Limited Consolidated Cash Flow Statement (Rs in Crores)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev32": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/pharmed-limited-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:39+00:00",
+   "sha256": "8dc9fc0cb7e8b4aa78829fcd0e643da45897f395ba0873ef5f6cd53d0e66d6be",
+   "capture_run": "20261123T175837Z",
+   "file": "pharmed-financial.html",
+   "raw_label": "Net Cash Flow from Operating Activities",
+   "raw_text": "74.81",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "31-03-2026",
+   "basis": "consolidated",
+   "anchor": {
+    "file": "pharmed-financial.html",
+    "table_index": 3,
+    "row_index": 27,
+    "heading": "Pharmed Limited Consolidated Cash Flow Statement (Rs in Crores)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev33": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/pharmed-limited-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:39+00:00",
+   "sha256": "8dc9fc0cb7e8b4aa78829fcd0e643da45897f395ba0873ef5f6cd53d0e66d6be",
+   "capture_run": "20261123T175837Z",
+   "file": "pharmed-financial.html",
+   "raw_label": "Net Cash Flow from Investing Activities",
+   "raw_text": "-52.62",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "31-03-2025",
+   "basis": "consolidated",
+   "anchor": {
+    "file": "pharmed-financial.html",
+    "table_index": 3,
+    "row_index": 34,
+    "heading": "Pharmed Limited Consolidated Cash Flow Statement (Rs in Crores)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev34": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/pharmed-limited-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:39+00:00",
+   "sha256": "8dc9fc0cb7e8b4aa78829fcd0e643da45897f395ba0873ef5f6cd53d0e66d6be",
+   "capture_run": "20261123T175837Z",
+   "file": "pharmed-financial.html",
+   "raw_label": "Net Cash Flow from Investing Activities",
+   "raw_text": "-60.57",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "31-03-2026",
+   "basis": "consolidated",
+   "anchor": {
+    "file": "pharmed-financial.html",
+    "table_index": 3,
+    "row_index": 34,
+    "heading": "Pharmed Limited Consolidated Cash Flow Statement (Rs in Crores)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev35": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/pharmed-limited-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:39+00:00",
+   "sha256": "8dc9fc0cb7e8b4aa78829fcd0e643da45897f395ba0873ef5f6cd53d0e66d6be",
+   "capture_run": "20261123T175837Z",
+   "file": "pharmed-financial.html",
+   "raw_label": "Net Cash Flow from Financing Activities",
+   "raw_text": "-4.95",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "31-03-2025",
+   "basis": "consolidated",
+   "anchor": {
+    "file": "pharmed-financial.html",
+    "table_index": 3,
+    "row_index": 41,
+    "heading": "Pharmed Limited Consolidated Cash Flow Statement (Rs in Crores)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev36": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/pharmed-limited-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:39+00:00",
+   "sha256": "8dc9fc0cb7e8b4aa78829fcd0e643da45897f395ba0873ef5f6cd53d0e66d6be",
+   "capture_run": "20261123T175837Z",
+   "file": "pharmed-financial.html",
+   "raw_label": "Net Cash Flow from Financing Activities",
+   "raw_text": "-3.99",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "31-03-2026",
+   "basis": "consolidated",
+   "anchor": {
+    "file": "pharmed-financial.html",
+    "table_index": 3,
+    "row_index": 41,
+    "heading": "Pharmed Limited Consolidated Cash Flow Statement (Rs in Crores)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev37": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/pharmed-limited-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:39+00:00",
+   "sha256": "8dc9fc0cb7e8b4aa78829fcd0e643da45897f395ba0873ef5f6cd53d0e66d6be",
+   "capture_run": "20261123T175837Z",
+   "file": "pharmed-financial.html",
+   "raw_label": "Trade Receivables",
+   "raw_text": "26.08",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "31-03-2025",
+   "basis": "consolidated",
+   "anchor": {
+    "file": "pharmed-financial.html",
+    "table_index": 1,
+    "row_index": 13,
+    "heading": "Pharmed Limited Consolidated Balance Sheet (Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev38": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/pharmed-limited-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:39+00:00",
+   "sha256": "8dc9fc0cb7e8b4aa78829fcd0e643da45897f395ba0873ef5f6cd53d0e66d6be",
+   "capture_run": "20261123T175837Z",
+   "file": "pharmed-financial.html",
+   "raw_label": "Trade Receivables",
+   "raw_text": "24.79",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "31-03-2026",
+   "basis": "consolidated",
+   "anchor": {
+    "file": "pharmed-financial.html",
+    "table_index": 1,
+    "row_index": 13,
+    "heading": "Pharmed Limited Consolidated Balance Sheet (Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev39": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/pharmed-limited-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:39+00:00",
+   "sha256": "8dc9fc0cb7e8b4aa78829fcd0e643da45897f395ba0873ef5f6cd53d0e66d6be",
+   "capture_run": "20261123T175837Z",
+   "file": "pharmed-financial.html",
+   "raw_label": "Property, Plant And Equipment",
+   "raw_text": "44.27",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "31-03-2025",
+   "basis": "consolidated",
+   "anchor": {
+    "file": "pharmed-financial.html",
+    "table_index": 1,
+    "row_index": 2,
+    "heading": "Pharmed Limited Consolidated Balance Sheet (Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev40": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/pharmed-limited-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:39+00:00",
+   "sha256": "8dc9fc0cb7e8b4aa78829fcd0e643da45897f395ba0873ef5f6cd53d0e66d6be",
+   "capture_run": "20261123T175837Z",
+   "file": "pharmed-financial.html",
+   "raw_label": "Property, Plant And Equipment",
+   "raw_text": "45.44",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "31-03-2026",
+   "basis": "consolidated",
+   "anchor": {
+    "file": "pharmed-financial.html",
+    "table_index": 1,
+    "row_index": 2,
+    "heading": "Pharmed Limited Consolidated Balance Sheet (Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  }
+ },
+ "news": {
+  "query": "\"Pharmed Limited\"",
+  "retrieved_at": "2026-11-23T17:59:02+00:00",
+  "items": [
+   {
+    "title": "NPPA Cannot Impose Drug Ceiling Price Without Following DPCO Formula: Bombay High Court Quashes Pharmed Demand",
+    "publisher": "Court Book",
+    "date": "2026-09-28",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRjJYMEZuY19tSkVxNXk2OVp4OWVCQ3Iwd251anRlM3c5azNmVXA0MjRmbjIxVGpQSWktWVBYRkhmREprdU1VZTFickluRHBqaVMtVEtTbWxJd3RTbHRLVjNwQk9QSVh6OUdMWG8tU2xVa2VXblFHQWEyOGlFbDJ5RVpTcllsU0dpSFlvSXVFN1JxREV3UnU5dVBDSGVkS1lzV3FwVnBpN1dGYkZKSFVKQnBPTG5PaWQyTzEtQ2xvX2lzVElDWW9CelNTbmh1ODNoVEE?oc=5"
+   },
+   {
+    "title": "Bombay HC Quashes NPPA Pricing Order, Blocks Rs 13.41 Cr Recovery Against Pharmed",
+    "publisher": "Medical Dialogues",
+    "date": "2026-09-26",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQlpxQWhpZXU1eU1RY2daWmxXc3Z2QkRqdHppR0ktNDN1czlkNGQ0OTk5R2duR3NGLVZqMXpUS2xJbURFNC1CU09YMmEwQ3pTdVloS3U1clpLZEY3QWlfZVV5X2JFaWIyY3ljUU5DQlNmaDZtX1ZkdzBiWHNpMjR5Nk5zeFV4UEt2R0ZNVVBQUlRJV1B3LXZmd3hJdzJZVnhhVXRKcGxBTEppMG5mZTJaU2p2YmYwX2E4a2M5SENHRHI5S19pNW9hM21oM01IMXNF0gHWAUFVX3lxTE5XR2hIaHdHMFM4SldyX1duVHRqY2xMd195YlpFUkpWQ2xweXZ6Tkd0d25FNWZKWXR2aS1vVU9rOXp0NDBOVi01czNieUhSemJPTXJmUEhQMFVOT0NlMC1KUTVfVU1qR2w4Vk9OajFIaG1rTW1wQlFPZ0UybERFZ25Oa3RKbGNwOUI1c2JQNHlBNWhMTWtINlZERGJ6TERHR0tTQWlLQ21JLUNoVGxlTEdRQkFsYzdzUzY1b3k3NmNuN1VFMS1fRFhMZllZN1FUR2JaUXpaS0E?oc=5"
+   },
+   {
+    "title": "NPPA Cannot Impose Blanket Price Ceiling Without Following DPCO Mechanism: Bombay High Court Quashes 2009 ...",
+    "publisher": "Live Law",
+    "date": "2026-09-26",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcnNfSlVHWnIyUEN6a09CVDVfTnBtYXlqZDV2VG1tMGJvZnl5ZVFjYU1pRW53cXE3YUIzVlB0YWwyR3JSVkxSeldzbUY3eFloWEt2YTFseXpVU045MUpodnRXamQway1paXh1amlhZFRuM25VSFNKb0tDeHVMV3Q1YTVkYnI3MUwydDYxaHNQQl9CWTRxa1lGUWFrNnJzUV9FWGhTdzhWdzDSAa4BQVVfeXFMTkpoWHlWSEpySHA1d2NFUWtRQ19ianZ4eUtTZXZMV3NQOW9WNWlMV2Jjc3RleG9UaGlobGRhbW1jd0EyS01YSkI2ams1WWxuQWd0VkRQNjZiRi1wRkg5R3hpdDByeW9TY0RmVlBmbmtEeUNENklpLTY3MU0xcTlGUnQzaE84TXpQdFNwWXluQkcwcnNuZU9aZ0Z4THRNSUczRVdBRDBIMkZQempVa01R?oc=5"
+   },
+   {
+    "title": "Pharmed Limited Enters Asia Book of Records with 10,451 Doctors Pledging to Screen and Manage Sarcopenia",
+    "publisher": "Business Standard",
+    "date": "2026-07-07",
+    "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNTVMwcm5nZzJpdWJfNlFXQzN6WHJXTUx2MjRIbGJRTHd1WFpxazdTRVhpT0tvV25uOElyOFlVcGhIejUzTHptYzJ5dXRoZUVBQVA0RHBGOEtUUHkzd2FCVWs2T3hRWE9UU1Nrd2Q2clV6RjZjV0JnY3RPX1hyd3lkNkdaU3FQYW16NjhoUDBlRHVpUld4ZGlEb3ZrMGFZb054aU1aVjM3VTZMc292c1d1QVVUWURMSThSM1FHbDkxa0Z0eGhybFJNWXpwSkFpMGxYb3U4OVB3NVFDQmhaYWo4Rmk2RzhMOHNObjFjM3Rid2pwV3otdUgxbDByX05va3VxZHdmNjYwYVFFbG9TemZxMXo3RdIBmAJBVV95cUxOdXhmTGJWb2tma2dyV2tmMV9CNjZ3N0VYMUhLUnFsWFdaWXVSMHFrLWRXT0M5WHlkQjdSZnpnQWxYd3JuNkl6REh3SWZaRkd1RktaOThVLUR4VWtISjJVZGZoRHdDdlV3SGpocW52RjZuYzN0aW1OTnVPT1FrbDBpUzNxVXc3MjJRaFVaUFgySXhjcm9vX3BINW9teEFQYjFTbmt6VUtSX0pRb3JiUk1RNHpmeHRsc0V4VHdsSzBlb3lqR3ZWZVQ5WGpXWUJSZGdsWUF2Q096dExIbC0wX2lhTVEySDJxVzd3RE9aZUVSdE95YTFycWJTX3oybU9xeFUxM3FJMjlfTzVDNVRIdUVIR0QyYklPeVVP?oc=5"
+   },
+   {
+    "title": "Indian pharma leader Krishan Kumar Aurora passes away at 88",
+    "publisher": "Healthcare Radius",
+    "date": "2024-12-26",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeF9jaW50dVBtVkFHWmZPTHFXU3RvXzBrN0k0Y2Q1OXoteUp4c1I3RXNNX0Rra3ptelQtXy1rOE4wdHVBOXBCVlh1dEM0cHBZRnA0cDhfckpuem9CcWc5cXlsYU1Eamw1N1dTNTdiUG5rSEY4czFHMjFfcFJKYmh6UFZzWG5IOHY0anRvS3Rlc29Vd3B4V3JUaEhpN2dXNDg?oc=5"
+   },
+   {
+    "title": "Pharmed Ltd chairman emeritus Krishan Kumar Aurora passes away at 88",
+    "publisher": "Business Standard",
+    "date": "2024-12-26",
+    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOXzJMT25XdHFVTWJCMHZDTVUwRXd5UnlXTFp1dFU2NGxLUUswTnBmWEstM09ZSnVyUG9MblBPYjFqSlNEZnVLM3lrRERYV3R3VnhDanlqeGlpRGdVR19xZzhZZW43aXJXUjc4dXpnb0s5V0diWFNPMmtRbkdJeXZlal9EelpwUzJYRlBvVHBKa3M0WERQd20zSVVmNEE0T19uY1BHa1FNUWZ0WVp0YkNxMHhFWlRiRk53OF80TGVvb0RiOGRxWkxDRUhyOXVBX3EzMXkyb2duRU1FQdIB3wFBVV95cUxQN253MWN6U09pTzJTbG5GcmtSLUxxMUJhZ2xRQWNUTXhMaFFIaGdFaWdiNzhuVWp2R2tYT0U4bmNidGstWWFjcXNWbWE5bnJ6bmdVbjR3dFBGdnMwQ0xTQmdWTW83NnVWYWxoeWxQcDBBUTZ0NFducTQ4VUpUb3FXQjVzOHdTemtPZ3dET1pNVzJPc1U1c1VXWnVRQWVKNGVYNzRoUWlfNjMzdWt1clY3RWRIZHl5LXdIcEhoNDllOW1objdEVnQ0RlFvME1yNlZONmZzNlNPNjBiTWJqcXVj?oc=5"
+   },
+   {
+    "title": "Baliraja party will field 150 candidates in Maharashtra Assembly Polls.",
+    "publisher": "Revoi.in",
+    "date": "2024-10-21",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQkJ0UFlBRkxHY2FBQXE3M0pCMlBocHM3N2t6Ti13SnZ2M0NQSnVsc1M1OHpIT0NyVEI0ZWZPWFNIN0tTRkZBMFRDbmE4YUdfV1ZBN3FSekcyTTdwVnlFT01qSUxqdmNiZnRiLXJzYmNXaG43RXVLXzBsYXBpcTNuMVUtTFEtZW1ESEx0MWRIbm1aWUJ6SlVGNXJrM3I?oc=5"
+   },
+   {
+    "title": "Marwari Arogya Bhawan Hospital in Dibrugarh conducts free Calcium screening test & Orthopedic consultation",
+    "publisher": "India Today NE",
+    "date": "2022-04-19",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPc2RSbjBpX3hzUzVZTDlMUmQ0ZW9OcGlEaTdzSnF5OGpTaUZ0TmJkRUVhT2o3VXk4bzRPZDNrMzF3cUxoRVA3dkkyOUxJUDlYSUJxZE9JdHVNblZiVTBUb081eGZ1bVdxQWdWS21SZU5GT1BhcU84TElYODJWT2xiNHZUZG42eUM2VUl4aWVVMXE3VldLem9GZ2EtV1JaV0lHVXhTNzZ1QdIBrAFBVV95cUxNUWZNZVRwQ1hNWmZia21udC10Vm52QkZ6ZnJIRWY3YWt3ajV4VHFxQlJnSFNKU3E2dkFEbTczWDlXenFUSjRTdUtaTG1XN3hzdzFlWGs2ZmRLZkRCX0pzYWtlS3FXS3NIeXQ5cnotNUdfYmRXN09qYzJpZDVPTHNWZ1BPRl9CdTN2UDhHNGJZZUdNQ1hicm83X21KaWFsZUtOVi1IaGtDSjduaGxf?oc=5"
+   }
+  ],
+  "source": {
+   "name": "Google News RSS search",
+   "url": "https://news.google.com/rss/search?q=%22Pharmed+Limited%22&hl=en-IN&gl=IN&ceid=IN:en",
+   "sha256": "9f6d7f8d1bf6d68b65973b69ec9248b7b572b3a47ce9219e97f172082d89c136",
+   "run": "20261123T175837Z"
+  }
+ },
+ "peer_reviewed": true,
+ "analysis": {
+  "FY2025": {
+   "basis": "consolidated",
+   "facts": {
+    "total_income": {
+     "value": "528.59",
+     "state": "reported",
+     "ev": "ev3"
+    },
+    "revenue_ops": {
+     "value": "505.6",
+     "state": "reported",
+     "ev": "ev5"
+    },
+    "other_income": {
+     "value": "22.99",
+     "state": "reported",
+     "ev": "ev7"
+    },
+    "other_gains": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "job_work_revenue": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "total_expenses": {
+     "value": "422.42",
+     "state": "reported",
+     "ev": "ev9"
+    },
+    "finance_cost": {
+     "value": "0.68",
+     "state": "reported",
+     "ev": "ev11"
+    },
+    "depreciation": {
+     "value": "4.57",
+     "state": "reported",
+     "ev": "ev13"
+    },
+    "pbt": {
+     "value": "106.17",
+     "state": "reported",
+     "ev": "ev15"
+    },
+    "tax": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "pat": {
+     "value": "80.83",
+     "state": "reported",
+     "ev": "ev17"
+    },
+    "total_assets": {
+     "value": "450.25",
+     "state": "reported",
+     "ev": "ev19"
+    },
+    "total_equity": {
+     "value": "358.83",
+     "state": "derived",
+     "ev": "ev21"
+    },
+    "total_liabilities": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "current_assets": {
+     "value": "102.74",
+     "state": "derived",
+     "ev": "ev23"
+    },
+    "current_liabilities": {
+     "value": "77.90",
+     "state": "derived",
+     "ev": "ev25"
+    },
+    "inventories": {
+     "value": "31.9",
+     "state": "reported",
+     "ev": "ev27"
+    },
+    "cash": {
+     "value": "10.14",
+     "state": "reported",
+     "ev": "ev29"
+    },
+    "loans": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "cfo": {
+     "value": "66.26",
+     "state": "reported",
+     "ev": "ev31"
+    },
+    "cfi": {
+     "value": "-52.62",
+     "state": "reported",
+     "ev": "ev33"
+    },
+    "cff": {
+     "value": "-4.95",
+     "state": "reported",
+     "ev": "ev35"
+    },
+    "ebitda": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "eps": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "shares_outstanding": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "pat_pre_associate": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "pat_owners": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "associate_profit": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "eps_basic": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "eps_diluted": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "gross_profit": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "operating_profit": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "cost_of_sales": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "trade_receivables": {
+     "value": "26.08",
+     "state": "reported",
+     "ev": "ev37"
+    },
+    "trade_payables": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "fixed_assets": {
+     "value": "44.27",
+     "state": "reported",
+     "ev": "ev39"
+    },
+    "borrowings": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "dividend_per_share": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "gross_npa": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "net_npa": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "nim": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "provision_coverage": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "capital_adequacy": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "claims_ratio": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "combined_ratio": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "solvency_ratio": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "capex": {
+     "state": "not_in_source",
+     "value": null
+    }
+   }
+  },
+  "FY2026": {
+   "basis": "consolidated",
+   "facts": {
+    "total_income": {
+     "value": "612.34",
+     "state": "reported",
+     "ev": "ev4"
+    },
+    "revenue_ops": {
+     "value": "592.22",
+     "state": "reported",
+     "ev": "ev6"
+    },
+    "other_income": {
+     "value": "20.12",
+     "state": "reported",
+     "ev": "ev8"
+    },
+    "other_gains": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "job_work_revenue": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "total_expenses": {
+     "value": "511.28",
+     "state": "reported",
+     "ev": "ev10"
+    },
+    "finance_cost": {
+     "value": "0.8",
+     "state": "reported",
+     "ev": "ev12"
+    },
+    "depreciation": {
+     "value": "5.25",
+     "state": "reported",
+     "ev": "ev14"
+    },
+    "pbt": {
+     "value": "99.56",
+     "state": "reported",
+     "ev": "ev16"
+    },
+    "tax": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "pat": {
+     "value": "76.57",
+     "state": "reported",
+     "ev": "ev18"
+    },
+    "total_assets": {
+     "value": "533.06",
+     "state": "reported",
+     "ev": "ev20"
+    },
+    "total_equity": {
+     "value": "434.01",
+     "state": "derived",
+     "ev": "ev22"
+    },
+    "total_liabilities": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "current_assets": {
+     "value": "109.39",
+     "state": "derived",
+     "ev": "ev24"
+    },
+    "current_liabilities": {
+     "value": "87.44",
+     "state": "derived",
+     "ev": "ev26"
+    },
+    "inventories": {
+     "value": "25.77",
+     "state": "reported",
+     "ev": "ev28"
+    },
+    "cash": {
+     "value": "18",
+     "state": "reported",
+     "ev": "ev30"
+    },
+    "loans": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "cfo": {
+     "value": "74.81",
+     "state": "reported",
+     "ev": "ev32"
+    },
+    "cfi": {
+     "value": "-60.57",
+     "state": "reported",
+     "ev": "ev34"
+    },
+    "cff": {
+     "value": "-3.99",
+     "state": "reported",
+     "ev": "ev36"
+    },
+    "ebitda": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "eps": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "shares_outstanding": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "pat_pre_associate": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "pat_owners": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "associate_profit": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "eps_basic": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "eps_diluted": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "gross_profit": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "operating_profit": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "cost_of_sales": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "trade_receivables": {
+     "value": "24.79",
+     "state": "reported",
+     "ev": "ev38"
+    },
+    "trade_payables": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "fixed_assets": {
+     "value": "45.44",
+     "state": "reported",
+     "ev": "ev40"
+    },
+    "borrowings": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "dividend_per_share": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "gross_npa": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "net_npa": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "nim": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "provision_coverage": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "capital_adequacy": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "claims_ratio": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "combined_ratio": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "solvency_ratio": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "capex": {
+     "state": "not_in_source",
+     "value": null
+    }
+   }
+  }
+ },
+ "ratios": {
+  "defaults": [
+   "revenue_growth",
+   "ebitda_margin",
+   "roce",
+   "cfo_to_pat",
+   "net_debt_ebitda",
+   "pe"
+  ],
+  "groups": {
+   "Profitability": [
+    {
+     "id": "pat_margin",
+     "label": "PAT margin",
+     "unit": "%",
+     "formula": "PAT / total income"
+    },
+    {
+     "id": "net_profit_ratio",
+     "label": "Net profit ratio",
+     "unit": "%",
+     "formula": "PAT / operating revenue"
+    },
+    {
+     "id": "gross_margin",
+     "label": "Gross margin",
+     "unit": "%",
+     "formula": "gross profit / operating revenue"
+    },
+    {
+     "id": "operating_margin",
+     "label": "Operating margin",
+     "unit": "%",
+     "formula": "operating profit / operating revenue"
+    },
+    {
+     "id": "ebitda_margin",
+     "label": "EBITDA margin",
+     "unit": "%",
+     "formula": "EBITDA / operating revenue"
+    },
+    {
+     "id": "roe",
+     "label": "Return on equity",
+     "unit": "%",
+     "formula": "PAT / average equity"
+    },
+    {
+     "id": "roa",
+     "label": "Return on assets",
+     "unit": "%",
+     "formula": "PAT / average assets"
+    },
+    {
+     "id": "roce",
+     "label": "ROCE",
+     "unit": "%",
+     "formula": "(PBT + finance costs) / (total assets − current liabilities)"
+    },
+    {
+     "id": "other_income_share",
+     "label": "Other-income share",
+     "unit": "%",
+     "formula": "other income / total income"
+    }
+   ],
+   "Growth and per share": [
+    {
+     "id": "revenue_growth",
+     "label": "Revenue growth",
+     "unit": "%",
+     "formula": "operating revenue / prior-year operating revenue − 1"
+    },
+    {
+     "id": "revenue_cagr",
+     "label": "Three-year revenue CAGR",
+     "unit": "%",
+     "formula": "(operating revenue / operating revenue three years earlier)^(1/3) − 1"
+    },
+    {
+     "id": "diluted_growth",
+     "label": "Diluted EPS growth",
+     "unit": "%",
+     "formula": "diluted EPS / prior-year diluted EPS − 1"
+    },
+    {
+     "id": "eps_basic",
+     "label": "Reported basic EPS",
+     "unit": "₹/share",
+     "formula": "reported basic EPS"
+    },
+    {
+     "id": "eps_diluted",
+     "label": "Reported diluted EPS",
+     "unit": "₹/share",
+     "formula": "reported diluted EPS"
+    },
+    {
+     "id": "book_per_share",
+     "label": "Book value per share",
+     "unit": "₹/share",
+     "formula": "equity (₹ crore) × 10,000,000 / period-end shares"
+    }
+   ],
+   "Liquidity and debt": [
+    {
+     "id": "current_ratio",
+     "label": "Current ratio",
+     "unit": "×",
+     "formula": "current assets / current liabilities"
+    },
+    {
+     "id": "quick_ratio",
+     "label": "Quick ratio",
+     "unit": "×",
+     "formula": "(current assets − inventories) / current liabilities"
+    },
+    {
+     "id": "cash_ratio",
+     "label": "Cash ratio",
+     "unit": "×",
+     "formula": "cash and equivalents / current liabilities"
+    },
+    {
+     "id": "debt_equity",
+     "label": "Debt-to-equity",
+     "unit": "×",
+     "formula": "reported debt / equity"
+    },
+    {
+     "id": "interest_cover",
+     "label": "Interest coverage",
+     "unit": "×",
+     "formula": "(PBT + finance costs) / finance costs"
+    },
+    {
+     "id": "net_debt_ebitda",
+     "label": "Net debt / EBITDA",
+     "unit": "×",
+     "formula": "(reported debt − cash and equivalents) / EBITDA"
+    },
+    {
+     "id": "debt_cover",
+     "label": "Debt service coverage",
+     "unit": "×",
+     "formula": "operating cash flow / scheduled principal and interest"
+    }
+   ],
+   "Cash generation": [
+    {
+     "id": "cfo_to_pat",
+     "label": "Operating cash flow / profit",
+     "unit": "×",
+     "formula": "operating cash flow / PAT"
+    },
+    {
+     "id": "cfo_margin",
+     "label": "Operating cash flow margin",
+     "unit": "%",
+     "formula": "operating cash flow / operating revenue"
+    },
+    {
+     "id": "cfo_current",
+     "label": "Operating cash flow / current liabilities",
+     "unit": "×",
+     "formula": "operating cash flow / current liabilities"
+    },
+    {
+     "id": "fcf_margin",
+     "label": "Free cash flow margin",
+     "unit": "%",
+     "formula": "(operating cash flow + signed cash capex) / operating revenue"
+    }
+   ],
+   "Asset and working-capital efficiency": [
+    {
+     "id": "asset_turnover",
+     "label": "Asset turnover",
+     "unit": "×",
+     "formula": "operating revenue / average total assets"
+    },
+    {
+     "id": "fixed_turnover",
+     "label": "Fixed-asset turnover",
+     "unit": "×",
+     "formula": "operating revenue / average fixed assets"
+    },
+    {
+     "id": "inventory_days",
+     "label": "Inventory days",
+     "unit": "days",
+     "formula": "365 × average inventory / cost of sales"
+    },
+    {
+     "id": "receivable_days",
+     "label": "Receivable days",
+     "unit": "days",
+     "formula": "365 × average trade receivables / operating revenue"
+    },
+    {
+     "id": "payable_days",
+     "label": "Payable days",
+     "unit": "days",
+     "formula": "365 × average trade payables / cost of sales"
+    },
+    {
+     "id": "cash_cycle",
+     "label": "Cash conversion cycle",
+     "unit": "days",
+     "formula": "inventory days + receivable days − payable days"
+    }
+   ],
+   "Valuation and distributions": [
+    {
+     "id": "pe",
+     "label": "P/E at quote",
+     "unit": "×",
+     "formula": "dated price / annual EPS"
+    },
+    {
+     "id": "pb",
+     "label": "Price-to-book",
+     "unit": "×",
+     "formula": "indicative market cap / equity"
+    },
+    {
+     "id": "ps",
+     "label": "Price-to-sales",
+     "unit": "×",
+     "formula": "indicative market cap / operating revenue"
+    },
+    {
+     "id": "ev_ebitda",
+     "label": "EV / EBITDA",
+     "unit": "×",
+     "formula": "(market cap + debt − cash) / EBITDA"
+    },
+    {
+     "id": "ev_revenue",
+     "label": "EV / revenue",
+     "unit": "×",
+     "formula": "(market cap + debt − cash) / operating revenue"
+    },
+    {
+     "id": "dividend_payout",
+     "label": "Dividend payout ratio",
+     "unit": "%",
+     "formula": "reported dividend per share / annual basic EPS"
+    },
+    {
+     "id": "dividend_yield",
+     "label": "Indicative dividend yield",
+     "unit": "%",
+     "formula": "reported dividend per share / quoted price"
+    },
+    {
+     "id": "dividend_per_share",
+     "label": "Dividend per share",
+     "unit": "₹/share",
+     "formula": "reported dividend per share"
+    }
+   ],
+   "Lender measures": [
+    {
+     "id": "nim",
+     "label": "Net interest margin",
+     "unit": "%",
+     "formula": "issuer's reported NIM"
+    },
+    {
+     "id": "gross_npa",
+     "label": "Gross NPA ratio",
+     "unit": "%",
+     "formula": "issuer's reported gross NPA ratio"
+    },
+    {
+     "id": "net_npa",
+     "label": "Net NPA ratio",
+     "unit": "%",
+     "formula": "issuer's reported net NPA ratio"
+    },
+    {
+     "id": "provision_coverage",
+     "label": "Provision coverage",
+     "unit": "%",
+     "formula": "issuer's reported coverage"
+    },
+    {
+     "id": "capital_adequacy",
+     "label": "Capital adequacy",
+     "unit": "%",
+     "formula": "issuer's reported capital adequacy"
+    }
+   ],
+   "Insurer measures": [
+    {
+     "id": "claims_ratio",
+     "label": "Incurred claims ratio",
+     "unit": "%",
+     "formula": "issuer's reported claims ratio"
+    },
+    {
+     "id": "combined_ratio",
+     "label": "Combined ratio",
+     "unit": "%",
+     "formula": "issuer's reported combined ratio"
+    },
+    {
+     "id": "solvency_ratio",
+     "label": "Solvency ratio",
+     "unit": "×",
+     "formula": "issuer's reported solvency ratio"
+    }
+   ],
+   "Exchange measures": [
+    {
+     "id": "volume_growth",
+     "label": "Traded-volume growth",
+     "unit": "%",
+     "formula": "matched-contract volume / prior-year volume − 1"
+    },
+    {
+     "id": "fee_per_unit",
+     "label": "Transaction fee per unit",
+     "unit": "₹/unit",
+     "formula": "transaction fee / same-contract traded volume"
+    }
+   ]
+  },
+  "by_period": {
+   "FY2025": {
+    "pat_margin": {
+     "value": "15.2916",
+     "state": "ok",
+     "formula": "PAT / total income",
+     "inputs": {
+      "numerator": "80.83",
+      "denominator": "528.59"
+     },
+     "unit": "%",
+     "ev": [
+      "ev17",
+      "ev3",
+      "ev5",
+      "ev7"
+     ],
+     "basis": "consolidated"
+    },
+    "other_income_share": {
+     "value": "4.3493",
+     "state": "ok",
+     "formula": "other income / total income",
+     "inputs": {
+      "numerator": "22.99",
+      "denominator": "528.59"
+     },
+     "unit": "%",
+     "ev": [
+      "ev7",
+      "ev3",
+      "ev5"
+     ],
+     "basis": "consolidated"
+    },
+    "net_profit_ratio": {
+     "value": "15.9869",
+     "state": "ok",
+     "formula": "PAT / operating revenue",
+     "inputs": {
+      "numerator": "80.83",
+      "denominator": "505.6"
+     },
+     "unit": "%",
+     "ev": [
+      "ev17",
+      "ev5"
+     ],
+     "basis": "consolidated"
+    },
+    "gross_margin": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "gross profit / operating revenue",
+     "inputs": {
+      "numerator": null,
+      "denominator": "505.6"
+     },
+     "unit": "%",
+     "ev": [
+      "ev5"
+     ],
+     "basis": "consolidated",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "operating_margin": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "operating profit / operating revenue",
+     "inputs": {
+      "numerator": null,
+      "denominator": "505.6"
+     },
+     "unit": "%",
+     "ev": [
+      "ev5"
+     ],
+     "basis": "consolidated",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "ebitda_margin": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "EBITDA / operating revenue",
+     "inputs": {
+      "numerator": null,
+      "denominator": "505.6"
+     },
+     "unit": "%",
+     "ev": [
+      "ev5"
+     ],
+     "basis": "consolidated",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "cfo_margin": {
+     "value": "13.1052",
+     "state": "ok",
+     "formula": "operating cash flow / operating revenue",
+     "inputs": {
+      "numerator": "66.26",
+      "denominator": "505.6"
+     },
+     "unit": "%",
+     "ev": [
+      "ev31",
+      "ev5"
+     ],
+     "basis": "consolidated"
+    },
+    "roa": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "PAT / average assets",
+     "inputs": {
+      "numerator": "80.83",
+      "denominator": null
+     },
+     "unit": "%",
+     "ev": [
+      "ev17",
+      "ev19"
+     ],
+     "basis": "consolidated",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "roe": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "PAT / average equity",
+     "inputs": {
+      "numerator": "80.83",
+      "denominator": null
+     },
+     "unit": "%",
+     "ev": [
+      "ev17",
+      "ev21"
+     ],
+     "basis": "consolidated",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "asset_turnover": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "operating revenue / average total assets",
+     "inputs": {
+      "numerator": "505.6",
+      "denominator": null
+     },
+     "unit": "×",
+     "ev": [
+      "ev5",
+      "ev19"
+     ],
+     "basis": "consolidated",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "fixed_turnover": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "operating revenue / average fixed assets",
+     "inputs": {
+      "numerator": "505.6",
+      "denominator": null
+     },
+     "unit": "×",
+     "ev": [
+      "ev5",
+      "ev39"
+     ],
+     "basis": "consolidated",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "current_ratio": {
+     "value": "1.3189",
+     "state": "ok",
+     "formula": "current assets / current liabilities",
+     "inputs": {
+      "numerator": "102.74",
+      "denominator": "77.90"
+     },
+     "unit": "×",
+     "ev": [
+      "ev23",
+      "ev25"
+     ],
+     "basis": "consolidated"
+    },
+    "cash_ratio": {
+     "value": "0.1302",
+     "state": "ok",
+     "formula": "cash and equivalents / current liabilities",
+     "inputs": {
+      "numerator": "10.14",
+      "denominator": "77.90"
+     },
+     "unit": "×",
+     "ev": [
+      "ev29",
+      "ev25"
+     ],
+     "basis": "consolidated"
+    },
+    "debt_equity": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "reported debt / equity",
+     "inputs": {
+      "numerator": null,
+      "denominator": "358.83"
+     },
+     "unit": "×",
+     "ev": [
+      "ev21"
+     ],
+     "basis": "consolidated",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "cfo_current": {
+     "value": "0.8506",
+     "state": "ok",
+     "formula": "operating cash flow / current liabilities",
+     "inputs": {
+      "numerator": "66.26",
+      "denominator": "77.90"
+     },
+     "unit": "×",
+     "ev": [
+      "ev31",
+      "ev25"
+     ],
+     "basis": "consolidated"
+    },
+    "cfo_to_pat": {
+     "value": "0.8197",
+     "state": "ok",
+     "formula": "operating cash flow / PAT",
+     "inputs": {
+      "numerator": "66.26",
+      "denominator": "80.83"
+     },
+     "unit": "×",
+     "ev": [
+      "ev31",
+      "ev17"
+     ],
+     "basis": "consolidated"
+    },
+    "dividend_payout": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "reported dividend per share / annual basic EPS",
+     "inputs": {
+      "numerator": null,
+      "denominator": null
+     },
+     "unit": "%",
+     "ev": [],
+     "basis": "consolidated",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "roce": {
+     "value": "28.6961",
+     "state": "ok",
+     "formula": "(PBT + finance costs) / (total assets − current liabilities)",
+     "inputs": {
+      "numerator": "106.85",
+      "denominator": "372.35"
+     },
+     "unit": "%",
+     "ev": [
+      "ev15",
+      "ev11",
+      "ev19",
+      "ev25"
+     ],
+     "basis": "consolidated"
+    },
+    "interest_cover": {
+     "value": "157.1324",
+     "state": "ok",
+     "formula": "(PBT + finance costs) / finance costs",
+     "inputs": {
+      "numerator": "106.85",
+      "denominator": "0.68"
+     },
+     "unit": "×",
+     "ev": [
+      "ev15",
+      "ev11"
+     ],
+     "basis": "consolidated"
+    },
+    "net_debt_ebitda": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "(reported debt − cash and equivalents) / EBITDA",
+     "inputs": {
+      "numerator": null,
+      "denominator": null
+     },
+     "unit": "×",
+     "ev": [
+      "ev29"
+     ],
+     "basis": "consolidated",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "fcf_margin": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "(operating cash flow + signed cash capex) / operating revenue",
+     "inputs": {
+      "numerator": null,
+      "denominator": "505.6"
+     },
+     "unit": "%",
+     "ev": [
+      "ev31",
+      "ev5"
+     ],
+     "basis": "consolidated",
+     "note": "Requires operating cash flow and paid cash capex for the same period and basis."
+    },
+    "quick_ratio": {
+     "value": "0.9094",
+     "state": "ok",
+     "formula": "(current assets - inventories) / current liabilities",
+     "inputs": {
+      "current_assets": "102.74",
+      "inventories": "31.9",
+      "current_liabilities": "77.90"
+     },
+     "unit": "x",
+     "ev": [
+      "ev23",
+      "ev25",
+      "ev27"
+     ],
+     "basis": "consolidated"
+    },
+    "revenue_growth": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "(current / previous) - 1",
+     "inputs": {
+      "current": "505.6",
+      "previous": null
+     },
+     "unit": "%",
+     "basis": "consolidated",
+     "ev": [
+      "ev5"
+     ],
+     "note": "Required comparable inputs are unavailable."
+    },
+    "revenue_cagr": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "(end / start)^(1/3) - 1",
+     "inputs": {
+      "end": "505.6",
+      "start": null,
+      "years": 3
+     },
+     "unit": "%",
+     "basis": "consolidated",
+     "ev": [
+      "ev5"
+     ],
+     "note": "Required comparable inputs are unavailable."
+    },
+    "diluted_growth": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "(current / previous) - 1",
+     "inputs": {
+      "current": null,
+      "previous": null
+     },
+     "unit": "%",
+     "basis": "consolidated",
+     "ev": [],
+     "note": "Required comparable inputs are unavailable."
+    },
+    "inventory_days": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "365 × average inventory / cost of sales",
+     "inputs": {
+      "numerator": null,
+      "denominator": null
+     },
+     "unit": "days",
+     "ev": [
+      "ev27"
+     ],
+     "basis": "consolidated",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "payable_days": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "365 × average trade payables / cost of sales",
+     "inputs": {
+      "numerator": null,
+      "denominator": null
+     },
+     "unit": "days",
+     "ev": [],
+     "basis": "consolidated",
+     "note": "Cost of sales proxies for supplier purchases; uses 365 days."
+    },
+    "receivable_days": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "365 × average trade receivables / operating revenue",
+     "inputs": {
+      "numerator": null,
+      "denominator": "505.6"
+     },
+     "unit": "days",
+     "ev": [
+      "ev37",
+      "ev5"
+     ],
+     "basis": "consolidated",
+     "note": "Operating revenue proxies for credit sales; uses 365 days."
+    },
+    "book_per_share": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "equity (₹ crore) × 10,000,000 / period-end shares",
+     "inputs": {
+      "numerator": "3588300000.00",
+      "denominator": null
+     },
+     "unit": "₹/share",
+     "ev": [
+      "ev21"
+     ],
+     "basis": "consolidated",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "eps_basic": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "reported basic EPS",
+     "inputs": {
+      "eps_basic": null
+     },
+     "unit": "₹/share",
+     "ev": [],
+     "basis": "consolidated",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "eps_diluted": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "reported diluted EPS",
+     "inputs": {
+      "eps_diluted": null
+     },
+     "unit": "₹/share",
+     "ev": [],
+     "basis": "consolidated",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "dividend_per_share": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "reported dividend per share",
+     "inputs": {
+      "dividend_per_share": null
+     },
+     "unit": "₹/share",
+     "ev": [],
+     "basis": "consolidated",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "nim": {
+     "value": null,
+     "state": "inapplicable",
+     "formula": "issuer's reported NIM",
+     "inputs": {},
+     "note": "The measure does not apply to this business model.",
+     "unit": "%",
+     "basis": "consolidated"
+    },
+    "gross_npa": {
+     "value": null,
+     "state": "inapplicable",
+     "formula": "issuer's reported gross NPA ratio",
+     "inputs": {},
+     "note": "The measure does not apply to this business model.",
+     "unit": "%",
+     "basis": "consolidated"
+    },
+    "net_npa": {
+     "value": null,
+     "state": "inapplicable",
+     "formula": "issuer's reported net NPA ratio",
+     "inputs": {},
+     "note": "The measure does not apply to this business model.",
+     "unit": "%",
+     "basis": "consolidated"
+    },
+    "provision_coverage": {
+     "value": null,
+     "state": "inapplicable",
+     "formula": "issuer's reported coverage",
+     "inputs": {},
+     "note": "The measure does not apply to this business model.",
+     "unit": "%",
+     "basis": "consolidated"
+    },
+    "capital_adequacy": {
+     "value": null,
+     "state": "inapplicable",
+     "formula": "issuer's reported capital adequacy",
+     "inputs": {},
+     "note": "The measure does not apply to this business model.",
+     "unit": "%",
+     "basis": "consolidated"
+    },
+    "claims_ratio": {
+     "value": null,
+     "state": "inapplicable",
+     "formula": "issuer's reported claims ratio",
+     "inputs": {},
+     "note": "The measure does not apply to this business model.",
+     "unit": "%",
+     "basis": "consolidated"
+    },
+    "combined_ratio": {
+     "value": null,
+     "state": "inapplicable",
+     "formula": "issuer's reported combined ratio",
+     "inputs": {},
+     "note": "The measure does not apply to this business model.",
+     "unit": "%",
+     "basis": "consolidated"
+    },
+    "solvency_ratio": {
+     "value": null,
+     "state": "inapplicable",
+     "formula": "issuer's reported solvency ratio",
+     "inputs": {},
+     "note": "The measure does not apply to this business model.",
+     "unit": "×",
+     "basis": "consolidated"
+    },
+    "debt_cover": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "operating cash flow / scheduled principal and interest",
+     "inputs": {},
+     "unit": "×",
+     "basis": "consolidated",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "cash_cycle": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "inventory days + receivable days − payable days",
+     "inputs": {},
+     "unit": "days",
+     "basis": "consolidated",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "pe": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "dated price / annual EPS",
+     "inputs": {},
+     "unit": "×",
+     "basis": "consolidated",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "pb": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "indicative market cap / equity",
+     "inputs": {},
+     "unit": "×",
+     "basis": "consolidated",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "ps": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "indicative market cap / operating revenue",
+     "inputs": {},
+     "unit": "×",
+     "basis": "consolidated",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "ev_ebitda": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "(market cap + debt − cash) / EBITDA",
+     "inputs": {},
+     "unit": "×",
+     "basis": "consolidated",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "ev_revenue": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "(market cap + debt − cash) / operating revenue",
+     "inputs": {},
+     "unit": "×",
+     "basis": "consolidated",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "dividend_yield": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "reported dividend per share / quoted price",
+     "inputs": {},
+     "unit": "%",
+     "basis": "consolidated",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "volume_growth": {
+     "value": null,
+     "state": "inapplicable",
+     "formula": "matched-contract volume / prior-year volume − 1",
+     "inputs": {},
+     "note": "The measure does not apply to this business model.",
+     "unit": "%",
+     "basis": "consolidated"
+    },
+    "fee_per_unit": {
+     "value": null,
+     "state": "inapplicable",
+     "formula": "transaction fee / same-contract traded volume",
+     "inputs": {},
+     "note": "The measure does not apply to this business model.",
+     "unit": "₹/unit",
+     "basis": "consolidated"
+    }
+   },
+   "FY2026": {
+    "pat_margin": {
+     "value": "12.5045",
+     "state": "ok",
+     "formula": "PAT / total income",
+     "inputs": {
+      "numerator": "76.57",
+      "denominator": "612.34"
+     },
+     "unit": "%",
+     "ev": [
+      "ev18",
+      "ev4",
+      "ev6",
+      "ev8"
+     ],
+     "basis": "consolidated"
+    },
+    "other_income_share": {
+     "value": "3.2858",
+     "state": "ok",
+     "formula": "other income / total income",
+     "inputs": {
+      "numerator": "20.12",
+      "denominator": "612.34"
+     },
+     "unit": "%",
+     "ev": [
+      "ev8",
+      "ev4",
+      "ev6"
+     ],
+     "basis": "consolidated"
+    },
+    "net_profit_ratio": {
+     "value": "12.9293",
+     "state": "ok",
+     "formula": "PAT / operating revenue",
+     "inputs": {
+      "numerator": "76.57",
+      "denominator": "592.22"
+     },
+     "unit": "%",
+     "ev": [
+      "ev18",
+      "ev6"
+     ],
+     "basis": "consolidated"
+    },
+    "gross_margin": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "gross profit / operating revenue",
+     "inputs": {
+      "numerator": null,
+      "denominator": "592.22"
+     },
+     "unit": "%",
+     "ev": [
+      "ev6"
+     ],
+     "basis": "consolidated",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "operating_margin": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "operating profit / operating revenue",
+     "inputs": {
+      "numerator": null,
+      "denominator": "592.22"
+     },
+     "unit": "%",
+     "ev": [
+      "ev6"
+     ],
+     "basis": "consolidated",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "ebitda_margin": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "EBITDA / operating revenue",
+     "inputs": {
+      "numerator": null,
+      "denominator": "592.22"
+     },
+     "unit": "%",
+     "ev": [
+      "ev6"
+     ],
+     "basis": "consolidated",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "cfo_margin": {
+     "value": "12.6321",
+     "state": "ok",
+     "formula": "operating cash flow / operating revenue",
+     "inputs": {
+      "numerator": "74.81",
+      "denominator": "592.22"
+     },
+     "unit": "%",
+     "ev": [
+      "ev32",
+      "ev6"
+     ],
+     "basis": "consolidated"
+    },
+    "roa": {
+     "value": "15.5739",
+     "state": "ok",
+     "formula": "PAT / average assets",
+     "inputs": {
+      "numerator": "76.57",
+      "denominator": "491.655"
+     },
+     "unit": "%",
+     "ev": [
+      "ev18",
+      "ev20",
+      "ev19"
+     ],
+     "basis": "consolidated"
+    },
+    "roe": {
+     "value": "19.3154",
+     "state": "ok",
+     "formula": "PAT / average equity",
+     "inputs": {
+      "numerator": "76.57",
+      "denominator": "396.42"
+     },
+     "unit": "%",
+     "ev": [
+      "ev18",
+      "ev22",
+      "ev21"
+     ],
+     "basis": "consolidated"
+    },
+    "asset_turnover": {
+     "value": "1.2045",
+     "state": "ok",
+     "formula": "operating revenue / average total assets",
+     "inputs": {
+      "numerator": "592.22",
+      "denominator": "491.655"
+     },
+     "unit": "×",
+     "ev": [
+      "ev6",
+      "ev20",
+      "ev19"
+     ],
+     "basis": "consolidated"
+    },
+    "fixed_turnover": {
+     "value": "13.2030",
+     "state": "ok",
+     "formula": "operating revenue / average fixed assets",
+     "inputs": {
+      "numerator": "592.22",
+      "denominator": "44.855"
+     },
+     "unit": "×",
+     "ev": [
+      "ev6",
+      "ev40",
+      "ev39"
+     ],
+     "basis": "consolidated"
+    },
+    "current_ratio": {
+     "value": "1.2510",
+     "state": "ok",
+     "formula": "current assets / current liabilities",
+     "inputs": {
+      "numerator": "109.39",
+      "denominator": "87.44"
+     },
+     "unit": "×",
+     "ev": [
+      "ev24",
+      "ev26"
+     ],
+     "basis": "consolidated"
+    },
+    "cash_ratio": {
+     "value": "0.2059",
+     "state": "ok",
+     "formula": "cash and equivalents / current liabilities",
+     "inputs": {
+      "numerator": "18",
+      "denominator": "87.44"
+     },
+     "unit": "×",
+     "ev": [
+      "ev30",
+      "ev26"
+     ],
+     "basis": "consolidated"
+    },
+    "debt_equity": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "reported debt / equity",
+     "inputs": {
+      "numerator": null,
+      "denominator": "434.01"
+     },
+     "unit": "×",
+     "ev": [
+      "ev22"
+     ],
+     "basis": "consolidated",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "cfo_current": {
+     "value": "0.8556",
+     "state": "ok",
+     "formula": "operating cash flow / current liabilities",
+     "inputs": {
+      "numerator": "74.81",
+      "denominator": "87.44"
+     },
+     "unit": "×",
+     "ev": [
+      "ev32",
+      "ev26"
+     ],
+     "basis": "consolidated"
+    },
+    "cfo_to_pat": {
+     "value": "0.9770",
+     "state": "ok",
+     "formula": "operating cash flow / PAT",
+     "inputs": {
+      "numerator": "74.81",
+      "denominator": "76.57"
+     },
+     "unit": "×",
+     "ev": [
+      "ev32",
+      "ev18"
+     ],
+     "basis": "consolidated"
+    },
+    "dividend_payout": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "reported dividend per share / annual basic EPS",
+     "inputs": {
+      "numerator": null,
+      "denominator": null
+     },
+     "unit": "%",
+     "ev": [],
+     "basis": "consolidated",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "roce": {
+     "value": "22.5214",
+     "state": "ok",
+     "formula": "(PBT + finance costs) / (total assets − current liabilities)",
+     "inputs": {
+      "numerator": "100.36",
+      "denominator": "445.62"
+     },
+     "unit": "%",
+     "ev": [
+      "ev16",
+      "ev12",
+      "ev20",
+      "ev26"
+     ],
+     "basis": "consolidated"
+    },
+    "interest_cover": {
+     "value": "125.4500",
+     "state": "ok",
+     "formula": "(PBT + finance costs) / finance costs",
+     "inputs": {
+      "numerator": "100.36",
+      "denominator": "0.8"
+     },
+     "unit": "×",
+     "ev": [
+      "ev16",
+      "ev12"
+     ],
+     "basis": "consolidated"
+    },
+    "net_debt_ebitda": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "(reported debt − cash and equivalents) / EBITDA",
+     "inputs": {
+      "numerator": null,
+      "denominator": null
+     },
+     "unit": "×",
+     "ev": [
+      "ev30"
+     ],
+     "basis": "consolidated",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "fcf_margin": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "(operating cash flow + signed cash capex) / operating revenue",
+     "inputs": {
+      "numerator": null,
+      "denominator": "592.22"
+     },
+     "unit": "%",
+     "ev": [
+      "ev32",
+      "ev6"
+     ],
+     "basis": "consolidated",
+     "note": "Requires operating cash flow and paid cash capex for the same period and basis."
+    },
+    "quick_ratio": {
+     "value": "0.9563",
+     "state": "ok",
+     "formula": "(current assets - inventories) / current liabilities",
+     "inputs": {
+      "current_assets": "109.39",
+      "inventories": "25.77",
+      "current_liabilities": "87.44"
+     },
+     "unit": "x",
+     "ev": [
+      "ev24",
+      "ev26",
+      "ev28"
+     ],
+     "basis": "consolidated"
+    },
+    "revenue_growth": {
+     "value": "17.1321",
+     "state": "ok",
+     "formula": "(current / previous) - 1",
+     "inputs": {
+      "current": "592.22",
+      "previous": "505.6"
+     },
+     "unit": "%",
+     "basis": "consolidated",
+     "ev": [
+      "ev6",
+      "ev5"
+     ]
+    },
+    "revenue_cagr": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "(end / start)^(1/3) - 1",
+     "inputs": {
+      "end": "592.22",
+      "start": null,
+      "years": 3
+     },
+     "unit": "%",
+     "basis": "consolidated",
+     "ev": [
+      "ev6"
+     ],
+     "note": "Required comparable inputs are unavailable."
+    },
+    "diluted_growth": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "(current / previous) - 1",
+     "inputs": {
+      "current": null,
+      "previous": null
+     },
+     "unit": "%",
+     "basis": "consolidated",
+     "ev": [],
+     "note": "Required comparable inputs are unavailable."
+    },
+    "inventory_days": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "365 × average inventory / cost of sales",
+     "inputs": {
+      "numerator": "10524.775",
+      "denominator": null
+     },
+     "unit": "days",
+     "ev": [
+      "ev28",
+      "ev27"
+     ],
+     "basis": "consolidated",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "payable_days": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "365 × average trade payables / cost of sales",
+     "inputs": {
+      "numerator": null,
+      "denominator": null
+     },
+     "unit": "days",
+     "ev": [],
+     "basis": "consolidated",
+     "note": "Cost of sales proxies for supplier purchases; uses 365 days."
+    },
+    "receivable_days": {
+     "value": "15.6762",
+     "state": "ok",
+     "formula": "365 × average trade receivables / operating revenue",
+     "inputs": {
+      "numerator": "9283.775",
+      "denominator": "592.22"
+     },
+     "unit": "days",
+     "ev": [
+      "ev38",
+      "ev37",
+      "ev6"
+     ],
+     "basis": "consolidated",
+     "note": "Operating revenue proxies for credit sales; uses 365 days."
+    },
+    "book_per_share": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "equity (₹ crore) × 10,000,000 / period-end shares",
+     "inputs": {
+      "numerator": "4340100000.00",
+      "denominator": null
+     },
+     "unit": "₹/share",
+     "ev": [
+      "ev22"
+     ],
+     "basis": "consolidated",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "eps_basic": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "reported basic EPS",
+     "inputs": {
+      "eps_basic": null
+     },
+     "unit": "₹/share",
+     "ev": [],
+     "basis": "consolidated",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "eps_diluted": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "reported diluted EPS",
+     "inputs": {
+      "eps_diluted": null
+     },
+     "unit": "₹/share",
+     "ev": [],
+     "basis": "consolidated",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "dividend_per_share": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "reported dividend per share",
+     "inputs": {
+      "dividend_per_share": null
+     },
+     "unit": "₹/share",
+     "ev": [],
+     "basis": "consolidated",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "nim": {
+     "value": null,
+     "state": "inapplicable",
+     "formula": "issuer's reported NIM",
+     "inputs": {},
+     "note": "The measure does not apply to this business model.",
+     "unit": "%",
+     "basis": "consolidated"
+    },
+    "gross_npa": {
+     "value": null,
+     "state": "inapplicable",
+     "formula": "issuer's reported gross NPA ratio",
+     "inputs": {},
+     "note": "The measure does not apply to this business model.",
+     "unit": "%",
+     "basis": "consolidated"
+    },
+    "net_npa": {
+     "value": null,
+     "state": "inapplicable",
+     "formula": "issuer's reported net NPA ratio",
+     "inputs": {},
+     "note": "The measure does not apply to this business model.",
+     "unit": "%",
+     "basis": "consolidated"
+    },
+    "provision_coverage": {
+     "value": null,
+     "state": "inapplicable",
+     "formula": "issuer's reported coverage",
+     "inputs": {},
+     "note": "The measure does not apply to this business model.",
+     "unit": "%",
+     "basis": "consolidated"
+    },
+    "capital_adequacy": {
+     "value": null,
+     "state": "inapplicable",
+     "formula": "issuer's reported capital adequacy",
+     "inputs": {},
+     "note": "The measure does not apply to this business model.",
+     "unit": "%",
+     "basis": "consolidated"
+    },
+    "claims_ratio": {
+     "value": null,
+     "state": "inapplicable",
+     "formula": "issuer's reported claims ratio",
+     "inputs": {},
+     "note": "The measure does not apply to this business model.",
+     "unit": "%",
+     "basis": "consolidated"
+    },
+    "combined_ratio": {
+     "value": null,
+     "state": "inapplicable",
+     "formula": "issuer's reported combined ratio",
+     "inputs": {},
+     "note": "The measure does not apply to this business model.",
+     "unit": "%",
+     "basis": "consolidated"
+    },
+    "solvency_ratio": {
+     "value": null,
+     "state": "inapplicable",
+     "formula": "issuer's reported solvency ratio",
+     "inputs": {},
+     "note": "The measure does not apply to this business model.",
+     "unit": "×",
+     "basis": "consolidated"
+    },
+    "pe": {
+     "basis": "consolidated",
+     "value": "3.9930",
+     "state": "ok",
+     "formula": "price / EPS",
+     "inputs": {
+      "price_inr": "710.00",
+      "eps": "177.8133853513538618735776323"
+     },
+     "unit": "x",
+     "eps_basis": "pat_share_proxy",
+     "ev": [
+      "ev18",
+      "ev1"
+     ],
+     "note": "Uses a calculated proxy of annual PAT divided by shares outstanding."
+    },
+    "pb": {
+     "basis": "consolidated",
+     "value": "0.7045",
+     "state": "ok",
+     "formula": "market cap / total equity",
+     "inputs": {
+      "market_cap": "305.7402",
+      "total_equity": "434.01"
+     },
+     "unit": "x"
+    },
+    "ps": {
+     "basis": "consolidated",
+     "value": "0.5163",
+     "state": "ok",
+     "formula": "market cap / operating revenue",
+     "inputs": {
+      "market_cap": "305.7402",
+      "operating_revenue": "592.22"
+     },
+     "unit": "x"
+    },
+    "dividend_yield": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "reported dividend per share / quoted price",
+     "inputs": {
+      "numerator": null,
+      "denominator": "710.00"
+     },
+     "unit": "%",
+     "ev": [
+      "ev1"
+     ],
+     "basis": "consolidated",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "ev_ebitda": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "(market cap + debt − cash) / EBITDA",
+     "inputs": {
+      "numerator": null,
+      "denominator": null
+     },
+     "unit": "×",
+     "ev": [
+      "ev30"
+     ],
+     "basis": "consolidated",
+     "note": "Requires market cap and debt/cash on the same basis; no adjustment for undisclosed debt."
+    },
+    "ev_revenue": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "(market cap + debt − cash) / operating revenue",
+     "inputs": {
+      "numerator": null,
+      "denominator": "592.22"
+     },
+     "unit": "×",
+     "ev": [
+      "ev30",
+      "ev6"
+     ],
+     "basis": "consolidated",
+     "note": "Requires market cap and debt/cash on the same basis; no adjustment for undisclosed debt."
+    },
+    "debt_cover": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "operating cash flow / scheduled principal and interest",
+     "inputs": {},
+     "unit": "×",
+     "basis": "consolidated",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "cash_cycle": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "inventory days + receivable days − payable days",
+     "inputs": {},
+     "unit": "days",
+     "basis": "consolidated",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "volume_growth": {
+     "value": null,
+     "state": "inapplicable",
+     "formula": "matched-contract volume / prior-year volume − 1",
+     "inputs": {},
+     "note": "The measure does not apply to this business model.",
+     "unit": "%",
+     "basis": "consolidated"
+    },
+    "fee_per_unit": {
+     "value": null,
+     "state": "inapplicable",
+     "formula": "transaction fee / same-contract traded volume",
+     "inputs": {},
+     "note": "The measure does not apply to this business model.",
+     "unit": "₹/unit",
+     "basis": "consolidated"
+    }
+   }
+  }
+ },
+ "identity": {
+  "key": "INE0EEI01017",
+  "isin": "INE0EEI01017",
+  "cin": "U24230MH1946PLC005121",
+  "listing": "unlisted",
+  "state": "provider_identity",
+  "ev": "ev2"
+ },
+ "research": {
+  "by_period": {
+   "FY2025": {
+    "comparison": {
+     "revenue": {
+      "value": "505.6",
+      "state": "reported",
+      "basis": "consolidated",
+      "match_basis": "consolidated",
+      "definition": "revenue",
+      "ev": [
+       "ev5"
+      ]
+     },
+     "margin": {
+      "value": "15.9869",
+      "state": "ok",
+      "basis": "consolidated",
+      "match_basis": "consolidated",
+      "definition": "margin",
+      "ev": [
+       "ev17",
+       "ev5"
+      ]
+     },
+     "cfo": {
+      "value": "66.26",
+      "state": "reported",
+      "basis": "consolidated",
+      "match_basis": "consolidated",
+      "definition": "cfo",
+      "ev": [
+       "ev31"
+      ]
+     },
+     "pe": {
+      "value": null,
+      "state": "missing_input",
+      "basis": "consolidated",
+      "match_basis": "consolidated",
+      "definition": "pe",
+      "ev": []
+     }
+    },
+    "claims": [
+     {
+      "category": "Con",
+      "title": "Operating cash flow was below profit",
+      "interpretation": "Inspect timing, receivables and other working capital before interpreting the cash shortfall.",
+      "ev": [
+       "ev31",
+       "ev17"
+      ]
+     }
+    ],
+    "scenario": {
+     "base": "505.60",
+     "upside": "556.16",
+     "downside": "455.04",
+     "note": "Illustrative sensitivity of operating revenue to a ±10% change. Review price, volume and margin assumptions after results."
+    },
+    "event": null,
+    "financial_risk": "Review cash versus profit and working capital.",
+    "valuation_risk": "Comparable price and/or annual earnings are unavailable."
+   },
+   "FY2026": {
+    "comparison": {
+     "revenue": {
+      "value": "592.22",
+      "state": "reported",
+      "basis": "consolidated",
+      "match_basis": "consolidated",
+      "definition": "revenue",
+      "ev": [
+       "ev6"
+      ]
+     },
+     "margin": {
+      "value": "12.9293",
+      "state": "ok",
+      "basis": "consolidated",
+      "match_basis": "consolidated",
+      "definition": "margin",
+      "ev": [
+       "ev18",
+       "ev6"
+      ]
+     },
+     "cfo": {
+      "value": "74.81",
+      "state": "reported",
+      "basis": "consolidated",
+      "match_basis": "consolidated",
+      "definition": "cfo",
+      "ev": [
+       "ev32"
+      ]
+     },
+     "pe": {
+      "value": "3.9930",
+      "state": "ok",
+      "basis": "consolidated",
+      "match_basis": "consolidated",
+      "definition": "pat_share_proxy",
+      "ev": [
+       "ev18",
+       "ev1"
+      ]
+     }
+    },
+    "claims": [
+     {
+      "category": "Pro",
+      "title": "Operating revenue changed 17.13% year on year",
+      "interpretation": "Use the matched annual revenue series and check whether volumes, pricing or a one-off drove the movement.",
+      "ev": [
+       "ev6",
+       "ev5"
+      ]
+     },
+     {
+      "category": "Con",
+      "title": "Operating cash flow was below profit",
+      "interpretation": "Inspect timing, receivables and other working capital before interpreting the cash shortfall.",
+      "ev": [
+       "ev32",
+       "ev18"
+      ]
+     },
+     {
+      "category": "Valuation",
+      "title": "Dated price implies 3.99× earnings",
+      "interpretation": "Check the pat share proxy basis and update the quote before comparing valuation.",
+      "ev": [
+       "ev18",
+       "ev1"
+      ]
+     }
+    ],
+    "scenario": {
+     "base": "592.22",
+     "upside": "651.44",
+     "downside": "533.00",
+     "note": "Illustrative sensitivity of operating revenue to a ±10% change. Review price, volume and margin assumptions after results."
+    },
+    "event": null,
+    "financial_risk": "Review cash versus profit and working capital.",
+    "valuation_risk": "Recheck the dated price and EPS definition."
+   }
+  },
+  "risk": {
+   "summary": "Off-exchange exit risk",
+   "business": "Follow utilisation, input costs, customer concentration and working capital.",
+   "liquidity": "Ask for an executable lot and confirm counterparty, settlement and transfer terms.",
+   "restriction": "Verified transfer restrictions are unavailable in this scenario.",
+   "horizon": "Three years is an illiquidity planning assumption. Review at each relevant filing, quote or transfer change."
+  }
+ },
+ "discovery": [
+  {
+   "id": "igx",
+   "short": "IGX",
+   "name": "Indian Gas Exchange Ltd",
+   "reasons": [
+    "provider reports DRHP filed (IPO research lead)",
+    "in the news 2026-11-16"
+   ],
+   "score": 3,
+   "price_inr": 488.0,
+   "latest_period": "FY2026"
+  },
+  {
+   "id": "ncdex",
+   "short": "NCDEX",
+   "name": "National Commodity & Derivatives Exchange Ltd",
+   "reasons": [
+    "provider reports DRHP filed (IPO research lead)",
+    "in the news 2026-11-11"
+   ],
+   "score": 3,
+   "price_inr": 253.0,
+   "latest_period": "FY2026"
+  },
+  {
+   "id": "oyo",
+   "short": "OYO",
+   "name": "Oravel Stays Ltd (OYO)",
+   "reasons": [
+    "provider reports DRHP filed (IPO research lead)",
+    "in the news 2026-11-23"
+   ],
+   "score": 3,
+   "price_inr": 20.45,
+   "latest_period": "FY2026"
+  },
+  {
+   "id": "pharmeasy",
+   "short": "PharmEasy",
+   "name": "API Holdings Ltd (PharmEasy)",
+   "reasons": [
+    "provider reports DRHP filed (IPO research lead)",
+    "in the news 2026-10-28"
+   ],
+   "score": 3,
+   "price_inr": 6.15,
+   "latest_period": "FY2026"
+  },
+  {
+   "id": "grouppharma",
+   "short": "Group Pharma",
+   "name": "Group Pharmaceuticals Ltd",
+   "reasons": [
+    "same industry: Pharmaceuticals",
+    "in the news 2026-11-21"
+   ],
+   "score": 2,
+   "price_inr": 55.0,
+   "latest_period": "FY2026"
+  },
+  {
+   "id": "axlesindia",
+   "short": "Axles India",
+   "name": "Axles India Ltd",
+   "reasons": [
+    "in the news 2026-11-20"
+   ],
+   "score": 1,
+   "price_inr": 525.0,
+   "latest_period": "FY2026"
+  }
+ ],
+ "fallbacks": []
+}

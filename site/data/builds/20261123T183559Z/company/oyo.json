@@ -1,0 +1,4486 @@
+{
+ "id": "oyo",
+ "name": "Oravel Stays Ltd (OYO)",
+ "short": "OYO",
+ "hierarchy": [
+  "Consumer Discretionary",
+  "Travel & Hospitality",
+  "Online Travel Platforms",
+  "Hotel Aggregation"
+ ],
+ "model": "platform",
+ "listed_peers": [
+  "EASEMYTRIP",
+  "INDHOTEL"
+ ],
+ "status_note": null,
+ "market_status": null,
+ "quote": {
+  "price_inr": "20.45",
+  "state": "reported",
+  "change_raw": "-9.11 %",
+  "kind": "unlisted dealer quote (indicative, not an exchange trade)",
+  "as_of": "2026-11-23T16:45:09+00:00",
+  "high_52w": "28.00 (30/11/25)",
+  "low_52w": "19.90 (26/10/26)",
+  "ev": "ev1"
+ },
+ "profile": {
+  "provider_sector": "Hospitality",
+  "isin": "INE561T01021",
+  "cin": "U63090GJ2012PLC107088",
+  "registration_date": "21/02/2012",
+  "face_value": "1",
+  "lot_size": null,
+  "drhp_filed": "Yes",
+  "depository": "nsdl",
+  "rofr": "Yes",
+  "description": null,
+  "share_details_as_of": "March 31, 2026",
+  "ev": "ev2"
+ },
+ "periods": [
+  "FY2022",
+  "FY2023",
+  "FY2024",
+  "FY2025",
+  "FY2026"
+ ],
+ "basis": "unspecified",
+ "raw_units": [
+  "INR crore"
+ ],
+ "layout": "five-year summary",
+ "fields": {
+  "total_income": {
+   "label": "Total income",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": "4904.74",
+     "state": "reported",
+     "ev": "ev3"
+    },
+    "FY2023": {
+     "value": "5601.7",
+     "state": "reported",
+     "ev": "ev4"
+    },
+    "FY2024": {
+     "value": "5541.59",
+     "state": "reported",
+     "ev": "ev5"
+    },
+    "FY2025": {
+     "value": "6325.89",
+     "state": "reported",
+     "ev": "ev6"
+    },
+    "FY2026": {
+     "value": "9757.93",
+     "state": "reported",
+     "ev": "ev7"
+    }
+   }
+  },
+  "revenue_ops": {
+   "label": "Revenue from operations",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": "4781.36",
+     "state": "reported",
+     "ev": "ev8"
+    },
+    "FY2023": {
+     "value": "5463.95",
+     "state": "reported",
+     "ev": "ev9"
+    },
+    "FY2024": {
+     "value": "5388.79",
+     "state": "reported",
+     "ev": "ev10"
+    },
+    "FY2025": {
+     "value": "6252.83",
+     "state": "reported",
+     "ev": "ev11"
+    },
+    "FY2026": {
+     "value": "9357.98",
+     "state": "reported",
+     "ev": "ev12"
+    }
+   }
+  },
+  "other_income": {
+   "label": "Other income",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": "123.38",
+     "state": "reported",
+     "ev": "ev13"
+    },
+    "FY2023": {
+     "value": "137.76",
+     "state": "reported",
+     "ev": "ev14"
+    },
+    "FY2024": {
+     "value": "152.8",
+     "state": "reported",
+     "ev": "ev15"
+    },
+    "FY2025": {
+     "value": "73.06",
+     "state": "reported",
+     "ev": "ev16"
+    },
+    "FY2026": {
+     "value": "399.94",
+     "state": "reported",
+     "ev": "ev17"
+    }
+   }
+  },
+  "other_gains": {
+   "label": "Other gains / losses",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2023": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "job_work_revenue": {
+   "label": "Revenue from job work",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2023": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "total_expenses": {
+   "label": "Total expenses",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": "6985.32",
+     "state": "reported",
+     "ev": "ev18"
+    },
+    "FY2023": {
+     "value": "6799.7",
+     "state": "reported",
+     "ev": "ev19"
+    },
+    "FY2024": {
+     "value": "5725.78",
+     "state": "reported",
+     "ev": "ev20"
+    },
+    "FY2025": {
+     "value": "6659.54",
+     "state": "reported",
+     "ev": "ev21"
+    },
+    "FY2026": {
+     "value": "9334.5",
+     "state": "reported",
+     "ev": "ev22"
+    }
+   }
+  },
+  "finance_cost": {
+   "label": "Finance cost",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": "745.71",
+     "state": "reported",
+     "ev": "ev23"
+    },
+    "FY2023": {
+     "value": "681.58",
+     "state": "reported",
+     "ev": "ev24"
+    },
+    "FY2024": {
+     "value": "843.82",
+     "state": "reported",
+     "ev": "ev25"
+    },
+    "FY2025": {
+     "value": "959.16",
+     "state": "reported",
+     "ev": "ev26"
+    },
+    "FY2026": {
+     "value": "1414.25",
+     "state": "reported",
+     "ev": "ev27"
+    }
+   }
+  },
+  "depreciation": {
+   "label": "Depreciation",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": "298.83",
+     "state": "reported",
+     "ev": "ev28"
+    },
+    "FY2023": {
+     "value": "280.29",
+     "state": "reported",
+     "ev": "ev29"
+    },
+    "FY2024": {
+     "value": "200.35",
+     "state": "reported",
+     "ev": "ev30"
+    },
+    "FY2025": {
+     "value": "483.59",
+     "state": "reported",
+     "ev": "ev31"
+    },
+    "FY2026": {
+     "value": "1071.89",
+     "state": "reported",
+     "ev": "ev32"
+    }
+   }
+  },
+  "pbt": {
+   "label": "Profit before tax",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": "-2118.89",
+     "state": "reported",
+     "ev": "ev33"
+    },
+    "FY2023": {
+     "value": "-1286.27",
+     "state": "reported",
+     "ev": "ev34"
+    },
+    "FY2024": {
+     "value": "235.82",
+     "state": "reported",
+     "ev": "ev35"
+    },
+    "FY2025": {
+     "value": "-489.31",
+     "state": "reported",
+     "ev": "ev36"
+    },
+    "FY2026": {
+     "value": "398.93",
+     "state": "reported",
+     "ev": "ev37"
+    }
+   }
+  },
+  "tax": {
+   "label": "Tax",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": "22.77",
+     "state": "reported",
+     "ev": "ev38"
+    },
+    "FY2023": {
+     "value": "0.24",
+     "state": "reported",
+     "ev": "ev39"
+    },
+    "FY2024": {
+     "value": "6.24",
+     "state": "reported",
+     "ev": "ev40"
+    },
+    "FY2025": {
+     "value": "-734.14",
+     "state": "reported",
+     "ev": "ev41"
+    },
+    "FY2026": {
+     "value": "-595.25",
+     "state": "reported",
+     "ev": "ev42"
+    }
+   }
+  },
+  "pat": {
+   "label": "Profit after tax",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": "-3943.84",
+     "state": "reported",
+     "ev": "ev43"
+    },
+    "FY2023": {
+     "value": "-1941.56",
+     "state": "reported",
+     "ev": "ev44"
+    },
+    "FY2024": {
+     "value": "229.58",
+     "state": "reported",
+     "ev": "ev45"
+    },
+    "FY2025": {
+     "value": "244.83",
+     "state": "reported",
+     "ev": "ev46"
+    },
+    "FY2026": {
+     "value": "994.18",
+     "state": "reported",
+     "ev": "ev47"
+    }
+   }
+  },
+  "total_assets": {
+   "label": "Total assets",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": "8751.04",
+     "state": "reported",
+     "ev": "ev48"
+    },
+    "FY2023": {
+     "value": "7932.43",
+     "state": "reported",
+     "ev": "ev49"
+    },
+    "FY2024": {
+     "value": "6443.47",
+     "state": "reported",
+     "ev": "ev50"
+    },
+    "FY2025": {
+     "value": "16695.32",
+     "state": "reported",
+     "ev": "ev51"
+    },
+    "FY2026": {
+     "value": "20019.9",
+     "state": "reported",
+     "ev": "ev52"
+    }
+   }
+  },
+  "total_equity": {
+   "label": "Total equity",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": "1443.6",
+     "state": "reported",
+     "ev": "ev53"
+    },
+    "FY2023": {
+     "value": "582.57",
+     "state": "reported",
+     "ev": "ev54"
+    },
+    "FY2024": {
+     "value": "900.73",
+     "state": "reported",
+     "ev": "ev55"
+    },
+    "FY2025": {
+     "value": "3786.62",
+     "state": "reported",
+     "ev": "ev56"
+    },
+    "FY2026": {
+     "value": "5791.17",
+     "state": "reported",
+     "ev": "ev57"
+    }
+   }
+  },
+  "total_liabilities": {
+   "label": "Total liabilities",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": "7008.7",
+     "state": "reported",
+     "ev": "ev58"
+    },
+    "FY2023": {
+     "value": "7349.86",
+     "state": "reported",
+     "ev": "ev59"
+    },
+    "FY2024": {
+     "value": "5542.74",
+     "state": "reported",
+     "ev": "ev60"
+    },
+    "FY2025": {
+     "value": "12908.7",
+     "state": "reported",
+     "ev": "ev61"
+    },
+    "FY2026": {
+     "value": "14228.73",
+     "state": "reported",
+     "ev": "ev62"
+    }
+   }
+  },
+  "current_assets": {
+   "label": "Current assets",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": "3137.98",
+     "state": "reported",
+     "ev": "ev63"
+    },
+    "FY2023": {
+     "value": "2294.44",
+     "state": "reported",
+     "ev": "ev64"
+    },
+    "FY2024": {
+     "value": "1421.77",
+     "state": "reported",
+     "ev": "ev65"
+    },
+    "FY2025": {
+     "value": "2126.3",
+     "state": "reported",
+     "ev": "ev66"
+    },
+    "FY2026": {
+     "value": "2958.37",
+     "state": "reported",
+     "ev": "ev67"
+    }
+   }
+  },
+  "current_liabilities": {
+   "label": "Current liabilities",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": "1993.88",
+     "state": "reported",
+     "ev": "ev68"
+    },
+    "FY2023": {
+     "value": "1919.51",
+     "state": "reported",
+     "ev": "ev69"
+    },
+    "FY2024": {
+     "value": "1518.16",
+     "state": "reported",
+     "ev": "ev70"
+    },
+    "FY2025": {
+     "value": "2587.01",
+     "state": "reported",
+     "ev": "ev71"
+    },
+    "FY2026": {
+     "value": "3202.57",
+     "state": "reported",
+     "ev": "ev72"
+    }
+   }
+  },
+  "inventories": {
+   "label": "Inventories",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2023": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "cash": {
+   "label": "Cash & equivalents",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2023": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "loans": {
+   "label": "Loans",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2023": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "cfo": {
+   "label": "Cash from operations",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": "-921.9",
+     "state": "reported",
+     "ev": "ev73"
+    },
+    "FY2023": {
+     "value": "141.84",
+     "state": "reported",
+     "ev": "ev74"
+    },
+    "FY2024": {
+     "value": "598.23",
+     "state": "reported",
+     "ev": "ev75"
+    },
+    "FY2025": {
+     "value": "321.25",
+     "state": "reported",
+     "ev": "ev76"
+    },
+    "FY2026": {
+     "value": "2511.21",
+     "state": "reported",
+     "ev": "ev77"
+    }
+   }
+  },
+  "cfi": {
+   "label": "Cash from investing",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": "-711.16",
+     "state": "reported",
+     "ev": "ev78"
+    },
+    "FY2023": {
+     "value": "-108.83",
+     "state": "reported",
+     "ev": "ev79"
+    },
+    "FY2024": {
+     "value": "1424.9",
+     "state": "reported",
+     "ev": "ev80"
+    },
+    "FY2025": {
+     "value": "-4212.14",
+     "state": "reported",
+     "ev": "ev81"
+    },
+    "FY2026": {
+     "value": "-1374.92",
+     "state": "reported",
+     "ev": "ev82"
+    }
+   }
+  },
+  "cff": {
+   "label": "Cash from financing",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": "703.51",
+     "state": "reported",
+     "ev": "ev83"
+    },
+    "FY2023": {
+     "value": "-704.72",
+     "state": "reported",
+     "ev": "ev84"
+    },
+    "FY2024": {
+     "value": "-2413.19",
+     "state": "reported",
+     "ev": "ev85"
+    },
+    "FY2025": {
+     "value": "4159.84",
+     "state": "reported",
+     "ev": "ev86"
+    },
+    "FY2026": {
+     "value": "-866.52",
+     "state": "reported",
+     "ev": "ev87"
+    }
+   }
+  },
+  "ebitda": {
+   "label": "EBITDA",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": "-1074.35",
+     "state": "reported",
+     "ev": "ev88"
+    },
+    "FY2023": {
+     "value": "-324.4",
+     "state": "reported",
+     "ev": "ev89"
+    },
+    "FY2024": {
+     "value": "1279.98",
+     "state": "reported",
+     "ev": "ev90"
+    },
+    "FY2025": {
+     "value": "953.43",
+     "state": "reported",
+     "ev": "ev91"
+    },
+    "FY2026": {
+     "value": "2885.07",
+     "state": "reported",
+     "ev": "ev92"
+    }
+   }
+  },
+  "eps": {
+   "label": "EPS (provider)",
+   "unit": "INR",
+   "by_period": {
+    "FY2022": {
+     "value": "-29.71",
+     "state": "reported",
+     "ev": "ev93"
+    },
+    "FY2023": {
+     "value": "-14.62",
+     "state": "reported",
+     "ev": "ev94"
+    },
+    "FY2024": {
+     "value": "0.35",
+     "state": "reported",
+     "ev": "ev95"
+    },
+    "FY2025": {
+     "value": "0.16",
+     "state": "reported",
+     "ev": "ev96"
+    },
+    "FY2026": {
+     "value": "0.63",
+     "state": "reported",
+     "ev": "ev97"
+    }
+   }
+  },
+  "shares_outstanding": {
+   "label": "Shares outstanding",
+   "unit": "shares",
+   "by_period": {
+    "FY2022": {
+     "value": "1327245078",
+     "state": "reported",
+     "ev": "ev98"
+    },
+    "FY2023": {
+     "value": "1328123967",
+     "state": "reported",
+     "ev": "ev99"
+    },
+    "FY2024": {
+     "value": "6589557537",
+     "state": "reported",
+     "ev": "ev100"
+    },
+    "FY2025": {
+     "value": "14909445815",
+     "state": "reported",
+     "ev": "ev101"
+    },
+    "FY2026": {
+     "value": "15869974978",
+     "state": "reported",
+     "ev": "ev102"
+    }
+   }
+  }
+ },
+ "documents": [],
+ "reconciliation": null,
+ "agent": {
+  "inventories": {
+   "company": "oyo",
+   "field": "inventories",
+   "status": "not_found_no_documents",
+   "summary": "No issuer documents retained for OYO; the provider does not report inventories. Expectation: possible.",
+   "how_to_verify": "Not verifiable from retained evidence.",
+   "expectation": {
+    "level": "possible",
+    "reason": "Marketplace models may hold no stock; inventory-led models (e.g. e-pharmacy) do."
+   },
+   "evidence": [],
+   "evidence_total": 0,
+   "next_checks": [
+    "Audited annual report: balance sheet 'Inventories' line and note on valuation",
+    "MCA AOC-4 financial statement filing (paid access)",
+    "DRHP 'Restated financial information' if the company files for an IPO"
+   ],
+   "trace": [
+    {
+     "step": 1,
+     "tool": "provider_lookup",
+     "input": {
+      "company": "oyo",
+      "field": "inventories"
+     },
+     "output": {
+      "found": false,
+      "periods": [],
+      "detail": "no matching line in the provider's parsed statements"
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 2,
+     "tool": "applicability_rule",
+     "input": {
+      "field": "inventories",
+      "business_model": "platform"
+     },
+     "output": {
+      "expectation": "possible",
+      "reason": "Marketplace models may hold no stock; inventory-led models (e.g. e-pharmacy) do."
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 3,
+     "tool": "statement_line_check",
+     "input": {
+      "document": null
+     },
+     "output": {
+      "skipped": true,
+      "why": "no retained issuer balance sheet for this company"
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 4,
+     "tool": "document_search",
+     "input": {
+      "documents": [],
+      "patterns": [
+       "\\binventor(?:y|ies)\\b"
+      ]
+     },
+     "output": {
+      "documents_searched": [],
+      "pages_with_word_matches": 0,
+      "pages_with_naive_substring": 0,
+      "note": "naive substring 'inventor' also matches unrelated words (e.g. 'COMPANY' contains 'NPA'); word-boundary patterns used"
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 5,
+     "tool": "classify_passages",
+     "input": {
+      "passages": 0
+     },
+     "output": {
+      "by_kind": {}
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 6,
+     "tool": "verdict",
+     "input": {
+      "signals": {
+       "provider": false,
+       "numeric": 0,
+       "explicit_na": 0,
+       "line_check": null,
+       "expectation": "possible"
+      }
+     },
+     "output": {
+      "status": "not_found_no_documents",
+      "summary": "No issuer documents retained for OYO; the provider does not report inventories. Expectation: possible.",
+      "how_to_verify": "Not verifiable from retained evidence."
+     },
+     "ms": 0.0
+    }
+   ],
+   "executed": "deterministic tool sequence (no language model call)"
+  },
+  "npa": {
+   "company": "oyo",
+   "field": "npa",
+   "status": "inapplicable",
+   "summary": "Not applicable by business model: NPA is a lender asset-quality measure; this business has no loan book to classify.",
+   "how_to_verify": "No mentions to review; the business-model rule decides.",
+   "expectation": {
+    "level": "not_applicable",
+    "reason": "NPA is a lender asset-quality measure; this business has no loan book to classify."
+   },
+   "evidence": [],
+   "evidence_total": 0,
+   "next_checks": [
+    "Annual report notes: 'Stage 3 assets', 'Gross NPA', 'Net NPA' (RBI disclosure for NBFCs)"
+   ],
+   "trace": [
+    {
+     "step": 1,
+     "tool": "provider_lookup",
+     "input": {
+      "company": "oyo",
+      "field": "gross_npa"
+     },
+     "output": {
+      "found": false,
+      "periods": [],
+      "detail": "no matching line in the provider's parsed statements"
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 2,
+     "tool": "applicability_rule",
+     "input": {
+      "field": "npa",
+      "business_model": "platform"
+     },
+     "output": {
+      "expectation": "not_applicable",
+      "reason": "NPA is a lender asset-quality measure; this business has no loan book to classify."
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 3,
+     "tool": "statement_line_check",
+     "input": {
+      "document": null
+     },
+     "output": {
+      "skipped": true,
+      "why": "no retained issuer balance sheet for this company"
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 4,
+     "tool": "document_search",
+     "input": {
+      "documents": [],
+      "patterns": [
+       "\\bG?N?NPAs?\\b",
+       "\\bnon[- ]performing (?:assets?|loans?)\\b",
+       "\\bstage\\s*(?:3|III)\\s+(?:assets|loans)\\b"
+      ]
+     },
+     "output": {
+      "documents_searched": [],
+      "pages_with_word_matches": 0,
+      "pages_with_naive_substring": 0,
+      "note": "naive substring 'npa' also matches unrelated words (e.g. 'COMPANY' contains 'NPA'); word-boundary patterns used"
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 5,
+     "tool": "classify_passages",
+     "input": {
+      "passages": 0
+     },
+     "output": {
+      "by_kind": {}
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 6,
+     "tool": "verdict",
+     "input": {
+      "signals": {
+       "provider": false,
+       "numeric": 0,
+       "explicit_na": 0,
+       "line_check": null,
+       "expectation": "not_applicable"
+      }
+     },
+     "output": {
+      "status": "inapplicable",
+      "summary": "Not applicable by business model: NPA is a lender asset-quality measure; this business has no loan book to classify.",
+      "how_to_verify": "No mentions to review; the business-model rule decides."
+     },
+     "ms": 0.0
+    }
+   ],
+   "executed": "deterministic tool sequence (no language model call)"
+  }
+ },
+ "metrics": {
+  "FY2022": {
+   "revenue_growth": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "(current / previous) - 1",
+    "inputs": {
+     "current": "4781.36",
+     "previous": null
+    },
+    "unit": "%",
+    "ev": [
+     "ev8"
+    ]
+   },
+   "pat_margin": {
+    "value": "-80.4087",
+    "state": "ok",
+    "formula": "PAT / total income x 100",
+    "inputs": {
+     "pat": "-3943.84",
+     "total_income": "4904.74"
+    },
+    "unit": "%",
+    "ev": [
+     "ev43",
+     "ev3"
+    ]
+   },
+   "net_profit_ratio": {
+    "value": "-82.4836",
+    "state": "ok",
+    "formula": "PAT / revenue from operations x 100",
+    "inputs": {
+     "pat": "-3943.84",
+     "revenue_ops": "4781.36"
+    },
+    "unit": "%",
+    "ev": [
+     "ev43",
+     "ev8"
+    ]
+   },
+   "other_income_share": {
+    "value": "2.5155",
+    "state": "ok",
+    "formula": "other income / total income x 100",
+    "inputs": {
+     "other_income": "123.38",
+     "total_income": "4904.74"
+    },
+    "unit": "%",
+    "ev": [
+     "ev13",
+     "ev3"
+    ]
+   },
+   "current_ratio": {
+    "value": "1.5738",
+    "state": "ok",
+    "formula": "current assets / current liabilities",
+    "inputs": {
+     "current_assets": "3137.98",
+     "current_liabilities": "1993.88"
+    },
+    "unit": "x",
+    "ev": [
+     "ev63",
+     "ev68"
+    ]
+   },
+   "quick_ratio": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "(current assets - inventories) / current liabilities",
+    "inputs": {
+     "current_assets": "3137.98",
+     "inventories": null,
+     "current_liabilities": "1993.88"
+    },
+    "note": "inventories not disclosed in the available source; quick ratio withheld",
+    "unit": "x",
+    "ev": [
+     "ev63",
+     "ev68"
+    ]
+   },
+   "roe": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "PAT / average of opening and closing equity x 100",
+    "inputs": {
+     "pat": "-3943.84",
+     "average_equity": null
+    },
+    "unit": "%",
+    "ev": [
+     "ev43",
+     "ev53"
+    ]
+   },
+   "roce": {
+    "value": "-20.3219",
+    "state": "ok",
+    "formula": "(PBT + finance cost) / (total assets - current liabilities) x 100",
+    "inputs": {
+     "ebit": "-1373.18",
+     "capital_employed": "6757.16"
+    },
+    "unit": "%",
+    "ev": [
+     "ev33",
+     "ev23",
+     "ev48",
+     "ev68"
+    ]
+   },
+   "cfo_to_pat": {
+    "value": "0.2338",
+    "state": "ok",
+    "formula": "cash from operations / PAT",
+    "inputs": {
+     "cfo": "-921.9",
+     "pat": "-3943.84"
+    },
+    "unit": "x",
+    "ev": [
+     "ev73",
+     "ev43"
+    ]
+   }
+  },
+  "FY2023": {
+   "revenue_growth": {
+    "value": "14.2761",
+    "state": "ok",
+    "formula": "(current / previous) - 1",
+    "inputs": {
+     "current": "5463.95",
+     "previous": "4781.36"
+    },
+    "unit": "%",
+    "ev": [
+     "ev9",
+     "ev8"
+    ]
+   },
+   "pat_margin": {
+    "value": "-34.6602",
+    "state": "ok",
+    "formula": "PAT / total income x 100",
+    "inputs": {
+     "pat": "-1941.56",
+     "total_income": "5601.7"
+    },
+    "unit": "%",
+    "ev": [
+     "ev44",
+     "ev4"
+    ]
+   },
+   "net_profit_ratio": {
+    "value": "-35.5340",
+    "state": "ok",
+    "formula": "PAT / revenue from operations x 100",
+    "inputs": {
+     "pat": "-1941.56",
+     "revenue_ops": "5463.95"
+    },
+    "unit": "%",
+    "ev": [
+     "ev44",
+     "ev9"
+    ]
+   },
+   "other_income_share": {
+    "value": "2.4593",
+    "state": "ok",
+    "formula": "other income / total income x 100",
+    "inputs": {
+     "other_income": "137.76",
+     "total_income": "5601.7"
+    },
+    "unit": "%",
+    "ev": [
+     "ev14",
+     "ev4"
+    ]
+   },
+   "current_ratio": {
+    "value": "1.1953",
+    "state": "ok",
+    "formula": "current assets / current liabilities",
+    "inputs": {
+     "current_assets": "2294.44",
+     "current_liabilities": "1919.51"
+    },
+    "unit": "x",
+    "ev": [
+     "ev64",
+     "ev69"
+    ]
+   },
+   "quick_ratio": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "(current assets - inventories) / current liabilities",
+    "inputs": {
+     "current_assets": "2294.44",
+     "inventories": null,
+     "current_liabilities": "1919.51"
+    },
+    "note": "inventories not disclosed in the available source; quick ratio withheld",
+    "unit": "x",
+    "ev": [
+     "ev64",
+     "ev69"
+    ]
+   },
+   "roe": {
+    "value": "-191.6483",
+    "state": "ok",
+    "formula": "PAT / average of opening and closing equity x 100",
+    "inputs": {
+     "pat": "-1941.56",
+     "average_equity": "1013.085"
+    },
+    "unit": "%",
+    "ev": [
+     "ev44",
+     "ev54",
+     "ev53"
+    ]
+   },
+   "roce": {
+    "value": "-10.0565",
+    "state": "ok",
+    "formula": "(PBT + finance cost) / (total assets - current liabilities) x 100",
+    "inputs": {
+     "ebit": "-604.69",
+     "capital_employed": "6012.92"
+    },
+    "unit": "%",
+    "ev": [
+     "ev34",
+     "ev24",
+     "ev49",
+     "ev69"
+    ]
+   },
+   "cfo_to_pat": {
+    "value": "-0.0731",
+    "state": "ok",
+    "formula": "cash from operations / PAT",
+    "inputs": {
+     "cfo": "141.84",
+     "pat": "-1941.56"
+    },
+    "unit": "x",
+    "ev": [
+     "ev74",
+     "ev44"
+    ]
+   }
+  },
+  "FY2024": {
+   "revenue_growth": {
+    "value": "-1.3756",
+    "state": "ok",
+    "formula": "(current / previous) - 1",
+    "inputs": {
+     "current": "5388.79",
+     "previous": "5463.95"
+    },
+    "unit": "%",
+    "ev": [
+     "ev10",
+     "ev9"
+    ]
+   },
+   "pat_margin": {
+    "value": "4.1429",
+    "state": "ok",
+    "formula": "PAT / total income x 100",
+    "inputs": {
+     "pat": "229.58",
+     "total_income": "5541.59"
+    },
+    "unit": "%",
+    "ev": [
+     "ev45",
+     "ev5"
+    ]
+   },
+   "net_profit_ratio": {
+    "value": "4.2603",
+    "state": "ok",
+    "formula": "PAT / revenue from operations x 100",
+    "inputs": {
+     "pat": "229.58",
+     "revenue_ops": "5388.79"
+    },
+    "unit": "%",
+    "ev": [
+     "ev45",
+     "ev10"
+    ]
+   },
+   "other_income_share": {
+    "value": "2.7573",
+    "state": "ok",
+    "formula": "other income / total income x 100",
+    "inputs": {
+     "other_income": "152.8",
+     "total_income": "5541.59"
+    },
+    "unit": "%",
+    "ev": [
+     "ev15",
+     "ev5"
+    ]
+   },
+   "current_ratio": {
+    "value": "0.9365",
+    "state": "ok",
+    "formula": "current assets / current liabilities",
+    "inputs": {
+     "current_assets": "1421.77",
+     "current_liabilities": "1518.16"
+    },
+    "unit": "x",
+    "ev": [
+     "ev65",
+     "ev70"
+    ]
+   },
+   "quick_ratio": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "(current assets - inventories) / current liabilities",
+    "inputs": {
+     "current_assets": "1421.77",
+     "inventories": null,
+     "current_liabilities": "1518.16"
+    },
+    "note": "inventories not disclosed in the available source; quick ratio withheld",
+    "unit": "x",
+    "ev": [
+     "ev65",
+     "ev70"
+    ]
+   },
+   "roe": {
+    "value": "30.9553",
+    "state": "ok",
+    "formula": "PAT / average of opening and closing equity x 100",
+    "inputs": {
+     "pat": "229.58",
+     "average_equity": "741.65"
+    },
+    "unit": "%",
+    "ev": [
+     "ev45",
+     "ev55",
+     "ev54"
+    ]
+   },
+   "roce": {
+    "value": "21.9202",
+    "state": "ok",
+    "formula": "(PBT + finance cost) / (total assets - current liabilities) x 100",
+    "inputs": {
+     "ebit": "1079.64",
+     "capital_employed": "4925.31"
+    },
+    "unit": "%",
+    "ev": [
+     "ev35",
+     "ev25",
+     "ev50",
+     "ev70"
+    ]
+   },
+   "cfo_to_pat": {
+    "value": "2.6058",
+    "state": "ok",
+    "formula": "cash from operations / PAT",
+    "inputs": {
+     "cfo": "598.23",
+     "pat": "229.58"
+    },
+    "unit": "x",
+    "ev": [
+     "ev75",
+     "ev45"
+    ]
+   }
+  },
+  "FY2025": {
+   "revenue_growth": {
+    "value": "16.0340",
+    "state": "ok",
+    "formula": "(current / previous) - 1",
+    "inputs": {
+     "current": "6252.83",
+     "previous": "5388.79"
+    },
+    "unit": "%",
+    "ev": [
+     "ev11",
+     "ev10"
+    ]
+   },
+   "pat_margin": {
+    "value": "3.8703",
+    "state": "ok",
+    "formula": "PAT / total income x 100",
+    "inputs": {
+     "pat": "244.83",
+     "total_income": "6325.89"
+    },
+    "unit": "%",
+    "ev": [
+     "ev46",
+     "ev6"
+    ]
+   },
+   "net_profit_ratio": {
+    "value": "3.9155",
+    "state": "ok",
+    "formula": "PAT / revenue from operations x 100",
+    "inputs": {
+     "pat": "244.83",
+     "revenue_ops": "6252.83"
+    },
+    "unit": "%",
+    "ev": [
+     "ev46",
+     "ev11"
+    ]
+   },
+   "other_income_share": {
+    "value": "1.1549",
+    "state": "ok",
+    "formula": "other income / total income x 100",
+    "inputs": {
+     "other_income": "73.06",
+     "total_income": "6325.89"
+    },
+    "unit": "%",
+    "ev": [
+     "ev16",
+     "ev6"
+    ]
+   },
+   "current_ratio": {
+    "value": "0.8219",
+    "state": "ok",
+    "formula": "current assets / current liabilities",
+    "inputs": {
+     "current_assets": "2126.3",
+     "current_liabilities": "2587.01"
+    },
+    "unit": "x",
+    "ev": [
+     "ev66",
+     "ev71"
+    ]
+   },
+   "quick_ratio": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "(current assets - inventories) / current liabilities",
+    "inputs": {
+     "current_assets": "2126.3",
+     "inventories": null,
+     "current_liabilities": "2587.01"
+    },
+    "note": "inventories not disclosed in the available source; quick ratio withheld",
+    "unit": "x",
+    "ev": [
+     "ev66",
+     "ev71"
+    ]
+   },
+   "roe": {
+    "value": "10.4464",
+    "state": "ok",
+    "formula": "PAT / average of opening and closing equity x 100",
+    "inputs": {
+     "pat": "244.83",
+     "average_equity": "2343.675"
+    },
+    "unit": "%",
+    "ev": [
+     "ev46",
+     "ev56",
+     "ev55"
+    ]
+   },
+   "roce": {
+    "value": "3.3303",
+    "state": "ok",
+    "formula": "(PBT + finance cost) / (total assets - current liabilities) x 100",
+    "inputs": {
+     "ebit": "469.85",
+     "capital_employed": "14108.31"
+    },
+    "unit": "%",
+    "ev": [
+     "ev36",
+     "ev26",
+     "ev51",
+     "ev71"
+    ]
+   },
+   "cfo_to_pat": {
+    "value": "1.3121",
+    "state": "ok",
+    "formula": "cash from operations / PAT",
+    "inputs": {
+     "cfo": "321.25",
+     "pat": "244.83"
+    },
+    "unit": "x",
+    "ev": [
+     "ev76",
+     "ev46"
+    ]
+   }
+  },
+  "FY2026": {
+   "revenue_growth": {
+    "value": "49.6599",
+    "state": "ok",
+    "formula": "(current / previous) - 1",
+    "inputs": {
+     "current": "9357.98",
+     "previous": "6252.83"
+    },
+    "unit": "%",
+    "ev": [
+     "ev12",
+     "ev11"
+    ]
+   },
+   "pat_margin": {
+    "value": "10.1884",
+    "state": "ok",
+    "formula": "PAT / total income x 100",
+    "inputs": {
+     "pat": "994.18",
+     "total_income": "9757.93"
+    },
+    "unit": "%",
+    "ev": [
+     "ev47",
+     "ev7"
+    ]
+   },
+   "net_profit_ratio": {
+    "value": "10.6239",
+    "state": "ok",
+    "formula": "PAT / revenue from operations x 100",
+    "inputs": {
+     "pat": "994.18",
+     "revenue_ops": "9357.98"
+    },
+    "unit": "%",
+    "ev": [
+     "ev47",
+     "ev12"
+    ]
+   },
+   "other_income_share": {
+    "value": "4.0986",
+    "state": "ok",
+    "formula": "other income / total income x 100",
+    "inputs": {
+     "other_income": "399.94",
+     "total_income": "9757.93"
+    },
+    "unit": "%",
+    "ev": [
+     "ev17",
+     "ev7"
+    ]
+   },
+   "current_ratio": {
+    "value": "0.9237",
+    "state": "ok",
+    "formula": "current assets / current liabilities",
+    "inputs": {
+     "current_assets": "2958.37",
+     "current_liabilities": "3202.57"
+    },
+    "unit": "x",
+    "ev": [
+     "ev67",
+     "ev72"
+    ]
+   },
+   "quick_ratio": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "(current assets - inventories) / current liabilities",
+    "inputs": {
+     "current_assets": "2958.37",
+     "inventories": null,
+     "current_liabilities": "3202.57"
+    },
+    "note": "inventories not disclosed in the available source; quick ratio withheld",
+    "unit": "x",
+    "ev": [
+     "ev67",
+     "ev72"
+    ]
+   },
+   "roe": {
+    "value": "20.7601",
+    "state": "ok",
+    "formula": "PAT / average of opening and closing equity x 100",
+    "inputs": {
+     "pat": "994.18",
+     "average_equity": "4788.895"
+    },
+    "unit": "%",
+    "ev": [
+     "ev47",
+     "ev57",
+     "ev56"
+    ]
+   },
+   "roce": {
+    "value": "10.7816",
+    "state": "ok",
+    "formula": "(PBT + finance cost) / (total assets - current liabilities) x 100",
+    "inputs": {
+     "ebit": "1813.18",
+     "capital_employed": "16817.33"
+    },
+    "unit": "%",
+    "ev": [
+     "ev37",
+     "ev27",
+     "ev52",
+     "ev72"
+    ]
+   },
+   "cfo_to_pat": {
+    "value": "2.5259",
+    "state": "ok",
+    "formula": "cash from operations / PAT",
+    "inputs": {
+     "cfo": "2511.21",
+     "pat": "994.18"
+    },
+    "unit": "x",
+    "ev": [
+     "ev77",
+     "ev47"
+    ]
+   }
+  }
+ },
+ "valuation": {
+  "period": "FY2026",
+  "shares_used": "3743116436",
+  "shares_source": "shares_details",
+  "market_cap": {
+   "value": "7654.6731",
+   "state": "ok",
+   "formula": "price (INR) x shares outstanding / 1e7",
+   "inputs": {
+    "price_inr": "20.45",
+    "shares": "3743116436"
+   },
+   "unit": "INR crore"
+  },
+  "eps": {
+   "value": "2.6560",
+   "state": "ok",
+   "formula": "PAT (INR crore) x 1e7 / shares outstanding",
+   "inputs": {
+    "pat_cr": "994.18",
+    "shares": "3743116436"
+   },
+   "unit": "INR"
+  },
+  "pe": {
+   "value": "7.6995",
+   "state": "ok",
+   "formula": "price / EPS",
+   "inputs": {
+    "price_inr": "20.45",
+    "eps": "2.6560"
+   },
+   "unit": "x"
+  },
+  "pb": {
+   "value": "1.3218",
+   "state": "ok",
+   "formula": "market cap / total equity",
+   "inputs": {
+    "market_cap": "7654.67311162",
+    "total_equity": "5791.17"
+   },
+   "unit": "x"
+  },
+  "ps": {
+   "value": "0.7845",
+   "state": "ok",
+   "formula": "market cap / total income",
+   "inputs": {
+    "market_cap": "7654.67311162",
+    "total_income": "9757.93"
+   },
+   "unit": "x"
+  },
+  "provider": {
+   "pe": "7.72",
+   "mcap": "7,670.55 Crore",
+   "eps": "2.65"
+  },
+  "note": "Valued at an indicative unlisted dealer quote against the latest fiscal-year PAT; not a traded market price."
+ },
+ "coverage_gaps": [
+  {
+   "field": "inventories",
+   "state": "not_in_source",
+   "label": "Inventories"
+  },
+  {
+   "field": "cash",
+   "state": "not_in_source",
+   "label": "Cash & equivalents"
+  }
+ ],
+ "checks": [
+  {
+   "check": "balance_identity",
+   "period": "FY2022",
+   "result": "fail",
+   "detail": "assets 8751.04 - (equity 1443.6 + liabilities 7008.7) = 298.74"
+  },
+  {
+   "check": "income_identity",
+   "period": "FY2022",
+   "result": "pass",
+   "detail": "total income 4904.74 - (operations 4781.36 + other 123.38 + separate income lines 0) = 0.00"
+  },
+  {
+   "check": "balance_identity",
+   "period": "FY2023",
+   "result": "pass",
+   "detail": "assets 7932.43 - (equity 582.57 + liabilities 7349.86) = 0.00"
+  },
+  {
+   "check": "income_identity",
+   "period": "FY2023",
+   "result": "pass",
+   "detail": "total income 5601.7 - (operations 5463.95 + other 137.76 + separate income lines 0) = -0.01"
+  },
+  {
+   "check": "balance_identity",
+   "period": "FY2024",
+   "result": "pass",
+   "detail": "assets 6443.47 - (equity 900.73 + liabilities 5542.74) = 0.00"
+  },
+  {
+   "check": "income_identity",
+   "period": "FY2024",
+   "result": "pass",
+   "detail": "total income 5541.59 - (operations 5388.79 + other 152.8 + separate income lines 0) = 0.00"
+  },
+  {
+   "check": "balance_identity",
+   "period": "FY2025",
+   "result": "pass",
+   "detail": "assets 16695.32 - (equity 3786.62 + liabilities 12908.7) = 0.00"
+  },
+  {
+   "check": "income_identity",
+   "period": "FY2025",
+   "result": "pass",
+   "detail": "total income 6325.89 - (operations 6252.83 + other 73.06 + separate income lines 0) = 0.00"
+  },
+  {
+   "check": "balance_identity",
+   "period": "FY2026",
+   "result": "pass",
+   "detail": "assets 20019.9 - (equity 5791.17 + liabilities 14228.73) = 0.00"
+  },
+  {
+   "check": "income_identity",
+   "period": "FY2026",
+   "result": "pass",
+   "detail": "total income 9757.93 - (operations 9357.98 + other 399.94 + separate income lines 0) = 0.01"
+  },
+  {
+   "check": "shares_outstanding_consistency",
+   "result": "conflict",
+   "detail": {
+    "shares_fundamentals": "3750882397",
+    "shares_details": "3743116436",
+    "summary_latest_fy": "15869974978"
+   }
+  }
+ ],
+ "provider_ratios": {
+  "EBITDA Margin": {
+   "FY2026": {
+    "raw_text": "29.57%",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "15.07%",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "23.10%",
+    "state": "reported"
+   },
+   "FY2023": {
+    "raw_text": "-5.79%",
+    "state": "reported"
+   },
+   "FY2022": {
+    "raw_text": "-21.90%",
+    "state": "reported"
+   }
+  },
+  "EBIT Margin": {
+   "FY2026": {
+    "raw_text": "18.58%",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "7.43%",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "19.48%",
+    "state": "reported"
+   },
+   "FY2023": {
+    "raw_text": "-10.79%",
+    "state": "reported"
+   },
+   "FY2022": {
+    "raw_text": "-28.00%",
+    "state": "reported"
+   }
+  },
+  "Return on Equity (ROE)": {
+   "FY2026": {
+    "raw_text": "17.17%",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "6.47%",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "25.49%",
+    "state": "reported"
+   },
+   "FY2023": {
+    "raw_text": "-333.27%",
+    "state": "reported"
+   },
+   "FY2022": {
+    "raw_text": "-273.19%",
+    "state": "reported"
+   }
+  },
+  "Return on Capital Employed (ROCE)": {
+   "FY2026": {
+    "raw_text": "10.78%",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "3.33%",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "21.92%",
+    "state": "reported"
+   },
+   "FY2023": {
+    "raw_text": "-10.06%",
+    "state": "reported"
+   },
+   "FY2022": {
+    "raw_text": "-21.26%",
+    "state": "reported"
+   }
+  },
+  "Assets Turnover Ratio": {
+   "FY2026": {
+    "raw_text": "0.49",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "0.38",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "0.86",
+    "state": "reported"
+   },
+   "FY2023": {
+    "raw_text": "0.71",
+    "state": "reported"
+   },
+   "FY2022": {
+    "raw_text": "0.56",
+    "state": "reported"
+   }
+  },
+  "Return on Assets": {
+   "FY2026": {
+    "raw_text": "4.97%",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "1.47%",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "3.56%",
+    "state": "reported"
+   },
+   "FY2023": {
+    "raw_text": "-24.48%",
+    "state": "reported"
+   },
+   "FY2022": {
+    "raw_text": "-45.07%",
+    "state": "reported"
+   }
+  },
+  "Net Profit Margin": {
+   "FY2026": {
+    "raw_text": "10.19%",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "3.87%",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "4.14%",
+    "state": "reported"
+   },
+   "FY2023": {
+    "raw_text": "-34.66%",
+    "state": "reported"
+   },
+   "FY2022": {
+    "raw_text": "-80.41%",
+    "state": "reported"
+   }
+  },
+  "Interest Coverage Ratio": {
+   "FY2026": {
+    "raw_text": "1.28",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "0.49",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "1.28",
+    "state": "reported"
+   },
+   "FY2023": {
+    "raw_text": "-0.89",
+    "state": "reported"
+   },
+   "FY2022": {
+    "raw_text": "-1.84",
+    "state": "reported"
+   }
+  },
+  "Revenue Growth Rate (CAGR)": {
+   "FY2026": {
+    "raw_text": "54.25%",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "14.15%",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "-1.07%",
+    "state": "reported"
+   },
+   "FY2023": {
+    "raw_text": "14.21%",
+    "state": "reported"
+   },
+   "FY2022": {
+    "raw_text": "-63.43%",
+    "state": "reported"
+   }
+  }
+ },
+ "evidence": {
+  "ev1": {
+   "source": "WWIPL company overview",
+   "url": "https://wwipl.com/unlisted-shares/oyo-share-price",
+   "retrieved_at": "2026-11-23T16:45:09+00:00",
+   "sha256": "6465a242d65c97695358b8caa21cf0ae85dba09706e9a263e4d4dd3df2a36726",
+   "capture_run": "20261123T164433Z",
+   "file": "oyo-overview.html",
+   "raw_label": "Last Traded Price",
+   "raw_text": "20.45"
+  },
+  "ev2": {
+   "source": "WWIPL company overview",
+   "url": "https://wwipl.com/unlisted-shares/oyo-share-price",
+   "retrieved_at": "2026-11-23T16:45:09+00:00",
+   "sha256": "6465a242d65c97695358b8caa21cf0ae85dba09706e9a263e4d4dd3df2a36726",
+   "capture_run": "20261123T164433Z",
+   "file": "oyo-overview.html",
+   "raw_label": "Company fundamentals block"
+  },
+  "ev3": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/oyo-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:11+00:00",
+   "sha256": "bc8b1583b97ff1fe3e7f8684df4d7048a9dc275cebadf27d0bbbd10f4e81cb01",
+   "capture_run": "20261123T164433Z",
+   "file": "oyo-financial.html",
+   "raw_label": "Revenue",
+   "raw_text": "4,904.74",
+   "raw_unit": "INR crore",
+   "period": "FY2022",
+   "period_label": "2021-22",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "oyo-financial.html",
+    "table_index": 4,
+    "row_index": 1,
+    "heading": "Oravel Stays Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev4": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/oyo-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:11+00:00",
+   "sha256": "bc8b1583b97ff1fe3e7f8684df4d7048a9dc275cebadf27d0bbbd10f4e81cb01",
+   "capture_run": "20261123T164433Z",
+   "file": "oyo-financial.html",
+   "raw_label": "Revenue",
+   "raw_text": "5,601.70",
+   "raw_unit": "INR crore",
+   "period": "FY2023",
+   "period_label": "2022-23",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "oyo-financial.html",
+    "table_index": 4,
+    "row_index": 1,
+    "heading": "Oravel Stays Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev5": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/oyo-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:11+00:00",
+   "sha256": "bc8b1583b97ff1fe3e7f8684df4d7048a9dc275cebadf27d0bbbd10f4e81cb01",
+   "capture_run": "20261123T164433Z",
+   "file": "oyo-financial.html",
+   "raw_label": "Revenue",
+   "raw_text": "5,541.59",
+   "raw_unit": "INR crore",
+   "period": "FY2024",
+   "period_label": "2023-24",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "oyo-financial.html",
+    "table_index": 4,
+    "row_index": 1,
+    "heading": "Oravel Stays Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev6": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/oyo-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:11+00:00",
+   "sha256": "bc8b1583b97ff1fe3e7f8684df4d7048a9dc275cebadf27d0bbbd10f4e81cb01",
+   "capture_run": "20261123T164433Z",
+   "file": "oyo-financial.html",
+   "raw_label": "Revenue",
+   "raw_text": "6,325.89",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "2024-25",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "oyo-financial.html",
+    "table_index": 4,
+    "row_index": 1,
+    "heading": "Oravel Stays Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev7": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/oyo-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:11+00:00",
+   "sha256": "bc8b1583b97ff1fe3e7f8684df4d7048a9dc275cebadf27d0bbbd10f4e81cb01",
+   "capture_run": "20261123T164433Z",
+   "file": "oyo-financial.html",
+   "raw_label": "Revenue",
+   "raw_text": "9,757.93",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "2025-26",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "oyo-financial.html",
+    "table_index": 4,
+    "row_index": 1,
+    "heading": "Oravel Stays Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev8": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/oyo-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:11+00:00",
+   "sha256": "bc8b1583b97ff1fe3e7f8684df4d7048a9dc275cebadf27d0bbbd10f4e81cb01",
+   "capture_run": "20261123T164433Z",
+   "file": "oyo-financial.html",
+   "raw_label": "Revenue from operations",
+   "raw_text": "4,781.36",
+   "raw_unit": "INR crore",
+   "period": "FY2022",
+   "period_label": "2021-22",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "oyo-financial.html",
+    "table_index": 4,
+    "row_index": 2,
+    "heading": "Oravel Stays Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev9": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/oyo-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:11+00:00",
+   "sha256": "bc8b1583b97ff1fe3e7f8684df4d7048a9dc275cebadf27d0bbbd10f4e81cb01",
+   "capture_run": "20261123T164433Z",
+   "file": "oyo-financial.html",
+   "raw_label": "Revenue from operations",
+   "raw_text": "5,463.95",
+   "raw_unit": "INR crore",
+   "period": "FY2023",
+   "period_label": "2022-23",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "oyo-financial.html",
+    "table_index": 4,
+    "row_index": 2,
+    "heading": "Oravel Stays Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev10": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/oyo-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:11+00:00",
+   "sha256": "bc8b1583b97ff1fe3e7f8684df4d7048a9dc275cebadf27d0bbbd10f4e81cb01",
+   "capture_run": "20261123T164433Z",
+   "file": "oyo-financial.html",
+   "raw_label": "Revenue from operations",
+   "raw_text": "5,388.79",
+   "raw_unit": "INR crore",
+   "period": "FY2024",
+   "period_label": "2023-24",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "oyo-financial.html",
+    "table_index": 4,
+    "row_index": 2,
+    "heading": "Oravel Stays Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev11": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/oyo-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:11+00:00",
+   "sha256": "bc8b1583b97ff1fe3e7f8684df4d7048a9dc275cebadf27d0bbbd10f4e81cb01",
+   "capture_run": "20261123T164433Z",
+   "file": "oyo-financial.html",
+   "raw_label": "Revenue from operations",
+   "raw_text": "6,252.83",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "2024-25",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "oyo-financial.html",
+    "table_index": 4,
+    "row_index": 2,
+    "heading": "Oravel Stays Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev12": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/oyo-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:11+00:00",
+   "sha256": "bc8b1583b97ff1fe3e7f8684df4d7048a9dc275cebadf27d0bbbd10f4e81cb01",
+   "capture_run": "20261123T164433Z",
+   "file": "oyo-financial.html",
+   "raw_label": "Revenue from operations",
+   "raw_text": "9,357.98",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "2025-26",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "oyo-financial.html",
+    "table_index": 4,
+    "row_index": 2,
+    "heading": "Oravel Stays Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev13": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/oyo-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:11+00:00",
+   "sha256": "bc8b1583b97ff1fe3e7f8684df4d7048a9dc275cebadf27d0bbbd10f4e81cb01",
+   "capture_run": "20261123T164433Z",
+   "file": "oyo-financial.html",
+   "raw_label": "Other income",
+   "raw_text": "123.38",
+   "raw_unit": "INR crore",
+   "period": "FY2022",
+   "period_label": "2021-22",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "oyo-financial.html",
+    "table_index": 4,
+    "row_index": 3,
+    "heading": "Oravel Stays Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev14": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/oyo-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:11+00:00",
+   "sha256": "bc8b1583b97ff1fe3e7f8684df4d7048a9dc275cebadf27d0bbbd10f4e81cb01",
+   "capture_run": "20261123T164433Z",
+   "file": "oyo-financial.html",
+   "raw_label": "Other income",
+   "raw_text": "137.76",
+   "raw_unit": "INR crore",
+   "period": "FY2023",
+   "period_label": "2022-23",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "oyo-financial.html",
+    "table_index": 4,
+    "row_index": 3,
+    "heading": "Oravel Stays Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev15": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/oyo-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:11+00:00",
+   "sha256": "bc8b1583b97ff1fe3e7f8684df4d7048a9dc275cebadf27d0bbbd10f4e81cb01",
+   "capture_run": "20261123T164433Z",
+   "file": "oyo-financial.html",
+   "raw_label": "Other income",
+   "raw_text": "152.80",
+   "raw_unit": "INR crore",
+   "period": "FY2024",
+   "period_label": "2023-24",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "oyo-financial.html",
+    "table_index": 4,
+    "row_index": 3,
+    "heading": "Oravel Stays Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev16": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/oyo-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:11+00:00",
+   "sha256": "bc8b1583b97ff1fe3e7f8684df4d7048a9dc275cebadf27d0bbbd10f4e81cb01",
+   "capture_run": "20261123T164433Z",
+   "file": "oyo-financial.html",
+   "raw_label": "Other income",
+   "raw_text": "73.06",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "2024-25",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "oyo-financial.html",
+    "table_index": 4,
+    "row_index": 3,
+    "heading": "Oravel Stays Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev17": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/oyo-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:11+00:00",
+   "sha256": "bc8b1583b97ff1fe3e7f8684df4d7048a9dc275cebadf27d0bbbd10f4e81cb01",
+   "capture_run": "20261123T164433Z",
+   "file": "oyo-financial.html",
+   "raw_label": "Other income",
+   "raw_text": "399.94",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "2025-26",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "oyo-financial.html",
+    "table_index": 4,
+    "row_index": 3,
+    "heading": "Oravel Stays Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev18": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/oyo-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:11+00:00",
+   "sha256": "bc8b1583b97ff1fe3e7f8684df4d7048a9dc275cebadf27d0bbbd10f4e81cb01",
+   "capture_run": "20261123T164433Z",
+   "file": "oyo-financial.html",
+   "raw_label": "Expenses",
+   "raw_text": "6,985.32",
+   "raw_unit": "INR crore",
+   "period": "FY2022",
+   "period_label": "2021-22",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "oyo-financial.html",
+    "table_index": 4,
+    "row_index": 4,
+    "heading": "Oravel Stays Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev19": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/oyo-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:11+00:00",
+   "sha256": "bc8b1583b97ff1fe3e7f8684df4d7048a9dc275cebadf27d0bbbd10f4e81cb01",
+   "capture_run": "20261123T164433Z",
+   "file": "oyo-financial.html",
+   "raw_label": "Expenses",
+   "raw_text": "6,799.70",
+   "raw_unit": "INR crore",
+   "period": "FY2023",
+   "period_label": "2022-23",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "oyo-financial.html",
+    "table_index": 4,
+    "row_index": 4,
+    "heading": "Oravel Stays Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev20": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/oyo-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:11+00:00",
+   "sha256": "bc8b1583b97ff1fe3e7f8684df4d7048a9dc275cebadf27d0bbbd10f4e81cb01",
+   "capture_run": "20261123T164433Z",
+   "file": "oyo-financial.html",
+   "raw_label": "Expenses",
+   "raw_text": "5,725.78",
+   "raw_unit": "INR crore",
+   "period": "FY2024",
+   "period_label": "2023-24",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "oyo-financial.html",
+    "table_index": 4,
+    "row_index": 4,
+    "heading": "Oravel Stays Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev21": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/oyo-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:11+00:00",
+   "sha256": "bc8b1583b97ff1fe3e7f8684df4d7048a9dc275cebadf27d0bbbd10f4e81cb01",
+   "capture_run": "20261123T164433Z",
+   "file": "oyo-financial.html",
+   "raw_label": "Expenses",
+   "raw_text": "6,659.54",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "2024-25",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "oyo-financial.html",
+    "table_index": 4,
+    "row_index": 4,
+    "heading": "Oravel Stays Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev22": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/oyo-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:11+00:00",
+   "sha256": "bc8b1583b97ff1fe3e7f8684df4d7048a9dc275cebadf27d0bbbd10f4e81cb01",
+   "capture_run": "20261123T164433Z",
+   "file": "oyo-financial.html",
+   "raw_label": "Expenses",
+   "raw_text": "9,334.50",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "2025-26",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "oyo-financial.html",
+    "table_index": 4,
+    "row_index": 4,
+    "heading": "Oravel Stays Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev23": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/oyo-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:11+00:00",
+   "sha256": "bc8b1583b97ff1fe3e7f8684df4d7048a9dc275cebadf27d0bbbd10f4e81cb01",
+   "capture_run": "20261123T164433Z",
+   "file": "oyo-financial.html",
+   "raw_label": "Finance cost",
+   "raw_text": "745.71",
+   "raw_unit": "INR crore",
+   "period": "FY2022",
+   "period_label": "2021-22",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "oyo-financial.html",
+    "table_index": 4,
+    "row_index": 5,
+    "heading": "Oravel Stays Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev24": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/oyo-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:11+00:00",
+   "sha256": "bc8b1583b97ff1fe3e7f8684df4d7048a9dc275cebadf27d0bbbd10f4e81cb01",
+   "capture_run": "20261123T164433Z",
+   "file": "oyo-financial.html",
+   "raw_label": "Finance cost",
+   "raw_text": "681.58",
+   "raw_unit": "INR crore",
+   "period": "FY2023",
+   "period_label": "2022-23",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "oyo-financial.html",
+    "table_index": 4,
+    "row_index": 5,
+    "heading": "Oravel Stays Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev25": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/oyo-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:11+00:00",
+   "sha256": "bc8b1583b97ff1fe3e7f8684df4d7048a9dc275cebadf27d0bbbd10f4e81cb01",
+   "capture_run": "20261123T164433Z",
+   "file": "oyo-financial.html",
+   "raw_label": "Finance cost",
+   "raw_text": "843.82",
+   "raw_unit": "INR crore",
+   "period": "FY2024",
+   "period_label": "2023-24",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "oyo-financial.html",
+    "table_index": 4,
+    "row_index": 5,
+    "heading": "Oravel Stays Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev26": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/oyo-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:11+00:00",
+   "sha256": "bc8b1583b97ff1fe3e7f8684df4d7048a9dc275cebadf27d0bbbd10f4e81cb01",
+   "capture_run": "20261123T164433Z",
+   "file": "oyo-financial.html",
+   "raw_label": "Finance cost",
+   "raw_text": "959.16",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "2024-25",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "oyo-financial.html",
+    "table_index": 4,
+    "row_index": 5,
+    "heading": "Oravel Stays Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev27": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/oyo-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:11+00:00",
+   "sha256": "bc8b1583b97ff1fe3e7f8684df4d7048a9dc275cebadf27d0bbbd10f4e81cb01",
+   "capture_run": "20261123T164433Z",
+   "file": "oyo-financial.html",
+   "raw_label": "Finance cost",
+   "raw_text": "1,414.25",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "2025-26",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "oyo-financial.html",
+    "table_index": 4,
+    "row_index": 5,
+    "heading": "Oravel Stays Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev28": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/oyo-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:11+00:00",
+   "sha256": "bc8b1583b97ff1fe3e7f8684df4d7048a9dc275cebadf27d0bbbd10f4e81cb01",
+   "capture_run": "20261123T164433Z",
+   "file": "oyo-financial.html",
+   "raw_label": "Depreciation and Amortisation expense",
+   "raw_text": "298.83",
+   "raw_unit": "INR crore",
+   "period": "FY2022",
+   "period_label": "2021-22",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "oyo-financial.html",
+    "table_index": 4,
+    "row_index": 7,
+    "heading": "Oravel Stays Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev29": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/oyo-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:11+00:00",
+   "sha256": "bc8b1583b97ff1fe3e7f8684df4d7048a9dc275cebadf27d0bbbd10f4e81cb01",
+   "capture_run": "20261123T164433Z",
+   "file": "oyo-financial.html",
+   "raw_label": "Depreciation and Amortisation expense",
+   "raw_text": "280.29",
+   "raw_unit": "INR crore",
+   "period": "FY2023",
+   "period_label": "2022-23",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "oyo-financial.html",
+    "table_index": 4,
+    "row_index": 7,
+    "heading": "Oravel Stays Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev30": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/oyo-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:11+00:00",
+   "sha256": "bc8b1583b97ff1fe3e7f8684df4d7048a9dc275cebadf27d0bbbd10f4e81cb01",
+   "capture_run": "20261123T164433Z",
+   "file": "oyo-financial.html",
+   "raw_label": "Depreciation and Amortisation expense",
+   "raw_text": "200.35",
+   "raw_unit": "INR crore",
+   "period": "FY2024",
+   "period_label": "2023-24",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "oyo-financial.html",
+    "table_index": 4,
+    "row_index": 7,
+    "heading": "Oravel Stays Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev31": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/oyo-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:11+00:00",
+   "sha256": "bc8b1583b97ff1fe3e7f8684df4d7048a9dc275cebadf27d0bbbd10f4e81cb01",
+   "capture_run": "20261123T164433Z",
+   "file": "oyo-financial.html",
+   "raw_label": "Depreciation and Amortisation expense",
+   "raw_text": "483.59",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "2024-25",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "oyo-financial.html",
+    "table_index": 4,
+    "row_index": 7,
+    "heading": "Oravel Stays Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev32": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/oyo-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:11+00:00",
+   "sha256": "bc8b1583b97ff1fe3e7f8684df4d7048a9dc275cebadf27d0bbbd10f4e81cb01",
+   "capture_run": "20261123T164433Z",
+   "file": "oyo-financial.html",
+   "raw_label": "Depreciation and Amortisation expense",
+   "raw_text": "1,071.89",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "2025-26",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "oyo-financial.html",
+    "table_index": 4,
+    "row_index": 7,
+    "heading": "Oravel Stays Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev33": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/oyo-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:11+00:00",
+   "sha256": "bc8b1583b97ff1fe3e7f8684df4d7048a9dc275cebadf27d0bbbd10f4e81cb01",
+   "capture_run": "20261123T164433Z",
+   "file": "oyo-financial.html",
+   "raw_label": "Profit before tax",
+   "raw_text": "-2,118.89",
+   "raw_unit": "INR crore",
+   "period": "FY2022",
+   "period_label": "2021-22",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "oyo-financial.html",
+    "table_index": 4,
+    "row_index": 9,
+    "heading": "Oravel Stays Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev34": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/oyo-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:11+00:00",
+   "sha256": "bc8b1583b97ff1fe3e7f8684df4d7048a9dc275cebadf27d0bbbd10f4e81cb01",
+   "capture_run": "20261123T164433Z",
+   "file": "oyo-financial.html",
+   "raw_label": "Profit before tax",
+   "raw_text": "-1,286.27",
+   "raw_unit": "INR crore",
+   "period": "FY2023",
+   "period_label": "2022-23",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "oyo-financial.html",
+    "table_index": 4,
+    "row_index": 9,
+    "heading": "Oravel Stays Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev35": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/oyo-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:11+00:00",
+   "sha256": "bc8b1583b97ff1fe3e7f8684df4d7048a9dc275cebadf27d0bbbd10f4e81cb01",
+   "capture_run": "20261123T164433Z",
+   "file": "oyo-financial.html",
+   "raw_label": "Profit before tax",
+   "raw_text": "235.82",
+   "raw_unit": "INR crore",
+   "period": "FY2024",
+   "period_label": "2023-24",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "oyo-financial.html",
+    "table_index": 4,
+    "row_index": 9,
+    "heading": "Oravel Stays Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev36": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/oyo-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:11+00:00",
+   "sha256": "bc8b1583b97ff1fe3e7f8684df4d7048a9dc275cebadf27d0bbbd10f4e81cb01",
+   "capture_run": "20261123T164433Z",
+   "file": "oyo-financial.html",
+   "raw_label": "Profit before tax",
+   "raw_text": "-489.31",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "2024-25",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "oyo-financial.html",
+    "table_index": 4,
+    "row_index": 9,
+    "heading": "Oravel Stays Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev37": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/oyo-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:11+00:00",
+   "sha256": "bc8b1583b97ff1fe3e7f8684df4d7048a9dc275cebadf27d0bbbd10f4e81cb01",
+   "capture_run": "20261123T164433Z",
+   "file": "oyo-financial.html",
+   "raw_label": "Profit before tax",
+   "raw_text": "398.93",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "2025-26",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "oyo-financial.html",
+    "table_index": 4,
+    "row_index": 9,
+    "heading": "Oravel Stays Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev38": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/oyo-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:11+00:00",
+   "sha256": "bc8b1583b97ff1fe3e7f8684df4d7048a9dc275cebadf27d0bbbd10f4e81cb01",
+   "capture_run": "20261123T164433Z",
+   "file": "oyo-financial.html",
+   "raw_label": "Tax Expense",
+   "raw_text": "22.77",
+   "raw_unit": "INR crore",
+   "period": "FY2022",
+   "period_label": "2021-22",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "oyo-financial.html",
+    "table_index": 4,
+    "row_index": 10,
+    "heading": "Oravel Stays Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev39": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/oyo-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:11+00:00",
+   "sha256": "bc8b1583b97ff1fe3e7f8684df4d7048a9dc275cebadf27d0bbbd10f4e81cb01",
+   "capture_run": "20261123T164433Z",
+   "file": "oyo-financial.html",
+   "raw_label": "Tax Expense",
+   "raw_text": "0.24",
+   "raw_unit": "INR crore",
+   "period": "FY2023",
+   "period_label": "2022-23",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "oyo-financial.html",
+    "table_index": 4,
+    "row_index": 10,
+    "heading": "Oravel Stays Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev40": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/oyo-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:11+00:00",
+   "sha256": "bc8b1583b97ff1fe3e7f8684df4d7048a9dc275cebadf27d0bbbd10f4e81cb01",
+   "capture_run": "20261123T164433Z",
+   "file": "oyo-financial.html",
+   "raw_label": "Tax Expense",
+   "raw_text": "6.24",
+   "raw_unit": "INR crore",
+   "period": "FY2024",
+   "period_label": "2023-24",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "oyo-financial.html",
+    "table_index": 4,
+    "row_index": 10,
+    "heading": "Oravel Stays Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev41": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/oyo-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:11+00:00",
+   "sha256": "bc8b1583b97ff1fe3e7f8684df4d7048a9dc275cebadf27d0bbbd10f4e81cb01",
+   "capture_run": "20261123T164433Z",
+   "file": "oyo-financial.html",
+   "raw_label": "Tax Expense",
+   "raw_text": "-734.14",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "2024-25",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "oyo-financial.html",
+    "table_index": 4,
+    "row_index": 10,
+    "heading": "Oravel Stays Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev42": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/oyo-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:11+00:00",
+   "sha256": "bc8b1583b97ff1fe3e7f8684df4d7048a9dc275cebadf27d0bbbd10f4e81cb01",
+   "capture_run": "20261123T164433Z",
+   "file": "oyo-financial.html",
+   "raw_label": "Tax Expense",
+   "raw_text": "-595.25",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "2025-26",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "oyo-financial.html",
+    "table_index": 4,
+    "row_index": 10,
+    "heading": "Oravel Stays Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev43": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/oyo-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:11+00:00",
+   "sha256": "bc8b1583b97ff1fe3e7f8684df4d7048a9dc275cebadf27d0bbbd10f4e81cb01",
+   "capture_run": "20261123T164433Z",
+   "file": "oyo-financial.html",
+   "raw_label": "Profit (Loss) for the period from continuing Operations",
+   "raw_text": "-3,943.84",
+   "raw_unit": "INR crore",
+   "period": "FY2022",
+   "period_label": "2021-22",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "oyo-financial.html",
+    "table_index": 4,
+    "row_index": 13,
+    "heading": "Oravel Stays Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev44": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/oyo-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:11+00:00",
+   "sha256": "bc8b1583b97ff1fe3e7f8684df4d7048a9dc275cebadf27d0bbbd10f4e81cb01",
+   "capture_run": "20261123T164433Z",
+   "file": "oyo-financial.html",
+   "raw_label": "Profit (Loss) for the period from continuing Operations",
+   "raw_text": "-1,941.56",
+   "raw_unit": "INR crore",
+   "period": "FY2023",
+   "period_label": "2022-23",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "oyo-financial.html",
+    "table_index": 4,
+    "row_index": 13,
+    "heading": "Oravel Stays Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev45": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/oyo-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:11+00:00",
+   "sha256": "bc8b1583b97ff1fe3e7f8684df4d7048a9dc275cebadf27d0bbbd10f4e81cb01",
+   "capture_run": "20261123T164433Z",
+   "file": "oyo-financial.html",
+   "raw_label": "Profit (Loss) for the period from continuing Operations",
+   "raw_text": "229.58",
+   "raw_unit": "INR crore",
+   "period": "FY2024",
+   "period_label": "2023-24",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "oyo-financial.html",
+    "table_index": 4,
+    "row_index": 13,
+    "heading": "Oravel Stays Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev46": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/oyo-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:11+00:00",
+   "sha256": "bc8b1583b97ff1fe3e7f8684df4d7048a9dc275cebadf27d0bbbd10f4e81cb01",
+   "capture_run": "20261123T164433Z",
+   "file": "oyo-financial.html",
+   "raw_label": "Profit (Loss) for the period from continuing Operations",
+   "raw_text": "244.83",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "2024-25",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "oyo-financial.html",
+    "table_index": 4,
+    "row_index": 13,
+    "heading": "Oravel Stays Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev47": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/oyo-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:11+00:00",
+   "sha256": "bc8b1583b97ff1fe3e7f8684df4d7048a9dc275cebadf27d0bbbd10f4e81cb01",
+   "capture_run": "20261123T164433Z",
+   "file": "oyo-financial.html",
+   "raw_label": "Profit (Loss) for the period from continuing Operations",
+   "raw_text": "994.18",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "2025-26",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "oyo-financial.html",
+    "table_index": 4,
+    "row_index": 13,
+    "heading": "Oravel Stays Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev48": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/oyo-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:11+00:00",
+   "sha256": "bc8b1583b97ff1fe3e7f8684df4d7048a9dc275cebadf27d0bbbd10f4e81cb01",
+   "capture_run": "20261123T164433Z",
+   "file": "oyo-financial.html",
+   "raw_label": "Assets",
+   "raw_text": "8,751.04",
+   "raw_unit": "INR crore",
+   "period": "FY2022",
+   "period_label": "2021-22",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "oyo-financial.html",
+    "table_index": 1,
+    "row_index": 6,
+    "heading": "Oravel Stays Limited Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev49": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/oyo-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:11+00:00",
+   "sha256": "bc8b1583b97ff1fe3e7f8684df4d7048a9dc275cebadf27d0bbbd10f4e81cb01",
+   "capture_run": "20261123T164433Z",
+   "file": "oyo-financial.html",
+   "raw_label": "Assets",
+   "raw_text": "7,932.43",
+   "raw_unit": "INR crore",
+   "period": "FY2023",
+   "period_label": "2022-23",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "oyo-financial.html",
+    "table_index": 1,
+    "row_index": 6,
+    "heading": "Oravel Stays Limited Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev50": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/oyo-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:11+00:00",
+   "sha256": "bc8b1583b97ff1fe3e7f8684df4d7048a9dc275cebadf27d0bbbd10f4e81cb01",
+   "capture_run": "20261123T164433Z",
+   "file": "oyo-financial.html",
+   "raw_label": "Assets",
+   "raw_text": "6,443.47",
+   "raw_unit": "INR crore",
+   "period": "FY2024",
+   "period_label": "2023-24",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "oyo-financial.html",
+    "table_index": 1,
+    "row_index": 6,
+    "heading": "Oravel Stays Limited Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev51": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/oyo-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:11+00:00",
+   "sha256": "bc8b1583b97ff1fe3e7f8684df4d7048a9dc275cebadf27d0bbbd10f4e81cb01",
+   "capture_run": "20261123T164433Z",
+   "file": "oyo-financial.html",
+   "raw_label": "Assets",
+   "raw_text": "16,695.32",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "2024-25",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "oyo-financial.html",
+    "table_index": 1,
+    "row_index": 6,
+    "heading": "Oravel Stays Limited Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev52": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/oyo-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:11+00:00",
+   "sha256": "bc8b1583b97ff1fe3e7f8684df4d7048a9dc275cebadf27d0bbbd10f4e81cb01",
+   "capture_run": "20261123T164433Z",
+   "file": "oyo-financial.html",
+   "raw_label": "Assets",
+   "raw_text": "20,019.90",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "2025-26",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "oyo-financial.html",
+    "table_index": 1,
+    "row_index": 6,
+    "heading": "Oravel Stays Limited Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev53": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/oyo-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:11+00:00",
+   "sha256": "bc8b1583b97ff1fe3e7f8684df4d7048a9dc275cebadf27d0bbbd10f4e81cb01",
+   "capture_run": "20261123T164433Z",
+   "file": "oyo-financial.html",
+   "raw_label": "Total equity",
+   "raw_text": "1,443.60",
+   "raw_unit": "INR crore",
+   "period": "FY2022",
+   "period_label": "2021-22",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "oyo-financial.html",
+    "table_index": 1,
+    "row_index": 2,
+    "heading": "Oravel Stays Limited Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev54": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/oyo-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:11+00:00",
+   "sha256": "bc8b1583b97ff1fe3e7f8684df4d7048a9dc275cebadf27d0bbbd10f4e81cb01",
+   "capture_run": "20261123T164433Z",
+   "file": "oyo-financial.html",
+   "raw_label": "Total equity",
+   "raw_text": "582.57",
+   "raw_unit": "INR crore",
+   "period": "FY2023",
+   "period_label": "2022-23",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "oyo-financial.html",
+    "table_index": 1,
+    "row_index": 2,
+    "heading": "Oravel Stays Limited Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev55": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/oyo-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:11+00:00",
+   "sha256": "bc8b1583b97ff1fe3e7f8684df4d7048a9dc275cebadf27d0bbbd10f4e81cb01",
+   "capture_run": "20261123T164433Z",
+   "file": "oyo-financial.html",
+   "raw_label": "Total equity",
+   "raw_text": "900.73",
+   "raw_unit": "INR crore",
+   "period": "FY2024",
+   "period_label": "2023-24",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "oyo-financial.html",
+    "table_index": 1,
+    "row_index": 2,
+    "heading": "Oravel Stays Limited Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev56": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/oyo-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:11+00:00",
+   "sha256": "bc8b1583b97ff1fe3e7f8684df4d7048a9dc275cebadf27d0bbbd10f4e81cb01",
+   "capture_run": "20261123T164433Z",
+   "file": "oyo-financial.html",
+   "raw_label": "Total equity",
+   "raw_text": "3,786.62",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "2024-25",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "oyo-financial.html",
+    "table_index": 1,
+    "row_index": 2,
+    "heading": "Oravel Stays Limited Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev57": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/oyo-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:11+00:00",
+   "sha256": "bc8b1583b97ff1fe3e7f8684df4d7048a9dc275cebadf27d0bbbd10f4e81cb01",
+   "capture_run": "20261123T164433Z",
+   "file": "oyo-financial.html",
+   "raw_label": "Total equity",
+   "raw_text": "5,791.17",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "2025-26",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "oyo-financial.html",
+    "table_index": 1,
+    "row_index": 2,
+    "heading": "Oravel Stays Limited Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev58": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/oyo-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:11+00:00",
+   "sha256": "bc8b1583b97ff1fe3e7f8684df4d7048a9dc275cebadf27d0bbbd10f4e81cb01",
+   "capture_run": "20261123T164433Z",
+   "file": "oyo-financial.html",
+   "raw_label": "Total liabilities",
+   "raw_text": "7,008.70",
+   "raw_unit": "INR crore",
+   "period": "FY2022",
+   "period_label": "2021-22",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "oyo-financial.html",
+    "table_index": 1,
+    "row_index": 3,
+    "heading": "Oravel Stays Limited Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev59": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/oyo-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:11+00:00",
+   "sha256": "bc8b1583b97ff1fe3e7f8684df4d7048a9dc275cebadf27d0bbbd10f4e81cb01",
+   "capture_run": "20261123T164433Z",
+   "file": "oyo-financial.html",
+   "raw_label": "Total liabilities",
+   "raw_text": "7,349.86",
+   "raw_unit": "INR crore",
+   "period": "FY2023",
+   "period_label": "2022-23",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "oyo-financial.html",
+    "table_index": 1,
+    "row_index": 3,
+    "heading": "Oravel Stays Limited Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev60": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/oyo-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:11+00:00",
+   "sha256": "bc8b1583b97ff1fe3e7f8684df4d7048a9dc275cebadf27d0bbbd10f4e81cb01",
+   "capture_run": "20261123T164433Z",
+   "file": "oyo-financial.html",
+   "raw_label": "Total liabilities",
+   "raw_text": "5,542.74",
+   "raw_unit": "INR crore",
+   "period": "FY2024",
+   "period_label": "2023-24",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "oyo-financial.html",
+    "table_index": 1,
+    "row_index": 3,
+    "heading": "Oravel Stays Limited Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev61": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/oyo-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:11+00:00",
+   "sha256": "bc8b1583b97ff1fe3e7f8684df4d7048a9dc275cebadf27d0bbbd10f4e81cb01",
+   "capture_run": "20261123T164433Z",
+   "file": "oyo-financial.html",
+   "raw_label": "Total liabilities",
+   "raw_text": "12,908.70",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "2024-25",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "oyo-financial.html",
+    "table_index": 1,
+    "row_index": 3,
+    "heading": "Oravel Stays Limited Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev62": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/oyo-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:11+00:00",
+   "sha256": "bc8b1583b97ff1fe3e7f8684df4d7048a9dc275cebadf27d0bbbd10f4e81cb01",
+   "capture_run": "20261123T164433Z",
+   "file": "oyo-financial.html",
+   "raw_label": "Total liabilities",
+   "raw_text": "14,228.73",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "2025-26",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "oyo-financial.html",
+    "table_index": 1,
+    "row_index": 3,
+    "heading": "Oravel Stays Limited Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev63": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/oyo-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:11+00:00",
+   "sha256": "bc8b1583b97ff1fe3e7f8684df4d7048a9dc275cebadf27d0bbbd10f4e81cb01",
+   "capture_run": "20261123T164433Z",
+   "file": "oyo-financial.html",
+   "raw_label": "Current Assets",
+   "raw_text": "3,137.98",
+   "raw_unit": "INR crore",
+   "period": "FY2022",
+   "period_label": "2021-22",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "oyo-financial.html",
+    "table_index": 1,
+    "row_index": 8,
+    "heading": "Oravel Stays Limited Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev64": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/oyo-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:11+00:00",
+   "sha256": "bc8b1583b97ff1fe3e7f8684df4d7048a9dc275cebadf27d0bbbd10f4e81cb01",
+   "capture_run": "20261123T164433Z",
+   "file": "oyo-financial.html",
+   "raw_label": "Current Assets",
+   "raw_text": "2,294.44",
+   "raw_unit": "INR crore",
+   "period": "FY2023",
+   "period_label": "2022-23",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "oyo-financial.html",
+    "table_index": 1,
+    "row_index": 8,
+    "heading": "Oravel Stays Limited Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev65": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/oyo-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:11+00:00",
+   "sha256": "bc8b1583b97ff1fe3e7f8684df4d7048a9dc275cebadf27d0bbbd10f4e81cb01",
+   "capture_run": "20261123T164433Z",
+   "file": "oyo-financial.html",
+   "raw_label": "Current Assets",
+   "raw_text": "1,421.77",
+   "raw_unit": "INR crore",
+   "period": "FY2024",
+   "period_label": "2023-24",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "oyo-financial.html",
+    "table_index": 1,
+    "row_index": 8,
+    "heading": "Oravel Stays Limited Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev66": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/oyo-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:11+00:00",
+   "sha256": "bc8b1583b97ff1fe3e7f8684df4d7048a9dc275cebadf27d0bbbd10f4e81cb01",
+   "capture_run": "20261123T164433Z",
+   "file": "oyo-financial.html",
+   "raw_label": "Current Assets",
+   "raw_text": "2,126.30",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "2024-25",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "oyo-financial.html",
+    "table_index": 1,
+    "row_index": 8,
+    "heading": "Oravel Stays Limited Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev67": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/oyo-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:11+00:00",
+   "sha256": "bc8b1583b97ff1fe3e7f8684df4d7048a9dc275cebadf27d0bbbd10f4e81cb01",
+   "capture_run": "20261123T164433Z",
+   "file": "oyo-financial.html",
+   "raw_label": "Current Assets",
+   "raw_text": "2,958.37",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "2025-26",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "oyo-financial.html",
+    "table_index": 1,
+    "row_index": 8,
+    "heading": "Oravel Stays Limited Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev68": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/oyo-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:11+00:00",
+   "sha256": "bc8b1583b97ff1fe3e7f8684df4d7048a9dc275cebadf27d0bbbd10f4e81cb01",
+   "capture_run": "20261123T164433Z",
+   "file": "oyo-financial.html",
+   "raw_label": "Current Liabilities",
+   "raw_text": "1,993.88",
+   "raw_unit": "INR crore",
+   "period": "FY2022",
+   "period_label": "2021-22",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "oyo-financial.html",
+    "table_index": 1,
+    "row_index": 5,
+    "heading": "Oravel Stays Limited Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev69": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/oyo-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:11+00:00",
+   "sha256": "bc8b1583b97ff1fe3e7f8684df4d7048a9dc275cebadf27d0bbbd10f4e81cb01",
+   "capture_run": "20261123T164433Z",
+   "file": "oyo-financial.html",
+   "raw_label": "Current Liabilities",
+   "raw_text": "1,919.51",
+   "raw_unit": "INR crore",
+   "period": "FY2023",
+   "period_label": "2022-23",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "oyo-financial.html",
+    "table_index": 1,
+    "row_index": 5,
+    "heading": "Oravel Stays Limited Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev70": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/oyo-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:11+00:00",
+   "sha256": "bc8b1583b97ff1fe3e7f8684df4d7048a9dc275cebadf27d0bbbd10f4e81cb01",
+   "capture_run": "20261123T164433Z",
+   "file": "oyo-financial.html",
+   "raw_label": "Current Liabilities",
+   "raw_text": "1,518.16",
+   "raw_unit": "INR crore",
+   "period": "FY2024",
+   "period_label": "2023-24",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "oyo-financial.html",
+    "table_index": 1,
+    "row_index": 5,
+    "heading": "Oravel Stays Limited Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev71": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/oyo-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:11+00:00",
+   "sha256": "bc8b1583b97ff1fe3e7f8684df4d7048a9dc275cebadf27d0bbbd10f4e81cb01",
+   "capture_run": "20261123T164433Z",
+   "file": "oyo-financial.html",
+   "raw_label": "Current Liabilities",
+   "raw_text": "2,587.01",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "2024-25",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "oyo-financial.html",
+    "table_index": 1,
+    "row_index": 5,
+    "heading": "Oravel Stays Limited Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev72": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/oyo-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:11+00:00",
+   "sha256": "bc8b1583b97ff1fe3e7f8684df4d7048a9dc275cebadf27d0bbbd10f4e81cb01",
+   "capture_run": "20261123T164433Z",
+   "file": "oyo-financial.html",
+   "raw_label": "Current Liabilities",
+   "raw_text": "3,202.57",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "2025-26",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "oyo-financial.html",
+    "table_index": 1,
+    "row_index": 5,
+    "heading": "Oravel Stays Limited Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev73": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/oyo-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:11+00:00",
+   "sha256": "bc8b1583b97ff1fe3e7f8684df4d7048a9dc275cebadf27d0bbbd10f4e81cb01",
+   "capture_run": "20261123T164433Z",
+   "file": "oyo-financial.html",
+   "raw_label": "Net cash from/(used in) operating activities",
+   "raw_text": "-921.90",
+   "raw_unit": "INR crore",
+   "period": "FY2022",
+   "period_label": "2021-22",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "oyo-financial.html",
+    "table_index": 2,
+    "row_index": 1,
+    "heading": "Oravel Stays Limited CashFlow Statement(Rs in Crores)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev74": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/oyo-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:11+00:00",
+   "sha256": "bc8b1583b97ff1fe3e7f8684df4d7048a9dc275cebadf27d0bbbd10f4e81cb01",
+   "capture_run": "20261123T164433Z",
+   "file": "oyo-financial.html",
+   "raw_label": "Net cash from/(used in) operating activities",
+   "raw_text": "141.84",
+   "raw_unit": "INR crore",
+   "period": "FY2023",
+   "period_label": "2022-23",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "oyo-financial.html",
+    "table_index": 2,
+    "row_index": 1,
+    "heading": "Oravel Stays Limited CashFlow Statement(Rs in Crores)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev75": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/oyo-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:11+00:00",
+   "sha256": "bc8b1583b97ff1fe3e7f8684df4d7048a9dc275cebadf27d0bbbd10f4e81cb01",
+   "capture_run": "20261123T164433Z",
+   "file": "oyo-financial.html",
+   "raw_label": "Net cash from/(used in) operating activities",
+   "raw_text": "598.23",
+   "raw_unit": "INR crore",
+   "period": "FY2024",
+   "period_label": "2023-24",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "oyo-financial.html",
+    "table_index": 2,
+    "row_index": 1,
+    "heading": "Oravel Stays Limited CashFlow Statement(Rs in Crores)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev76": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/oyo-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:11+00:00",
+   "sha256": "bc8b1583b97ff1fe3e7f8684df4d7048a9dc275cebadf27d0bbbd10f4e81cb01",
+   "capture_run": "20261123T164433Z",
+   "file": "oyo-financial.html",
+   "raw_label": "Net cash from/(used in) operating activities",
+   "raw_text": "321.25",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "2024-25",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "oyo-financial.html",
+    "table_index": 2,
+    "row_index": 1,
+    "heading": "Oravel Stays Limited CashFlow Statement(Rs in Crores)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev77": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/oyo-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:11+00:00",
+   "sha256": "bc8b1583b97ff1fe3e7f8684df4d7048a9dc275cebadf27d0bbbd10f4e81cb01",
+   "capture_run": "20261123T164433Z",
+   "file": "oyo-financial.html",
+   "raw_label": "Net cash from/(used in) operating activities",
+   "raw_text": "2,511.21",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "2025-26",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "oyo-financial.html",
+    "table_index": 2,
+    "row_index": 1,
+    "heading": "Oravel Stays Limited CashFlow Statement(Rs in Crores)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev78": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/oyo-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:11+00:00",
+   "sha256": "bc8b1583b97ff1fe3e7f8684df4d7048a9dc275cebadf27d0bbbd10f4e81cb01",
+   "capture_run": "20261123T164433Z",
+   "file": "oyo-financial.html",
+   "raw_label": "Net cash from/(used in) investing activities",
+   "raw_text": "-711.16",
+   "raw_unit": "INR crore",
+   "period": "FY2022",
+   "period_label": "2021-22",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "oyo-financial.html",
+    "table_index": 2,
+    "row_index": 2,
+    "heading": "Oravel Stays Limited CashFlow Statement(Rs in Crores)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev79": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/oyo-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:11+00:00",
+   "sha256": "bc8b1583b97ff1fe3e7f8684df4d7048a9dc275cebadf27d0bbbd10f4e81cb01",
+   "capture_run": "20261123T164433Z",
+   "file": "oyo-financial.html",
+   "raw_label": "Net cash from/(used in) investing activities",
+   "raw_text": "-108.83",
+   "raw_unit": "INR crore",
+   "period": "FY2023",
+   "period_label": "2022-23",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "oyo-financial.html",
+    "table_index": 2,
+    "row_index": 2,
+    "heading": "Oravel Stays Limited CashFlow Statement(Rs in Crores)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev80": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/oyo-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:11+00:00",
+   "sha256": "bc8b1583b97ff1fe3e7f8684df4d7048a9dc275cebadf27d0bbbd10f4e81cb01",
+   "capture_run": "20261123T164433Z",
+   "file": "oyo-financial.html",
+   "raw_label": "Net cash from/(used in) investing activities",
+   "raw_text": "1,424.90",
+   "raw_unit": "INR crore",
+   "period": "FY2024",
+   "period_label": "2023-24",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "oyo-financial.html",
+    "table_index": 2,
+    "row_index": 2,
+    "heading": "Oravel Stays Limited CashFlow Statement(Rs in Crores)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev81": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/oyo-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:11+00:00",
+   "sha256": "bc8b1583b97ff1fe3e7f8684df4d7048a9dc275cebadf27d0bbbd10f4e81cb01",
+   "capture_run": "20261123T164433Z",
+   "file": "oyo-financial.html",
+   "raw_label": "Net cash from/(used in) investing activities",
+   "raw_text": "-4,212.14",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "2024-25",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "oyo-financial.html",
+    "table_index": 2,
+    "row_index": 2,
+    "heading": "Oravel Stays Limited CashFlow Statement(Rs in Crores)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev82": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/oyo-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:11+00:00",
+   "sha256": "bc8b1583b97ff1fe3e7f8684df4d7048a9dc275cebadf27d0bbbd10f4e81cb01",
+   "capture_run": "20261123T164433Z",
+   "file": "oyo-financial.html",
+   "raw_label": "Net cash from/(used in) investing activities",
+   "raw_text": "-1,374.92",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "2025-26",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "oyo-financial.html",
+    "table_index": 2,
+    "row_index": 2,
+    "heading": "Oravel Stays Limited CashFlow Statement(Rs in Crores)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev83": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/oyo-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:11+00:00",
+   "sha256": "bc8b1583b97ff1fe3e7f8684df4d7048a9dc275cebadf27d0bbbd10f4e81cb01",
+   "capture_run": "20261123T164433Z",
+   "file": "oyo-financial.html",
+   "raw_label": "Net cash from/(used) in financing activities",
+   "raw_text": "703.51",
+   "raw_unit": "INR crore",
+   "period": "FY2022",
+   "period_label": "2021-22",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "oyo-financial.html",
+    "table_index": 2,
+    "row_index": 3,
+    "heading": "Oravel Stays Limited CashFlow Statement(Rs in Crores)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev84": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/oyo-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:11+00:00",
+   "sha256": "bc8b1583b97ff1fe3e7f8684df4d7048a9dc275cebadf27d0bbbd10f4e81cb01",
+   "capture_run": "20261123T164433Z",
+   "file": "oyo-financial.html",
+   "raw_label": "Net cash from/(used) in financing activities",
+   "raw_text": "-704.72",
+   "raw_unit": "INR crore",
+   "period": "FY2023",
+   "period_label": "2022-23",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "oyo-financial.html",
+    "table_index": 2,
+    "row_index": 3,
+    "heading": "Oravel Stays Limited CashFlow Statement(Rs in Crores)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev85": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/oyo-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:11+00:00",
+   "sha256": "bc8b1583b97ff1fe3e7f8684df4d7048a9dc275cebadf27d0bbbd10f4e81cb01",
+   "capture_run": "20261123T164433Z",
+   "file": "oyo-financial.html",
+   "raw_label": "Net cash from/(used) in financing activities",
+   "raw_text": "-2,413.19",
+   "raw_unit": "INR crore",
+   "period": "FY2024",
+   "period_label": "2023-24",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "oyo-financial.html",
+    "table_index": 2,
+    "row_index": 3,
+    "heading": "Oravel Stays Limited CashFlow Statement(Rs in Crores)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev86": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/oyo-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:11+00:00",
+   "sha256": "bc8b1583b97ff1fe3e7f8684df4d7048a9dc275cebadf27d0bbbd10f4e81cb01",
+   "capture_run": "20261123T164433Z",
+   "file": "oyo-financial.html",
+   "raw_label": "Net cash from/(used) in financing activities",
+   "raw_text": "4,159.84",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "2024-25",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "oyo-financial.html",
+    "table_index": 2,
+    "row_index": 3,
+    "heading": "Oravel Stays Limited CashFlow Statement(Rs in Crores)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev87": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/oyo-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:11+00:00",
+   "sha256": "bc8b1583b97ff1fe3e7f8684df4d7048a9dc275cebadf27d0bbbd10f4e81cb01",
+   "capture_run": "20261123T164433Z",
+   "file": "oyo-financial.html",
+   "raw_label": "Net cash from/(used) in financing activities",
+   "raw_text": "-866.52",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "2025-26",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "oyo-financial.html",
+    "table_index": 2,
+    "row_index": 3,
+    "heading": "Oravel Stays Limited CashFlow Statement(Rs in Crores)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev88": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/oyo-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:11+00:00",
+   "sha256": "bc8b1583b97ff1fe3e7f8684df4d7048a9dc275cebadf27d0bbbd10f4e81cb01",
+   "capture_run": "20261123T164433Z",
+   "file": "oyo-financial.html",
+   "raw_label": "EBITDA",
+   "raw_text": "-1,074.35",
+   "raw_unit": "INR crore",
+   "period": "FY2022",
+   "period_label": "2021-22",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "oyo-financial.html",
+    "table_index": 5,
+    "row_index": 8,
+    "heading": "Oravel Stays Limited Summary(Rs in Crores)"
+   },
+   "statement": "summary",
+   "derived": false,
+   "components": null
+  },
+  "ev89": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/oyo-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:11+00:00",
+   "sha256": "bc8b1583b97ff1fe3e7f8684df4d7048a9dc275cebadf27d0bbbd10f4e81cb01",
+   "capture_run": "20261123T164433Z",
+   "file": "oyo-financial.html",
+   "raw_label": "EBITDA",
+   "raw_text": "-324.40",
+   "raw_unit": "INR crore",
+   "period": "FY2023",
+   "period_label": "2022-23",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "oyo-financial.html",
+    "table_index": 5,
+    "row_index": 8,
+    "heading": "Oravel Stays Limited Summary(Rs in Crores)"
+   },
+   "statement": "summary",
+   "derived": false,
+   "components": null
+  },
+  "ev90": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/oyo-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:11+00:00",
+   "sha256": "bc8b1583b97ff1fe3e7f8684df4d7048a9dc275cebadf27d0bbbd10f4e81cb01",
+   "capture_run": "20261123T164433Z",
+   "file": "oyo-financial.html",
+   "raw_label": "EBITDA",
+   "raw_text": "1,279.98",
+   "raw_unit": "INR crore",
+   "period": "FY2024",
+   "period_label": "2023-24",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "oyo-financial.html",
+    "table_index": 5,
+    "row_index": 8,
+    "heading": "Oravel Stays Limited Summary(Rs in Crores)"
+   },
+   "statement": "summary",
+   "derived": false,
+   "components": null
+  },
+  "ev91": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/oyo-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:11+00:00",
+   "sha256": "bc8b1583b97ff1fe3e7f8684df4d7048a9dc275cebadf27d0bbbd10f4e81cb01",
+   "capture_run": "20261123T164433Z",
+   "file": "oyo-financial.html",
+   "raw_label": "EBITDA",
+   "raw_text": "953.43",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "2024-25",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "oyo-financial.html",
+    "table_index": 5,
+    "row_index": 8,
+    "heading": "Oravel Stays Limited Summary(Rs in Crores)"
+   },
+   "statement": "summary",
+   "derived": false,
+   "components": null
+  },
+  "ev92": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/oyo-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:11+00:00",
+   "sha256": "bc8b1583b97ff1fe3e7f8684df4d7048a9dc275cebadf27d0bbbd10f4e81cb01",
+   "capture_run": "20261123T164433Z",
+   "file": "oyo-financial.html",
+   "raw_label": "EBITDA",
+   "raw_text": "2,885.07",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "2025-26",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "oyo-financial.html",
+    "table_index": 5,
+    "row_index": 8,
+    "heading": "Oravel Stays Limited Summary(Rs in Crores)"
+   },
+   "statement": "summary",
+   "derived": false,
+   "components": null
+  },
+  "ev93": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/oyo-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:11+00:00",
+   "sha256": "bc8b1583b97ff1fe3e7f8684df4d7048a9dc275cebadf27d0bbbd10f4e81cb01",
+   "capture_run": "20261123T164433Z",
+   "file": "oyo-financial.html",
+   "raw_label": "Earnings Per Share (EPS)",
+   "raw_text": "-29.71",
+   "raw_unit": "INR per share",
+   "period": "FY2022",
+   "period_label": "2021-22",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "oyo-financial.html",
+    "table_index": 5,
+    "row_index": 12,
+    "heading": "Oravel Stays Limited Summary(Rs in Crores)"
+   },
+   "statement": "summary",
+   "derived": false,
+   "components": null
+  },
+  "ev94": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/oyo-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:11+00:00",
+   "sha256": "bc8b1583b97ff1fe3e7f8684df4d7048a9dc275cebadf27d0bbbd10f4e81cb01",
+   "capture_run": "20261123T164433Z",
+   "file": "oyo-financial.html",
+   "raw_label": "Earnings Per Share (EPS)",
+   "raw_text": "-14.62",
+   "raw_unit": "INR per share",
+   "period": "FY2023",
+   "period_label": "2022-23",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "oyo-financial.html",
+    "table_index": 5,
+    "row_index": 12,
+    "heading": "Oravel Stays Limited Summary(Rs in Crores)"
+   },
+   "statement": "summary",
+   "derived": false,
+   "components": null
+  },
+  "ev95": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/oyo-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:11+00:00",
+   "sha256": "bc8b1583b97ff1fe3e7f8684df4d7048a9dc275cebadf27d0bbbd10f4e81cb01",
+   "capture_run": "20261123T164433Z",
+   "file": "oyo-financial.html",
+   "raw_label": "Earnings Per Share (EPS)",
+   "raw_text": "0.35",
+   "raw_unit": "INR per share",
+   "period": "FY2024",
+   "period_label": "2023-24",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "oyo-financial.html",
+    "table_index": 5,
+    "row_index": 12,
+    "heading": "Oravel Stays Limited Summary(Rs in Crores)"
+   },
+   "statement": "summary",
+   "derived": false,
+   "components": null
+  },
+  "ev96": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/oyo-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:11+00:00",
+   "sha256": "bc8b1583b97ff1fe3e7f8684df4d7048a9dc275cebadf27d0bbbd10f4e81cb01",
+   "capture_run": "20261123T164433Z",
+   "file": "oyo-financial.html",
+   "raw_label": "Earnings Per Share (EPS)",
+   "raw_text": "0.16",
+   "raw_unit": "INR per share",
+   "period": "FY2025",
+   "period_label": "2024-25",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "oyo-financial.html",
+    "table_index": 5,
+    "row_index": 12,
+    "heading": "Oravel Stays Limited Summary(Rs in Crores)"
+   },
+   "statement": "summary",
+   "derived": false,
+   "components": null
+  },
+  "ev97": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/oyo-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:11+00:00",
+   "sha256": "bc8b1583b97ff1fe3e7f8684df4d7048a9dc275cebadf27d0bbbd10f4e81cb01",
+   "capture_run": "20261123T164433Z",
+   "file": "oyo-financial.html",
+   "raw_label": "Earnings Per Share (EPS)",
+   "raw_text": "0.63",
+   "raw_unit": "INR per share",
+   "period": "FY2026",
+   "period_label": "2025-26",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "oyo-financial.html",
+    "table_index": 5,
+    "row_index": 12,
+    "heading": "Oravel Stays Limited Summary(Rs in Crores)"
+   },
+   "statement": "summary",
+   "derived": false,
+   "components": null
+  },
+  "ev98": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/oyo-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:11+00:00",
+   "sha256": "bc8b1583b97ff1fe3e7f8684df4d7048a9dc275cebadf27d0bbbd10f4e81cb01",
+   "capture_run": "20261123T164433Z",
+   "file": "oyo-financial.html",
+   "raw_label": "Outstanding Shares",
+   "raw_text": "1,327,245,078.00",
+   "raw_unit": "shares",
+   "period": "FY2022",
+   "period_label": "2021-22",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "oyo-financial.html",
+    "table_index": 5,
+    "row_index": 11,
+    "heading": "Oravel Stays Limited Summary(Rs in Crores)"
+   },
+   "statement": "summary",
+   "derived": false,
+   "components": null
+  },
+  "ev99": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/oyo-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:11+00:00",
+   "sha256": "bc8b1583b97ff1fe3e7f8684df4d7048a9dc275cebadf27d0bbbd10f4e81cb01",
+   "capture_run": "20261123T164433Z",
+   "file": "oyo-financial.html",
+   "raw_label": "Outstanding Shares",
+   "raw_text": "1,328,123,967.00",
+   "raw_unit": "shares",
+   "period": "FY2023",
+   "period_label": "2022-23",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "oyo-financial.html",
+    "table_index": 5,
+    "row_index": 11,
+    "heading": "Oravel Stays Limited Summary(Rs in Crores)"
+   },
+   "statement": "summary",
+   "derived": false,
+   "components": null
+  },
+  "ev100": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/oyo-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:11+00:00",
+   "sha256": "bc8b1583b97ff1fe3e7f8684df4d7048a9dc275cebadf27d0bbbd10f4e81cb01",
+   "capture_run": "20261123T164433Z",
+   "file": "oyo-financial.html",
+   "raw_label": "Outstanding Shares",
+   "raw_text": "6,589,557,537.00",
+   "raw_unit": "shares",
+   "period": "FY2024",
+   "period_label": "2023-24",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "oyo-financial.html",
+    "table_index": 5,
+    "row_index": 11,
+    "heading": "Oravel Stays Limited Summary(Rs in Crores)"
+   },
+   "statement": "summary",
+   "derived": false,
+   "components": null
+  },
+  "ev101": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/oyo-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:11+00:00",
+   "sha256": "bc8b1583b97ff1fe3e7f8684df4d7048a9dc275cebadf27d0bbbd10f4e81cb01",
+   "capture_run": "20261123T164433Z",
+   "file": "oyo-financial.html",
+   "raw_label": "Outstanding Shares",
+   "raw_text": "14,909,445,815.00",
+   "raw_unit": "shares",
+   "period": "FY2025",
+   "period_label": "2024-25",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "oyo-financial.html",
+    "table_index": 5,
+    "row_index": 11,
+    "heading": "Oravel Stays Limited Summary(Rs in Crores)"
+   },
+   "statement": "summary",
+   "derived": false,
+   "components": null
+  },
+  "ev102": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/oyo-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:11+00:00",
+   "sha256": "bc8b1583b97ff1fe3e7f8684df4d7048a9dc275cebadf27d0bbbd10f4e81cb01",
+   "capture_run": "20261123T164433Z",
+   "file": "oyo-financial.html",
+   "raw_label": "Outstanding Shares",
+   "raw_text": "15,869,974,978.00",
+   "raw_unit": "shares",
+   "period": "FY2026",
+   "period_label": "2025-26",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "oyo-financial.html",
+    "table_index": 5,
+    "row_index": 11,
+    "heading": "Oravel Stays Limited Summary(Rs in Crores)"
+   },
+   "statement": "summary",
+   "derived": false,
+   "components": null
+  }
+ },
+ "news": {
+  "query": "OYO IPO",
+  "retrieved_at": "2026-11-23T16:46:19+00:00",
+  "items": [
+   {
+    "title": "Oyo may launch IPO in Jan-Mar quarter at flat valuation: Report | IPO to be entirely a primary capital raise | Inshorts",
+    "publisher": "Inshorts",
+    "date": "2026-11-23",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVzR5cWVwTUNWcDd2eDducXhqZjc0MGc2b3ZLMGc5dkM5TWxJZ3RLeHB1bGhNS2pPRzJTSy1DSlFLSnhWbi01eW1vMi1FNU1lV3hiSDZvc0Z1Sm9NNHR4TDJSdERpZVlkYm01aktJRk1CV0xMNXF5bmFXNWxyNG9SR3o2ekRqOUtEZXltNktkUHVWVlJNQ3pOMHdaU1ZFNWUtMHV6dWlaX2EwUdIBrwFBVV95cUxNMkNqWDhhSlhoaGJxS1VFN01iSmhpa0RwUjFOR2s5X0s4anRKeXc5UVc0RWtrOFBwY3prcmlRZU16bDg1QWFGbmdsX0tfLUhLcTZnOHZtUlNtS3V2cHVaRmZDSjJPNFotMGYwSkhuSGd2clFLNE9pRnNFSGpBMDU1QVhyajE0QVQ0eTNoNjVrQU1qM2gta2txZURCcUthZmtoLXVZa0h3MkhmcmVUMXlN?oc=5"
+   },
+   {
+    "title": "Investors pull Oyo's valuation down further as IPO slips to early 2027",
+    "publisher": "The Economic Times",
+    "date": "2026-11-23",
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNQWNrSWxfYTdEek9qUkJNa0FlVzgtZU0yTzJVRDdFeWFlNUhPOU9pVXdCQVlBckNPank4akVJc0pvTWVIQWhzNUxBam1TWWtyY19Cb0daanVRNFlZY1JRMUYzM2NKVHBsX1lpMV9KZ2M0bGhwWFFWVmRrUkpha2JfejJ1VDV1SDh2bW9aRTRoNHNNLXUyazVySXU2bGh1VzJGMnVkM2R0ZElhN1ZDOFpWUVNTZndJZU5tMDh2MjV1eW1vU1RDNGx5d2tFbldVUE5Xd2k4Mm5yamPSAd4BQVVfeXFMTVVDbkFBeEVSZFRYZHkzSGtIbUMwTE44VnJIVDJZSk5oUDROZ0VrRUx6Vk02RkktRHJ6SkdKRl9iN2o3RkdxLWIyUk5BRG0zd3FkcHVDb1JtcDN5a2ZRRzhPZ3Mtcy15anpJeXNhQ096T0J2bDJ1bk9WREE0SjRuNjRVTG8yU1EyYk8tY1JEWDk5ZTJma1d1X3pWLV91T0Y3VUV2VFdtSHRGOUVRek9pcm5BNER6S0FyZWkwZjRjc1hweExCMW9yOEFQcG9wNzdJVUlhdUxqWnQ2Q2ZBVFV3?oc=5"
+   },
+   {
+    "title": "If OYO Is Generating Enough Cash, Why Does It Need An IPO? The Shrinking ₹3,350 Crore Issue, A Collapsed Valuation And Ritesh Agarwal's Debt Problem",
+    "publisher": "Inventiva",
+    "date": "2026-11-23",
+    "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPLVVHanl3MzBXWUhKaHpVSlFPX19maWIzVGZMeG8tZUFJbzNFUDQtR0p2bzYyazlWeHhNN3ZmeWhuaS1WZS1LZ0N2MnRJNG8xc3JEY0dYeXpaOWF2TFJkUFJ2MHRLS2haeG1UQ2stbURacHJPcU9YUzdVVDd3Y1laaFBVbVVuTGV4MTJvWmlacmIyM2NDeVIyMGk0eERaTmlFdFBxTXFFdHNBUDN6Z0FpQ1lwMGdxV1RsT3RCbG4zM29uMHV2d0pGZ3A3eldyRTR3S1QzaVJmRFRYOTlEUE1LS1dBQWoxc3pfbnBwTUZzUkxYcVNsVDhMdm9qV2twTS1HYm45Q01YdGplaWdKQVdNZHVLMGM2UQ?oc=5"
+   },
+   {
+    "title": "Oyo eyes IPO again; EV makers expand dealerships",
+    "publisher": "The Economic Times",
+    "date": "2026-11-23",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOLURWOUJKTXJpcS12dkYyUWRRb0I0UFhwZUZjUXFGaU5OVWVfSlR0cHNrWEczUEh2djlvdzBiZ1NIdWlOV1VoRDI1ZjJjeWpCRkZBY0dKRThyd0V4akhRdTloM2tNdVBmTlhodHJrZTEyRGFiNzVKSEVmUEVKMGkwQ1B5SGlNSXpORzlMQWl1cmpkX21LY3dXRHR3LUtDR3VtNGRYcjNaNWVBTGVoZk9tN3J3TjA1ckptWlZicU1oVzZneXIwVkllaFdUUW9aTWtO0gHWAUFVX3lxTFBhTzUzR2NKRVNBR1V0aHVycG9Hdm03QW55b1BoQXVIVWdGMlNZLWlYN2F3MVFsX3lpb0wzcmhoQ0FpZ0FOa1VYa1pKOUJtYy04c1Jyeks1WnZXaWpKbXp1dTdyZy1hQnVtWDZuLWdJWEhoVkIyVnU3b2FKZFlJYVVhSVdKMjlDUTRHYVlwSEllLW5KbW9Lb0JQOXBVSEVfM1QtUzJtcFpxMlMxUGlFNlZsekZzaXNKYi1XNnRhM1gxODZza01sSTRfWnd5UjhIelZiWGlVdEE?oc=5"
+   },
+   {
+    "title": "Oyo plans January-March IPO seeking ₹20,000 to ₹22,000 cr valuation",
+    "publisher": "NewsBytes",
+    "date": "2026-11-23",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNzRyamh4d1lvQTRNRW5qOWI5U3J4REw1MVJVYW1aQzYxYzhLNWpteTV6THp1aWd6YkJHNUpna01wb1dycy1FUEhLM1ZrbmN5STM3WU15cWJ2bzMxZEhvMUhfUVo1MmY5aVFDX2tYQVg5bUF0SUswU2JhbkNEdzlvUDFDRE9TMFJ3V1lFc3BacHVpemlVMEtjbjBMQ3Y2bE9Uamw3czZ3bUo0MWt1NEF0QjF4M213QQ?oc=5"
+   },
+   {
+    "title": "OYO eyes IPO again, targets listing early next year",
+    "publisher": "NewsBytes",
+    "date": "2026-11-23",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZmdYX25ic3pFR3o2dU9HMFN0d0FONy1TNXRGX0NtX1hQVF81RHUyaDhMRm5SQXI4VWJTaWoxYkwxREVlYThwMDhDRWkwSTVTakZKeHM1cEV6a2R4YjM0N0VxREktaG5mTE9qZnBTMVhpMjdvd1Y3YXlyLThlX2xXSHhCMFVjTkE4OWUzZDF2NEFMQkdjODAzXw?oc=5"
+   },
+   {
+    "title": "Oyo Revives IPO Plans, Eyes Rs 3,350 Crore Public Issue",
+    "publisher": "BW Businessworld",
+    "date": "2026-11-22",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOXA4WlZINjNjT3RuWTBMNGprRjBqUmk5NEdfTWp0UzZlTXY1U3FTc0lVUzlpSGdBR1hoUkpSNWwwX2xzdzdFYWlueHZFYWxZcHoxaVgzSXdENDBlNXN5aXhkXzJNZFI3ZmduQXIyT0NxWEVhZnNMcjIxVjNyXzM2Tjk4amN4N3kxS1dXMTVGWHVvNjFNYnJDaU8xRmpVTWs?oc=5"
+   },
+   {
+    "title": "Six Companies Line up for December IPOs as India's Primary Market Eyes ₹10,000-12,000 Crore Fundraising",
+    "publisher": "Kotak Neo",
+    "date": "2026-11-19",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVTUzMVhWVFhfUHNYZ0pkTjFSS0pqQlNaVHBZNG12YzJHVG1kTWhkYnhlZ3VnZVVLVGxfTWtnMTBnUnJ0YzhiSU5jZkNyMmdzeV9KdEJVbU9zY3pGeGREWDgydjVyd3NYSzBSTlNOamdBM3R1WTJYNGFQa2NjZWg5eldEcWVUY21yb0NMMmdNNDdGV1BQcGVIdHgyTFNSQQ?oc=5"
+   }
+  ],
+  "source": {
+   "name": "Google News RSS search",
+   "url": "https://news.google.com/rss/search?q=OYO+IPO&hl=en-IN&gl=IN&ceid=IN:en",
+   "sha256": "26d50ffc810cfcf9b46260a648a6d097dede1e9ab82032c60da3e15ab2817bb1",
+   "run": "20261123T164603Z"
+  }
+ },
+ "peer_reviewed": true,
+ "discovery": [
+  {
+   "id": "ncdex",
+   "short": "NCDEX",
+   "name": "National Commodity & Derivatives Exchange Ltd",
+   "reasons": [
+    "provider reports DRHP filed (IPO research lead)",
+    "in the news 2026-11-11"
+   ],
+   "score": 3,
+   "price_inr": 253.0,
+   "latest_period": "FY2026"
+  },
+  {
+   "id": "pharmeasy",
+   "short": "PharmEasy",
+   "name": "API Holdings Ltd (PharmEasy)",
+   "reasons": [
+    "provider reports DRHP filed (IPO research lead)",
+    "in the news 2026-10-28"
+   ],
+   "score": 3,
+   "price_inr": 6.15,
+   "latest_period": "FY2026"
+  },
+  {
+   "id": "axlesindia",
+   "short": "Axles India",
+   "name": "Axles India Ltd",
+   "reasons": [
+    "in the news 2026-11-20"
+   ],
+   "score": 1,
+   "price_inr": 525.0,
+   "latest_period": "FY2026"
+  },
+  {
+   "id": "cial",
+   "short": "CIAL",
+   "name": "Cochin International Airport Ltd",
+   "reasons": [
+    "in the news 2026-11-21"
+   ],
+   "score": 1,
+   "price_inr": 440.0,
+   "latest_period": "FY2026"
+  },
+  {
+   "id": "csk",
+   "short": "CSK",
+   "name": "Chennai Super Kings Cricket Ltd",
+   "reasons": [
+    "in the news 2026-11-20"
+   ],
+   "score": 1,
+   "price_inr": 245.0,
+   "latest_period": "FY2026"
+  },
+  {
+   "id": "capgemini",
+   "short": "Capgemini India",
+   "name": "Capgemini Technology Services India Ltd",
+   "reasons": [
+    "in the news 2026-10-08"
+   ],
+   "score": 1,
+   "price_inr": 8900.0,
+   "latest_period": "FY2026"
+  }
+ ],
+ "fallbacks": []
+}

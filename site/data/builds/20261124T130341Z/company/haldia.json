@@ -1,0 +1,2147 @@
+{
+ "id": "haldia",
+ "name": "Haldia Petrochemicals Ltd",
+ "short": "Haldia Petro",
+ "hierarchy": [
+  "Commodities",
+  "Chemicals",
+  "Chemicals & Petrochemicals",
+  "Polymers & Olefins"
+ ],
+ "model": "manufacturer",
+ "listed_peers": [
+  "RELIANCE",
+  "SPLPETRO"
+ ],
+ "status_note": null,
+ "market_status": null,
+ "quote": {
+  "price_inr": "0.10",
+  "state": "reported",
+  "change_raw": "+ 0.00 %",
+  "kind": "unlisted dealer quote (indicative, not an exchange trade)",
+  "as_of": "2026-11-23T16:45:18+00:00",
+  "high_52w": "52 Week Low",
+  "low_52w": "Lifetime High",
+  "ev": "ev1"
+ },
+ "profile": {
+  "provider_sector": "Energy, Oil & Gas",
+  "isin": "INE105U01017",
+  "cin": "U24100WB2015PLC205383",
+  "registration_date": "16/09/1985",
+  "face_value": "10",
+  "lot_size": null,
+  "drhp_filed": "No",
+  "depository": "nsdl",
+  "rofr": "No",
+  "description": null,
+  "share_details_as_of": "March 31, 2025",
+  "ev": "ev2"
+ },
+ "periods": [
+  "FY2024",
+  "FY2025"
+ ],
+ "basis": "consolidated",
+ "raw_units": [
+  "INR million"
+ ],
+ "layout": "detailed statements",
+ "fields": {
+  "total_income": {
+   "label": "Total income",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "revenue_ops": {
+   "label": "Revenue from operations",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2024": {
+     "value": "14391.9",
+     "state": "reported",
+     "ev": "ev3"
+    },
+    "FY2025": {
+     "value": "14289.8",
+     "state": "reported",
+     "ev": "ev4"
+    }
+   }
+  },
+  "other_income": {
+   "label": "Other income",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2024": {
+     "value": "504.1",
+     "state": "reported",
+     "ev": "ev5"
+    },
+    "FY2025": {
+     "value": "358.2",
+     "state": "reported",
+     "ev": "ev6"
+    }
+   }
+  },
+  "other_gains": {
+   "label": "Other gains / losses",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "job_work_revenue": {
+   "label": "Revenue from job work",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "total_expenses": {
+   "label": "Total expenses",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2024": {
+     "value": "16333.7",
+     "state": "reported",
+     "ev": "ev7"
+    },
+    "FY2025": {
+     "value": "16166.4",
+     "state": "reported",
+     "ev": "ev8"
+    }
+   }
+  },
+  "finance_cost": {
+   "label": "Finance cost",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2024": {
+     "value": "748.5",
+     "state": "reported",
+     "ev": "ev9"
+    },
+    "FY2025": {
+     "value": "773.3",
+     "state": "reported",
+     "ev": "ev10"
+    }
+   }
+  },
+  "depreciation": {
+   "label": "Depreciation",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2024": {
+     "value": "1516.4",
+     "state": "reported",
+     "ev": "ev11"
+    },
+    "FY2025": {
+     "value": "1497.9",
+     "state": "reported",
+     "ev": "ev12"
+    }
+   }
+  },
+  "pbt": {
+   "label": "Profit before tax",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2024": {
+     "value": "-1570.9",
+     "state": "reported",
+     "ev": "ev13"
+    },
+    "FY2025": {
+     "value": "319.3",
+     "state": "reported",
+     "ev": "ev14"
+    }
+   }
+  },
+  "tax": {
+   "label": "Tax",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "pat": {
+   "label": "Profit after tax",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2024": {
+     "value": "-1028.4",
+     "state": "reported",
+     "ev": "ev15"
+    },
+    "FY2025": {
+     "value": "843.5",
+     "state": "reported",
+     "ev": "ev16"
+    }
+   }
+  },
+  "total_assets": {
+   "label": "Total assets",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "total_equity": {
+   "label": "Total equity",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "total_liabilities": {
+   "label": "Total liabilities",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "current_assets": {
+   "label": "Current assets",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "current_liabilities": {
+   "label": "Current liabilities",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "inventories": {
+   "label": "Inventories",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "cash": {
+   "label": "Cash & equivalents",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "loans": {
+   "label": "Loans",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "cfo": {
+   "label": "Cash from operations",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2024": {
+     "value": "446",
+     "state": "reported",
+     "ev": "ev17"
+    },
+    "FY2025": {
+     "value": "-224.1",
+     "state": "reported",
+     "ev": "ev18"
+    }
+   }
+  },
+  "cfi": {
+   "label": "Cash from investing",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2024": {
+     "value": "783.5",
+     "state": "reported",
+     "ev": "ev19"
+    },
+    "FY2025": {
+     "value": "-185.2",
+     "state": "reported",
+     "ev": "ev20"
+    }
+   }
+  },
+  "cff": {
+   "label": "Cash from financing",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2024": {
+     "value": "-634.8",
+     "state": "reported",
+     "ev": "ev21"
+    },
+    "FY2025": {
+     "value": "666.1",
+     "state": "reported",
+     "ev": "ev22"
+    }
+   }
+  },
+  "ebitda": {
+   "label": "EBITDA",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "eps": {
+   "label": "EPS (provider)",
+   "unit": "INR",
+   "by_period": {
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "shares_outstanding": {
+   "label": "Shares outstanding",
+   "unit": "shares",
+   "by_period": {
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  }
+ },
+ "cash_flow": {
+  "unit": "INR crore",
+  "by_period": {
+   "FY2024": {
+    "basis": "consolidated",
+    "origin": "provider",
+    "lines": {
+     "opening": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "cfo": {
+      "value": "446",
+      "state": "reported",
+      "ev": "ev17"
+     },
+     "cfi": {
+      "value": "783.5",
+      "state": "reported",
+      "ev": "ev19"
+     },
+     "cff": {
+      "value": "-634.8",
+      "state": "reported",
+      "ev": "ev21"
+     },
+     "other_effects": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "net_change": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "closing": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "before_working_capital": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "receivables": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "other_assets": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "payables_and_liabilities": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "tax_paid": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "capex": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "net_investment_purchases": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "debt_principal": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "lease_principal": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "lease_interest": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "overdraft_interest": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "share_proceeds": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "dividends": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "current_accounts": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "settlement_accounts": {
+      "state": "not_in_source",
+      "value": null
+     }
+    },
+    "reconciliation": {
+     "state": "partial"
+    },
+    "provider_comparison": null
+   },
+   "FY2025": {
+    "basis": "consolidated",
+    "origin": "provider",
+    "lines": {
+     "opening": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "cfo": {
+      "value": "-224.1",
+      "state": "reported",
+      "ev": "ev18"
+     },
+     "cfi": {
+      "value": "-185.2",
+      "state": "reported",
+      "ev": "ev20"
+     },
+     "cff": {
+      "value": "666.1",
+      "state": "reported",
+      "ev": "ev22"
+     },
+     "other_effects": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "net_change": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "closing": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "before_working_capital": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "receivables": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "other_assets": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "payables_and_liabilities": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "tax_paid": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "capex": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "net_investment_purchases": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "debt_principal": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "lease_principal": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "lease_interest": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "overdraft_interest": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "share_proceeds": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "dividends": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "current_accounts": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "settlement_accounts": {
+      "state": "not_in_source",
+      "value": null
+     }
+    },
+    "reconciliation": {
+     "state": "partial"
+    },
+    "provider_comparison": null
+   }
+  }
+ },
+ "documents": [],
+ "reconciliation": null,
+ "agent": {
+  "inventories": {
+   "company": "haldia",
+   "field": "inventories",
+   "status": "not_found_no_documents",
+   "summary": "No issuer documents retained for Haldia Petro; the provider does not report inventories. Expectation: expected.",
+   "how_to_verify": "Not verifiable from retained evidence.",
+   "expectation": {
+    "level": "expected",
+    "reason": "Manufacturers carry raw material, work-in-progress and finished goods."
+   },
+   "evidence": [],
+   "evidence_total": 0,
+   "next_checks": [
+    "Audited annual report: balance sheet 'Inventories' line and note on valuation",
+    "MCA AOC-4 financial statement filing (paid access)",
+    "DRHP 'Restated financial information' if the company files for an IPO"
+   ],
+   "trace": [
+    {
+     "step": 1,
+     "tool": "provider_lookup",
+     "input": {
+      "company": "haldia",
+      "field": "inventories"
+     },
+     "output": {
+      "found": false,
+      "periods": [],
+      "detail": "no matching line in the provider's parsed statements"
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 2,
+     "tool": "applicability_rule",
+     "input": {
+      "field": "inventories",
+      "business_model": "manufacturer"
+     },
+     "output": {
+      "expectation": "expected",
+      "reason": "Manufacturers carry raw material, work-in-progress and finished goods."
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 3,
+     "tool": "statement_line_check",
+     "input": {
+      "document": null
+     },
+     "output": {
+      "skipped": true,
+      "why": "no retained issuer balance sheet for this company"
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 4,
+     "tool": "document_search",
+     "input": {
+      "documents": [],
+      "patterns": [
+       "\\binventor(?:y|ies)\\b"
+      ]
+     },
+     "output": {
+      "documents_searched": [],
+      "pages_with_word_matches": 0,
+      "pages_with_naive_substring": 0,
+      "note": "naive substring 'inventor' also matches unrelated words (e.g. 'COMPANY' contains 'NPA'); word-boundary patterns used"
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 5,
+     "tool": "classify_passages",
+     "input": {
+      "passages": 0
+     },
+     "output": {
+      "by_kind": {}
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 6,
+     "tool": "verdict",
+     "input": {
+      "signals": {
+       "provider": false,
+       "numeric": 0,
+       "explicit_na": 0,
+       "line_check": null,
+       "expectation": "expected"
+      }
+     },
+     "output": {
+      "status": "not_found_no_documents",
+      "summary": "No issuer documents retained for Haldia Petro; the provider does not report inventories. Expectation: expected.",
+      "how_to_verify": "Not verifiable from retained evidence."
+     },
+     "ms": 0.0
+    }
+   ],
+   "executed": "deterministic tool sequence (no language model call)"
+  },
+  "npa": {
+   "company": "haldia",
+   "field": "npa",
+   "status": "inapplicable",
+   "summary": "Not applicable by business model: NPA is a lender asset-quality measure; this business has no loan book to classify.",
+   "how_to_verify": "No mentions to review; the business-model rule decides.",
+   "expectation": {
+    "level": "not_applicable",
+    "reason": "NPA is a lender asset-quality measure; this business has no loan book to classify."
+   },
+   "evidence": [],
+   "evidence_total": 0,
+   "next_checks": [
+    "Annual report notes: 'Stage 3 assets', 'Gross NPA', 'Net NPA' (RBI disclosure for NBFCs)"
+   ],
+   "trace": [
+    {
+     "step": 1,
+     "tool": "provider_lookup",
+     "input": {
+      "company": "haldia",
+      "field": "gross_npa"
+     },
+     "output": {
+      "found": false,
+      "periods": [],
+      "detail": "no matching line in the provider's parsed statements"
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 2,
+     "tool": "applicability_rule",
+     "input": {
+      "field": "npa",
+      "business_model": "manufacturer"
+     },
+     "output": {
+      "expectation": "not_applicable",
+      "reason": "NPA is a lender asset-quality measure; this business has no loan book to classify."
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 3,
+     "tool": "statement_line_check",
+     "input": {
+      "document": null
+     },
+     "output": {
+      "skipped": true,
+      "why": "no retained issuer balance sheet for this company"
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 4,
+     "tool": "document_search",
+     "input": {
+      "documents": [],
+      "patterns": [
+       "\\bG?N?NPAs?\\b",
+       "\\bnon[- ]performing (?:assets?|loans?)\\b",
+       "\\bstage\\s*(?:3|III)\\s+(?:assets|loans)\\b"
+      ]
+     },
+     "output": {
+      "documents_searched": [],
+      "pages_with_word_matches": 0,
+      "pages_with_naive_substring": 0,
+      "note": "naive substring 'npa' also matches unrelated words (e.g. 'COMPANY' contains 'NPA'); word-boundary patterns used"
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 5,
+     "tool": "classify_passages",
+     "input": {
+      "passages": 0
+     },
+     "output": {
+      "by_kind": {}
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 6,
+     "tool": "verdict",
+     "input": {
+      "signals": {
+       "provider": false,
+       "numeric": 0,
+       "explicit_na": 0,
+       "line_check": null,
+       "expectation": "not_applicable"
+      }
+     },
+     "output": {
+      "status": "inapplicable",
+      "summary": "Not applicable by business model: NPA is a lender asset-quality measure; this business has no loan book to classify.",
+      "how_to_verify": "No mentions to review; the business-model rule decides."
+     },
+     "ms": 0.0
+    }
+   ],
+   "executed": "deterministic tool sequence (no language model call)"
+  }
+ },
+ "metrics": {
+  "FY2024": {
+   "revenue_growth": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "(current / previous) - 1",
+    "inputs": {
+     "current": "14391.9",
+     "previous": null
+    },
+    "unit": "%",
+    "ev": [
+     "ev3"
+    ]
+   },
+   "pat_margin": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "PAT / total income x 100",
+    "inputs": {
+     "pat": "-1028.4",
+     "total_income": null
+    },
+    "unit": "%",
+    "ev": [
+     "ev15"
+    ]
+   },
+   "net_profit_ratio": {
+    "value": "-7.1457",
+    "state": "ok",
+    "formula": "PAT / revenue from operations x 100",
+    "inputs": {
+     "pat": "-1028.4",
+     "revenue_ops": "14391.9"
+    },
+    "unit": "%",
+    "ev": [
+     "ev15",
+     "ev3"
+    ]
+   },
+   "other_income_share": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "other income / total income x 100",
+    "inputs": {
+     "other_income": "504.1",
+     "total_income": null
+    },
+    "unit": "%",
+    "ev": [
+     "ev5"
+    ]
+   },
+   "current_ratio": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "current assets / current liabilities",
+    "inputs": {
+     "current_assets": null,
+     "current_liabilities": null
+    },
+    "unit": "x",
+    "ev": []
+   },
+   "quick_ratio": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "(current assets - inventories) / current liabilities",
+    "inputs": {
+     "current_assets": null,
+     "inventories": null,
+     "current_liabilities": null
+    },
+    "note": "inventories not disclosed in the available source; quick ratio withheld",
+    "unit": "x",
+    "ev": []
+   },
+   "roe": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "PAT / average of opening and closing equity x 100",
+    "inputs": {
+     "pat": "-1028.4",
+     "average_equity": null
+    },
+    "unit": "%",
+    "ev": [
+     "ev15"
+    ]
+   },
+   "roce": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "(PBT + finance cost) / (total assets - current liabilities) x 100",
+    "inputs": {
+     "ebit": "-822.4",
+     "capital_employed": null
+    },
+    "unit": "%",
+    "ev": [
+     "ev13",
+     "ev9"
+    ]
+   },
+   "cfo_to_pat": {
+    "value": "-0.4337",
+    "state": "ok",
+    "formula": "cash from operations / PAT",
+    "inputs": {
+     "cfo": "446",
+     "pat": "-1028.4"
+    },
+    "unit": "x",
+    "ev": [
+     "ev17",
+     "ev15"
+    ]
+   }
+  },
+  "FY2025": {
+   "revenue_growth": {
+    "value": "-0.7094",
+    "state": "ok",
+    "formula": "(current / previous) - 1",
+    "inputs": {
+     "current": "14289.8",
+     "previous": "14391.9"
+    },
+    "unit": "%",
+    "ev": [
+     "ev4",
+     "ev3"
+    ]
+   },
+   "pat_margin": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "PAT / total income x 100",
+    "inputs": {
+     "pat": "843.5",
+     "total_income": null
+    },
+    "unit": "%",
+    "ev": [
+     "ev16"
+    ]
+   },
+   "net_profit_ratio": {
+    "value": "5.9028",
+    "state": "ok",
+    "formula": "PAT / revenue from operations x 100",
+    "inputs": {
+     "pat": "843.5",
+     "revenue_ops": "14289.8"
+    },
+    "unit": "%",
+    "ev": [
+     "ev16",
+     "ev4"
+    ]
+   },
+   "other_income_share": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "other income / total income x 100",
+    "inputs": {
+     "other_income": "358.2",
+     "total_income": null
+    },
+    "unit": "%",
+    "ev": [
+     "ev6"
+    ]
+   },
+   "current_ratio": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "current assets / current liabilities",
+    "inputs": {
+     "current_assets": null,
+     "current_liabilities": null
+    },
+    "unit": "x",
+    "ev": []
+   },
+   "quick_ratio": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "(current assets - inventories) / current liabilities",
+    "inputs": {
+     "current_assets": null,
+     "inventories": null,
+     "current_liabilities": null
+    },
+    "note": "inventories not disclosed in the available source; quick ratio withheld",
+    "unit": "x",
+    "ev": []
+   },
+   "roe": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "PAT / average of opening and closing equity x 100",
+    "inputs": {
+     "pat": "843.5",
+     "average_equity": null
+    },
+    "unit": "%",
+    "ev": [
+     "ev16"
+    ]
+   },
+   "roce": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "(PBT + finance cost) / (total assets - current liabilities) x 100",
+    "inputs": {
+     "ebit": "1092.6",
+     "capital_employed": null
+    },
+    "unit": "%",
+    "ev": [
+     "ev14",
+     "ev10"
+    ]
+   },
+   "cfo_to_pat": {
+    "value": "-0.2657",
+    "state": "ok",
+    "formula": "cash from operations / PAT",
+    "inputs": {
+     "cfo": "-224.1",
+     "pat": "843.5"
+    },
+    "unit": "x",
+    "ev": [
+     "ev18",
+     "ev16"
+    ]
+   }
+  }
+ },
+ "valuation": {
+  "period": "FY2025",
+  "shares_used": "1687938532",
+  "shares_source": "shares_fundamentals",
+  "market_cap": {
+   "value": null,
+   "state": "suspect_quote",
+   "formula": "price (INR) x shares outstanding / 1e7",
+   "inputs": {
+    "price_inr": "0.10",
+    "shares": "1687938532"
+   },
+   "unit": "INR crore",
+   "note": "provider quote failed the sanity check"
+  },
+  "eps": {
+   "value": "4.9972",
+   "state": "ok",
+   "formula": "PAT (INR crore) x 1e7 / shares outstanding",
+   "inputs": {
+    "pat_cr": "843.5",
+    "shares": "1687938532"
+   },
+   "unit": "INR"
+  },
+  "pe": {
+   "value": null,
+   "state": "suspect_quote",
+   "formula": "price / EPS",
+   "inputs": {
+    "price_inr": "0.10",
+    "eps": "4.9972"
+   },
+   "unit": "x",
+   "note": "provider quote failed the sanity check"
+  },
+  "pb": {
+   "value": null,
+   "state": "suspect_quote",
+   "formula": "market cap / total equity",
+   "inputs": {
+    "market_cap": "16.87938532",
+    "total_equity": null
+   },
+   "unit": "x",
+   "note": "provider quote failed the sanity check"
+  },
+  "ps": {
+   "value": null,
+   "state": "suspect_quote",
+   "formula": "market cap / total income",
+   "inputs": {
+    "market_cap": "16.87938532",
+    "total_income": null
+   },
+   "unit": "x",
+   "note": "provider quote failed the sanity check"
+  },
+  "provider": {
+   "pe": "0.02",
+   "mcap": "16.88 Crore",
+   "eps": "5"
+  },
+  "note": "Valued at an indicative unlisted dealer quote against the latest fiscal-year PAT; not a traded market price."
+ },
+ "coverage_gaps": [
+  {
+   "field": "inventories",
+   "state": "not_in_source",
+   "label": "Inventories"
+  },
+  {
+   "field": "cash",
+   "state": "not_in_source",
+   "label": "Cash & equivalents"
+  },
+  {
+   "field": "eps",
+   "state": "not_in_source",
+   "label": "EPS (provider)"
+  },
+  {
+   "field": "shares_outstanding",
+   "state": "not_in_source",
+   "label": "Shares outstanding"
+  },
+  {
+   "field": "current_assets",
+   "state": "not_in_source",
+   "label": "Current assets"
+  }
+ ],
+ "checks": [
+  {
+   "check": "quote_sanity",
+   "result": "conflict",
+   "detail": "quote INR 0.10 gives P/E 0.0200; treated as unreliable, valuation withheld"
+  }
+ ],
+ "provider_ratios": {
+  "Property, plant and equipment": {
+   "FY2025": {
+    "raw_text": "69,711",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "75,688",
+    "state": "reported"
+   }
+  },
+  "Capital Work-in-Progress": {
+   "FY2025": {
+    "raw_text": "13,322",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "4,681",
+    "state": "reported"
+   }
+  },
+  "Right of use assets": {
+   "FY2025": {
+    "raw_text": "35,389",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "35,850",
+    "state": "reported"
+   }
+  },
+  "Goodwill": {
+   "FY2025": {
+    "raw_text": "5,980",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "5,980",
+    "state": "reported"
+   }
+  },
+  "Other Intangible Assets": {
+   "FY2025": {
+    "raw_text": "66",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "6,160",
+    "state": "reported"
+   }
+  },
+  "Intangible assets under development": {
+   "FY2025": {
+    "raw_text": "8",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "8",
+    "state": "reported"
+   }
+  },
+  "Investments accounted for using Equity Method": {
+   "FY2025": {
+    "raw_text": "4,550",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "49,176",
+    "state": "reported"
+   }
+  },
+  "Investments": {
+   "FY2025": {
+    "raw_text": "3,039",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "6,671",
+    "state": "reported"
+   }
+  },
+  "Loans": {
+   "FY2025": {
+    "raw_text": "705",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "4,751",
+    "state": "reported"
+   }
+  },
+  "Other Financial Assets": {
+   "FY2025": {
+    "raw_text": "26,193",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "5,321",
+    "state": "reported"
+   }
+  },
+  "Income tax assets (net)": {
+   "FY2025": {
+    "raw_text": "232",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "553",
+    "state": "reported"
+   }
+  },
+  "Deferred tax assets (net)": {
+   "FY2025": {
+    "raw_text": "31",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "-",
+    "state": "dash"
+   }
+  },
+  "Other Non-Current assets": {
+   "FY2025": {
+    "raw_text": "24,829",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "18,209",
+    "state": "reported"
+   }
+  },
+  "Inventories": {
+   "FY2025": {
+    "raw_text": "17,668",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "16,014",
+    "state": "reported"
+   }
+  },
+  "Trade Receivables": {
+   "FY2025": {
+    "raw_text": "6,741",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "5,137",
+    "state": "reported"
+   }
+  },
+  "Cash and cash equivalents": {
+   "FY2025": {
+    "raw_text": "7,787",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "5,679",
+    "state": "reported"
+   }
+  },
+  "Bank balances other than Cash and cash equivalents": {
+   "FY2025": {
+    "raw_text": "15,662",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "17,972",
+    "state": "reported"
+   }
+  },
+  "Other financial assets": {
+   "FY2025": {
+    "raw_text": "1,098",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "1,217",
+    "state": "reported"
+   }
+  },
+  "Other Current assets": {
+   "FY2025": {
+    "raw_text": "5,285",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "5,185",
+    "state": "reported"
+   }
+  },
+  "Total Assets": {
+   "FY2025": {
+    "raw_text": "2,50,203",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "2,71,895",
+    "state": "reported"
+   }
+  },
+  "Equity Share capital": {
+   "FY2025": {
+    "raw_text": "16,879",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "16,879",
+    "state": "reported"
+   }
+  },
+  "Other Equity": {
+   "FY2025": {
+    "raw_text": "1,49,962",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "1,42,971",
+    "state": "reported"
+   }
+  },
+  "Borrowings": {
+   "FY2025": {
+    "raw_text": "31,633",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "21,295",
+    "state": "reported"
+   }
+  },
+  "Lease Liabilities": {
+   "FY2025": {
+    "raw_text": "106",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "93",
+    "state": "reported"
+   }
+  },
+  "Other financial liabilities": {
+   "FY2025": {
+    "raw_text": "17",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "17",
+    "state": "reported"
+   }
+  },
+  "Provision": {
+   "FY2025": {
+    "raw_text": "273",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "249",
+    "state": "reported"
+   }
+  },
+  "Deferred tax liabilities (net)": {
+   "FY2025": {
+    "raw_text": "3,823",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "9,782",
+    "state": "reported"
+   }
+  },
+  "Total outstanding dues of micro and small enterprises": {
+   "FY2025": {
+    "raw_text": "161",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "99",
+    "state": "reported"
+   }
+  },
+  "Total outstanding dues of creditors other than micro and small enterprises": {
+   "FY2025": {
+    "raw_text": "10,162",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "12,833",
+    "state": "reported"
+   }
+  },
+  "Other Financial Liabilities": {
+   "FY2025": {
+    "raw_text": "5,443",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "4,506",
+    "state": "reported"
+   }
+  },
+  "Provisions": {
+   "FY2025": {
+    "raw_text": "37",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "34",
+    "state": "reported"
+   }
+  },
+  "Current tax liabilities (net)": {
+   "FY2025": {
+    "raw_text": "210",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "192",
+    "state": "reported"
+   }
+  },
+  "Other current liabilities": {
+   "FY2025": {
+    "raw_text": "511",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "588",
+    "state": "reported"
+   }
+  },
+  "Total Equity and Liabilities": {
+   "FY2025": {
+    "raw_text": "2,50,203",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "2,71,895",
+    "state": "reported"
+   }
+  }
+ },
+ "evidence": {
+  "ev1": {
+   "source": "WWIPL company overview",
+   "url": "https://wwipl.com/unlisted-shares/haldia-petrochemicals-share-price",
+   "retrieved_at": "2026-11-23T16:45:18+00:00",
+   "sha256": "6e32d4a3df08c0c9a5e59b05b167b3046150694690b75e8c2197485197fa2cca",
+   "capture_run": "20261123T164433Z",
+   "file": "haldia-overview.html",
+   "raw_label": "Last Traded Price",
+   "raw_text": "0.10"
+  },
+  "ev2": {
+   "source": "WWIPL company overview",
+   "url": "https://wwipl.com/unlisted-shares/haldia-petrochemicals-share-price",
+   "retrieved_at": "2026-11-23T16:45:18+00:00",
+   "sha256": "6e32d4a3df08c0c9a5e59b05b167b3046150694690b75e8c2197485197fa2cca",
+   "capture_run": "20261123T164433Z",
+   "file": "haldia-overview.html",
+   "raw_label": "Company fundamentals block"
+  },
+  "ev3": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/haldia-petrochemicals-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:19+00:00",
+   "sha256": "a99389e98c51d29dc5e3beacb5659b68d775e85e5c33a6281a162e1d0a54c610",
+   "capture_run": "20261123T164433Z",
+   "file": "haldia-financial.html",
+   "raw_label": "Revenue from Operation",
+   "raw_text": "1,43,919",
+   "raw_unit": "INR million",
+   "period": "FY2024",
+   "period_label": "31-03-2024",
+   "basis": "consolidated",
+   "anchor": {
+    "file": "haldia-financial.html",
+    "table_index": 2,
+    "row_index": 2,
+    "heading": "Haldia Petrochemicals Limited Consolidated Profit and Loss Account (Rs. in Million)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev4": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/haldia-petrochemicals-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:19+00:00",
+   "sha256": "a99389e98c51d29dc5e3beacb5659b68d775e85e5c33a6281a162e1d0a54c610",
+   "capture_run": "20261123T164433Z",
+   "file": "haldia-financial.html",
+   "raw_label": "Revenue from Operation",
+   "raw_text": "1,42,898",
+   "raw_unit": "INR million",
+   "period": "FY2025",
+   "period_label": "31-03-2025",
+   "basis": "consolidated",
+   "anchor": {
+    "file": "haldia-financial.html",
+    "table_index": 2,
+    "row_index": 2,
+    "heading": "Haldia Petrochemicals Limited Consolidated Profit and Loss Account (Rs. in Million)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev5": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/haldia-petrochemicals-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:19+00:00",
+   "sha256": "a99389e98c51d29dc5e3beacb5659b68d775e85e5c33a6281a162e1d0a54c610",
+   "capture_run": "20261123T164433Z",
+   "file": "haldia-financial.html",
+   "raw_label": "Other Income",
+   "raw_text": "5,041",
+   "raw_unit": "INR million",
+   "period": "FY2024",
+   "period_label": "31-03-2024",
+   "basis": "consolidated",
+   "anchor": {
+    "file": "haldia-financial.html",
+    "table_index": 2,
+    "row_index": 3,
+    "heading": "Haldia Petrochemicals Limited Consolidated Profit and Loss Account (Rs. in Million)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev6": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/haldia-petrochemicals-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:19+00:00",
+   "sha256": "a99389e98c51d29dc5e3beacb5659b68d775e85e5c33a6281a162e1d0a54c610",
+   "capture_run": "20261123T164433Z",
+   "file": "haldia-financial.html",
+   "raw_label": "Other Income",
+   "raw_text": "3,582",
+   "raw_unit": "INR million",
+   "period": "FY2025",
+   "period_label": "31-03-2025",
+   "basis": "consolidated",
+   "anchor": {
+    "file": "haldia-financial.html",
+    "table_index": 2,
+    "row_index": 3,
+    "heading": "Haldia Petrochemicals Limited Consolidated Profit and Loss Account (Rs. in Million)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev7": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/haldia-petrochemicals-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:19+00:00",
+   "sha256": "a99389e98c51d29dc5e3beacb5659b68d775e85e5c33a6281a162e1d0a54c610",
+   "capture_run": "20261123T164433Z",
+   "file": "haldia-financial.html",
+   "raw_label": "Total Expenses",
+   "raw_text": "1,63,337",
+   "raw_unit": "INR million",
+   "period": "FY2024",
+   "period_label": "31-03-2024",
+   "basis": "consolidated",
+   "anchor": {
+    "file": "haldia-financial.html",
+    "table_index": 2,
+    "row_index": 13,
+    "heading": "Haldia Petrochemicals Limited Consolidated Profit and Loss Account (Rs. in Million)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev8": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/haldia-petrochemicals-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:19+00:00",
+   "sha256": "a99389e98c51d29dc5e3beacb5659b68d775e85e5c33a6281a162e1d0a54c610",
+   "capture_run": "20261123T164433Z",
+   "file": "haldia-financial.html",
+   "raw_label": "Total Expenses",
+   "raw_text": "1,61,664",
+   "raw_unit": "INR million",
+   "period": "FY2025",
+   "period_label": "31-03-2025",
+   "basis": "consolidated",
+   "anchor": {
+    "file": "haldia-financial.html",
+    "table_index": 2,
+    "row_index": 13,
+    "heading": "Haldia Petrochemicals Limited Consolidated Profit and Loss Account (Rs. in Million)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev9": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/haldia-petrochemicals-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:19+00:00",
+   "sha256": "a99389e98c51d29dc5e3beacb5659b68d775e85e5c33a6281a162e1d0a54c610",
+   "capture_run": "20261123T164433Z",
+   "file": "haldia-financial.html",
+   "raw_label": "Finance Costs",
+   "raw_text": "7,485",
+   "raw_unit": "INR million",
+   "period": "FY2024",
+   "period_label": "31-03-2024",
+   "basis": "consolidated",
+   "anchor": {
+    "file": "haldia-financial.html",
+    "table_index": 2,
+    "row_index": 10,
+    "heading": "Haldia Petrochemicals Limited Consolidated Profit and Loss Account (Rs. in Million)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev10": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/haldia-petrochemicals-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:19+00:00",
+   "sha256": "a99389e98c51d29dc5e3beacb5659b68d775e85e5c33a6281a162e1d0a54c610",
+   "capture_run": "20261123T164433Z",
+   "file": "haldia-financial.html",
+   "raw_label": "Finance Costs",
+   "raw_text": "7,733",
+   "raw_unit": "INR million",
+   "period": "FY2025",
+   "period_label": "31-03-2025",
+   "basis": "consolidated",
+   "anchor": {
+    "file": "haldia-financial.html",
+    "table_index": 2,
+    "row_index": 10,
+    "heading": "Haldia Petrochemicals Limited Consolidated Profit and Loss Account (Rs. in Million)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev11": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/haldia-petrochemicals-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:19+00:00",
+   "sha256": "a99389e98c51d29dc5e3beacb5659b68d775e85e5c33a6281a162e1d0a54c610",
+   "capture_run": "20261123T164433Z",
+   "file": "haldia-financial.html",
+   "raw_label": "Depreciation and Amortization Expenses",
+   "raw_text": "15,164",
+   "raw_unit": "INR million",
+   "period": "FY2024",
+   "period_label": "31-03-2024",
+   "basis": "consolidated",
+   "anchor": {
+    "file": "haldia-financial.html",
+    "table_index": 2,
+    "row_index": 11,
+    "heading": "Haldia Petrochemicals Limited Consolidated Profit and Loss Account (Rs. in Million)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev12": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/haldia-petrochemicals-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:19+00:00",
+   "sha256": "a99389e98c51d29dc5e3beacb5659b68d775e85e5c33a6281a162e1d0a54c610",
+   "capture_run": "20261123T164433Z",
+   "file": "haldia-financial.html",
+   "raw_label": "Depreciation and Amortization Expenses",
+   "raw_text": "14,979",
+   "raw_unit": "INR million",
+   "period": "FY2025",
+   "period_label": "31-03-2025",
+   "basis": "consolidated",
+   "anchor": {
+    "file": "haldia-financial.html",
+    "table_index": 2,
+    "row_index": 11,
+    "heading": "Haldia Petrochemicals Limited Consolidated Profit and Loss Account (Rs. in Million)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev13": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/haldia-petrochemicals-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:19+00:00",
+   "sha256": "a99389e98c51d29dc5e3beacb5659b68d775e85e5c33a6281a162e1d0a54c610",
+   "capture_run": "20261123T164433Z",
+   "file": "haldia-financial.html",
+   "raw_label": "Profit/(Loss) before tax",
+   "raw_text": "(15,709)",
+   "raw_unit": "INR million",
+   "period": "FY2024",
+   "period_label": "31-03-2024",
+   "basis": "consolidated",
+   "anchor": {
+    "file": "haldia-financial.html",
+    "table_index": 2,
+    "row_index": 18,
+    "heading": "Haldia Petrochemicals Limited Consolidated Profit and Loss Account (Rs. in Million)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev14": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/haldia-petrochemicals-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:19+00:00",
+   "sha256": "a99389e98c51d29dc5e3beacb5659b68d775e85e5c33a6281a162e1d0a54c610",
+   "capture_run": "20261123T164433Z",
+   "file": "haldia-financial.html",
+   "raw_label": "Profit/(Loss) before tax",
+   "raw_text": "3,193",
+   "raw_unit": "INR million",
+   "period": "FY2025",
+   "period_label": "31-03-2025",
+   "basis": "consolidated",
+   "anchor": {
+    "file": "haldia-financial.html",
+    "table_index": 2,
+    "row_index": 18,
+    "heading": "Haldia Petrochemicals Limited Consolidated Profit and Loss Account (Rs. in Million)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev15": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/haldia-petrochemicals-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:19+00:00",
+   "sha256": "a99389e98c51d29dc5e3beacb5659b68d775e85e5c33a6281a162e1d0a54c610",
+   "capture_run": "20261123T164433Z",
+   "file": "haldia-financial.html",
+   "raw_label": "Net Profit / (Loss) for the period",
+   "raw_text": "(10,284)",
+   "raw_unit": "INR million",
+   "period": "FY2024",
+   "period_label": "31-03-2024",
+   "basis": "consolidated",
+   "anchor": {
+    "file": "haldia-financial.html",
+    "table_index": 2,
+    "row_index": 22,
+    "heading": "Haldia Petrochemicals Limited Consolidated Profit and Loss Account (Rs. in Million)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev16": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/haldia-petrochemicals-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:19+00:00",
+   "sha256": "a99389e98c51d29dc5e3beacb5659b68d775e85e5c33a6281a162e1d0a54c610",
+   "capture_run": "20261123T164433Z",
+   "file": "haldia-financial.html",
+   "raw_label": "Net Profit / (Loss) for the period",
+   "raw_text": "8,435",
+   "raw_unit": "INR million",
+   "period": "FY2025",
+   "period_label": "31-03-2025",
+   "basis": "consolidated",
+   "anchor": {
+    "file": "haldia-financial.html",
+    "table_index": 2,
+    "row_index": 22,
+    "heading": "Haldia Petrochemicals Limited Consolidated Profit and Loss Account (Rs. in Million)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev17": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/haldia-petrochemicals-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:19+00:00",
+   "sha256": "a99389e98c51d29dc5e3beacb5659b68d775e85e5c33a6281a162e1d0a54c610",
+   "capture_run": "20261123T164433Z",
+   "file": "haldia-financial.html",
+   "raw_label": "Cash generated from Operating Activities",
+   "raw_text": "4,460",
+   "raw_unit": "INR million",
+   "period": "FY2024",
+   "period_label": "31-03-2024",
+   "basis": "consolidated",
+   "anchor": {
+    "file": "haldia-financial.html",
+    "table_index": 3,
+    "row_index": 24,
+    "heading": "Haldia Petrochemicals Limited Consolidated Cash Flow Statement (Rs. in Million)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev18": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/haldia-petrochemicals-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:19+00:00",
+   "sha256": "a99389e98c51d29dc5e3beacb5659b68d775e85e5c33a6281a162e1d0a54c610",
+   "capture_run": "20261123T164433Z",
+   "file": "haldia-financial.html",
+   "raw_label": "Cash generated from Operating Activities",
+   "raw_text": "(2,241)",
+   "raw_unit": "INR million",
+   "period": "FY2025",
+   "period_label": "31-03-2025",
+   "basis": "consolidated",
+   "anchor": {
+    "file": "haldia-financial.html",
+    "table_index": 3,
+    "row_index": 24,
+    "heading": "Haldia Petrochemicals Limited Consolidated Cash Flow Statement (Rs. in Million)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev19": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/haldia-petrochemicals-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:19+00:00",
+   "sha256": "a99389e98c51d29dc5e3beacb5659b68d775e85e5c33a6281a162e1d0a54c610",
+   "capture_run": "20261123T164433Z",
+   "file": "haldia-financial.html",
+   "raw_label": "Net Cash Flow (Used in)/ Generated from Investing Activities",
+   "raw_text": "7,835",
+   "raw_unit": "INR million",
+   "period": "FY2024",
+   "period_label": "31-03-2024",
+   "basis": "consolidated",
+   "anchor": {
+    "file": "haldia-financial.html",
+    "table_index": 3,
+    "row_index": 41,
+    "heading": "Haldia Petrochemicals Limited Consolidated Cash Flow Statement (Rs. in Million)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev20": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/haldia-petrochemicals-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:19+00:00",
+   "sha256": "a99389e98c51d29dc5e3beacb5659b68d775e85e5c33a6281a162e1d0a54c610",
+   "capture_run": "20261123T164433Z",
+   "file": "haldia-financial.html",
+   "raw_label": "Net Cash Flow (Used in)/ Generated from Investing Activities",
+   "raw_text": "(1,852)",
+   "raw_unit": "INR million",
+   "period": "FY2025",
+   "period_label": "31-03-2025",
+   "basis": "consolidated",
+   "anchor": {
+    "file": "haldia-financial.html",
+    "table_index": 3,
+    "row_index": 41,
+    "heading": "Haldia Petrochemicals Limited Consolidated Cash Flow Statement (Rs. in Million)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev21": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/haldia-petrochemicals-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:19+00:00",
+   "sha256": "a99389e98c51d29dc5e3beacb5659b68d775e85e5c33a6281a162e1d0a54c610",
+   "capture_run": "20261123T164433Z",
+   "file": "haldia-financial.html",
+   "raw_label": "Net Cash Flow (Used in)/ Generated from Financing Activities",
+   "raw_text": "(6,348)",
+   "raw_unit": "INR million",
+   "period": "FY2024",
+   "period_label": "31-03-2024",
+   "basis": "consolidated",
+   "anchor": {
+    "file": "haldia-financial.html",
+    "table_index": 3,
+    "row_index": 49,
+    "heading": "Haldia Petrochemicals Limited Consolidated Cash Flow Statement (Rs. in Million)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev22": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/haldia-petrochemicals-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:19+00:00",
+   "sha256": "a99389e98c51d29dc5e3beacb5659b68d775e85e5c33a6281a162e1d0a54c610",
+   "capture_run": "20261123T164433Z",
+   "file": "haldia-financial.html",
+   "raw_label": "Net Cash Flow (Used in)/ Generated from Financing Activities",
+   "raw_text": "6,661",
+   "raw_unit": "INR million",
+   "period": "FY2025",
+   "period_label": "31-03-2025",
+   "basis": "consolidated",
+   "anchor": {
+    "file": "haldia-financial.html",
+    "table_index": 3,
+    "row_index": 49,
+    "heading": "Haldia Petrochemicals Limited Consolidated Cash Flow Statement (Rs. in Million)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  }
+ },
+ "news": {
+  "query": "\"Haldia Petrochemicals\"",
+  "retrieved_at": "2026-11-23T16:46:23+00:00",
+  "items": [
+   {
+    "title": "Adperma’s Haldia phenol-acetone plant to boost India’s chemical manufacturing and reduce import dependen..",
+    "publisher": "Indiatimes",
+    "date": "2026-11-04",
+    "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNSE1tYlRzY1ZmdHRIRWpmWXRFQzNrWm5ORW5HVTktNFRwM0h3emEzSXlzbW41Zkxsd1VLQ0RtX1hGamNlWXZrT1psa2dxMUlZeFMwLUc0T3lZaFVEVi1valRNZURwY01QTUtRblppenVNWFo2dWVSSmkwSTNsZUZRdnJ6TFVfU0JhaEpINUlMaEFiVWgyeGRTRkpXckFsN2JNZEoycWVGaUs0R1dLNnlXYzhfaGluNzdpdzZMSWJCN09fUnpaNDMxY0dIT1UzREJFSEliNHFGcFluWWx0SllfV0dHS0ZIN2VLY3NhSFQ1dWd0UmRHY1FvSTVSYkxhbDNtY0dRMlBhMUMtTjRTdGNERWtwdGvSAZgCQVVfeXFMTzdQQlluMC1QY3dWLWEwemprV1BocnZldTI0NldWVjE3ajVoUHNZWnlaWjd0dE5YWWxGNmtRUDB0UUQxVnJGNDBrWUFrc01VUG9pS0NVTTRvWFk3UExBNEcyUHgzcnhZRHkwbDhjSVpVLWZXNHAycnVMbmNoTTl0WkRXTjlScWZsY210MFlBcVJwODBYYzNvRWxyanZ1WVVTQkw4bWRKZzBXR0lMZ1pRUko5M0FxV0RZbEtDcWdnWG01aVhQT2xqZEpZcVNUOUc2UlFpSVg3UnJ2TjhmWThfSXFTSDM1YjNuSDJGcjVtaWtZMHBkVFZoV1pselpTTXMyTHplQktkMTc2dTJUTS0wTkRYb2VJQzllUg?oc=5"
+   },
+   {
+    "title": "Tusher Majumder to head HR at Saurashtra Cement",
+    "publisher": "HR Katha",
+    "date": "2026-11-03",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQb1FwOGNDVURqakNMYU9BQURNRVJhUnZXSkl0cVJDTVFQNDhIdFRlSU9xR05DdWRTR1FNNjh2VEhrMmNqZFRpanBNdXQtSjFiN3ZNV2MwbldYcWVoY3UxNGkzWERpZ3N5eEU0Y0pxOXl1S1E1aVZqb0lTdkdrenBiYk9sZndGQUxlbHItckZFLXRNQQ?oc=5"
+   },
+   {
+    "title": "Adperma Set to Launch Haldia Phenol and Acetone Production by December 2026",
+    "publisher": "ChemAnalyst",
+    "date": "2026-10-30",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUWVKYVNVbEExRndXX1JOa1FCOW9ibVkzMEpFTXBtM3NnNTRnLUdHWUdGaUtRblpad3hLU3BidHVQUXRTUV92SWw4SGdSOU1qLU1OcTZXejBEeWZ0VGY5U0NiYnlGNkZzNTFuRFNlOENVelFULVNlLUpZRkp6ZFduczgxbC1YX0JTX3Flc3d4WmxZN2JJbUpycjZDdUpMWmZpUkZza3E1ZDd2UQ?oc=5"
+   },
+   {
+    "title": "Haldia Petrochemicals Set to Become East Bengal’s New Investor",
+    "publisher": "Revsportz",
+    "date": "2026-10-21",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQclRNQVNKZEF0YjhyVVV3aW5MY1pNMWloMEIxNW4yVU40WWdMSWhOb2xSM2FTRVYwN1JFY1p0YnpzVDFZeHFiM3ZOQmtZemVnZFNucVA2TERhM3lVWVpxSm9OQm10MUYzcllyM0RhTDc2SVpPMWsyWXNmeXFtemxYY1Fibl8yUE5oMEtZ0gGTAUFVX3lxTE5FTGpzdzBLa2dwR0x1VElGdnNaWmdYV3loaWpmbTJNbkc3VDJ6RlBLaTh1OUlxTmxoa0d4RDB5ZG5aWnBhMkJXV1QxN3YzUUpEa3JBUlJhLU5SLTNHenU3R29mSUwxQjB1dHRIWTJxcE9DUTdyNHBqTllUYUVldjMxaGo4U1k5N3B5ekFyaEdvMFc1aw?oc=5"
+   },
+   {
+    "title": "HPL subsidiary Adperma inaugurates ₹6000-crore phenol and acetone plant in Haldia",
+    "publisher": "BusinessLine",
+    "date": "2026-10-16",
+    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPdV9zX3RSTTZoOHNwaHZyM3hYMW5aUXFDRndldjJYbWdFVE9kUk9zZkV0dVZITVJUTk9QUXc4c3l3cmNBV19lQm9Dc2FDaHdQWkpQZnZIV05RdWlwbHhSRUZCY0F1RGtaUEQwdUFuZ2pIQWdYYzJmcERuSFlTcDc4WDA0NzhrV3ozNmNuWFNpMnI2QnRpdXVGSnA2YVI3bGQ5U1N5NTdiZWVEMmJNN2VFQVB2QWdNNUxpZkEtSzJFeEptRzJiaXRWVkVCelZXSnpJQXU5eVhreVFCUURkUjZuNdIB5wFBVV95cUxQRjlTdldxbEt5RWpKMkVwY1kwb3FZX1JzUXllaEtZS19KMjBlTXZJaFppbW41QnE0SFhsWEpTYjdyZVRSdGI2elFjRFl0Q1liYW1tLWMzdFRJNlNvYUlEUzlrbjR0WDV6LXhMWlZySmdIaW9DWGRnVmZONS10Y3VBX1BxMmVIZ0xTbkQwMlNUMngxdDEzQTd2ZWFGOENCMldrSHp3LXRiaGdUSjdHUDV3M2hYUmk4c3NWR19uZFFjaFhWWjRSNjF2cUx0RHdyQ0VJWFhTQkE0QjVfaklDUjBfN0dfb2l3S0U?oc=5"
+   },
+   {
+    "title": "Haldia Petrochemicals inaugurates new plant in West Bengal",
+    "publisher": "BigInfo.in",
+    "date": "2026-10-15",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONjNaLUVGM3BrSnlhTmNpSnFFbXAxV3QzbTNIWlBuLTg4S0p4LUoxTS1aZG4ybERqY19iUGxBZkNJT1RRU1RQSW5PVHR6WUhHdGJMRzM3NzQ5WktLdDlaR1QxS0ZXSGd5aFdRYzFzenF6X3ktUXFkMEFtelRSRzBCUXlfY3M4UlcyN1E?oc=5"
+   },
+   {
+    "title": "TCG chairman by his side, CM Adhikari says group to invest Rs 10k crore in Haldia",
+    "publisher": "The Times of India",
+    "date": "2026-10-15",
+    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQUWl6Ni1EbzZRejczQS15MmIyY1pnXzIwZDQxR25OTEdGbTVna0xXaE1Dc09VbzNEa1k5UHQzN2JRT3hRYVVKY1E3S2NnMjI2NFRZaDctSGh1ZUswV3loU05uU0JaMFEtQmxtRGd1NEhrN3ZzUHIwcnppX29md3haOHFXVy04UkVYVEdMRFF1b1I3VjVQYUlYOVl2T3BWMUI4bjRVaHE1bW5sMUxRbkZwa2NoVDhhUEpQSDEzNTFRY0dPOThKR19oc3dBanhHWlVZeTdEYUFpdVptRFNiamQzamFmelZHa2xiTUhj0gHwAUFVX3lxTE93S2tjLW9hNk9KVE1Db0RndGV6NlZYRDhHMjk2QTc0Sm1BSURlQ3lJWF8wNHZZdFNWYV8zRDJkYmwxYWRCa3g1M2ZxcUVKMktTRGJFb0puNk5NajBDdmZLenFlWklGNUtaSkdjbzgyeWhNc0dZVEdMQmVXdkw4QmdtOTZoNUxPLTFzaFdwTS1FT3BnVzNSX0R4NVkzT0VnOVUtQ0FEUVdPY1JVQmhLUTVyMUpjTDQ5b2VILU51MFZVNHNJVmJkRDZWMDlCYWlmY3p4TXRHUjNCY1FrdG5oT1VOdEdsTElfb2t6V3V5M2FOLQ?oc=5"
+   },
+   {
+    "title": "6,000 Crore Haldia Phenol Plant Opens as India's Largest Integrated Unit and First on East Coast",
+    "publisher": "Maritime Gateway",
+    "date": "2026-10-15",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPYWpYdkVJUlR4X0xXZ3BtS0FDQ2lsaFc2cC13d05RaEw1Y05kZ0pKZEdwb0lwX3pMajEwTEh4UlZtcl9XN0JadnRDUzBSTWxMMlZhRWc3Z3VMczM0cnBYNG1iSW9lMkVQZzNnUzZkaEdaOW9hNlRscmJod1Ftc2hjeEEtUG9RR0tFUlVDaDZhR05Yc2R2OG1sMUdvVGtLbmR3WXcwUmpqdTZobzU3Nlg0eEhoNFI4MmRUVlZlSG1rV0F4dUVWWTBvWFFLcURXSWthUXc?oc=5"
+   }
+  ],
+  "source": {
+   "name": "Google News RSS search",
+   "url": "https://news.google.com/rss/search?q=%22Haldia+Petrochemicals%22&hl=en-IN&gl=IN&ceid=IN:en",
+   "sha256": "0dddc506d0c947d4a933467a16239933f099ef8c8da1189396750f74b4b3ed9a",
+   "run": "20261123T164603Z"
+  }
+ },
+ "peer_reviewed": true,
+ "discovery": [
+  {
+   "id": "ncdex",
+   "short": "NCDEX",
+   "name": "National Commodity & Derivatives Exchange Ltd",
+   "reasons": [
+    "provider reports DRHP filed (IPO research lead)",
+    "in the news 2026-11-11"
+   ],
+   "score": 3,
+   "price_inr": 253.0,
+   "latest_period": "FY2026"
+  },
+  {
+   "id": "oyo",
+   "short": "OYO",
+   "name": "Oravel Stays Ltd (OYO)",
+   "reasons": [
+    "provider reports DRHP filed (IPO research lead)",
+    "in the news 2026-11-23"
+   ],
+   "score": 3,
+   "price_inr": 20.45,
+   "latest_period": "FY2026"
+  },
+  {
+   "id": "pharmeasy",
+   "short": "PharmEasy",
+   "name": "API Holdings Ltd (PharmEasy)",
+   "reasons": [
+    "provider reports DRHP filed (IPO research lead)",
+    "in the news 2026-10-28"
+   ],
+   "score": 3,
+   "price_inr": 6.15,
+   "latest_period": "FY2026"
+  },
+  {
+   "id": "indiacarbon",
+   "short": "India Carbon",
+   "name": "India Carbon Ltd",
+   "reasons": [
+    "same industry: Chemicals",
+    "in the news 2026-10-27"
+   ],
+   "score": 2,
+   "price_inr": 867.0,
+   "latest_period": "FY2026"
+  },
+  {
+   "id": "axlesindia",
+   "short": "Axles India",
+   "name": "Axles India Ltd",
+   "reasons": [
+    "in the news 2026-11-20"
+   ],
+   "score": 1,
+   "price_inr": 525.0,
+   "latest_period": "FY2026"
+  },
+  {
+   "id": "cial",
+   "short": "CIAL",
+   "name": "Cochin International Airport Ltd",
+   "reasons": [
+    "in the news 2026-11-21"
+   ],
+   "score": 1,
+   "price_inr": 440.0,
+   "latest_period": "FY2026"
+  }
+ ],
+ "fallbacks": []
+}

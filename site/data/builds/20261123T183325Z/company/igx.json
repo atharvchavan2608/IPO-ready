@@ -1,0 +1,5762 @@
+{
+ "id": "igx",
+ "name": "Indian Gas Exchange Ltd",
+ "short": "IGX",
+ "hierarchy": [
+  "Financials",
+  "Capital Markets",
+  "Exchanges & Trading Platforms",
+  "Energy & Commodity Exchanges"
+ ],
+ "model": "exchange",
+ "listed_peers": [
+  "IEX",
+  "MCX",
+  "BSE",
+  "CDSL"
+ ],
+ "status_note": null,
+ "market_status": null,
+ "quote": {
+  "price_inr": "488.00",
+  "state": "reported",
+  "change_raw": "+ 0.00 %",
+  "kind": "unlisted dealer quote (indicative, not an exchange trade)",
+  "as_of": "2026-11-23T16:44:33+00:00",
+  "high_52w": "488.00 (17/11/26)",
+  "low_52w": "400.00 (02/04/26)",
+  "ev": "ev1"
+ },
+ "profile": {
+  "provider_sector": "Energy, Oil & Gas",
+  "isin": "INE0BI301012",
+  "cin": "U74999DL2019PLC357145",
+  "registration_date": "06/11/2019",
+  "face_value": "10",
+  "lot_size": "500",
+  "drhp_filed": "No",
+  "depository": "nsdl",
+  "rofr": "No",
+  "description": "Indian Gas Exchange Limited is a Public company incorporated on 06 Nov 2019. It is classified as Non-government company and is registered at Registrar of Companies, Delhi. Its authorized share capital is Rs. 75,00,00,000 and its paid up capital is Rs. 75,00,00,000. Indian Gas Exchange Limited operates an organized digital marketplace for trading natural gas in India. It functions similarly to a stock exchange, but instead of shares, it facilitates the buying and selling of natural gas between suppliers and consumers such as power plants, industrial units, and city gas distributors. Through its platform, the company enables transparent price discovery, efficient allocation of gas, and short-term or spot trading contracts. Overall, its role is to bring structure, efficiency, and competitiveness to India’s natural gas market by providing a centralized trading system.",
+  "share_details_as_of": "March 31, 2026",
+  "ev": "ev2"
+ },
+ "periods": [
+  "FY2022",
+  "FY2023",
+  "FY2024",
+  "FY2025",
+  "FY2026"
+ ],
+ "basis": "unspecified",
+ "raw_units": [
+  "INR crore"
+ ],
+ "layout": "five-year summary",
+ "fields": {
+  "total_income": {
+   "label": "Total income",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": "17.47",
+     "state": "reported",
+     "ev": "ev3"
+    },
+    "FY2023": {
+     "value": "61.98",
+     "state": "reported",
+     "ev": "ev4"
+    },
+    "FY2024": {
+     "value": "54.62",
+     "state": "reported",
+     "ev": "ev5"
+    },
+    "FY2025": {
+     "value": "69.08",
+     "state": "reported",
+     "ev": "ev6"
+    },
+    "FY2026": {
+     "value": "84.84",
+     "state": "reported",
+     "ev": "ev7"
+    }
+   }
+  },
+  "revenue_ops": {
+   "label": "Revenue from operations",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": "11.22",
+     "state": "reported",
+     "ev": "ev8"
+    },
+    "FY2023": {
+     "value": "42.7",
+     "state": "reported",
+     "ev": "ev9"
+    },
+    "FY2024": {
+     "value": "34.85",
+     "state": "reported",
+     "ev": "ev10"
+    },
+    "FY2025": {
+     "value": "48.8",
+     "state": "reported",
+     "ev": "ev11"
+    },
+    "FY2026": {
+     "value": "61.01",
+     "state": "reported",
+     "ev": "ev12"
+    }
+   }
+  },
+  "other_income": {
+   "label": "Other income",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": "6.25",
+     "state": "reported",
+     "ev": "ev13"
+    },
+    "FY2023": {
+     "value": "19.28",
+     "state": "reported",
+     "ev": "ev14"
+    },
+    "FY2024": {
+     "value": "19.77",
+     "state": "reported",
+     "ev": "ev15"
+    },
+    "FY2025": {
+     "value": "20.28",
+     "state": "reported",
+     "ev": "ev16"
+    },
+    "FY2026": {
+     "value": "23.83",
+     "state": "reported",
+     "ev": "ev17"
+    }
+   }
+  },
+  "other_gains": {
+   "label": "Other gains / losses",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2023": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "job_work_revenue": {
+   "label": "Revenue from job work",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2023": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "total_expenses": {
+   "label": "Total expenses",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": "15.18",
+     "state": "reported",
+     "ev": "ev18"
+    },
+    "FY2023": {
+     "value": "24.41",
+     "state": "reported",
+     "ev": "ev19"
+    },
+    "FY2024": {
+     "value": "23.9",
+     "state": "reported",
+     "ev": "ev20"
+    },
+    "FY2025": {
+     "value": "28.62",
+     "state": "reported",
+     "ev": "ev21"
+    },
+    "FY2026": {
+     "value": "29.01",
+     "state": "reported",
+     "ev": "ev22"
+    }
+   }
+  },
+  "finance_cost": {
+   "label": "Finance cost",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": "0",
+     "state": "explicit_zero",
+     "ev": "ev23"
+    },
+    "FY2023": {
+     "value": "0.48",
+     "state": "reported",
+     "ev": "ev24"
+    },
+    "FY2024": {
+     "value": "0.44",
+     "state": "reported",
+     "ev": "ev25"
+    },
+    "FY2025": {
+     "value": "0.62",
+     "state": "reported",
+     "ev": "ev26"
+    },
+    "FY2026": {
+     "value": "0.46",
+     "state": "reported",
+     "ev": "ev27"
+    }
+   }
+  },
+  "depreciation": {
+   "label": "Depreciation",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": "1.14",
+     "state": "reported",
+     "ev": "ev28"
+    },
+    "FY2023": {
+     "value": "2.19",
+     "state": "reported",
+     "ev": "ev29"
+    },
+    "FY2024": {
+     "value": "2.76",
+     "state": "reported",
+     "ev": "ev30"
+    },
+    "FY2025": {
+     "value": "5.16",
+     "state": "reported",
+     "ev": "ev31"
+    },
+    "FY2026": {
+     "value": "2.32",
+     "state": "reported",
+     "ev": "ev32"
+    }
+   }
+  },
+  "pbt": {
+   "label": "Profit before tax",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": "2.29",
+     "state": "reported",
+     "ev": "ev33"
+    },
+    "FY2023": {
+     "value": "37.57",
+     "state": "reported",
+     "ev": "ev34"
+    },
+    "FY2024": {
+     "value": "30.72",
+     "state": "reported",
+     "ev": "ev35"
+    },
+    "FY2025": {
+     "value": "40.46",
+     "state": "reported",
+     "ev": "ev36"
+    },
+    "FY2026": {
+     "value": "55.83",
+     "state": "reported",
+     "ev": "ev37"
+    }
+   }
+  },
+  "tax": {
+   "label": "Tax",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": "0.54",
+     "state": "reported",
+     "ev": "ev38"
+    },
+    "FY2023": {
+     "value": "9.53",
+     "state": "reported",
+     "ev": "ev39"
+    },
+    "FY2024": {
+     "value": "7.67",
+     "state": "reported",
+     "ev": "ev40"
+    },
+    "FY2025": {
+     "value": "9.51",
+     "state": "reported",
+     "ev": "ev41"
+    },
+    "FY2026": {
+     "value": "13.8",
+     "state": "reported",
+     "ev": "ev42"
+    }
+   }
+  },
+  "pat": {
+   "label": "Profit after tax",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": "1.75",
+     "state": "reported",
+     "ev": "ev43"
+    },
+    "FY2023": {
+     "value": "28.04",
+     "state": "reported",
+     "ev": "ev44"
+    },
+    "FY2024": {
+     "value": "23.05",
+     "state": "reported",
+     "ev": "ev45"
+    },
+    "FY2025": {
+     "value": "30.95",
+     "state": "reported",
+     "ev": "ev46"
+    },
+    "FY2026": {
+     "value": "42.02",
+     "state": "reported",
+     "ev": "ev47"
+    }
+   }
+  },
+  "total_assets": {
+   "label": "Total assets",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": "518.73",
+     "state": "reported",
+     "ev": "ev48"
+    },
+    "FY2023": {
+     "value": "468.86",
+     "state": "reported",
+     "ev": "ev49"
+    },
+    "FY2024": {
+     "value": "294.58",
+     "state": "reported",
+     "ev": "ev50"
+    },
+    "FY2025": {
+     "value": "307.71",
+     "state": "reported",
+     "ev": "ev51"
+    },
+    "FY2026": {
+     "value": "477.73",
+     "state": "reported",
+     "ev": "ev52"
+    }
+   }
+  },
+  "total_equity": {
+   "label": "Total equity",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": "65.34",
+     "state": "reported",
+     "ev": "ev53"
+    },
+    "FY2023": {
+     "value": "93.49",
+     "state": "reported",
+     "ev": "ev54"
+    },
+    "FY2024": {
+     "value": "116.66",
+     "state": "reported",
+     "ev": "ev55"
+    },
+    "FY2025": {
+     "value": "147.71",
+     "state": "reported",
+     "ev": "ev56"
+    },
+    "FY2026": {
+     "value": "179.03",
+     "state": "reported",
+     "ev": "ev57"
+    }
+   }
+  },
+  "total_liabilities": {
+   "label": "Total liabilities",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": "453.39",
+     "state": "reported",
+     "ev": "ev58"
+    },
+    "FY2023": {
+     "value": "375.38",
+     "state": "reported",
+     "ev": "ev59"
+    },
+    "FY2024": {
+     "value": "177.92",
+     "state": "reported",
+     "ev": "ev60"
+    },
+    "FY2025": {
+     "value": "159.99",
+     "state": "reported",
+     "ev": "ev61"
+    },
+    "FY2026": {
+     "value": "298.7",
+     "state": "reported",
+     "ev": "ev62"
+    }
+   }
+  },
+  "current_assets": {
+   "label": "Current assets",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": "506.17",
+     "state": "reported",
+     "ev": "ev63"
+    },
+    "FY2023": {
+     "value": "444.61",
+     "state": "reported",
+     "ev": "ev64"
+    },
+    "FY2024": {
+     "value": "279.16",
+     "state": "reported",
+     "ev": "ev65"
+    },
+    "FY2025": {
+     "value": "280.29",
+     "state": "reported",
+     "ev": "ev66"
+    },
+    "FY2026": {
+     "value": "445.94",
+     "state": "reported",
+     "ev": "ev67"
+    }
+   }
+  },
+  "current_liabilities": {
+   "label": "Current liabilities",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": "450.86",
+     "state": "reported",
+     "ev": "ev68"
+    },
+    "FY2023": {
+     "value": "368.31",
+     "state": "reported",
+     "ev": "ev69"
+    },
+    "FY2024": {
+     "value": "172.43",
+     "state": "reported",
+     "ev": "ev70"
+    },
+    "FY2025": {
+     "value": "155.45",
+     "state": "reported",
+     "ev": "ev71"
+    },
+    "FY2026": {
+     "value": "294.6",
+     "state": "reported",
+     "ev": "ev72"
+    }
+   }
+  },
+  "inventories": {
+   "label": "Inventories",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2023": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "cash": {
+   "label": "Cash & equivalents",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2023": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "loans": {
+   "label": "Loans",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2023": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "cfo": {
+   "label": "Cash from operations",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": "416.12",
+     "state": "reported",
+     "ev": "ev73"
+    },
+    "FY2023": {
+     "value": "-67.92",
+     "state": "reported",
+     "ev": "ev74"
+    },
+    "FY2024": {
+     "value": "-189.82",
+     "state": "reported",
+     "ev": "ev75"
+    },
+    "FY2025": {
+     "value": "3.29",
+     "state": "reported",
+     "ev": "ev76"
+    },
+    "FY2026": {
+     "value": "156.89",
+     "state": "reported",
+     "ev": "ev77"
+    }
+   }
+  },
+  "cfi": {
+   "label": "Cash from investing",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": "-315.19",
+     "state": "reported",
+     "ev": "ev78"
+    },
+    "FY2023": {
+     "value": "-14.47",
+     "state": "reported",
+     "ev": "ev79"
+    },
+    "FY2024": {
+     "value": "187.57",
+     "state": "reported",
+     "ev": "ev80"
+    },
+    "FY2025": {
+     "value": "-4.37",
+     "state": "reported",
+     "ev": "ev81"
+    },
+    "FY2026": {
+     "value": "-153.54",
+     "state": "reported",
+     "ev": "ev82"
+    }
+   }
+  },
+  "cff": {
+   "label": "Cash from financing",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": null,
+     "state": "blank",
+     "ev": "ev83"
+    },
+    "FY2023": {
+     "value": "-0.63",
+     "state": "reported",
+     "ev": "ev84"
+    },
+    "FY2024": {
+     "value": "-1.02",
+     "state": "reported",
+     "ev": "ev85"
+    },
+    "FY2025": {
+     "value": "-1.17",
+     "state": "reported",
+     "ev": "ev86"
+    },
+    "FY2026": {
+     "value": "-12.41",
+     "state": "reported",
+     "ev": "ev87"
+    }
+   }
+  },
+  "ebitda": {
+   "label": "EBITDA",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": "3.43",
+     "state": "reported",
+     "ev": "ev88"
+    },
+    "FY2023": {
+     "value": "40.23",
+     "state": "reported",
+     "ev": "ev89"
+    },
+    "FY2024": {
+     "value": "33.92",
+     "state": "reported",
+     "ev": "ev90"
+    },
+    "FY2025": {
+     "value": "46.24",
+     "state": "reported",
+     "ev": "ev91"
+    },
+    "FY2026": {
+     "value": "58.61",
+     "state": "reported",
+     "ev": "ev92"
+    }
+   }
+  },
+  "eps": {
+   "label": "EPS (provider)",
+   "unit": "INR",
+   "by_period": {
+    "FY2022": {
+     "value": "0.24",
+     "state": "reported",
+     "ev": "ev93"
+    },
+    "FY2023": {
+     "value": "3.79",
+     "state": "reported",
+     "ev": "ev94"
+    },
+    "FY2024": {
+     "value": "3.12",
+     "state": "reported",
+     "ev": "ev95"
+    },
+    "FY2025": {
+     "value": "4.19",
+     "state": "reported",
+     "ev": "ev96"
+    },
+    "FY2026": {
+     "value": "5.68",
+     "state": "reported",
+     "ev": "ev97"
+    }
+   }
+  },
+  "shares_outstanding": {
+   "label": "Shares outstanding",
+   "unit": "shares",
+   "by_period": {
+    "FY2022": {
+     "value": "73902600",
+     "state": "reported",
+     "ev": "ev98"
+    },
+    "FY2023": {
+     "value": "73902600",
+     "state": "reported",
+     "ev": "ev99"
+    },
+    "FY2024": {
+     "value": "73902600",
+     "state": "reported",
+     "ev": "ev100"
+    },
+    "FY2025": {
+     "value": "73933050",
+     "state": "reported",
+     "ev": "ev101"
+    },
+    "FY2026": {
+     "value": "74030400",
+     "state": "reported",
+     "ev": "ev102"
+    }
+   }
+  }
+ },
+ "documents": [
+  {
+   "id": "igx-restated-financials",
+   "title": "Restated Financial Information (FY24-FY26), auditor's examination report",
+   "url": "https://testwebcms.igxindia.com/files/financials-5bCIC136dXcpEa1daoEb.pdf",
+   "retrieved_at": "2026-11-23T16:38:45.416426+00:00",
+   "sha256": "d6fcbfb703f9a261511d0bbbd3a11b1b8e4426a89e6ac650f37c5c16c442ca8a",
+   "bytes": 2244866,
+   "referrer": "https://www.igxindia.com/investor-relation"
+  },
+  {
+   "id": "igx-abridged-prospectus",
+   "title": "Draft abridged prospectus",
+   "url": "https://testwebcms.igxindia.com/files/draft-abridged-prospectus-fDGrlKdPZUzDwuNSY2ee.pdf",
+   "retrieved_at": "2026-11-23T16:38:47.478858+00:00",
+   "sha256": "1c01ddfcde4e620ddb34ddc9fc1c29d01f18a6d562c11103ceee9a87f8abfa9b",
+   "bytes": 468322,
+   "referrer": "https://www.igxindia.com/investor-relation"
+  },
+  {
+   "id": "igx-drhp",
+   "title": "Draft Red Herring Prospectus",
+   "url": "https://testwebcms.igxindia.com/files/drhp-6w0Qkr9JEHUyvsQQbc1.pdf",
+   "retrieved_at": "2026-11-23T16:38:48.846640+00:00",
+   "sha256": "7016cee34f4ce8cce762ec6f49fa320507a32c50308d834b58c73b3e2c80b9d3",
+   "bytes": 13589810,
+   "referrer": "https://www.igxindia.com/investor-relation"
+  }
+ ],
+ "reconciliation": {
+  "document": "igx-restated-financials",
+  "url": "https://testwebcms.igxindia.com/files/financials-5bCIC136dXcpEa1daoEb.pdf",
+  "sha256": "d6fcbfb703f9a261511d0bbbd3a11b1b8e4426a89e6ac650f37c5c16c442ca8a",
+  "retrieved_at": "2026-11-23T16:38:45.416426+00:00",
+  "capture_run": "20261123T163845Z",
+  "file": "igx-restated-financials.pdf",
+  "unit_note": "issuer reports INR million; converted to INR crore (/10). Provider reports INR crore to 2 dp, so a tolerance of 0.006 crore is used.",
+  "rows": [
+   {
+    "field": "trade_receivables",
+    "label": "trade receivables",
+    "statement": "balance_sheet",
+    "page": 5,
+    "period": "FY2026",
+    "issuer_value": "4.156",
+    "provider_value": null,
+    "difference": null,
+    "result": "issuer_only",
+    "matched_text": "(ii) Trade receivables 11 41.56 21.77 59.11"
+   },
+   {
+    "field": "trade_receivables",
+    "label": "trade receivables",
+    "statement": "balance_sheet",
+    "page": 5,
+    "period": "FY2025",
+    "issuer_value": "2.177",
+    "provider_value": null,
+    "difference": null,
+    "result": "issuer_only",
+    "matched_text": "(ii) Trade receivables 11 41.56 21.77 59.11"
+   },
+   {
+    "field": "trade_receivables",
+    "label": "trade receivables",
+    "statement": "balance_sheet",
+    "page": 5,
+    "period": "FY2024",
+    "issuer_value": "5.911",
+    "provider_value": null,
+    "difference": null,
+    "result": "issuer_only",
+    "matched_text": "(ii) Trade receivables 11 41.56 21.77 59.11"
+   },
+   {
+    "field": "cash",
+    "label": "Cash & equivalents",
+    "statement": "balance_sheet",
+    "page": 5,
+    "period": "FY2026",
+    "issuer_value": "3.957",
+    "provider_value": null,
+    "difference": null,
+    "result": "issuer_only",
+    "matched_text": "(iii) Cash and cash equivalents 12 39.57 132.17 154.64"
+   },
+   {
+    "field": "cash",
+    "label": "Cash & equivalents",
+    "statement": "balance_sheet",
+    "page": 5,
+    "period": "FY2025",
+    "issuer_value": "13.217",
+    "provider_value": null,
+    "difference": null,
+    "result": "issuer_only",
+    "matched_text": "(iii) Cash and cash equivalents 12 39.57 132.17 154.64"
+   },
+   {
+    "field": "cash",
+    "label": "Cash & equivalents",
+    "statement": "balance_sheet",
+    "page": 5,
+    "period": "FY2024",
+    "issuer_value": "15.464",
+    "provider_value": null,
+    "difference": null,
+    "result": "issuer_only",
+    "matched_text": "(iii) Cash and cash equivalents 12 39.57 132.17 154.64"
+   },
+   {
+    "field": "current_investments",
+    "label": "current investments",
+    "statement": "balance_sheet",
+    "page": 5,
+    "period": "FY2026",
+    "issuer_value": "404.461",
+    "provider_value": null,
+    "difference": null,
+    "result": "issuer_only",
+    "matched_text": "(i) Investments 10(a) 4,044.61 2,036.26 1,809.11"
+   },
+   {
+    "field": "current_investments",
+    "label": "current investments",
+    "statement": "balance_sheet",
+    "page": 5,
+    "period": "FY2025",
+    "issuer_value": "203.626",
+    "provider_value": null,
+    "difference": null,
+    "result": "issuer_only",
+    "matched_text": "(i) Investments 10(a) 4,044.61 2,036.26 1,809.11"
+   },
+   {
+    "field": "current_investments",
+    "label": "current investments",
+    "statement": "balance_sheet",
+    "page": 5,
+    "period": "FY2024",
+    "issuer_value": "180.911",
+    "provider_value": null,
+    "difference": null,
+    "result": "issuer_only",
+    "matched_text": "(i) Investments 10(a) 4,044.61 2,036.26 1,809.11"
+   },
+   {
+    "field": "current_assets",
+    "label": "Current assets",
+    "statement": "balance_sheet",
+    "page": 5,
+    "period": "FY2026",
+    "issuer_value": "445.937",
+    "provider_value": "445.94",
+    "difference": "-0.003",
+    "result": "match",
+    "matched_text": "Total current assets 4,459.37 2,806.07 2,791.56"
+   },
+   {
+    "field": "current_assets",
+    "label": "Current assets",
+    "statement": "balance_sheet",
+    "page": 5,
+    "period": "FY2025",
+    "issuer_value": "280.607",
+    "provider_value": "280.29",
+    "difference": "0.317",
+    "result": "differs",
+    "matched_text": "Total current assets 4,459.37 2,806.07 2,791.56"
+   },
+   {
+    "field": "current_assets",
+    "label": "Current assets",
+    "statement": "balance_sheet",
+    "page": 5,
+    "period": "FY2024",
+    "issuer_value": "279.156",
+    "provider_value": "279.16",
+    "difference": "-0.004",
+    "result": "match",
+    "matched_text": "Total current assets 4,459.37 2,806.07 2,791.56"
+   },
+   {
+    "field": "total_assets",
+    "label": "Total assets",
+    "statement": "balance_sheet",
+    "page": 5,
+    "period": "FY2026",
+    "issuer_value": "477.729",
+    "provider_value": "477.73",
+    "difference": "-0.001",
+    "result": "match",
+    "matched_text": "TOTAL ASSETS 4,777.29 3,080.18 2,945.75"
+   },
+   {
+    "field": "total_assets",
+    "label": "Total assets",
+    "statement": "balance_sheet",
+    "page": 5,
+    "period": "FY2025",
+    "issuer_value": "308.018",
+    "provider_value": "307.71",
+    "difference": "0.308",
+    "result": "differs",
+    "matched_text": "TOTAL ASSETS 4,777.29 3,080.18 2,945.75"
+   },
+   {
+    "field": "total_assets",
+    "label": "Total assets",
+    "statement": "balance_sheet",
+    "page": 5,
+    "period": "FY2024",
+    "issuer_value": "294.575",
+    "provider_value": "294.58",
+    "difference": "-0.005",
+    "result": "match",
+    "matched_text": "TOTAL ASSETS 4,777.29 3,080.18 2,945.75"
+   },
+   {
+    "field": "total_equity",
+    "label": "Total equity",
+    "statement": "balance_sheet",
+    "page": 5,
+    "period": "FY2026",
+    "issuer_value": "179.034",
+    "provider_value": "179.03",
+    "difference": "0.004",
+    "result": "match",
+    "matched_text": "Total equity 1,790.34 1,477.12 1,166.56"
+   },
+   {
+    "field": "total_equity",
+    "label": "Total equity",
+    "statement": "balance_sheet",
+    "page": 5,
+    "period": "FY2025",
+    "issuer_value": "147.712",
+    "provider_value": "147.71",
+    "difference": "0.002",
+    "result": "match",
+    "matched_text": "Total equity 1,790.34 1,477.12 1,166.56"
+   },
+   {
+    "field": "total_equity",
+    "label": "Total equity",
+    "statement": "balance_sheet",
+    "page": 5,
+    "period": "FY2024",
+    "issuer_value": "116.656",
+    "provider_value": "116.66",
+    "difference": "-0.004",
+    "result": "match",
+    "matched_text": "Total equity 1,790.34 1,477.12 1,166.56"
+   },
+   {
+    "field": "settlement_and_other_fin_liabilities",
+    "label": "settlement and other fin liabilities",
+    "statement": "balance_sheet",
+    "page": 5,
+    "period": "FY2026",
+    "issuer_value": "286.267",
+    "provider_value": null,
+    "difference": null,
+    "result": "issuer_only",
+    "matched_text": "(iii) Other financial liabilities 21 2,862.67 1,492.98 1,638.63"
+   },
+   {
+    "field": "settlement_and_other_fin_liabilities",
+    "label": "settlement and other fin liabilities",
+    "statement": "balance_sheet",
+    "page": 5,
+    "period": "FY2025",
+    "issuer_value": "149.298",
+    "provider_value": null,
+    "difference": null,
+    "result": "issuer_only",
+    "matched_text": "(iii) Other financial liabilities 21 2,862.67 1,492.98 1,638.63"
+   },
+   {
+    "field": "settlement_and_other_fin_liabilities",
+    "label": "settlement and other fin liabilities",
+    "statement": "balance_sheet",
+    "page": 5,
+    "period": "FY2024",
+    "issuer_value": "163.863",
+    "provider_value": null,
+    "difference": null,
+    "result": "issuer_only",
+    "matched_text": "(iii) Other financial liabilities 21 2,862.67 1,492.98 1,638.63"
+   },
+   {
+    "field": "current_liabilities",
+    "label": "Current liabilities",
+    "statement": "balance_sheet",
+    "page": 5,
+    "period": "FY2026",
+    "issuer_value": "294.599",
+    "provider_value": "294.6",
+    "difference": "-0.001",
+    "result": "match",
+    "matched_text": "Total current liabilities 2,945.99 1,557.64 1,724.33"
+   },
+   {
+    "field": "current_liabilities",
+    "label": "Current liabilities",
+    "statement": "balance_sheet",
+    "page": 5,
+    "period": "FY2025",
+    "issuer_value": "155.764",
+    "provider_value": "155.45",
+    "difference": "0.314",
+    "result": "differs",
+    "matched_text": "Total current liabilities 2,945.99 1,557.64 1,724.33"
+   },
+   {
+    "field": "current_liabilities",
+    "label": "Current liabilities",
+    "statement": "balance_sheet",
+    "page": 5,
+    "period": "FY2024",
+    "issuer_value": "172.433",
+    "provider_value": "172.43",
+    "difference": "0.003",
+    "result": "match",
+    "matched_text": "Total current liabilities 2,945.99 1,557.64 1,724.33"
+   },
+   {
+    "field": "total_liabilities",
+    "label": "Total liabilities",
+    "statement": "balance_sheet",
+    "page": 5,
+    "period": "FY2026",
+    "issuer_value": "298.695",
+    "provider_value": "298.7",
+    "difference": "-0.005",
+    "result": "match",
+    "matched_text": "TOTAL LIABILITIES 2,986.95 1,603.06 1,779.19"
+   },
+   {
+    "field": "total_liabilities",
+    "label": "Total liabilities",
+    "statement": "balance_sheet",
+    "page": 5,
+    "period": "FY2025",
+    "issuer_value": "160.306",
+    "provider_value": "159.99",
+    "difference": "0.316",
+    "result": "differs",
+    "matched_text": "TOTAL LIABILITIES 2,986.95 1,603.06 1,779.19"
+   },
+   {
+    "field": "total_liabilities",
+    "label": "Total liabilities",
+    "statement": "balance_sheet",
+    "page": 5,
+    "period": "FY2024",
+    "issuer_value": "177.919",
+    "provider_value": "177.92",
+    "difference": "-0.001",
+    "result": "match",
+    "matched_text": "TOTAL LIABILITIES 2,986.95 1,603.06 1,779.19"
+   },
+   {
+    "field": "inventories",
+    "statement": "balance_sheet",
+    "page": 5,
+    "state": "no_line_item"
+   },
+   {
+    "field": "revenue_ops",
+    "label": "Revenue from operations",
+    "statement": "income_statement",
+    "page": 6,
+    "period": "FY2026",
+    "issuer_value": "61.005",
+    "provider_value": "61.01",
+    "difference": "-0.005",
+    "result": "match",
+    "matched_text": "Revenue from operations 24 610.05 488.01 348.49"
+   },
+   {
+    "field": "revenue_ops",
+    "label": "Revenue from operations",
+    "statement": "income_statement",
+    "page": 6,
+    "period": "FY2025",
+    "issuer_value": "48.801",
+    "provider_value": "48.8",
+    "difference": "0.001",
+    "result": "match",
+    "matched_text": "Revenue from operations 24 610.05 488.01 348.49"
+   },
+   {
+    "field": "revenue_ops",
+    "label": "Revenue from operations",
+    "statement": "income_statement",
+    "page": 6,
+    "period": "FY2024",
+    "issuer_value": "34.849",
+    "provider_value": "34.85",
+    "difference": "-0.001",
+    "result": "match",
+    "matched_text": "Revenue from operations 24 610.05 488.01 348.49"
+   },
+   {
+    "field": "other_income",
+    "label": "Other income",
+    "statement": "income_statement",
+    "page": 6,
+    "period": "FY2026",
+    "issuer_value": "23.834",
+    "provider_value": "23.83",
+    "difference": "0.004",
+    "result": "match",
+    "matched_text": "Other income 25 238.34 202.81 197.70"
+   },
+   {
+    "field": "other_income",
+    "label": "Other income",
+    "statement": "income_statement",
+    "page": 6,
+    "period": "FY2025",
+    "issuer_value": "20.281",
+    "provider_value": "20.28",
+    "difference": "0.001",
+    "result": "match",
+    "matched_text": "Other income 25 238.34 202.81 197.70"
+   },
+   {
+    "field": "other_income",
+    "label": "Other income",
+    "statement": "income_statement",
+    "page": 6,
+    "period": "FY2024",
+    "issuer_value": "19.77",
+    "provider_value": "19.77",
+    "difference": "0.00",
+    "result": "match",
+    "matched_text": "Other income 25 238.34 202.81 197.70"
+   },
+   {
+    "field": "total_income",
+    "label": "Total income",
+    "statement": "income_statement",
+    "page": 6,
+    "period": "FY2026",
+    "issuer_value": "84.839",
+    "provider_value": "84.84",
+    "difference": "-0.001",
+    "result": "match",
+    "matched_text": "Total Income 848.39 690.82 546.19"
+   },
+   {
+    "field": "total_income",
+    "label": "Total income",
+    "statement": "income_statement",
+    "page": 6,
+    "period": "FY2025",
+    "issuer_value": "69.082",
+    "provider_value": "69.08",
+    "difference": "0.002",
+    "result": "match",
+    "matched_text": "Total Income 848.39 690.82 546.19"
+   },
+   {
+    "field": "total_income",
+    "label": "Total income",
+    "statement": "income_statement",
+    "page": 6,
+    "period": "FY2024",
+    "issuer_value": "54.619",
+    "provider_value": "54.62",
+    "difference": "-0.001",
+    "result": "match",
+    "matched_text": "Total Income 848.39 690.82 546.19"
+   },
+   {
+    "field": "total_expenses",
+    "label": "Total expenses",
+    "statement": "income_statement",
+    "page": 6,
+    "period": "FY2026",
+    "issuer_value": "29.014",
+    "provider_value": "29.01",
+    "difference": "0.004",
+    "result": "match",
+    "matched_text": "Total expenses 290.14 287.78 239.02"
+   },
+   {
+    "field": "total_expenses",
+    "label": "Total expenses",
+    "statement": "income_statement",
+    "page": 6,
+    "period": "FY2025",
+    "issuer_value": "28.778",
+    "provider_value": "28.62",
+    "difference": "0.158",
+    "result": "differs",
+    "matched_text": "Total expenses 290.14 287.78 239.02"
+   },
+   {
+    "field": "total_expenses",
+    "label": "Total expenses",
+    "statement": "income_statement",
+    "page": 6,
+    "period": "FY2024",
+    "issuer_value": "23.902",
+    "provider_value": "23.9",
+    "difference": "0.002",
+    "result": "match",
+    "matched_text": "Total expenses 290.14 287.78 239.02"
+   },
+   {
+    "field": "finance_cost",
+    "label": "Finance cost",
+    "statement": "income_statement",
+    "page": 6,
+    "period": "FY2026",
+    "issuer_value": "0.463",
+    "provider_value": "0.46",
+    "difference": "0.003",
+    "result": "match",
+    "matched_text": "Finance costs 27 4.63 6.21 4.41"
+   },
+   {
+    "field": "finance_cost",
+    "label": "Finance cost",
+    "statement": "income_statement",
+    "page": 6,
+    "period": "FY2025",
+    "issuer_value": "0.621",
+    "provider_value": "0.62",
+    "difference": "0.001",
+    "result": "match",
+    "matched_text": "Finance costs 27 4.63 6.21 4.41"
+   },
+   {
+    "field": "finance_cost",
+    "label": "Finance cost",
+    "statement": "income_statement",
+    "page": 6,
+    "period": "FY2024",
+    "issuer_value": "0.441",
+    "provider_value": "0.44",
+    "difference": "0.001",
+    "result": "match",
+    "matched_text": "Finance costs 27 4.63 6.21 4.41"
+   },
+   {
+    "field": "pbt",
+    "label": "Profit before tax",
+    "statement": "income_statement",
+    "page": 6,
+    "period": "FY2026",
+    "issuer_value": "55.825",
+    "provider_value": "55.83",
+    "difference": "-0.005",
+    "result": "match",
+    "matched_text": "Restated Profit before tax 558.25 403.04 307.17"
+   },
+   {
+    "field": "pbt",
+    "label": "Profit before tax",
+    "statement": "income_statement",
+    "page": 6,
+    "period": "FY2025",
+    "issuer_value": "40.304",
+    "provider_value": "40.46",
+    "difference": "-0.156",
+    "result": "differs",
+    "matched_text": "Restated Profit before tax 558.25 403.04 307.17"
+   },
+   {
+    "field": "pbt",
+    "label": "Profit before tax",
+    "statement": "income_statement",
+    "page": 6,
+    "period": "FY2024",
+    "issuer_value": "30.717",
+    "provider_value": "30.72",
+    "difference": "-0.003",
+    "result": "match",
+    "matched_text": "Restated Profit before tax 558.25 403.04 307.17"
+   },
+   {
+    "field": "tax",
+    "label": "Tax",
+    "statement": "income_statement",
+    "page": 6,
+    "period": "FY2026",
+    "issuer_value": "13.803",
+    "provider_value": "13.8",
+    "difference": "0.003",
+    "result": "match",
+    "matched_text": "Total tax expense 138.03 95.11 76.67"
+   },
+   {
+    "field": "tax",
+    "label": "Tax",
+    "statement": "income_statement",
+    "page": 6,
+    "period": "FY2025",
+    "issuer_value": "9.511",
+    "provider_value": "9.51",
+    "difference": "0.001",
+    "result": "match",
+    "matched_text": "Total tax expense 138.03 95.11 76.67"
+   },
+   {
+    "field": "tax",
+    "label": "Tax",
+    "statement": "income_statement",
+    "page": 6,
+    "period": "FY2024",
+    "issuer_value": "7.667",
+    "provider_value": "7.67",
+    "difference": "-0.003",
+    "result": "match",
+    "matched_text": "Total tax expense 138.03 95.11 76.67"
+   },
+   {
+    "field": "pat",
+    "label": "Profit after tax",
+    "statement": "income_statement",
+    "page": 6,
+    "period": "FY2026",
+    "issuer_value": "42.022",
+    "provider_value": "42.02",
+    "difference": "0.002",
+    "result": "match",
+    "matched_text": "Restated Profit for the year (A) 420.22 307.93 230.50"
+   },
+   {
+    "field": "pat",
+    "label": "Profit after tax",
+    "statement": "income_statement",
+    "page": 6,
+    "period": "FY2025",
+    "issuer_value": "30.793",
+    "provider_value": "30.95",
+    "difference": "-0.157",
+    "result": "differs",
+    "matched_text": "Restated Profit for the year (A) 420.22 307.93 230.50"
+   },
+   {
+    "field": "pat",
+    "label": "Profit after tax",
+    "statement": "income_statement",
+    "page": 6,
+    "period": "FY2024",
+    "issuer_value": "23.05",
+    "provider_value": "23.05",
+    "difference": "0.00",
+    "result": "match",
+    "matched_text": "Restated Profit for the year (A) 420.22 307.93 230.50"
+   },
+   {
+    "field": "eps",
+    "label": "EPS (provider)",
+    "statement": "income_statement",
+    "page": 6,
+    "period": "FY2026",
+    "issuer_value": "5.68",
+    "provider_value": "5.68",
+    "difference": "0.00",
+    "result": "match",
+    "matched_text": "Basic ( ₹) 5.68 4.17 3.12"
+   },
+   {
+    "field": "eps",
+    "label": "EPS (provider)",
+    "statement": "income_statement",
+    "page": 6,
+    "period": "FY2025",
+    "issuer_value": "4.17",
+    "provider_value": "4.19",
+    "difference": "-0.02",
+    "result": "differs",
+    "matched_text": "Basic ( ₹) 5.68 4.17 3.12"
+   },
+   {
+    "field": "eps",
+    "label": "EPS (provider)",
+    "statement": "income_statement",
+    "page": 6,
+    "period": "FY2024",
+    "issuer_value": "3.12",
+    "provider_value": "3.12",
+    "difference": "0.00",
+    "result": "match",
+    "matched_text": "Basic ( ₹) 5.68 4.17 3.12"
+   },
+   {
+    "field": "cfo",
+    "label": "Cash from operations",
+    "statement": "cash_flow",
+    "page": 7,
+    "period": "FY2026",
+    "issuer_value": "156.685",
+    "provider_value": "156.89",
+    "difference": "-0.205",
+    "result": "differs",
+    "matched_text": "Net cash generated from/(used in) operating activities 1,566.85 32.87 (1,898.19)"
+   },
+   {
+    "field": "cfo",
+    "label": "Cash from operations",
+    "statement": "cash_flow",
+    "page": 7,
+    "period": "FY2025",
+    "issuer_value": "3.287",
+    "provider_value": "3.29",
+    "difference": "-0.003",
+    "result": "match",
+    "matched_text": "Net cash generated from/(used in) operating activities 1,566.85 32.87 (1,898.19)"
+   },
+   {
+    "field": "cfo",
+    "label": "Cash from operations",
+    "statement": "cash_flow",
+    "page": 7,
+    "period": "FY2024",
+    "issuer_value": "-189.819",
+    "provider_value": "-189.82",
+    "difference": "0.001",
+    "result": "match",
+    "matched_text": "Net cash generated from/(used in) operating activities 1,566.85 32.87 (1,898.19)"
+   }
+  ],
+  "summary": {
+   "compared": 45,
+   "match": 36,
+   "differs": 9
+  },
+  "selected": {
+   "document_sha256": "d6fcbfb703f9a261511d0bbbd3a11b1b8e4426a89e6ac650f37c5c16c442ca8a",
+   "statements": {
+    "balance_sheet": {
+     "page": 5,
+     "title_confirmed": true,
+     "periods": [
+      "FY2026",
+      "FY2025",
+      "FY2024"
+     ],
+     "unit_text": "Indian Rupees millions",
+     "lines": {
+      "trade_receivables": {
+       "state": "reported",
+       "matched_text": "(ii) Trade receivables 11 41.56 21.77 59.11",
+       "raw_values": {
+        "FY2026": "41.56",
+        "FY2025": "21.77",
+        "FY2024": "59.11"
+       },
+       "values_inr_million": {
+        "FY2026": "41.56",
+        "FY2025": "21.77",
+        "FY2024": "59.11"
+       },
+       "values_inr_crore": {
+        "FY2026": "4.156",
+        "FY2025": "2.177",
+        "FY2024": "5.911"
+       },
+       "unit": "INR crore (converted from INR million / 10)"
+      },
+      "cash": {
+       "state": "reported",
+       "matched_text": "(iii) Cash and cash equivalents 12 39.57 132.17 154.64",
+       "raw_values": {
+        "FY2026": "39.57",
+        "FY2025": "132.17",
+        "FY2024": "154.64"
+       },
+       "values_inr_million": {
+        "FY2026": "39.57",
+        "FY2025": "132.17",
+        "FY2024": "154.64"
+       },
+       "values_inr_crore": {
+        "FY2026": "3.957",
+        "FY2025": "13.217",
+        "FY2024": "15.464"
+       },
+       "unit": "INR crore (converted from INR million / 10)"
+      },
+      "current_investments": {
+       "state": "reported",
+       "matched_text": "(i) Investments 10(a) 4,044.61 2,036.26 1,809.11",
+       "raw_values": {
+        "FY2026": "4,044.61",
+        "FY2025": "2,036.26",
+        "FY2024": "1,809.11"
+       },
+       "values_inr_million": {
+        "FY2026": "4044.61",
+        "FY2025": "2036.26",
+        "FY2024": "1809.11"
+       },
+       "values_inr_crore": {
+        "FY2026": "404.461",
+        "FY2025": "203.626",
+        "FY2024": "180.911"
+       },
+       "unit": "INR crore (converted from INR million / 10)"
+      },
+      "current_assets": {
+       "state": "reported",
+       "matched_text": "Total current assets 4,459.37 2,806.07 2,791.56",
+       "raw_values": {
+        "FY2026": "4,459.37",
+        "FY2025": "2,806.07",
+        "FY2024": "2,791.56"
+       },
+       "values_inr_million": {
+        "FY2026": "4459.37",
+        "FY2025": "2806.07",
+        "FY2024": "2791.56"
+       },
+       "values_inr_crore": {
+        "FY2026": "445.937",
+        "FY2025": "280.607",
+        "FY2024": "279.156"
+       },
+       "unit": "INR crore (converted from INR million / 10)"
+      },
+      "total_assets": {
+       "state": "reported",
+       "matched_text": "TOTAL ASSETS 4,777.29 3,080.18 2,945.75",
+       "raw_values": {
+        "FY2026": "4,777.29",
+        "FY2025": "3,080.18",
+        "FY2024": "2,945.75"
+       },
+       "values_inr_million": {
+        "FY2026": "4777.29",
+        "FY2025": "3080.18",
+        "FY2024": "2945.75"
+       },
+       "values_inr_crore": {
+        "FY2026": "477.729",
+        "FY2025": "308.018",
+        "FY2024": "294.575"
+       },
+       "unit": "INR crore (converted from INR million / 10)"
+      },
+      "total_equity": {
+       "state": "reported",
+       "matched_text": "Total equity 1,790.34 1,477.12 1,166.56",
+       "raw_values": {
+        "FY2026": "1,790.34",
+        "FY2025": "1,477.12",
+        "FY2024": "1,166.56"
+       },
+       "values_inr_million": {
+        "FY2026": "1790.34",
+        "FY2025": "1477.12",
+        "FY2024": "1166.56"
+       },
+       "values_inr_crore": {
+        "FY2026": "179.034",
+        "FY2025": "147.712",
+        "FY2024": "116.656"
+       },
+       "unit": "INR crore (converted from INR million / 10)"
+      },
+      "settlement_and_other_fin_liabilities": {
+       "state": "reported",
+       "matched_text": "(iii) Other financial liabilities 21 2,862.67 1,492.98 1,638.63",
+       "raw_values": {
+        "FY2026": "2,862.67",
+        "FY2025": "1,492.98",
+        "FY2024": "1,638.63"
+       },
+       "values_inr_million": {
+        "FY2026": "2862.67",
+        "FY2025": "1492.98",
+        "FY2024": "1638.63"
+       },
+       "values_inr_crore": {
+        "FY2026": "286.267",
+        "FY2025": "149.298",
+        "FY2024": "163.863"
+       },
+       "unit": "INR crore (converted from INR million / 10)"
+      },
+      "current_liabilities": {
+       "state": "reported",
+       "matched_text": "Total current liabilities 2,945.99 1,557.64 1,724.33",
+       "raw_values": {
+        "FY2026": "2,945.99",
+        "FY2025": "1,557.64",
+        "FY2024": "1,724.33"
+       },
+       "values_inr_million": {
+        "FY2026": "2945.99",
+        "FY2025": "1557.64",
+        "FY2024": "1724.33"
+       },
+       "values_inr_crore": {
+        "FY2026": "294.599",
+        "FY2025": "155.764",
+        "FY2024": "172.433"
+       },
+       "unit": "INR crore (converted from INR million / 10)"
+      },
+      "total_liabilities": {
+       "state": "reported",
+       "matched_text": "TOTAL LIABILITIES 2,986.95 1,603.06 1,779.19",
+       "raw_values": {
+        "FY2026": "2,986.95",
+        "FY2025": "1,603.06",
+        "FY2024": "1,779.19"
+       },
+       "values_inr_million": {
+        "FY2026": "2986.95",
+        "FY2025": "1603.06",
+        "FY2024": "1779.19"
+       },
+       "values_inr_crore": {
+        "FY2026": "298.695",
+        "FY2025": "160.306",
+        "FY2024": "177.919"
+       },
+       "unit": "INR crore (converted from INR million / 10)"
+      },
+      "inventories": {
+       "state": "no_line_item",
+       "label_pattern": "Inventories"
+      }
+     }
+    },
+    "income_statement": {
+     "page": 6,
+     "title_confirmed": true,
+     "periods": [
+      "FY2026",
+      "FY2025",
+      "FY2024"
+     ],
+     "unit_text": "Indian Rupees millions",
+     "lines": {
+      "revenue_ops": {
+       "state": "reported",
+       "matched_text": "Revenue from operations 24 610.05 488.01 348.49",
+       "raw_values": {
+        "FY2026": "610.05",
+        "FY2025": "488.01",
+        "FY2024": "348.49"
+       },
+       "values_inr_million": {
+        "FY2026": "610.05",
+        "FY2025": "488.01",
+        "FY2024": "348.49"
+       },
+       "values_inr_crore": {
+        "FY2026": "61.005",
+        "FY2025": "48.801",
+        "FY2024": "34.849"
+       },
+       "unit": "INR crore (converted from INR million / 10)"
+      },
+      "other_income": {
+       "state": "reported",
+       "matched_text": "Other income 25 238.34 202.81 197.70",
+       "raw_values": {
+        "FY2026": "238.34",
+        "FY2025": "202.81",
+        "FY2024": "197.70"
+       },
+       "values_inr_million": {
+        "FY2026": "238.34",
+        "FY2025": "202.81",
+        "FY2024": "197.70"
+       },
+       "values_inr_crore": {
+        "FY2026": "23.834",
+        "FY2025": "20.281",
+        "FY2024": "19.77"
+       },
+       "unit": "INR crore (converted from INR million / 10)"
+      },
+      "total_income": {
+       "state": "reported",
+       "matched_text": "Total Income 848.39 690.82 546.19",
+       "raw_values": {
+        "FY2026": "848.39",
+        "FY2025": "690.82",
+        "FY2024": "546.19"
+       },
+       "values_inr_million": {
+        "FY2026": "848.39",
+        "FY2025": "690.82",
+        "FY2024": "546.19"
+       },
+       "values_inr_crore": {
+        "FY2026": "84.839",
+        "FY2025": "69.082",
+        "FY2024": "54.619"
+       },
+       "unit": "INR crore (converted from INR million / 10)"
+      },
+      "total_expenses": {
+       "state": "reported",
+       "matched_text": "Total expenses 290.14 287.78 239.02",
+       "raw_values": {
+        "FY2026": "290.14",
+        "FY2025": "287.78",
+        "FY2024": "239.02"
+       },
+       "values_inr_million": {
+        "FY2026": "290.14",
+        "FY2025": "287.78",
+        "FY2024": "239.02"
+       },
+       "values_inr_crore": {
+        "FY2026": "29.014",
+        "FY2025": "28.778",
+        "FY2024": "23.902"
+       },
+       "unit": "INR crore (converted from INR million / 10)"
+      },
+      "finance_cost": {
+       "state": "reported",
+       "matched_text": "Finance costs 27 4.63 6.21 4.41",
+       "raw_values": {
+        "FY2026": "4.63",
+        "FY2025": "6.21",
+        "FY2024": "4.41"
+       },
+       "values_inr_million": {
+        "FY2026": "4.63",
+        "FY2025": "6.21",
+        "FY2024": "4.41"
+       },
+       "values_inr_crore": {
+        "FY2026": "0.463",
+        "FY2025": "0.621",
+        "FY2024": "0.441"
+       },
+       "unit": "INR crore (converted from INR million / 10)"
+      },
+      "pbt": {
+       "state": "reported",
+       "matched_text": "Restated Profit before tax 558.25 403.04 307.17",
+       "raw_values": {
+        "FY2026": "558.25",
+        "FY2025": "403.04",
+        "FY2024": "307.17"
+       },
+       "values_inr_million": {
+        "FY2026": "558.25",
+        "FY2025": "403.04",
+        "FY2024": "307.17"
+       },
+       "values_inr_crore": {
+        "FY2026": "55.825",
+        "FY2025": "40.304",
+        "FY2024": "30.717"
+       },
+       "unit": "INR crore (converted from INR million / 10)"
+      },
+      "tax": {
+       "state": "reported",
+       "matched_text": "Total tax expense 138.03 95.11 76.67",
+       "raw_values": {
+        "FY2026": "138.03",
+        "FY2025": "95.11",
+        "FY2024": "76.67"
+       },
+       "values_inr_million": {
+        "FY2026": "138.03",
+        "FY2025": "95.11",
+        "FY2024": "76.67"
+       },
+       "values_inr_crore": {
+        "FY2026": "13.803",
+        "FY2025": "9.511",
+        "FY2024": "7.667"
+       },
+       "unit": "INR crore (converted from INR million / 10)"
+      },
+      "pat": {
+       "state": "reported",
+       "matched_text": "Restated Profit for the year (A) 420.22 307.93 230.50",
+       "raw_values": {
+        "FY2026": "420.22",
+        "FY2025": "307.93",
+        "FY2024": "230.50"
+       },
+       "values_inr_million": {
+        "FY2026": "420.22",
+        "FY2025": "307.93",
+        "FY2024": "230.50"
+       },
+       "values_inr_crore": {
+        "FY2026": "42.022",
+        "FY2025": "30.793",
+        "FY2024": "23.05"
+       },
+       "unit": "INR crore (converted from INR million / 10)"
+      },
+      "eps": {
+       "state": "reported",
+       "matched_text": "Basic ( ₹) 5.68 4.17 3.12",
+       "raw_values": {
+        "FY2026": "5.68",
+        "FY2025": "4.17",
+        "FY2024": "3.12"
+       },
+       "values_inr_million": {
+        "FY2026": "5.68",
+        "FY2025": "4.17",
+        "FY2024": "3.12"
+       },
+       "values_inr_crore": {
+        "FY2026": "5.68",
+        "FY2025": "4.17",
+        "FY2024": "3.12"
+       },
+       "unit": "INR per share"
+      }
+     }
+    },
+    "cash_flow": {
+     "page": 7,
+     "title_confirmed": true,
+     "periods": [
+      "FY2026",
+      "FY2025",
+      "FY2024"
+     ],
+     "unit_text": "Indian Rupees millions",
+     "lines": {
+      "cfo": {
+       "state": "reported",
+       "matched_text": "Net cash generated from/(used in) operating activities 1,566.85 32.87 (1,898.19)",
+       "raw_values": {
+        "FY2026": "1,566.85",
+        "FY2025": "32.87",
+        "FY2024": "(1,898.19)"
+       },
+       "values_inr_million": {
+        "FY2026": "1566.85",
+        "FY2025": "32.87",
+        "FY2024": "-1898.19"
+       },
+       "values_inr_crore": {
+        "FY2026": "156.685",
+        "FY2025": "3.287",
+        "FY2024": "-189.819"
+       },
+       "unit": "INR crore (converted from INR million / 10)"
+      }
+     }
+    }
+   }
+  },
+  "operating_scope": {
+   "basis": "issuer_and_esos_trust",
+   "operating_comparison_basis": "standalone",
+   "label": "Restated IGX and employee share trust",
+   "note": "IGX treats its employee share trust as an extension of the issuer. The restated income statement supports an operating comparison with standalone exchanges. IGX is an associate of IEX, its promoter.",
+   "scope_page": 55,
+   "relationship_page": 9
+  }
+ },
+ "agent": {
+  "inventories": {
+   "company": "igx",
+   "field": "inventories",
+   "status": "inapplicable",
+   "summary": "Not applicable: the restated balance sheet (p5) lists no inventories line, and the issuer states inventory ratios are not applicable to its business (p54).",
+   "how_to_verify": "Open igx-restated-financials p5 and p54.",
+   "expectation": {
+    "level": "not_expected",
+    "reason": "An exchange earns transaction and membership fees; it does not hold goods for sale."
+   },
+   "evidence": [
+    {
+     "document": "igx-restated-financials",
+     "url": "https://testwebcms.igxindia.com/files/financials-5bCIC136dXcpEa1daoEb.pdf",
+     "page": 54,
+     "match": "Inventory",
+     "snippet": "…(ii) Debt-Equity ratio (For the purpose of this ratio, lease liability has not been considered as debt) (iii) Inventory turnover ratio (i) Debt service coverage ratio (For the purpose of this ratio, lease liability has not been c…",
+     "kind": "explicit_not_applicable"
+    },
+    {
+     "document": "igx-drhp",
+     "url": "https://testwebcms.igxindia.com/files/drhp-6w0Qkr9JEHUyvsQQbc1.pdf",
+     "page": 355,
+     "match": "Inventory",
+     "snippet": "…(ii) Debt-Equity ratio (For the purpose of this ratio, lease liability has not been considered as debt) (iii) Inventory turnover ratio 350",
+     "kind": "explicit_not_applicable"
+    },
+    {
+     "document": "igx-drhp",
+     "url": "https://testwebcms.igxindia.com/files/drhp-6w0Qkr9JEHUyvsQQbc1.pdf",
+     "page": 188,
+     "match": "inventory",
+     "snippet": "…has emerged as the second most popular contract type, providing a middle ground for gas utilities to manage inventory without committing to a full month. • Weekly (approximately 5% in Fiscal 2026): Peaked significantly in Fis…",
+     "kind": "narrative_mention"
+    },
+    {
+     "document": "igx-drhp",
+     "url": "https://testwebcms.igxindia.com/files/drhp-6w0Qkr9JEHUyvsQQbc1.pdf",
+     "page": 195,
+     "match": "inventory",
+     "snippet": "…products. • It also enhances competition, lower transaction and counterparty risks, and improves supply and inventory planning through real-time market signals • IGX has submitted an application to the PNGRB to introduce petr…",
+     "kind": "narrative_mention"
+    },
+    {
+     "document": "igx-drhp",
+     "url": "https://testwebcms.igxindia.com/files/drhp-6w0Qkr9JEHUyvsQQbc1.pdf",
+     "page": 223,
+     "match": "Inventories",
+     "snippet": "…rgin = Revenue from Operations – Cost of material - Purchases of stock -in-trade of natural gas - Changes in Inventories – Excise Duty EBITDA = Profit Before Tax + Finance Cost + Depreciation & Amortization EBITDA Margin = EBI…",
+     "kind": "narrative_mention"
+    },
+    {
+     "document": "igx-drhp",
+     "url": "https://testwebcms.igxindia.com/files/drhp-6w0Qkr9JEHUyvsQQbc1.pdf",
+     "page": 235,
+     "match": "Inventories",
+     "snippet": "…rgin = Revenue from Operations – Cost of material - Purchases of stock -in-trade of natural gas - Changes in Inventories – Excise Duty EBITDA = Profit After Tax + Tax Expense + Finance Cost + Depreciation & Amortization EBITDA…",
+     "kind": "narrative_mention"
+    }
+   ],
+   "evidence_total": 6,
+   "next_checks": [
+    "Audited annual report: balance sheet 'Inventories' line and note on valuation"
+   ],
+   "trace": [
+    {
+     "step": 1,
+     "tool": "provider_lookup",
+     "input": {
+      "company": "igx",
+      "field": "inventories"
+     },
+     "output": {
+      "found": false,
+      "periods": [],
+      "detail": "no matching line in the provider's parsed statements"
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 2,
+     "tool": "applicability_rule",
+     "input": {
+      "field": "inventories",
+      "business_model": "exchange"
+     },
+     "output": {
+      "expectation": "not_expected",
+      "reason": "An exchange earns transaction and membership fees; it does not hold goods for sale."
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 3,
+     "tool": "statement_line_check",
+     "input": {
+      "document": "igx-restated-financials",
+      "page": 5
+     },
+     "output": {
+      "document": "igx-restated-financials",
+      "page": 5,
+      "title_confirmed": true,
+      "inventories_line": "no_line_item",
+      "current_assets_line": "reported"
+     },
+     "ms": 9.0
+    },
+    {
+     "step": 4,
+     "tool": "document_search",
+     "input": {
+      "documents": [
+       "igx-restated-financials",
+       "igx-abridged-prospectus",
+       "igx-drhp"
+      ],
+      "patterns": [
+       "\\binventor(?:y|ies)\\b"
+      ]
+     },
+     "output": {
+      "documents_searched": [
+       {
+        "document": "igx-restated-financials",
+        "pages": 59,
+        "sha256": "d6fcbfb703f9a261"
+       },
+       {
+        "document": "igx-abridged-prospectus",
+        "pages": 12,
+        "sha256": "1c01ddfcde4e620d"
+       },
+       {
+        "document": "igx-drhp",
+        "pages": 469,
+        "sha256": "7016cee34f4ce8cc"
+       }
+      ],
+      "pages_with_word_matches": 6,
+      "pages_with_naive_substring": 6,
+      "note": "naive substring 'inventor' also matches unrelated words (e.g. 'COMPANY' contains 'NPA'); word-boundary patterns used"
+     },
+     "ms": 175.8
+    },
+    {
+     "step": 5,
+     "tool": "classify_passages",
+     "input": {
+      "passages": 6
+     },
+     "output": {
+      "by_kind": {
+       "explicit_not_applicable": 2,
+       "narrative_mention": 4
+      }
+     },
+     "ms": 0.9
+    },
+    {
+     "step": 6,
+     "tool": "verdict",
+     "input": {
+      "signals": {
+       "provider": false,
+       "numeric": 0,
+       "explicit_na": 2,
+       "line_check": "no_line_item",
+       "expectation": "not_expected"
+      }
+     },
+     "output": {
+      "status": "inapplicable",
+      "summary": "Not applicable: the restated balance sheet (p5) lists no inventories line, and the issuer states inventory ratios are not applicable to its business (p54).",
+      "how_to_verify": "Open igx-restated-financials p5 and p54."
+     },
+     "ms": 0.0
+    }
+   ],
+   "executed": "deterministic tool sequence (no language model call)"
+  },
+  "npa": {
+   "company": "igx",
+   "field": "npa",
+   "status": "inapplicable",
+   "summary": "Not applicable by business model: NPA is a lender asset-quality measure; this business has no loan book to classify. Word-boundary search of 540 issuer pages found no NPA disclosure.",
+   "how_to_verify": "No mentions to review; the business-model rule decides.",
+   "expectation": {
+    "level": "not_applicable",
+    "reason": "NPA is a lender asset-quality measure; this business has no loan book to classify."
+   },
+   "evidence": [],
+   "evidence_total": 0,
+   "next_checks": [
+    "Annual report notes: 'Stage 3 assets', 'Gross NPA', 'Net NPA' (RBI disclosure for NBFCs)"
+   ],
+   "trace": [
+    {
+     "step": 1,
+     "tool": "provider_lookup",
+     "input": {
+      "company": "igx",
+      "field": "gross_npa"
+     },
+     "output": {
+      "found": false,
+      "periods": [],
+      "detail": "no matching line in the provider's parsed statements"
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 2,
+     "tool": "applicability_rule",
+     "input": {
+      "field": "npa",
+      "business_model": "exchange"
+     },
+     "output": {
+      "expectation": "not_applicable",
+      "reason": "NPA is a lender asset-quality measure; this business has no loan book to classify."
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 3,
+     "tool": "statement_line_check",
+     "input": {
+      "document": null
+     },
+     "output": {
+      "skipped": true,
+      "why": "not used for NPA"
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 4,
+     "tool": "document_search",
+     "input": {
+      "documents": [
+       "igx-restated-financials",
+       "igx-abridged-prospectus",
+       "igx-drhp"
+      ],
+      "patterns": [
+       "\\bG?N?NPAs?\\b",
+       "\\bnon[- ]performing (?:assets?|loans?)\\b",
+       "\\bstage\\s*(?:3|III)\\s+(?:assets|loans)\\b"
+      ]
+     },
+     "output": {
+      "documents_searched": [
+       {
+        "document": "igx-restated-financials",
+        "pages": 59,
+        "sha256": "d6fcbfb703f9a261"
+       },
+       {
+        "document": "igx-abridged-prospectus",
+        "pages": 12,
+        "sha256": "1c01ddfcde4e620d"
+       },
+       {
+        "document": "igx-drhp",
+        "pages": 469,
+        "sha256": "7016cee34f4ce8cc"
+       }
+      ],
+      "pages_with_word_matches": 0,
+      "pages_with_naive_substring": 9,
+      "note": "naive substring 'npa' also matches unrelated words (e.g. 'COMPANY' contains 'NPA'); word-boundary patterns used"
+     },
+     "ms": 338.6
+    },
+    {
+     "step": 5,
+     "tool": "classify_passages",
+     "input": {
+      "passages": 0
+     },
+     "output": {
+      "by_kind": {}
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 6,
+     "tool": "verdict",
+     "input": {
+      "signals": {
+       "provider": false,
+       "numeric": 0,
+       "explicit_na": 0,
+       "line_check": null,
+       "expectation": "not_applicable"
+      }
+     },
+     "output": {
+      "status": "inapplicable",
+      "summary": "Not applicable by business model: NPA is a lender asset-quality measure; this business has no loan book to classify. Word-boundary search of 540 issuer pages found no NPA disclosure.",
+      "how_to_verify": "No mentions to review; the business-model rule decides."
+     },
+     "ms": 0.0
+    }
+   ],
+   "executed": "deterministic tool sequence (no language model call)"
+  }
+ },
+ "metrics": {
+  "FY2022": {
+   "revenue_growth": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "(current / previous) - 1",
+    "inputs": {
+     "current": "11.22",
+     "previous": null
+    },
+    "unit": "%",
+    "ev": [
+     "ev8"
+    ]
+   },
+   "pat_margin": {
+    "value": "10.0172",
+    "state": "ok",
+    "formula": "PAT / total income x 100",
+    "inputs": {
+     "pat": "1.75",
+     "total_income": "17.47"
+    },
+    "unit": "%",
+    "ev": [
+     "ev43",
+     "ev3"
+    ]
+   },
+   "net_profit_ratio": {
+    "value": "15.5971",
+    "state": "ok",
+    "formula": "PAT / revenue from operations x 100",
+    "inputs": {
+     "pat": "1.75",
+     "revenue_ops": "11.22"
+    },
+    "unit": "%",
+    "ev": [
+     "ev43",
+     "ev8"
+    ]
+   },
+   "other_income_share": {
+    "value": "35.7756",
+    "state": "ok",
+    "formula": "other income / total income x 100",
+    "inputs": {
+     "other_income": "6.25",
+     "total_income": "17.47"
+    },
+    "unit": "%",
+    "ev": [
+     "ev13",
+     "ev3"
+    ]
+   },
+   "current_ratio": {
+    "value": "1.1227",
+    "state": "ok",
+    "formula": "current assets / current liabilities",
+    "inputs": {
+     "current_assets": "506.17",
+     "current_liabilities": "450.86"
+    },
+    "unit": "x",
+    "ev": [
+     "ev63",
+     "ev68"
+    ]
+   },
+   "quick_ratio": {
+    "value": "1.1227",
+    "state": "ok",
+    "formula": "(current assets - inventories) / current liabilities",
+    "inputs": {
+     "current_assets": "506.17",
+     "inventories": "0",
+     "current_liabilities": "450.86"
+    },
+    "note": "inventories treated as nil: issuer states inventory ratios are not applicable and the balance sheet has no inventories line",
+    "unit": "x",
+    "ev": [
+     "ev63",
+     "ev68"
+    ]
+   },
+   "roe": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "PAT / average of opening and closing equity x 100",
+    "inputs": {
+     "pat": "1.75",
+     "average_equity": null
+    },
+    "unit": "%",
+    "ev": [
+     "ev43",
+     "ev53"
+    ]
+   },
+   "roce": {
+    "value": "3.3741",
+    "state": "ok",
+    "formula": "(PBT + finance cost) / (total assets - current liabilities) x 100",
+    "inputs": {
+     "ebit": "2.29",
+     "capital_employed": "67.87"
+    },
+    "unit": "%",
+    "ev": [
+     "ev33",
+     "ev23",
+     "ev48",
+     "ev68"
+    ]
+   },
+   "cfo_to_pat": {
+    "value": "237.7829",
+    "state": "ok",
+    "formula": "cash from operations / PAT",
+    "inputs": {
+     "cfo": "416.12",
+     "pat": "1.75"
+    },
+    "unit": "x",
+    "ev": [
+     "ev73",
+     "ev43"
+    ],
+    "note": "exchange/broker CFO includes member settlement and margin flows; swings are not earnings quality by themselves"
+   }
+  },
+  "FY2023": {
+   "revenue_growth": {
+    "value": "280.5704",
+    "state": "ok",
+    "formula": "(current / previous) - 1",
+    "inputs": {
+     "current": "42.7",
+     "previous": "11.22"
+    },
+    "unit": "%",
+    "ev": [
+     "ev9",
+     "ev8"
+    ]
+   },
+   "pat_margin": {
+    "value": "45.2404",
+    "state": "ok",
+    "formula": "PAT / total income x 100",
+    "inputs": {
+     "pat": "28.04",
+     "total_income": "61.98"
+    },
+    "unit": "%",
+    "ev": [
+     "ev44",
+     "ev4"
+    ]
+   },
+   "net_profit_ratio": {
+    "value": "65.6674",
+    "state": "ok",
+    "formula": "PAT / revenue from operations x 100",
+    "inputs": {
+     "pat": "28.04",
+     "revenue_ops": "42.7"
+    },
+    "unit": "%",
+    "ev": [
+     "ev44",
+     "ev9"
+    ]
+   },
+   "other_income_share": {
+    "value": "31.1068",
+    "state": "ok",
+    "formula": "other income / total income x 100",
+    "inputs": {
+     "other_income": "19.28",
+     "total_income": "61.98"
+    },
+    "unit": "%",
+    "ev": [
+     "ev14",
+     "ev4"
+    ]
+   },
+   "current_ratio": {
+    "value": "1.2072",
+    "state": "ok",
+    "formula": "current assets / current liabilities",
+    "inputs": {
+     "current_assets": "444.61",
+     "current_liabilities": "368.31"
+    },
+    "unit": "x",
+    "ev": [
+     "ev64",
+     "ev69"
+    ]
+   },
+   "quick_ratio": {
+    "value": "1.2072",
+    "state": "ok",
+    "formula": "(current assets - inventories) / current liabilities",
+    "inputs": {
+     "current_assets": "444.61",
+     "inventories": "0",
+     "current_liabilities": "368.31"
+    },
+    "note": "inventories treated as nil: issuer states inventory ratios are not applicable and the balance sheet has no inventories line",
+    "unit": "x",
+    "ev": [
+     "ev64",
+     "ev69"
+    ]
+   },
+   "roe": {
+    "value": "35.3082",
+    "state": "ok",
+    "formula": "PAT / average of opening and closing equity x 100",
+    "inputs": {
+     "pat": "28.04",
+     "average_equity": "79.415"
+    },
+    "unit": "%",
+    "ev": [
+     "ev44",
+     "ev54",
+     "ev53"
+    ]
+   },
+   "roce": {
+    "value": "37.8419",
+    "state": "ok",
+    "formula": "(PBT + finance cost) / (total assets - current liabilities) x 100",
+    "inputs": {
+     "ebit": "38.05",
+     "capital_employed": "100.55"
+    },
+    "unit": "%",
+    "ev": [
+     "ev34",
+     "ev24",
+     "ev49",
+     "ev69"
+    ]
+   },
+   "cfo_to_pat": {
+    "value": "-2.4223",
+    "state": "ok",
+    "formula": "cash from operations / PAT",
+    "inputs": {
+     "cfo": "-67.92",
+     "pat": "28.04"
+    },
+    "unit": "x",
+    "ev": [
+     "ev74",
+     "ev44"
+    ],
+    "note": "exchange/broker CFO includes member settlement and margin flows; swings are not earnings quality by themselves"
+   }
+  },
+  "FY2024": {
+   "revenue_growth": {
+    "value": "-18.3841",
+    "state": "ok",
+    "formula": "(current / previous) - 1",
+    "inputs": {
+     "current": "34.85",
+     "previous": "42.7"
+    },
+    "unit": "%",
+    "ev": [
+     "ev10",
+     "ev9"
+    ]
+   },
+   "pat_margin": {
+    "value": "42.2007",
+    "state": "ok",
+    "formula": "PAT / total income x 100",
+    "inputs": {
+     "pat": "23.05",
+     "total_income": "54.62"
+    },
+    "unit": "%",
+    "ev": [
+     "ev45",
+     "ev5"
+    ]
+   },
+   "net_profit_ratio": {
+    "value": "66.1406",
+    "state": "ok",
+    "formula": "PAT / revenue from operations x 100",
+    "inputs": {
+     "pat": "23.05",
+     "revenue_ops": "34.85"
+    },
+    "unit": "%",
+    "ev": [
+     "ev45",
+     "ev10"
+    ]
+   },
+   "other_income_share": {
+    "value": "36.1955",
+    "state": "ok",
+    "formula": "other income / total income x 100",
+    "inputs": {
+     "other_income": "19.77",
+     "total_income": "54.62"
+    },
+    "unit": "%",
+    "ev": [
+     "ev15",
+     "ev5"
+    ]
+   },
+   "current_ratio": {
+    "value": "1.6190",
+    "state": "ok",
+    "formula": "current assets / current liabilities",
+    "inputs": {
+     "current_assets": "279.16",
+     "current_liabilities": "172.43"
+    },
+    "unit": "x",
+    "ev": [
+     "ev65",
+     "ev70"
+    ]
+   },
+   "quick_ratio": {
+    "value": "1.6190",
+    "state": "ok",
+    "formula": "(current assets - inventories) / current liabilities",
+    "inputs": {
+     "current_assets": "279.16",
+     "inventories": "0",
+     "current_liabilities": "172.43"
+    },
+    "note": "inventories treated as nil: issuer states inventory ratios are not applicable and the balance sheet has no inventories line",
+    "unit": "x",
+    "ev": [
+     "ev65",
+     "ev70"
+    ]
+   },
+   "roe": {
+    "value": "21.9367",
+    "state": "ok",
+    "formula": "PAT / average of opening and closing equity x 100",
+    "inputs": {
+     "pat": "23.05",
+     "average_equity": "105.075"
+    },
+    "unit": "%",
+    "ev": [
+     "ev45",
+     "ev55",
+     "ev54"
+    ]
+   },
+   "roce": {
+    "value": "25.5096",
+    "state": "ok",
+    "formula": "(PBT + finance cost) / (total assets - current liabilities) x 100",
+    "inputs": {
+     "ebit": "31.16",
+     "capital_employed": "122.15"
+    },
+    "unit": "%",
+    "ev": [
+     "ev35",
+     "ev25",
+     "ev50",
+     "ev70"
+    ]
+   },
+   "cfo_to_pat": {
+    "value": "-8.2351",
+    "state": "ok",
+    "formula": "cash from operations / PAT",
+    "inputs": {
+     "cfo": "-189.82",
+     "pat": "23.05"
+    },
+    "unit": "x",
+    "ev": [
+     "ev75",
+     "ev45"
+    ],
+    "note": "exchange/broker CFO includes member settlement and margin flows; swings are not earnings quality by themselves"
+   }
+  },
+  "FY2025": {
+   "revenue_growth": {
+    "value": "40.0287",
+    "state": "ok",
+    "formula": "(current / previous) - 1",
+    "inputs": {
+     "current": "48.8",
+     "previous": "34.85"
+    },
+    "unit": "%",
+    "ev": [
+     "ev11",
+     "ev10"
+    ]
+   },
+   "pat_margin": {
+    "value": "44.8031",
+    "state": "ok",
+    "formula": "PAT / total income x 100",
+    "inputs": {
+     "pat": "30.95",
+     "total_income": "69.08"
+    },
+    "unit": "%",
+    "ev": [
+     "ev46",
+     "ev6"
+    ]
+   },
+   "net_profit_ratio": {
+    "value": "63.4221",
+    "state": "ok",
+    "formula": "PAT / revenue from operations x 100",
+    "inputs": {
+     "pat": "30.95",
+     "revenue_ops": "48.8"
+    },
+    "unit": "%",
+    "ev": [
+     "ev46",
+     "ev11"
+    ]
+   },
+   "other_income_share": {
+    "value": "29.3573",
+    "state": "ok",
+    "formula": "other income / total income x 100",
+    "inputs": {
+     "other_income": "20.28",
+     "total_income": "69.08"
+    },
+    "unit": "%",
+    "ev": [
+     "ev16",
+     "ev6"
+    ]
+   },
+   "current_ratio": {
+    "value": "1.8031",
+    "state": "ok",
+    "formula": "current assets / current liabilities",
+    "inputs": {
+     "current_assets": "280.29",
+     "current_liabilities": "155.45"
+    },
+    "unit": "x",
+    "ev": [
+     "ev66",
+     "ev71"
+    ]
+   },
+   "quick_ratio": {
+    "value": "1.8031",
+    "state": "ok",
+    "formula": "(current assets - inventories) / current liabilities",
+    "inputs": {
+     "current_assets": "280.29",
+     "inventories": "0",
+     "current_liabilities": "155.45"
+    },
+    "note": "inventories treated as nil: issuer states inventory ratios are not applicable and the balance sheet has no inventories line",
+    "unit": "x",
+    "ev": [
+     "ev66",
+     "ev71"
+    ]
+   },
+   "roe": {
+    "value": "23.4142",
+    "state": "ok",
+    "formula": "PAT / average of opening and closing equity x 100",
+    "inputs": {
+     "pat": "30.95",
+     "average_equity": "132.185"
+    },
+    "unit": "%",
+    "ev": [
+     "ev46",
+     "ev56",
+     "ev55"
+    ]
+   },
+   "roce": {
+    "value": "26.9802",
+    "state": "ok",
+    "formula": "(PBT + finance cost) / (total assets - current liabilities) x 100",
+    "inputs": {
+     "ebit": "41.08",
+     "capital_employed": "152.26"
+    },
+    "unit": "%",
+    "ev": [
+     "ev36",
+     "ev26",
+     "ev51",
+     "ev71"
+    ]
+   },
+   "cfo_to_pat": {
+    "value": "0.1063",
+    "state": "ok",
+    "formula": "cash from operations / PAT",
+    "inputs": {
+     "cfo": "3.29",
+     "pat": "30.95"
+    },
+    "unit": "x",
+    "ev": [
+     "ev76",
+     "ev46"
+    ],
+    "note": "exchange/broker CFO includes member settlement and margin flows; swings are not earnings quality by themselves"
+   }
+  },
+  "FY2026": {
+   "revenue_growth": {
+    "value": "25.0205",
+    "state": "ok",
+    "formula": "(current / previous) - 1",
+    "inputs": {
+     "current": "61.01",
+     "previous": "48.8"
+    },
+    "unit": "%",
+    "ev": [
+     "ev12",
+     "ev11"
+    ]
+   },
+   "pat_margin": {
+    "value": "49.5285",
+    "state": "ok",
+    "formula": "PAT / total income x 100",
+    "inputs": {
+     "pat": "42.02",
+     "total_income": "84.84"
+    },
+    "unit": "%",
+    "ev": [
+     "ev47",
+     "ev7"
+    ]
+   },
+   "net_profit_ratio": {
+    "value": "68.8740",
+    "state": "ok",
+    "formula": "PAT / revenue from operations x 100",
+    "inputs": {
+     "pat": "42.02",
+     "revenue_ops": "61.01"
+    },
+    "unit": "%",
+    "ev": [
+     "ev47",
+     "ev12"
+    ]
+   },
+   "other_income_share": {
+    "value": "28.0882",
+    "state": "ok",
+    "formula": "other income / total income x 100",
+    "inputs": {
+     "other_income": "23.83",
+     "total_income": "84.84"
+    },
+    "unit": "%",
+    "ev": [
+     "ev17",
+     "ev7"
+    ]
+   },
+   "current_ratio": {
+    "value": "1.5137",
+    "state": "ok",
+    "formula": "current assets / current liabilities",
+    "inputs": {
+     "current_assets": "445.94",
+     "current_liabilities": "294.6"
+    },
+    "unit": "x",
+    "ev": [
+     "ev67",
+     "ev72"
+    ]
+   },
+   "quick_ratio": {
+    "value": "1.5137",
+    "state": "ok",
+    "formula": "(current assets - inventories) / current liabilities",
+    "inputs": {
+     "current_assets": "445.94",
+     "inventories": "0",
+     "current_liabilities": "294.6"
+    },
+    "note": "inventories treated as nil: issuer states inventory ratios are not applicable and the balance sheet has no inventories line",
+    "unit": "x",
+    "ev": [
+     "ev67",
+     "ev72"
+    ]
+   },
+   "roe": {
+    "value": "25.7208",
+    "state": "ok",
+    "formula": "PAT / average of opening and closing equity x 100",
+    "inputs": {
+     "pat": "42.02",
+     "average_equity": "163.37"
+    },
+    "unit": "%",
+    "ev": [
+     "ev47",
+     "ev57",
+     "ev56"
+    ]
+   },
+   "roce": {
+    "value": "30.7377",
+    "state": "ok",
+    "formula": "(PBT + finance cost) / (total assets - current liabilities) x 100",
+    "inputs": {
+     "ebit": "56.29",
+     "capital_employed": "183.13"
+    },
+    "unit": "%",
+    "ev": [
+     "ev37",
+     "ev27",
+     "ev52",
+     "ev72"
+    ]
+   },
+   "cfo_to_pat": {
+    "value": "3.7337",
+    "state": "ok",
+    "formula": "cash from operations / PAT",
+    "inputs": {
+     "cfo": "156.89",
+     "pat": "42.02"
+    },
+    "unit": "x",
+    "ev": [
+     "ev77",
+     "ev47"
+    ],
+    "note": "exchange/broker CFO includes member settlement and margin flows; swings are not earnings quality by themselves"
+   }
+  }
+ },
+ "valuation": {
+  "period": "FY2026",
+  "shares_used": "74030400",
+  "shares_source": "shares_details",
+  "market_cap": {
+   "value": "3612.6835",
+   "state": "ok",
+   "formula": "price (INR) x shares outstanding / 1e7",
+   "inputs": {
+    "price_inr": "488.00",
+    "shares": "74030400"
+   },
+   "unit": "INR crore"
+  },
+  "eps": {
+   "value": "5.6760",
+   "state": "ok",
+   "formula": "PAT (INR crore) x 1e7 / shares outstanding",
+   "inputs": {
+    "pat_cr": "42.02",
+    "shares": "74030400"
+   },
+   "unit": "INR"
+  },
+  "pe": {
+   "value": "85.9760",
+   "state": "ok",
+   "formula": "price / EPS",
+   "inputs": {
+    "price_inr": "488.00",
+    "eps": "5.6760"
+   },
+   "unit": "x"
+  },
+  "pb": {
+   "value": "20.1792",
+   "state": "ok",
+   "formula": "market cap / total equity",
+   "inputs": {
+    "market_cap": "3612.68352",
+    "total_equity": "179.03"
+   },
+   "unit": "x"
+  },
+  "ps": {
+   "value": "42.5823",
+   "state": "ok",
+   "formula": "market cap / total income",
+   "inputs": {
+    "market_cap": "3612.68352",
+    "total_income": "84.84"
+   },
+   "unit": "x"
+  },
+  "provider": {
+   "pe": "87.46",
+   "mcap": "3,660.00 Crore",
+   "eps": "5.58"
+  },
+  "note": "Valued at an indicative unlisted dealer quote against the latest fiscal-year PAT; not a traded market price."
+ },
+ "coverage_gaps": [
+  {
+   "field": "inventories",
+   "state": "not_in_source",
+   "label": "Inventories"
+  },
+  {
+   "field": "cash",
+   "state": "not_in_source",
+   "label": "Cash & equivalents"
+  }
+ ],
+ "checks": [
+  {
+   "check": "balance_identity",
+   "period": "FY2022",
+   "result": "pass",
+   "detail": "assets 518.73 - (equity 65.34 + liabilities 453.39) = 0.00"
+  },
+  {
+   "check": "income_identity",
+   "period": "FY2022",
+   "result": "pass",
+   "detail": "total income 17.47 - (operations 11.22 + other 6.25 + separate income lines 0) = 0.00"
+  },
+  {
+   "check": "balance_identity",
+   "period": "FY2023",
+   "result": "pass",
+   "detail": "assets 468.86 - (equity 93.49 + liabilities 375.38) = -0.01"
+  },
+  {
+   "check": "income_identity",
+   "period": "FY2023",
+   "result": "pass",
+   "detail": "total income 61.98 - (operations 42.7 + other 19.28 + separate income lines 0) = 0.00"
+  },
+  {
+   "check": "balance_identity",
+   "period": "FY2024",
+   "result": "pass",
+   "detail": "assets 294.58 - (equity 116.66 + liabilities 177.92) = 0.00"
+  },
+  {
+   "check": "income_identity",
+   "period": "FY2024",
+   "result": "pass",
+   "detail": "total income 54.62 - (operations 34.85 + other 19.77 + separate income lines 0) = 0.00"
+  },
+  {
+   "check": "balance_identity",
+   "period": "FY2025",
+   "result": "pass",
+   "detail": "assets 307.71 - (equity 147.71 + liabilities 159.99) = 0.01"
+  },
+  {
+   "check": "income_identity",
+   "period": "FY2025",
+   "result": "pass",
+   "detail": "total income 69.08 - (operations 48.8 + other 20.28 + separate income lines 0) = 0.00"
+  },
+  {
+   "check": "balance_identity",
+   "period": "FY2026",
+   "result": "pass",
+   "detail": "assets 477.73 - (equity 179.03 + liabilities 298.7) = 0.00"
+  },
+  {
+   "check": "income_identity",
+   "period": "FY2026",
+   "result": "pass",
+   "detail": "total income 84.84 - (operations 61.01 + other 23.83 + separate income lines 0) = 0.00"
+  },
+  {
+   "check": "shares_outstanding_consistency",
+   "result": "conflict",
+   "detail": {
+    "shares_fundamentals": "75000000",
+    "shares_details": "74030400",
+    "summary_latest_fy": "74030400"
+   }
+  },
+  {
+   "check": "ipo_status",
+   "result": "conflict",
+   "detail": "provider shows 'DRHP Filed? No' but the issuer's investor-relations page links a Draft Red Herring Prospectus"
+  }
+ ],
+ "provider_ratios": {
+  "EBITDA Margin": {
+   "FY2026": {
+    "raw_text": "69.08%",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "66.94%",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "62.10%",
+    "state": "reported"
+   },
+   "FY2023": {
+    "raw_text": "64.91%",
+    "state": "reported"
+   },
+   "FY2022": {
+    "raw_text": "19.64%",
+    "state": "reported"
+   }
+  },
+  "EBIT Margin": {
+   "FY2026": {
+    "raw_text": "66.35%",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "59.46%",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "57.04%",
+    "state": "reported"
+   },
+   "FY2023": {
+    "raw_text": "61.38%",
+    "state": "reported"
+   },
+   "FY2022": {
+    "raw_text": "13.13%",
+    "state": "reported"
+   }
+  },
+  "Return on Equity (ROE)": {
+   "FY2026": {
+    "raw_text": "23.47%",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "20.95%",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "19.76%",
+    "state": "reported"
+   },
+   "FY2023": {
+    "raw_text": "29.99%",
+    "state": "reported"
+   },
+   "FY2022": {
+    "raw_text": "2.69%",
+    "state": "reported"
+   }
+  },
+  "Return on Capital Employed (ROCE)": {
+   "FY2026": {
+    "raw_text": "30.74%",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "26.98%",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "25.51%",
+    "state": "reported"
+   },
+   "FY2023": {
+    "raw_text": "37.83%",
+    "state": "reported"
+   },
+   "FY2022": {
+    "raw_text": "3.38%",
+    "state": "reported"
+   }
+  },
+  "Assets Turnover Ratio": {
+   "FY2026": {
+    "raw_text": "0.18",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "0.22",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "0.19",
+    "state": "reported"
+   },
+   "FY2023": {
+    "raw_text": "0.13",
+    "state": "reported"
+   },
+   "FY2022": {
+    "raw_text": "0.03",
+    "state": "reported"
+   }
+  },
+  "Return on Assets": {
+   "FY2026": {
+    "raw_text": "8.80%",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "10.06%",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "7.82%",
+    "state": "reported"
+   },
+   "FY2023": {
+    "raw_text": "5.98%",
+    "state": "reported"
+   },
+   "FY2022": {
+    "raw_text": "0.34%",
+    "state": "reported"
+   }
+  },
+  "Net Profit Margin": {
+   "FY2026": {
+    "raw_text": "49.53%",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "44.80%",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "42.20%",
+    "state": "reported"
+   },
+   "FY2023": {
+    "raw_text": "45.24%",
+    "state": "reported"
+   },
+   "FY2022": {
+    "raw_text": "10.04%",
+    "state": "reported"
+   }
+  },
+  "Interest Coverage Ratio": {
+   "FY2026": {
+    "raw_text": "121.57",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "66.18",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "70.72",
+    "state": "reported"
+   },
+   "FY2023": {
+    "raw_text": "79.94",
+    "state": "reported"
+   },
+   "FY2022": {
+    "raw_text": "#DIV/0!",
+    "state": "provider_error"
+   }
+  },
+  "Revenue Growth Rate (CAGR)": {
+   "FY2026": {
+    "raw_text": "22.81%",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "26.48%",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "-11.88%",
+    "state": "reported"
+   },
+   "FY2023": {
+    "raw_text": "254.82%",
+    "state": "reported"
+   },
+   "FY2022": {
+    "raw_text": "-75.40%",
+    "state": "reported"
+   }
+  }
+ },
+ "evidence": {
+  "ev1": {
+   "source": "WWIPL company overview",
+   "url": "https://wwipl.com/unlisted-shares/indian-gas-exchange-share-price",
+   "retrieved_at": "2026-11-23T16:44:33+00:00",
+   "sha256": "7f9750a027c7425e9115a3e7db94e8f858008c7bf8b5d8ba43674e02702a7c36",
+   "capture_run": "20261123T164433Z",
+   "file": "igx-overview.html",
+   "raw_label": "Last Traded Price",
+   "raw_text": "488.00"
+  },
+  "ev2": {
+   "source": "WWIPL company overview",
+   "url": "https://wwipl.com/unlisted-shares/indian-gas-exchange-share-price",
+   "retrieved_at": "2026-11-23T16:44:33+00:00",
+   "sha256": "7f9750a027c7425e9115a3e7db94e8f858008c7bf8b5d8ba43674e02702a7c36",
+   "capture_run": "20261123T164433Z",
+   "file": "igx-overview.html",
+   "raw_label": "Company fundamentals block"
+  },
+  "ev3": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/indian-gas-exchange-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:35+00:00",
+   "sha256": "40a00d8792602d1301f4ecdd099dd7d5a5a2c1003e874f16e6ab3b788c46e3a9",
+   "capture_run": "20261123T164433Z",
+   "file": "igx-financial.html",
+   "raw_label": "Revenue",
+   "raw_text": "17.47",
+   "raw_unit": "INR crore",
+   "period": "FY2022",
+   "period_label": "2021-22",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "igx-financial.html",
+    "table_index": 4,
+    "row_index": 1,
+    "heading": "Indian Gas Exchange Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev4": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/indian-gas-exchange-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:35+00:00",
+   "sha256": "40a00d8792602d1301f4ecdd099dd7d5a5a2c1003e874f16e6ab3b788c46e3a9",
+   "capture_run": "20261123T164433Z",
+   "file": "igx-financial.html",
+   "raw_label": "Revenue",
+   "raw_text": "61.98",
+   "raw_unit": "INR crore",
+   "period": "FY2023",
+   "period_label": "2022-23",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "igx-financial.html",
+    "table_index": 4,
+    "row_index": 1,
+    "heading": "Indian Gas Exchange Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev5": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/indian-gas-exchange-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:35+00:00",
+   "sha256": "40a00d8792602d1301f4ecdd099dd7d5a5a2c1003e874f16e6ab3b788c46e3a9",
+   "capture_run": "20261123T164433Z",
+   "file": "igx-financial.html",
+   "raw_label": "Revenue",
+   "raw_text": "54.62",
+   "raw_unit": "INR crore",
+   "period": "FY2024",
+   "period_label": "2023-24",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "igx-financial.html",
+    "table_index": 4,
+    "row_index": 1,
+    "heading": "Indian Gas Exchange Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev6": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/indian-gas-exchange-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:35+00:00",
+   "sha256": "40a00d8792602d1301f4ecdd099dd7d5a5a2c1003e874f16e6ab3b788c46e3a9",
+   "capture_run": "20261123T164433Z",
+   "file": "igx-financial.html",
+   "raw_label": "Revenue",
+   "raw_text": "69.08",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "2024-25",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "igx-financial.html",
+    "table_index": 4,
+    "row_index": 1,
+    "heading": "Indian Gas Exchange Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev7": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/indian-gas-exchange-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:35+00:00",
+   "sha256": "40a00d8792602d1301f4ecdd099dd7d5a5a2c1003e874f16e6ab3b788c46e3a9",
+   "capture_run": "20261123T164433Z",
+   "file": "igx-financial.html",
+   "raw_label": "Revenue",
+   "raw_text": "84.84",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "2025-26",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "igx-financial.html",
+    "table_index": 4,
+    "row_index": 1,
+    "heading": "Indian Gas Exchange Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev8": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/indian-gas-exchange-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:35+00:00",
+   "sha256": "40a00d8792602d1301f4ecdd099dd7d5a5a2c1003e874f16e6ab3b788c46e3a9",
+   "capture_run": "20261123T164433Z",
+   "file": "igx-financial.html",
+   "raw_label": "Revenue from operations",
+   "raw_text": "11.22",
+   "raw_unit": "INR crore",
+   "period": "FY2022",
+   "period_label": "2021-22",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "igx-financial.html",
+    "table_index": 4,
+    "row_index": 2,
+    "heading": "Indian Gas Exchange Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev9": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/indian-gas-exchange-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:35+00:00",
+   "sha256": "40a00d8792602d1301f4ecdd099dd7d5a5a2c1003e874f16e6ab3b788c46e3a9",
+   "capture_run": "20261123T164433Z",
+   "file": "igx-financial.html",
+   "raw_label": "Revenue from operations",
+   "raw_text": "42.70",
+   "raw_unit": "INR crore",
+   "period": "FY2023",
+   "period_label": "2022-23",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "igx-financial.html",
+    "table_index": 4,
+    "row_index": 2,
+    "heading": "Indian Gas Exchange Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev10": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/indian-gas-exchange-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:35+00:00",
+   "sha256": "40a00d8792602d1301f4ecdd099dd7d5a5a2c1003e874f16e6ab3b788c46e3a9",
+   "capture_run": "20261123T164433Z",
+   "file": "igx-financial.html",
+   "raw_label": "Revenue from operations",
+   "raw_text": "34.85",
+   "raw_unit": "INR crore",
+   "period": "FY2024",
+   "period_label": "2023-24",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "igx-financial.html",
+    "table_index": 4,
+    "row_index": 2,
+    "heading": "Indian Gas Exchange Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev11": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/indian-gas-exchange-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:35+00:00",
+   "sha256": "40a00d8792602d1301f4ecdd099dd7d5a5a2c1003e874f16e6ab3b788c46e3a9",
+   "capture_run": "20261123T164433Z",
+   "file": "igx-financial.html",
+   "raw_label": "Revenue from operations",
+   "raw_text": "48.80",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "2024-25",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "igx-financial.html",
+    "table_index": 4,
+    "row_index": 2,
+    "heading": "Indian Gas Exchange Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev12": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/indian-gas-exchange-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:35+00:00",
+   "sha256": "40a00d8792602d1301f4ecdd099dd7d5a5a2c1003e874f16e6ab3b788c46e3a9",
+   "capture_run": "20261123T164433Z",
+   "file": "igx-financial.html",
+   "raw_label": "Revenue from operations",
+   "raw_text": "61.01",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "2025-26",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "igx-financial.html",
+    "table_index": 4,
+    "row_index": 2,
+    "heading": "Indian Gas Exchange Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev13": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/indian-gas-exchange-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:35+00:00",
+   "sha256": "40a00d8792602d1301f4ecdd099dd7d5a5a2c1003e874f16e6ab3b788c46e3a9",
+   "capture_run": "20261123T164433Z",
+   "file": "igx-financial.html",
+   "raw_label": "Other income",
+   "raw_text": "6.25",
+   "raw_unit": "INR crore",
+   "period": "FY2022",
+   "period_label": "2021-22",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "igx-financial.html",
+    "table_index": 4,
+    "row_index": 3,
+    "heading": "Indian Gas Exchange Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev14": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/indian-gas-exchange-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:35+00:00",
+   "sha256": "40a00d8792602d1301f4ecdd099dd7d5a5a2c1003e874f16e6ab3b788c46e3a9",
+   "capture_run": "20261123T164433Z",
+   "file": "igx-financial.html",
+   "raw_label": "Other income",
+   "raw_text": "19.28",
+   "raw_unit": "INR crore",
+   "period": "FY2023",
+   "period_label": "2022-23",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "igx-financial.html",
+    "table_index": 4,
+    "row_index": 3,
+    "heading": "Indian Gas Exchange Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev15": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/indian-gas-exchange-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:35+00:00",
+   "sha256": "40a00d8792602d1301f4ecdd099dd7d5a5a2c1003e874f16e6ab3b788c46e3a9",
+   "capture_run": "20261123T164433Z",
+   "file": "igx-financial.html",
+   "raw_label": "Other income",
+   "raw_text": "19.77",
+   "raw_unit": "INR crore",
+   "period": "FY2024",
+   "period_label": "2023-24",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "igx-financial.html",
+    "table_index": 4,
+    "row_index": 3,
+    "heading": "Indian Gas Exchange Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev16": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/indian-gas-exchange-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:35+00:00",
+   "sha256": "40a00d8792602d1301f4ecdd099dd7d5a5a2c1003e874f16e6ab3b788c46e3a9",
+   "capture_run": "20261123T164433Z",
+   "file": "igx-financial.html",
+   "raw_label": "Other income",
+   "raw_text": "20.28",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "2024-25",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "igx-financial.html",
+    "table_index": 4,
+    "row_index": 3,
+    "heading": "Indian Gas Exchange Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev17": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/indian-gas-exchange-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:35+00:00",
+   "sha256": "40a00d8792602d1301f4ecdd099dd7d5a5a2c1003e874f16e6ab3b788c46e3a9",
+   "capture_run": "20261123T164433Z",
+   "file": "igx-financial.html",
+   "raw_label": "Other income",
+   "raw_text": "23.83",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "2025-26",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "igx-financial.html",
+    "table_index": 4,
+    "row_index": 3,
+    "heading": "Indian Gas Exchange Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev18": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/indian-gas-exchange-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:35+00:00",
+   "sha256": "40a00d8792602d1301f4ecdd099dd7d5a5a2c1003e874f16e6ab3b788c46e3a9",
+   "capture_run": "20261123T164433Z",
+   "file": "igx-financial.html",
+   "raw_label": "Expenses",
+   "raw_text": "15.18",
+   "raw_unit": "INR crore",
+   "period": "FY2022",
+   "period_label": "2021-22",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "igx-financial.html",
+    "table_index": 4,
+    "row_index": 4,
+    "heading": "Indian Gas Exchange Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev19": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/indian-gas-exchange-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:35+00:00",
+   "sha256": "40a00d8792602d1301f4ecdd099dd7d5a5a2c1003e874f16e6ab3b788c46e3a9",
+   "capture_run": "20261123T164433Z",
+   "file": "igx-financial.html",
+   "raw_label": "Expenses",
+   "raw_text": "24.41",
+   "raw_unit": "INR crore",
+   "period": "FY2023",
+   "period_label": "2022-23",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "igx-financial.html",
+    "table_index": 4,
+    "row_index": 4,
+    "heading": "Indian Gas Exchange Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev20": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/indian-gas-exchange-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:35+00:00",
+   "sha256": "40a00d8792602d1301f4ecdd099dd7d5a5a2c1003e874f16e6ab3b788c46e3a9",
+   "capture_run": "20261123T164433Z",
+   "file": "igx-financial.html",
+   "raw_label": "Expenses",
+   "raw_text": "23.90",
+   "raw_unit": "INR crore",
+   "period": "FY2024",
+   "period_label": "2023-24",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "igx-financial.html",
+    "table_index": 4,
+    "row_index": 4,
+    "heading": "Indian Gas Exchange Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev21": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/indian-gas-exchange-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:35+00:00",
+   "sha256": "40a00d8792602d1301f4ecdd099dd7d5a5a2c1003e874f16e6ab3b788c46e3a9",
+   "capture_run": "20261123T164433Z",
+   "file": "igx-financial.html",
+   "raw_label": "Expenses",
+   "raw_text": "28.62",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "2024-25",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "igx-financial.html",
+    "table_index": 4,
+    "row_index": 4,
+    "heading": "Indian Gas Exchange Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev22": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/indian-gas-exchange-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:35+00:00",
+   "sha256": "40a00d8792602d1301f4ecdd099dd7d5a5a2c1003e874f16e6ab3b788c46e3a9",
+   "capture_run": "20261123T164433Z",
+   "file": "igx-financial.html",
+   "raw_label": "Expenses",
+   "raw_text": "29.01",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "2025-26",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "igx-financial.html",
+    "table_index": 4,
+    "row_index": 4,
+    "heading": "Indian Gas Exchange Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev23": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/indian-gas-exchange-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:35+00:00",
+   "sha256": "40a00d8792602d1301f4ecdd099dd7d5a5a2c1003e874f16e6ab3b788c46e3a9",
+   "capture_run": "20261123T164433Z",
+   "file": "igx-financial.html",
+   "raw_label": "Finance cost",
+   "raw_text": "0.00",
+   "raw_unit": "INR crore",
+   "period": "FY2022",
+   "period_label": "2021-22",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "igx-financial.html",
+    "table_index": 4,
+    "row_index": 5,
+    "heading": "Indian Gas Exchange Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev24": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/indian-gas-exchange-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:35+00:00",
+   "sha256": "40a00d8792602d1301f4ecdd099dd7d5a5a2c1003e874f16e6ab3b788c46e3a9",
+   "capture_run": "20261123T164433Z",
+   "file": "igx-financial.html",
+   "raw_label": "Finance cost",
+   "raw_text": "0.48",
+   "raw_unit": "INR crore",
+   "period": "FY2023",
+   "period_label": "2022-23",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "igx-financial.html",
+    "table_index": 4,
+    "row_index": 5,
+    "heading": "Indian Gas Exchange Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev25": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/indian-gas-exchange-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:35+00:00",
+   "sha256": "40a00d8792602d1301f4ecdd099dd7d5a5a2c1003e874f16e6ab3b788c46e3a9",
+   "capture_run": "20261123T164433Z",
+   "file": "igx-financial.html",
+   "raw_label": "Finance cost",
+   "raw_text": "0.44",
+   "raw_unit": "INR crore",
+   "period": "FY2024",
+   "period_label": "2023-24",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "igx-financial.html",
+    "table_index": 4,
+    "row_index": 5,
+    "heading": "Indian Gas Exchange Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev26": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/indian-gas-exchange-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:35+00:00",
+   "sha256": "40a00d8792602d1301f4ecdd099dd7d5a5a2c1003e874f16e6ab3b788c46e3a9",
+   "capture_run": "20261123T164433Z",
+   "file": "igx-financial.html",
+   "raw_label": "Finance cost",
+   "raw_text": "0.62",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "2024-25",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "igx-financial.html",
+    "table_index": 4,
+    "row_index": 5,
+    "heading": "Indian Gas Exchange Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev27": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/indian-gas-exchange-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:35+00:00",
+   "sha256": "40a00d8792602d1301f4ecdd099dd7d5a5a2c1003e874f16e6ab3b788c46e3a9",
+   "capture_run": "20261123T164433Z",
+   "file": "igx-financial.html",
+   "raw_label": "Finance cost",
+   "raw_text": "0.46",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "2025-26",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "igx-financial.html",
+    "table_index": 4,
+    "row_index": 5,
+    "heading": "Indian Gas Exchange Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev28": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/indian-gas-exchange-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:35+00:00",
+   "sha256": "40a00d8792602d1301f4ecdd099dd7d5a5a2c1003e874f16e6ab3b788c46e3a9",
+   "capture_run": "20261123T164433Z",
+   "file": "igx-financial.html",
+   "raw_label": "Depreciation and Amortisation expense",
+   "raw_text": "1.14",
+   "raw_unit": "INR crore",
+   "period": "FY2022",
+   "period_label": "2021-22",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "igx-financial.html",
+    "table_index": 4,
+    "row_index": 7,
+    "heading": "Indian Gas Exchange Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev29": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/indian-gas-exchange-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:35+00:00",
+   "sha256": "40a00d8792602d1301f4ecdd099dd7d5a5a2c1003e874f16e6ab3b788c46e3a9",
+   "capture_run": "20261123T164433Z",
+   "file": "igx-financial.html",
+   "raw_label": "Depreciation and Amortisation expense",
+   "raw_text": "2.19",
+   "raw_unit": "INR crore",
+   "period": "FY2023",
+   "period_label": "2022-23",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "igx-financial.html",
+    "table_index": 4,
+    "row_index": 7,
+    "heading": "Indian Gas Exchange Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev30": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/indian-gas-exchange-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:35+00:00",
+   "sha256": "40a00d8792602d1301f4ecdd099dd7d5a5a2c1003e874f16e6ab3b788c46e3a9",
+   "capture_run": "20261123T164433Z",
+   "file": "igx-financial.html",
+   "raw_label": "Depreciation and Amortisation expense",
+   "raw_text": "2.76",
+   "raw_unit": "INR crore",
+   "period": "FY2024",
+   "period_label": "2023-24",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "igx-financial.html",
+    "table_index": 4,
+    "row_index": 7,
+    "heading": "Indian Gas Exchange Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev31": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/indian-gas-exchange-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:35+00:00",
+   "sha256": "40a00d8792602d1301f4ecdd099dd7d5a5a2c1003e874f16e6ab3b788c46e3a9",
+   "capture_run": "20261123T164433Z",
+   "file": "igx-financial.html",
+   "raw_label": "Depreciation and Amortisation expense",
+   "raw_text": "5.16",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "2024-25",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "igx-financial.html",
+    "table_index": 4,
+    "row_index": 7,
+    "heading": "Indian Gas Exchange Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev32": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/indian-gas-exchange-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:35+00:00",
+   "sha256": "40a00d8792602d1301f4ecdd099dd7d5a5a2c1003e874f16e6ab3b788c46e3a9",
+   "capture_run": "20261123T164433Z",
+   "file": "igx-financial.html",
+   "raw_label": "Depreciation and Amortisation expense",
+   "raw_text": "2.32",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "2025-26",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "igx-financial.html",
+    "table_index": 4,
+    "row_index": 7,
+    "heading": "Indian Gas Exchange Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev33": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/indian-gas-exchange-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:35+00:00",
+   "sha256": "40a00d8792602d1301f4ecdd099dd7d5a5a2c1003e874f16e6ab3b788c46e3a9",
+   "capture_run": "20261123T164433Z",
+   "file": "igx-financial.html",
+   "raw_label": "Profit/(loss) before tax",
+   "raw_text": "2.29",
+   "raw_unit": "INR crore",
+   "period": "FY2022",
+   "period_label": "2021-22",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "igx-financial.html",
+    "table_index": 4,
+    "row_index": 9,
+    "heading": "Indian Gas Exchange Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev34": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/indian-gas-exchange-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:35+00:00",
+   "sha256": "40a00d8792602d1301f4ecdd099dd7d5a5a2c1003e874f16e6ab3b788c46e3a9",
+   "capture_run": "20261123T164433Z",
+   "file": "igx-financial.html",
+   "raw_label": "Profit/(loss) before tax",
+   "raw_text": "37.57",
+   "raw_unit": "INR crore",
+   "period": "FY2023",
+   "period_label": "2022-23",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "igx-financial.html",
+    "table_index": 4,
+    "row_index": 9,
+    "heading": "Indian Gas Exchange Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev35": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/indian-gas-exchange-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:35+00:00",
+   "sha256": "40a00d8792602d1301f4ecdd099dd7d5a5a2c1003e874f16e6ab3b788c46e3a9",
+   "capture_run": "20261123T164433Z",
+   "file": "igx-financial.html",
+   "raw_label": "Profit/(loss) before tax",
+   "raw_text": "30.72",
+   "raw_unit": "INR crore",
+   "period": "FY2024",
+   "period_label": "2023-24",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "igx-financial.html",
+    "table_index": 4,
+    "row_index": 9,
+    "heading": "Indian Gas Exchange Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev36": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/indian-gas-exchange-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:35+00:00",
+   "sha256": "40a00d8792602d1301f4ecdd099dd7d5a5a2c1003e874f16e6ab3b788c46e3a9",
+   "capture_run": "20261123T164433Z",
+   "file": "igx-financial.html",
+   "raw_label": "Profit/(loss) before tax",
+   "raw_text": "40.46",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "2024-25",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "igx-financial.html",
+    "table_index": 4,
+    "row_index": 9,
+    "heading": "Indian Gas Exchange Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev37": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/indian-gas-exchange-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:35+00:00",
+   "sha256": "40a00d8792602d1301f4ecdd099dd7d5a5a2c1003e874f16e6ab3b788c46e3a9",
+   "capture_run": "20261123T164433Z",
+   "file": "igx-financial.html",
+   "raw_label": "Profit/(loss) before tax",
+   "raw_text": "55.83",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "2025-26",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "igx-financial.html",
+    "table_index": 4,
+    "row_index": 9,
+    "heading": "Indian Gas Exchange Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev38": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/indian-gas-exchange-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:35+00:00",
+   "sha256": "40a00d8792602d1301f4ecdd099dd7d5a5a2c1003e874f16e6ab3b788c46e3a9",
+   "capture_run": "20261123T164433Z",
+   "file": "igx-financial.html",
+   "raw_label": "Tax Expense",
+   "raw_text": "0.54",
+   "raw_unit": "INR crore",
+   "period": "FY2022",
+   "period_label": "2021-22",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "igx-financial.html",
+    "table_index": 4,
+    "row_index": 10,
+    "heading": "Indian Gas Exchange Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev39": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/indian-gas-exchange-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:35+00:00",
+   "sha256": "40a00d8792602d1301f4ecdd099dd7d5a5a2c1003e874f16e6ab3b788c46e3a9",
+   "capture_run": "20261123T164433Z",
+   "file": "igx-financial.html",
+   "raw_label": "Tax Expense",
+   "raw_text": "9.53",
+   "raw_unit": "INR crore",
+   "period": "FY2023",
+   "period_label": "2022-23",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "igx-financial.html",
+    "table_index": 4,
+    "row_index": 10,
+    "heading": "Indian Gas Exchange Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev40": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/indian-gas-exchange-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:35+00:00",
+   "sha256": "40a00d8792602d1301f4ecdd099dd7d5a5a2c1003e874f16e6ab3b788c46e3a9",
+   "capture_run": "20261123T164433Z",
+   "file": "igx-financial.html",
+   "raw_label": "Tax Expense",
+   "raw_text": "7.67",
+   "raw_unit": "INR crore",
+   "period": "FY2024",
+   "period_label": "2023-24",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "igx-financial.html",
+    "table_index": 4,
+    "row_index": 10,
+    "heading": "Indian Gas Exchange Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev41": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/indian-gas-exchange-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:35+00:00",
+   "sha256": "40a00d8792602d1301f4ecdd099dd7d5a5a2c1003e874f16e6ab3b788c46e3a9",
+   "capture_run": "20261123T164433Z",
+   "file": "igx-financial.html",
+   "raw_label": "Tax Expense",
+   "raw_text": "9.51",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "2024-25",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "igx-financial.html",
+    "table_index": 4,
+    "row_index": 10,
+    "heading": "Indian Gas Exchange Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev42": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/indian-gas-exchange-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:35+00:00",
+   "sha256": "40a00d8792602d1301f4ecdd099dd7d5a5a2c1003e874f16e6ab3b788c46e3a9",
+   "capture_run": "20261123T164433Z",
+   "file": "igx-financial.html",
+   "raw_label": "Tax Expense",
+   "raw_text": "13.80",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "2025-26",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "igx-financial.html",
+    "table_index": 4,
+    "row_index": 10,
+    "heading": "Indian Gas Exchange Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev43": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/indian-gas-exchange-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:35+00:00",
+   "sha256": "40a00d8792602d1301f4ecdd099dd7d5a5a2c1003e874f16e6ab3b788c46e3a9",
+   "capture_run": "20261123T164433Z",
+   "file": "igx-financial.html",
+   "raw_label": "Profit (Loss) for the period from continuing Operations",
+   "raw_text": "1.75",
+   "raw_unit": "INR crore",
+   "period": "FY2022",
+   "period_label": "2021-22",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "igx-financial.html",
+    "table_index": 4,
+    "row_index": 13,
+    "heading": "Indian Gas Exchange Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev44": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/indian-gas-exchange-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:35+00:00",
+   "sha256": "40a00d8792602d1301f4ecdd099dd7d5a5a2c1003e874f16e6ab3b788c46e3a9",
+   "capture_run": "20261123T164433Z",
+   "file": "igx-financial.html",
+   "raw_label": "Profit (Loss) for the period from continuing Operations",
+   "raw_text": "28.04",
+   "raw_unit": "INR crore",
+   "period": "FY2023",
+   "period_label": "2022-23",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "igx-financial.html",
+    "table_index": 4,
+    "row_index": 13,
+    "heading": "Indian Gas Exchange Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev45": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/indian-gas-exchange-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:35+00:00",
+   "sha256": "40a00d8792602d1301f4ecdd099dd7d5a5a2c1003e874f16e6ab3b788c46e3a9",
+   "capture_run": "20261123T164433Z",
+   "file": "igx-financial.html",
+   "raw_label": "Profit (Loss) for the period from continuing Operations",
+   "raw_text": "23.05",
+   "raw_unit": "INR crore",
+   "period": "FY2024",
+   "period_label": "2023-24",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "igx-financial.html",
+    "table_index": 4,
+    "row_index": 13,
+    "heading": "Indian Gas Exchange Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev46": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/indian-gas-exchange-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:35+00:00",
+   "sha256": "40a00d8792602d1301f4ecdd099dd7d5a5a2c1003e874f16e6ab3b788c46e3a9",
+   "capture_run": "20261123T164433Z",
+   "file": "igx-financial.html",
+   "raw_label": "Profit (Loss) for the period from continuing Operations",
+   "raw_text": "30.95",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "2024-25",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "igx-financial.html",
+    "table_index": 4,
+    "row_index": 13,
+    "heading": "Indian Gas Exchange Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev47": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/indian-gas-exchange-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:35+00:00",
+   "sha256": "40a00d8792602d1301f4ecdd099dd7d5a5a2c1003e874f16e6ab3b788c46e3a9",
+   "capture_run": "20261123T164433Z",
+   "file": "igx-financial.html",
+   "raw_label": "Profit (Loss) for the period from continuing Operations",
+   "raw_text": "42.02",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "2025-26",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "igx-financial.html",
+    "table_index": 4,
+    "row_index": 13,
+    "heading": "Indian Gas Exchange Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev48": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/indian-gas-exchange-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:35+00:00",
+   "sha256": "40a00d8792602d1301f4ecdd099dd7d5a5a2c1003e874f16e6ab3b788c46e3a9",
+   "capture_run": "20261123T164433Z",
+   "file": "igx-financial.html",
+   "raw_label": "ASSETS",
+   "raw_text": "518.73",
+   "raw_unit": "INR crore",
+   "period": "FY2022",
+   "period_label": "2021-22",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "igx-financial.html",
+    "table_index": 1,
+    "row_index": 6,
+    "heading": "Indian Gas Exchange Limited Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev49": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/indian-gas-exchange-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:35+00:00",
+   "sha256": "40a00d8792602d1301f4ecdd099dd7d5a5a2c1003e874f16e6ab3b788c46e3a9",
+   "capture_run": "20261123T164433Z",
+   "file": "igx-financial.html",
+   "raw_label": "ASSETS",
+   "raw_text": "468.86",
+   "raw_unit": "INR crore",
+   "period": "FY2023",
+   "period_label": "2022-23",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "igx-financial.html",
+    "table_index": 1,
+    "row_index": 6,
+    "heading": "Indian Gas Exchange Limited Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev50": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/indian-gas-exchange-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:35+00:00",
+   "sha256": "40a00d8792602d1301f4ecdd099dd7d5a5a2c1003e874f16e6ab3b788c46e3a9",
+   "capture_run": "20261123T164433Z",
+   "file": "igx-financial.html",
+   "raw_label": "ASSETS",
+   "raw_text": "294.58",
+   "raw_unit": "INR crore",
+   "period": "FY2024",
+   "period_label": "2023-24",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "igx-financial.html",
+    "table_index": 1,
+    "row_index": 6,
+    "heading": "Indian Gas Exchange Limited Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev51": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/indian-gas-exchange-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:35+00:00",
+   "sha256": "40a00d8792602d1301f4ecdd099dd7d5a5a2c1003e874f16e6ab3b788c46e3a9",
+   "capture_run": "20261123T164433Z",
+   "file": "igx-financial.html",
+   "raw_label": "ASSETS",
+   "raw_text": "307.71",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "2024-25",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "igx-financial.html",
+    "table_index": 1,
+    "row_index": 6,
+    "heading": "Indian Gas Exchange Limited Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev52": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/indian-gas-exchange-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:35+00:00",
+   "sha256": "40a00d8792602d1301f4ecdd099dd7d5a5a2c1003e874f16e6ab3b788c46e3a9",
+   "capture_run": "20261123T164433Z",
+   "file": "igx-financial.html",
+   "raw_label": "ASSETS",
+   "raw_text": "477.73",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "2025-26",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "igx-financial.html",
+    "table_index": 1,
+    "row_index": 6,
+    "heading": "Indian Gas Exchange Limited Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev53": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/indian-gas-exchange-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:35+00:00",
+   "sha256": "40a00d8792602d1301f4ecdd099dd7d5a5a2c1003e874f16e6ab3b788c46e3a9",
+   "capture_run": "20261123T164433Z",
+   "file": "igx-financial.html",
+   "raw_label": "Total equity",
+   "raw_text": "65.34",
+   "raw_unit": "INR crore",
+   "period": "FY2022",
+   "period_label": "2021-22",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "igx-financial.html",
+    "table_index": 1,
+    "row_index": 2,
+    "heading": "Indian Gas Exchange Limited Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev54": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/indian-gas-exchange-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:35+00:00",
+   "sha256": "40a00d8792602d1301f4ecdd099dd7d5a5a2c1003e874f16e6ab3b788c46e3a9",
+   "capture_run": "20261123T164433Z",
+   "file": "igx-financial.html",
+   "raw_label": "Total equity",
+   "raw_text": "93.49",
+   "raw_unit": "INR crore",
+   "period": "FY2023",
+   "period_label": "2022-23",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "igx-financial.html",
+    "table_index": 1,
+    "row_index": 2,
+    "heading": "Indian Gas Exchange Limited Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev55": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/indian-gas-exchange-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:35+00:00",
+   "sha256": "40a00d8792602d1301f4ecdd099dd7d5a5a2c1003e874f16e6ab3b788c46e3a9",
+   "capture_run": "20261123T164433Z",
+   "file": "igx-financial.html",
+   "raw_label": "Total equity",
+   "raw_text": "116.66",
+   "raw_unit": "INR crore",
+   "period": "FY2024",
+   "period_label": "2023-24",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "igx-financial.html",
+    "table_index": 1,
+    "row_index": 2,
+    "heading": "Indian Gas Exchange Limited Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev56": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/indian-gas-exchange-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:35+00:00",
+   "sha256": "40a00d8792602d1301f4ecdd099dd7d5a5a2c1003e874f16e6ab3b788c46e3a9",
+   "capture_run": "20261123T164433Z",
+   "file": "igx-financial.html",
+   "raw_label": "Total equity",
+   "raw_text": "147.71",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "2024-25",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "igx-financial.html",
+    "table_index": 1,
+    "row_index": 2,
+    "heading": "Indian Gas Exchange Limited Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev57": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/indian-gas-exchange-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:35+00:00",
+   "sha256": "40a00d8792602d1301f4ecdd099dd7d5a5a2c1003e874f16e6ab3b788c46e3a9",
+   "capture_run": "20261123T164433Z",
+   "file": "igx-financial.html",
+   "raw_label": "Total equity",
+   "raw_text": "179.03",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "2025-26",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "igx-financial.html",
+    "table_index": 1,
+    "row_index": 2,
+    "heading": "Indian Gas Exchange Limited Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev58": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/indian-gas-exchange-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:35+00:00",
+   "sha256": "40a00d8792602d1301f4ecdd099dd7d5a5a2c1003e874f16e6ab3b788c46e3a9",
+   "capture_run": "20261123T164433Z",
+   "file": "igx-financial.html",
+   "raw_label": "Total liabilities",
+   "raw_text": "453.39",
+   "raw_unit": "INR crore",
+   "period": "FY2022",
+   "period_label": "2021-22",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "igx-financial.html",
+    "table_index": 1,
+    "row_index": 3,
+    "heading": "Indian Gas Exchange Limited Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev59": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/indian-gas-exchange-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:35+00:00",
+   "sha256": "40a00d8792602d1301f4ecdd099dd7d5a5a2c1003e874f16e6ab3b788c46e3a9",
+   "capture_run": "20261123T164433Z",
+   "file": "igx-financial.html",
+   "raw_label": "Total liabilities",
+   "raw_text": "375.38",
+   "raw_unit": "INR crore",
+   "period": "FY2023",
+   "period_label": "2022-23",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "igx-financial.html",
+    "table_index": 1,
+    "row_index": 3,
+    "heading": "Indian Gas Exchange Limited Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev60": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/indian-gas-exchange-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:35+00:00",
+   "sha256": "40a00d8792602d1301f4ecdd099dd7d5a5a2c1003e874f16e6ab3b788c46e3a9",
+   "capture_run": "20261123T164433Z",
+   "file": "igx-financial.html",
+   "raw_label": "Total liabilities",
+   "raw_text": "177.92",
+   "raw_unit": "INR crore",
+   "period": "FY2024",
+   "period_label": "2023-24",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "igx-financial.html",
+    "table_index": 1,
+    "row_index": 3,
+    "heading": "Indian Gas Exchange Limited Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev61": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/indian-gas-exchange-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:35+00:00",
+   "sha256": "40a00d8792602d1301f4ecdd099dd7d5a5a2c1003e874f16e6ab3b788c46e3a9",
+   "capture_run": "20261123T164433Z",
+   "file": "igx-financial.html",
+   "raw_label": "Total liabilities",
+   "raw_text": "159.99",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "2024-25",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "igx-financial.html",
+    "table_index": 1,
+    "row_index": 3,
+    "heading": "Indian Gas Exchange Limited Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev62": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/indian-gas-exchange-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:35+00:00",
+   "sha256": "40a00d8792602d1301f4ecdd099dd7d5a5a2c1003e874f16e6ab3b788c46e3a9",
+   "capture_run": "20261123T164433Z",
+   "file": "igx-financial.html",
+   "raw_label": "Total liabilities",
+   "raw_text": "298.70",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "2025-26",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "igx-financial.html",
+    "table_index": 1,
+    "row_index": 3,
+    "heading": "Indian Gas Exchange Limited Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev63": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/indian-gas-exchange-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:35+00:00",
+   "sha256": "40a00d8792602d1301f4ecdd099dd7d5a5a2c1003e874f16e6ab3b788c46e3a9",
+   "capture_run": "20261123T164433Z",
+   "file": "igx-financial.html",
+   "raw_label": "Current assets",
+   "raw_text": "506.17",
+   "raw_unit": "INR crore",
+   "period": "FY2022",
+   "period_label": "2021-22",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "igx-financial.html",
+    "table_index": 1,
+    "row_index": 8,
+    "heading": "Indian Gas Exchange Limited Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev64": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/indian-gas-exchange-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:35+00:00",
+   "sha256": "40a00d8792602d1301f4ecdd099dd7d5a5a2c1003e874f16e6ab3b788c46e3a9",
+   "capture_run": "20261123T164433Z",
+   "file": "igx-financial.html",
+   "raw_label": "Current assets",
+   "raw_text": "444.61",
+   "raw_unit": "INR crore",
+   "period": "FY2023",
+   "period_label": "2022-23",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "igx-financial.html",
+    "table_index": 1,
+    "row_index": 8,
+    "heading": "Indian Gas Exchange Limited Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev65": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/indian-gas-exchange-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:35+00:00",
+   "sha256": "40a00d8792602d1301f4ecdd099dd7d5a5a2c1003e874f16e6ab3b788c46e3a9",
+   "capture_run": "20261123T164433Z",
+   "file": "igx-financial.html",
+   "raw_label": "Current assets",
+   "raw_text": "279.16",
+   "raw_unit": "INR crore",
+   "period": "FY2024",
+   "period_label": "2023-24",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "igx-financial.html",
+    "table_index": 1,
+    "row_index": 8,
+    "heading": "Indian Gas Exchange Limited Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev66": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/indian-gas-exchange-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:35+00:00",
+   "sha256": "40a00d8792602d1301f4ecdd099dd7d5a5a2c1003e874f16e6ab3b788c46e3a9",
+   "capture_run": "20261123T164433Z",
+   "file": "igx-financial.html",
+   "raw_label": "Current assets",
+   "raw_text": "280.29",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "2024-25",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "igx-financial.html",
+    "table_index": 1,
+    "row_index": 8,
+    "heading": "Indian Gas Exchange Limited Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev67": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/indian-gas-exchange-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:35+00:00",
+   "sha256": "40a00d8792602d1301f4ecdd099dd7d5a5a2c1003e874f16e6ab3b788c46e3a9",
+   "capture_run": "20261123T164433Z",
+   "file": "igx-financial.html",
+   "raw_label": "Current assets",
+   "raw_text": "445.94",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "2025-26",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "igx-financial.html",
+    "table_index": 1,
+    "row_index": 8,
+    "heading": "Indian Gas Exchange Limited Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev68": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/indian-gas-exchange-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:35+00:00",
+   "sha256": "40a00d8792602d1301f4ecdd099dd7d5a5a2c1003e874f16e6ab3b788c46e3a9",
+   "capture_run": "20261123T164433Z",
+   "file": "igx-financial.html",
+   "raw_label": "Current liabilities",
+   "raw_text": "450.86",
+   "raw_unit": "INR crore",
+   "period": "FY2022",
+   "period_label": "2021-22",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "igx-financial.html",
+    "table_index": 1,
+    "row_index": 5,
+    "heading": "Indian Gas Exchange Limited Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev69": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/indian-gas-exchange-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:35+00:00",
+   "sha256": "40a00d8792602d1301f4ecdd099dd7d5a5a2c1003e874f16e6ab3b788c46e3a9",
+   "capture_run": "20261123T164433Z",
+   "file": "igx-financial.html",
+   "raw_label": "Current liabilities",
+   "raw_text": "368.31",
+   "raw_unit": "INR crore",
+   "period": "FY2023",
+   "period_label": "2022-23",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "igx-financial.html",
+    "table_index": 1,
+    "row_index": 5,
+    "heading": "Indian Gas Exchange Limited Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev70": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/indian-gas-exchange-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:35+00:00",
+   "sha256": "40a00d8792602d1301f4ecdd099dd7d5a5a2c1003e874f16e6ab3b788c46e3a9",
+   "capture_run": "20261123T164433Z",
+   "file": "igx-financial.html",
+   "raw_label": "Current liabilities",
+   "raw_text": "172.43",
+   "raw_unit": "INR crore",
+   "period": "FY2024",
+   "period_label": "2023-24",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "igx-financial.html",
+    "table_index": 1,
+    "row_index": 5,
+    "heading": "Indian Gas Exchange Limited Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev71": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/indian-gas-exchange-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:35+00:00",
+   "sha256": "40a00d8792602d1301f4ecdd099dd7d5a5a2c1003e874f16e6ab3b788c46e3a9",
+   "capture_run": "20261123T164433Z",
+   "file": "igx-financial.html",
+   "raw_label": "Current liabilities",
+   "raw_text": "155.45",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "2024-25",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "igx-financial.html",
+    "table_index": 1,
+    "row_index": 5,
+    "heading": "Indian Gas Exchange Limited Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev72": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/indian-gas-exchange-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:35+00:00",
+   "sha256": "40a00d8792602d1301f4ecdd099dd7d5a5a2c1003e874f16e6ab3b788c46e3a9",
+   "capture_run": "20261123T164433Z",
+   "file": "igx-financial.html",
+   "raw_label": "Current liabilities",
+   "raw_text": "294.60",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "2025-26",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "igx-financial.html",
+    "table_index": 1,
+    "row_index": 5,
+    "heading": "Indian Gas Exchange Limited Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev73": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/indian-gas-exchange-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:35+00:00",
+   "sha256": "40a00d8792602d1301f4ecdd099dd7d5a5a2c1003e874f16e6ab3b788c46e3a9",
+   "capture_run": "20261123T164433Z",
+   "file": "igx-financial.html",
+   "raw_label": "Net cash from/(used in) operating activities",
+   "raw_text": "416.12",
+   "raw_unit": "INR crore",
+   "period": "FY2022",
+   "period_label": "2021-22",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "igx-financial.html",
+    "table_index": 2,
+    "row_index": 1,
+    "heading": "Indian Gas Exchange Limited CashFlow Statement(Rs in Crores)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev74": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/indian-gas-exchange-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:35+00:00",
+   "sha256": "40a00d8792602d1301f4ecdd099dd7d5a5a2c1003e874f16e6ab3b788c46e3a9",
+   "capture_run": "20261123T164433Z",
+   "file": "igx-financial.html",
+   "raw_label": "Net cash from/(used in) operating activities",
+   "raw_text": "-67.92",
+   "raw_unit": "INR crore",
+   "period": "FY2023",
+   "period_label": "2022-23",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "igx-financial.html",
+    "table_index": 2,
+    "row_index": 1,
+    "heading": "Indian Gas Exchange Limited CashFlow Statement(Rs in Crores)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev75": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/indian-gas-exchange-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:35+00:00",
+   "sha256": "40a00d8792602d1301f4ecdd099dd7d5a5a2c1003e874f16e6ab3b788c46e3a9",
+   "capture_run": "20261123T164433Z",
+   "file": "igx-financial.html",
+   "raw_label": "Net cash from/(used in) operating activities",
+   "raw_text": "-189.82",
+   "raw_unit": "INR crore",
+   "period": "FY2024",
+   "period_label": "2023-24",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "igx-financial.html",
+    "table_index": 2,
+    "row_index": 1,
+    "heading": "Indian Gas Exchange Limited CashFlow Statement(Rs in Crores)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev76": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/indian-gas-exchange-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:35+00:00",
+   "sha256": "40a00d8792602d1301f4ecdd099dd7d5a5a2c1003e874f16e6ab3b788c46e3a9",
+   "capture_run": "20261123T164433Z",
+   "file": "igx-financial.html",
+   "raw_label": "Net cash from/(used in) operating activities",
+   "raw_text": "3.29",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "2024-25",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "igx-financial.html",
+    "table_index": 2,
+    "row_index": 1,
+    "heading": "Indian Gas Exchange Limited CashFlow Statement(Rs in Crores)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev77": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/indian-gas-exchange-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:35+00:00",
+   "sha256": "40a00d8792602d1301f4ecdd099dd7d5a5a2c1003e874f16e6ab3b788c46e3a9",
+   "capture_run": "20261123T164433Z",
+   "file": "igx-financial.html",
+   "raw_label": "Net cash from/(used in) operating activities",
+   "raw_text": "156.89",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "2025-26",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "igx-financial.html",
+    "table_index": 2,
+    "row_index": 1,
+    "heading": "Indian Gas Exchange Limited CashFlow Statement(Rs in Crores)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev78": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/indian-gas-exchange-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:35+00:00",
+   "sha256": "40a00d8792602d1301f4ecdd099dd7d5a5a2c1003e874f16e6ab3b788c46e3a9",
+   "capture_run": "20261123T164433Z",
+   "file": "igx-financial.html",
+   "raw_label": "Net cash from/(used in) investing activities",
+   "raw_text": "-315.19",
+   "raw_unit": "INR crore",
+   "period": "FY2022",
+   "period_label": "2021-22",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "igx-financial.html",
+    "table_index": 2,
+    "row_index": 2,
+    "heading": "Indian Gas Exchange Limited CashFlow Statement(Rs in Crores)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev79": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/indian-gas-exchange-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:35+00:00",
+   "sha256": "40a00d8792602d1301f4ecdd099dd7d5a5a2c1003e874f16e6ab3b788c46e3a9",
+   "capture_run": "20261123T164433Z",
+   "file": "igx-financial.html",
+   "raw_label": "Net cash from/(used in) investing activities",
+   "raw_text": "-14.47",
+   "raw_unit": "INR crore",
+   "period": "FY2023",
+   "period_label": "2022-23",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "igx-financial.html",
+    "table_index": 2,
+    "row_index": 2,
+    "heading": "Indian Gas Exchange Limited CashFlow Statement(Rs in Crores)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev80": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/indian-gas-exchange-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:35+00:00",
+   "sha256": "40a00d8792602d1301f4ecdd099dd7d5a5a2c1003e874f16e6ab3b788c46e3a9",
+   "capture_run": "20261123T164433Z",
+   "file": "igx-financial.html",
+   "raw_label": "Net cash from/(used in) investing activities",
+   "raw_text": "187.57",
+   "raw_unit": "INR crore",
+   "period": "FY2024",
+   "period_label": "2023-24",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "igx-financial.html",
+    "table_index": 2,
+    "row_index": 2,
+    "heading": "Indian Gas Exchange Limited CashFlow Statement(Rs in Crores)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev81": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/indian-gas-exchange-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:35+00:00",
+   "sha256": "40a00d8792602d1301f4ecdd099dd7d5a5a2c1003e874f16e6ab3b788c46e3a9",
+   "capture_run": "20261123T164433Z",
+   "file": "igx-financial.html",
+   "raw_label": "Net cash from/(used in) investing activities",
+   "raw_text": "-4.37",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "2024-25",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "igx-financial.html",
+    "table_index": 2,
+    "row_index": 2,
+    "heading": "Indian Gas Exchange Limited CashFlow Statement(Rs in Crores)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev82": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/indian-gas-exchange-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:35+00:00",
+   "sha256": "40a00d8792602d1301f4ecdd099dd7d5a5a2c1003e874f16e6ab3b788c46e3a9",
+   "capture_run": "20261123T164433Z",
+   "file": "igx-financial.html",
+   "raw_label": "Net cash from/(used in) investing activities",
+   "raw_text": "-153.54",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "2025-26",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "igx-financial.html",
+    "table_index": 2,
+    "row_index": 2,
+    "heading": "Indian Gas Exchange Limited CashFlow Statement(Rs in Crores)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev83": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/indian-gas-exchange-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:35+00:00",
+   "sha256": "40a00d8792602d1301f4ecdd099dd7d5a5a2c1003e874f16e6ab3b788c46e3a9",
+   "capture_run": "20261123T164433Z",
+   "file": "igx-financial.html",
+   "raw_label": "Net cash from/(used) in financing activities",
+   "raw_text": "",
+   "raw_unit": "INR crore",
+   "period": "FY2022",
+   "period_label": "2021-22",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "igx-financial.html",
+    "table_index": 2,
+    "row_index": 3,
+    "heading": "Indian Gas Exchange Limited CashFlow Statement(Rs in Crores)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev84": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/indian-gas-exchange-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:35+00:00",
+   "sha256": "40a00d8792602d1301f4ecdd099dd7d5a5a2c1003e874f16e6ab3b788c46e3a9",
+   "capture_run": "20261123T164433Z",
+   "file": "igx-financial.html",
+   "raw_label": "Net cash from/(used) in financing activities",
+   "raw_text": "-0.63",
+   "raw_unit": "INR crore",
+   "period": "FY2023",
+   "period_label": "2022-23",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "igx-financial.html",
+    "table_index": 2,
+    "row_index": 3,
+    "heading": "Indian Gas Exchange Limited CashFlow Statement(Rs in Crores)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev85": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/indian-gas-exchange-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:35+00:00",
+   "sha256": "40a00d8792602d1301f4ecdd099dd7d5a5a2c1003e874f16e6ab3b788c46e3a9",
+   "capture_run": "20261123T164433Z",
+   "file": "igx-financial.html",
+   "raw_label": "Net cash from/(used) in financing activities",
+   "raw_text": "-1.02",
+   "raw_unit": "INR crore",
+   "period": "FY2024",
+   "period_label": "2023-24",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "igx-financial.html",
+    "table_index": 2,
+    "row_index": 3,
+    "heading": "Indian Gas Exchange Limited CashFlow Statement(Rs in Crores)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev86": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/indian-gas-exchange-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:35+00:00",
+   "sha256": "40a00d8792602d1301f4ecdd099dd7d5a5a2c1003e874f16e6ab3b788c46e3a9",
+   "capture_run": "20261123T164433Z",
+   "file": "igx-financial.html",
+   "raw_label": "Net cash from/(used) in financing activities",
+   "raw_text": "-1.17",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "2024-25",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "igx-financial.html",
+    "table_index": 2,
+    "row_index": 3,
+    "heading": "Indian Gas Exchange Limited CashFlow Statement(Rs in Crores)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev87": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/indian-gas-exchange-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:35+00:00",
+   "sha256": "40a00d8792602d1301f4ecdd099dd7d5a5a2c1003e874f16e6ab3b788c46e3a9",
+   "capture_run": "20261123T164433Z",
+   "file": "igx-financial.html",
+   "raw_label": "Net cash from/(used) in financing activities",
+   "raw_text": "-12.41",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "2025-26",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "igx-financial.html",
+    "table_index": 2,
+    "row_index": 3,
+    "heading": "Indian Gas Exchange Limited CashFlow Statement(Rs in Crores)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev88": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/indian-gas-exchange-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:35+00:00",
+   "sha256": "40a00d8792602d1301f4ecdd099dd7d5a5a2c1003e874f16e6ab3b788c46e3a9",
+   "capture_run": "20261123T164433Z",
+   "file": "igx-financial.html",
+   "raw_label": "EBITDA",
+   "raw_text": "3.43",
+   "raw_unit": "INR crore",
+   "period": "FY2022",
+   "period_label": "2021-22",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "igx-financial.html",
+    "table_index": 5,
+    "row_index": 8,
+    "heading": "Indian Gas Exchange Limited Summary(Rs in Crores)"
+   },
+   "statement": "summary",
+   "derived": false,
+   "components": null
+  },
+  "ev89": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/indian-gas-exchange-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:35+00:00",
+   "sha256": "40a00d8792602d1301f4ecdd099dd7d5a5a2c1003e874f16e6ab3b788c46e3a9",
+   "capture_run": "20261123T164433Z",
+   "file": "igx-financial.html",
+   "raw_label": "EBITDA",
+   "raw_text": "40.23",
+   "raw_unit": "INR crore",
+   "period": "FY2023",
+   "period_label": "2022-23",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "igx-financial.html",
+    "table_index": 5,
+    "row_index": 8,
+    "heading": "Indian Gas Exchange Limited Summary(Rs in Crores)"
+   },
+   "statement": "summary",
+   "derived": false,
+   "components": null
+  },
+  "ev90": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/indian-gas-exchange-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:35+00:00",
+   "sha256": "40a00d8792602d1301f4ecdd099dd7d5a5a2c1003e874f16e6ab3b788c46e3a9",
+   "capture_run": "20261123T164433Z",
+   "file": "igx-financial.html",
+   "raw_label": "EBITDA",
+   "raw_text": "33.92",
+   "raw_unit": "INR crore",
+   "period": "FY2024",
+   "period_label": "2023-24",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "igx-financial.html",
+    "table_index": 5,
+    "row_index": 8,
+    "heading": "Indian Gas Exchange Limited Summary(Rs in Crores)"
+   },
+   "statement": "summary",
+   "derived": false,
+   "components": null
+  },
+  "ev91": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/indian-gas-exchange-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:35+00:00",
+   "sha256": "40a00d8792602d1301f4ecdd099dd7d5a5a2c1003e874f16e6ab3b788c46e3a9",
+   "capture_run": "20261123T164433Z",
+   "file": "igx-financial.html",
+   "raw_label": "EBITDA",
+   "raw_text": "46.24",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "2024-25",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "igx-financial.html",
+    "table_index": 5,
+    "row_index": 8,
+    "heading": "Indian Gas Exchange Limited Summary(Rs in Crores)"
+   },
+   "statement": "summary",
+   "derived": false,
+   "components": null
+  },
+  "ev92": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/indian-gas-exchange-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:35+00:00",
+   "sha256": "40a00d8792602d1301f4ecdd099dd7d5a5a2c1003e874f16e6ab3b788c46e3a9",
+   "capture_run": "20261123T164433Z",
+   "file": "igx-financial.html",
+   "raw_label": "EBITDA",
+   "raw_text": "58.61",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "2025-26",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "igx-financial.html",
+    "table_index": 5,
+    "row_index": 8,
+    "heading": "Indian Gas Exchange Limited Summary(Rs in Crores)"
+   },
+   "statement": "summary",
+   "derived": false,
+   "components": null
+  },
+  "ev93": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/indian-gas-exchange-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:35+00:00",
+   "sha256": "40a00d8792602d1301f4ecdd099dd7d5a5a2c1003e874f16e6ab3b788c46e3a9",
+   "capture_run": "20261123T164433Z",
+   "file": "igx-financial.html",
+   "raw_label": "Earnings Per Share (EPS)",
+   "raw_text": "0.24",
+   "raw_unit": "INR per share",
+   "period": "FY2022",
+   "period_label": "2021-22",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "igx-financial.html",
+    "table_index": 5,
+    "row_index": 12,
+    "heading": "Indian Gas Exchange Limited Summary(Rs in Crores)"
+   },
+   "statement": "summary",
+   "derived": false,
+   "components": null
+  },
+  "ev94": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/indian-gas-exchange-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:35+00:00",
+   "sha256": "40a00d8792602d1301f4ecdd099dd7d5a5a2c1003e874f16e6ab3b788c46e3a9",
+   "capture_run": "20261123T164433Z",
+   "file": "igx-financial.html",
+   "raw_label": "Earnings Per Share (EPS)",
+   "raw_text": "3.79",
+   "raw_unit": "INR per share",
+   "period": "FY2023",
+   "period_label": "2022-23",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "igx-financial.html",
+    "table_index": 5,
+    "row_index": 12,
+    "heading": "Indian Gas Exchange Limited Summary(Rs in Crores)"
+   },
+   "statement": "summary",
+   "derived": false,
+   "components": null
+  },
+  "ev95": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/indian-gas-exchange-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:35+00:00",
+   "sha256": "40a00d8792602d1301f4ecdd099dd7d5a5a2c1003e874f16e6ab3b788c46e3a9",
+   "capture_run": "20261123T164433Z",
+   "file": "igx-financial.html",
+   "raw_label": "Earnings Per Share (EPS)",
+   "raw_text": "3.12",
+   "raw_unit": "INR per share",
+   "period": "FY2024",
+   "period_label": "2023-24",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "igx-financial.html",
+    "table_index": 5,
+    "row_index": 12,
+    "heading": "Indian Gas Exchange Limited Summary(Rs in Crores)"
+   },
+   "statement": "summary",
+   "derived": false,
+   "components": null
+  },
+  "ev96": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/indian-gas-exchange-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:35+00:00",
+   "sha256": "40a00d8792602d1301f4ecdd099dd7d5a5a2c1003e874f16e6ab3b788c46e3a9",
+   "capture_run": "20261123T164433Z",
+   "file": "igx-financial.html",
+   "raw_label": "Earnings Per Share (EPS)",
+   "raw_text": "4.19",
+   "raw_unit": "INR per share",
+   "period": "FY2025",
+   "period_label": "2024-25",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "igx-financial.html",
+    "table_index": 5,
+    "row_index": 12,
+    "heading": "Indian Gas Exchange Limited Summary(Rs in Crores)"
+   },
+   "statement": "summary",
+   "derived": false,
+   "components": null
+  },
+  "ev97": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/indian-gas-exchange-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:35+00:00",
+   "sha256": "40a00d8792602d1301f4ecdd099dd7d5a5a2c1003e874f16e6ab3b788c46e3a9",
+   "capture_run": "20261123T164433Z",
+   "file": "igx-financial.html",
+   "raw_label": "Earnings Per Share (EPS)",
+   "raw_text": "5.68",
+   "raw_unit": "INR per share",
+   "period": "FY2026",
+   "period_label": "2025-26",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "igx-financial.html",
+    "table_index": 5,
+    "row_index": 12,
+    "heading": "Indian Gas Exchange Limited Summary(Rs in Crores)"
+   },
+   "statement": "summary",
+   "derived": false,
+   "components": null
+  },
+  "ev98": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/indian-gas-exchange-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:35+00:00",
+   "sha256": "40a00d8792602d1301f4ecdd099dd7d5a5a2c1003e874f16e6ab3b788c46e3a9",
+   "capture_run": "20261123T164433Z",
+   "file": "igx-financial.html",
+   "raw_label": "Outstanding Shares",
+   "raw_text": "73,902,600.00",
+   "raw_unit": "shares",
+   "period": "FY2022",
+   "period_label": "2021-22",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "igx-financial.html",
+    "table_index": 5,
+    "row_index": 11,
+    "heading": "Indian Gas Exchange Limited Summary(Rs in Crores)"
+   },
+   "statement": "summary",
+   "derived": false,
+   "components": null
+  },
+  "ev99": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/indian-gas-exchange-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:35+00:00",
+   "sha256": "40a00d8792602d1301f4ecdd099dd7d5a5a2c1003e874f16e6ab3b788c46e3a9",
+   "capture_run": "20261123T164433Z",
+   "file": "igx-financial.html",
+   "raw_label": "Outstanding Shares",
+   "raw_text": "73,902,600.00",
+   "raw_unit": "shares",
+   "period": "FY2023",
+   "period_label": "2022-23",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "igx-financial.html",
+    "table_index": 5,
+    "row_index": 11,
+    "heading": "Indian Gas Exchange Limited Summary(Rs in Crores)"
+   },
+   "statement": "summary",
+   "derived": false,
+   "components": null
+  },
+  "ev100": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/indian-gas-exchange-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:35+00:00",
+   "sha256": "40a00d8792602d1301f4ecdd099dd7d5a5a2c1003e874f16e6ab3b788c46e3a9",
+   "capture_run": "20261123T164433Z",
+   "file": "igx-financial.html",
+   "raw_label": "Outstanding Shares",
+   "raw_text": "73,902,600.00",
+   "raw_unit": "shares",
+   "period": "FY2024",
+   "period_label": "2023-24",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "igx-financial.html",
+    "table_index": 5,
+    "row_index": 11,
+    "heading": "Indian Gas Exchange Limited Summary(Rs in Crores)"
+   },
+   "statement": "summary",
+   "derived": false,
+   "components": null
+  },
+  "ev101": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/indian-gas-exchange-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:35+00:00",
+   "sha256": "40a00d8792602d1301f4ecdd099dd7d5a5a2c1003e874f16e6ab3b788c46e3a9",
+   "capture_run": "20261123T164433Z",
+   "file": "igx-financial.html",
+   "raw_label": "Outstanding Shares",
+   "raw_text": "73,933,050.00",
+   "raw_unit": "shares",
+   "period": "FY2025",
+   "period_label": "2024-25",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "igx-financial.html",
+    "table_index": 5,
+    "row_index": 11,
+    "heading": "Indian Gas Exchange Limited Summary(Rs in Crores)"
+   },
+   "statement": "summary",
+   "derived": false,
+   "components": null
+  },
+  "ev102": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/indian-gas-exchange-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:35+00:00",
+   "sha256": "40a00d8792602d1301f4ecdd099dd7d5a5a2c1003e874f16e6ab3b788c46e3a9",
+   "capture_run": "20261123T164433Z",
+   "file": "igx-financial.html",
+   "raw_label": "Outstanding Shares",
+   "raw_text": "74,030,400.00",
+   "raw_unit": "shares",
+   "period": "FY2026",
+   "period_label": "2025-26",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "igx-financial.html",
+    "table_index": 5,
+    "row_index": 11,
+    "heading": "Indian Gas Exchange Limited Summary(Rs in Crores)"
+   },
+   "statement": "summary",
+   "derived": false,
+   "components": null
+  }
+ },
+ "news": {
+  "query": "\"Indian Gas Exchange\"",
+  "retrieved_at": "2026-11-23T16:46:03+00:00",
+  "items": [
+   {
+    "title": "ONGC acquires 5% stake in Indian Gas Exchange",
+    "publisher": "ETLegalWorld.com",
+    "date": "2026-11-16",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNGNrUkFwNnJnbDh1VTZ4Z2FJQjdNdkdKN3dTNjg5cjEzTUlhaU9ERXByNThVazROcUUyQlBmZjBaUXJqWDJrQktJdnZEbVB2SHFnb2wwUVR1OVVSTHFMTHp6eEdxQmtfQS1GNTdTWFJqTnA2LS1XWnZZMTJzRF96RmRTbFI2YUpkNktJS3liMWpZMm0zdzctN1JsUDl6SGtLLUU0elpKaXhwaVM5Z0Z2N05vOGxjZG140gGzAUFVX3lxTE9Eb0F1czNGR1lCbmpFOVlsWkxkX2F3Ml94Q2VJZHVTZWhhRVJCZmtLa2w1bXB6aUtFdWdPVi12N2tFOUoyVlpYMUZfX0h0QXRJM0o5NWlhYW5XdDl3Ty1LVTU0b1pGVXhtdnB6SVBXUC1hVkIyZEhSVldRanM0NFBKbGg5Q3k2VTRHaHhsUjEwMlc3WUhkbzVnM2xXUTRUeTZwZF9iVi1vMElySDRudFFUZWw4?oc=5"
+   },
+   {
+    "title": "IGX Trading Volume Surges 326%: Indian Gas Exchange IPO Update",
+    "publisher": "UnlistedZone",
+    "date": "2026-11-13",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9BSmkyeVZWTk9zVW5VdENlREc3bVBJdUk5UmpGdjVkQW1wVjBfUUhFS1BHOFhOVFFIWmZMRHJwZmJFZUNyaVBnREVBWE9NWThISURSWGVqanVmQkRZd2JMdHJybnNHeVNsR3c?oc=5"
+   },
+   {
+    "title": "Upcoming IPOs with shareholder quota: Reliance Retail, JSW One, IGX, Mahanadi Coalfields & more",
+    "publisher": "Upstox",
+    "date": "2026-11-13",
+    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNNTFFVXJ6ekh4d2FURThiTmdDTWp2SDVDcHdSYVpNQkIwU0NDd3F5YzZTRlhVNXk3T21EMFh1MnRRWWFSUDd0TVdtY0Y3ZklicnZuVUxqV2tvZ2F0YVBLVHRpVmxpc0kyWDlJemZxTEdwU2F3V0l0bEVCWW5vQy1lUTJ6a2w4dnJtYmJPX0gxbzktQmJtOHpjWHVSZEtudF96RWU4UjFDOGZfVW9hVER3RzZlLWx2SjVILWhHeVpMTXVwY2R6ZDE0R3hhTWRZTXBiNUd3cjZsRlExczE1OXJLSnRTb1U?oc=5"
+   },
+   {
+    "title": "🚀 IGX | India's Gas Exchange Is on a Record-Breaking Run. Can Its IPO Live Up to the Hype?",
+    "publisher": "LinkedIn",
+    "date": "2026-10-15",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZEcyWWg4ZTJfaUdEQlhOMVczbndrbHZxNDg4QlZmVWN6Sm5jSVZyTUtWWWZrOHZOdTFaVkhoVUZ5Z0hSVEhSdC1PR1lsdTZWbVZ6aUtMeHRCWF9HTERmNlRXUlVZQm5iS3pKbUlfLTcwVU5YZEg5MXBMeG5IZDVFaXFQVE9wX0hVa1JmcnFKTlJaU19IajFJ?oc=5"
+   },
+   {
+    "title": "Indian Gas Exchange IPO Gets Sebi Approval",
+    "publisher": "HDFC Sky",
+    "date": "2026-10-13",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMkRVQVM5YkFKRXNCUGpaQjhMNWtEZkJXNE9oblQyMm5YckwyVXFPZDNSejZvRzhpel9neE1NcV9TVWJVLXlxdjFsVFQzd0VqMEY2d19ocFFKV3pxN3RjMEZlN1piZUJZZHI1anVhQkdpcWgwTUJWeVl2c2psRGNDUQ?oc=5"
+   },
+   {
+    "title": "Indian Gas Exchange IPO Gets SEBI Approval; IEX To Sell 1.67 Crore Shares",
+    "publisher": "Kotak Neo",
+    "date": "2026-10-13",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNc2ZXcFBlT1pMd1Nld2RaVk9KM0d6TEtDOXl0TV9GY1EtYjhXMmQ0aC1ncHpCbkZETDlBT3RrLWhCN2p2YkpfYWxCbXdaSWUzVGcycGZmbmVITkg4VzV0QXFFLXA1TTVEeGh6cGNxYnF5cEhvV1E5d05VbzFVU1h2NDNPU1UxLUI3?oc=5"
+   },
+   {
+    "title": "Indian Gas Exchange Gets Sebi Nod For IPO",
+    "publisher": "TradingView",
+    "date": "2026-10-13",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWmFIa0VyRmNPU29yNmlTWFg0ZzRHS0RHZ19oQWpncnlyMzZNRjlTVVBJUjZNdVNocmdTX0pNYXVrMG5XUHBMdEZXODBkbmY4bUYyOWNGRm1oMzlVSjZDYnVxWk91akp1OGtrM2xfTmhsWThCNFBhWnBPSEpOTkJFR0kwMzA2Slc3cDBKWTdyZ1RoNjV0WFpIblVzQjB2bnc?oc=5"
+   },
+   {
+    "title": "SEBI gives green light to Indian Gas Exchange's IPO of 1.67 crore shares",
+    "publisher": "Moneycontrol.com",
+    "date": "2026-10-12",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQbkZHTlNpZ09peWpRdUYwTGV2cGxVSW1JclZveGo4NnhKTDFLU05QSWxBYS0wRTMwenBaNURUN1VDbklzLWo1RWNmbHhwRWZIODdkaFFrdDNYX1Z6c1VUaG52SWdpWnNEVDItUzVBWnJjazB4aVpINzVvaGc5enhIbkxsaHFkeVVYUFBzN3lUM29mUjd2b3U1ZmNiSGViWnczWndib0VmZ3lkdkl0STRRdlhKTlk2VWFjSWhXNmpVUS1hbFhzeTBEN1BEMlNZd9IB0wFBVV95cUxNRWJPT042M0FxR2Y5ZndPc0liLXpCNFpLV2NMZjViVTIyMjM4X0l6VktkejZrSDkyTjdEZUFuU0w4bVg5UVVnZ2R0eDZSRWo5Z1R1RWRZQmdmbzdHeGN2WjIxcWVEWUhtSlltNG9lVWt3QWZFak5odVhYWVVLQzE5ZXEzT2k5cUxzRldDWEdiNUFMUVpJVklfZnZxRnFsbi1rT1JuZG1UVHJaMmpmb1ZKVTRKTEdDRHVBYWtJMTJ1WmFnRmdfLUNPR1Z1ZVdSdXlKb3Uw?oc=5"
+   }
+  ],
+  "source": {
+   "name": "Google News RSS search",
+   "url": "https://news.google.com/rss/search?q=%22Indian+Gas+Exchange%22&hl=en-IN&gl=IN&ceid=IN:en",
+   "sha256": "324ea4a59e382eebb8df0ba2efaa6c7d48719ddcd081accd40eca6e3cd8316d0",
+   "run": "20261123T164603Z"
+  }
+ },
+ "peer_reviewed": true,
+ "discovery": [
+  {
+   "id": "ncdex",
+   "short": "NCDEX",
+   "name": "National Commodity & Derivatives Exchange Ltd",
+   "reasons": [
+    "same business: Exchanges & Trading Platforms",
+    "provider reports DRHP filed (IPO research lead)",
+    "in the news 2026-11-11"
+   ],
+   "score": 6,
+   "price_inr": 253.0,
+   "latest_period": "FY2026"
+  },
+  {
+   "id": "hpx",
+   "short": "HPX",
+   "name": "Hindustan Power Exchange Ltd",
+   "reasons": [
+    "same business: Exchanges & Trading Platforms",
+    "in the news 2026-11-10"
+   ],
+   "score": 4,
+   "price_inr": 22.8,
+   "latest_period": "FY2026"
+  },
+  {
+   "id": "msei",
+   "short": "MSE",
+   "name": "Metropolitan Stock Exchange of India Ltd",
+   "reasons": [
+    "same business: Exchanges & Trading Platforms",
+    "in the news 2026-11-18"
+   ],
+   "score": 4,
+   "price_inr": 6.35,
+   "latest_period": "FY2026"
+  },
+  {
+   "id": "icex",
+   "short": "ICEX",
+   "name": "Indian Commodity Exchange Ltd",
+   "reasons": [
+    "same business: Exchanges & Trading Platforms"
+   ],
+   "score": 3,
+   "price_inr": 4.0,
+   "latest_period": "FY2025"
+  },
+  {
+   "id": "oyo",
+   "short": "OYO",
+   "name": "Oravel Stays Ltd (OYO)",
+   "reasons": [
+    "provider reports DRHP filed (IPO research lead)",
+    "in the news 2026-11-23"
+   ],
+   "score": 3,
+   "price_inr": 20.45,
+   "latest_period": "FY2026"
+  },
+  {
+   "id": "pharmeasy",
+   "short": "PharmEasy",
+   "name": "API Holdings Ltd (PharmEasy)",
+   "reasons": [
+    "provider reports DRHP filed (IPO research lead)",
+    "in the news 2026-10-28"
+   ],
+   "score": 3,
+   "price_inr": 6.15,
+   "latest_period": "FY2026"
+  }
+ ],
+ "fallbacks": []
+}

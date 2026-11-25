@@ -1,0 +1,82 @@
+[
+  {
+    "id": "wwipl-igx-financials",
+    "url": "https://wwipl.com/unlisted-shares/indian-gas-exchange-share-price/financial",
+    "retrieved_at": "2026-11-12T11:16:48.125604+00:00",
+    "source_date": null,
+    "timeout_seconds": 12,
+    "evidence_type": "HTTP access experiment",
+    "status": 200,
+    "final_url": "https://wwipl.com/unlisted-shares/indian-gas-exchange-share-price/financial",
+    "content_type": "text/html; charset=UTF-8",
+    "path": "wwipl-igx-financials.html",
+    "bytes": 228815,
+    "sha256": "42aec0fa4989070aa16a4c734e66eb7a0771f19166051fe1fe8b894add0bed52"
+  },
+  {
+    "id": "nse-listing-status",
+    "url": "https://nsearchives.nseindia.com/web/pressrelease/2026-11/PR_cc_03112026_20261103175822.pdf",
+    "retrieved_at": "2026-11-12T11:16:48.716363+00:00",
+    "source_date": null,
+    "timeout_seconds": 12,
+    "evidence_type": "HTTP access experiment",
+    "status": null,
+    "error": "Response exceeds bounded 5 MB capture"
+  },
+  {
+    "id": "igx-parent-transcript",
+    "url": "https://nsearchives.nseindia.com/corporate/IEX_05112026110840_IEX_Intimation_EarningCall_Transcript_Q2_Sep26Signed.pdf",
+    "retrieved_at": "2026-11-12T11:16:50.541541+00:00",
+    "source_date": null,
+    "timeout_seconds": 12,
+    "evidence_type": "HTTP access experiment",
+    "status": 200,
+    "final_url": "https://nsearchives.nseindia.com/corporate/IEX_05112026110840_IEX_Intimation_EarningCall_Transcript_Q2_Sep26Signed.pdf",
+    "content_type": "application/pdf",
+    "path": "igx-parent-transcript.pdf",
+    "bytes": 551945,
+    "sha256": "894f9f996938cea9ed752e52a45b664af7da79e4e305feb4998138ab1102c198"
+  },
+  {
+    "id": "chittorgarh-home",
+    "url": "https://www.chittorgarh.com/",
+    "retrieved_at": "2026-11-12T11:16:51.374870+00:00",
+    "source_date": null,
+    "timeout_seconds": 12,
+    "evidence_type": "HTTP access experiment",
+    "status": 200,
+    "final_url": "https://www.chittorgarh.com/",
+    "content_type": "text/html; charset=utf-8",
+    "path": "chittorgarh-home.html",
+    "bytes": 118560,
+    "sha256": "584a7e6f8909e282b6d195da0232caff5daee790b07eee77ae478a8e4a384b74"
+  },
+  {
+    "id": "chittorgarh-hosted-nsdl-note",
+    "url": "https://www.chittorgarh.net/reports/ipo_notes/national-securities-depository-ltd-ipo-retail-note.pdf",
+    "retrieved_at": "2026-11-12T11:16:51.903574+00:00",
+    "source_date": null,
+    "timeout_seconds": 12,
+    "evidence_type": "HTTP access experiment",
+    "status": 200,
+    "final_url": "https://www.chittorgarh.net/reports/ipo_notes/national-securities-depository-ltd-ipo-retail-note.pdf",
+    "content_type": "application/pdf",
+    "path": "chittorgarh-hosted-nsdl-note.pdf",
+    "bytes": 488202,
+    "sha256": "29d42ad5dc4a41a1b47f6c1dad6d3553654346bf4d5a57c5108103e833f4ff29"
+  },
+  {
+    "id": "icici-hdb-note",
+    "url": "https://www.icicidirect.com/mailcontent/idirect_hdbfinancials_iporeview.pdf",
+    "retrieved_at": "2026-11-12T11:16:52.752138+00:00",
+    "source_date": null,
+    "timeout_seconds": 12,
+    "evidence_type": "HTTP access experiment",
+    "status": 200,
+    "final_url": "https://www.icicidirect.com/mailcontent/idirect_hdbfinancials_iporeview.pdf",
+    "content_type": "application/pdf",
+    "path": "icici-hdb-note.pdf",
+    "bytes": 869938,
+    "sha256": "5ac92eea036bbf3638c94d974fbbbe59bd16bb98fa22a6b7645464558d072e67"
+  }
+]

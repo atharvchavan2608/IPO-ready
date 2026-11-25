@@ -1,0 +1,53 @@
+{
+  "source": "issuer",
+  "run_id": "20261123T163845Z",
+  "items": [
+    {
+      "id": "igx-restated-financials",
+      "url": "https://testwebcms.igxindia.com/files/financials-5bCIC136dXcpEa1daoEb.pdf",
+      "referrer": "https://www.igxindia.com/investor-relation",
+      "retrieved_at": "2026-11-23T16:38:45.416426+00:00",
+      "status": 200,
+      "path": "igx-restated-financials.pdf",
+      "bytes": 2244866,
+      "sha256": "d6fcbfb703f9a261511d0bbbd3a11b1b8e4426a89e6ac650f37c5c16c442ca8a",
+      "content_type": "application/pdf",
+      "company": "igx",
+      "title": "Restated Financial Information (FY24-FY26), auditor's examination report",
+      "final_url": "https://testwebcms.igxindia.com/files/financials-5bCIC136dXcpEa1daoEb.pdf"
+    },
+    {
+      "id": "igx-abridged-prospectus",
+      "url": "https://testwebcms.igxindia.com/files/draft-abridged-prospectus-fDGrlKdPZUzDwuNSY2ee.pdf",
+      "referrer": "https://www.igxindia.com/investor-relation",
+      "retrieved_at": "2026-11-23T16:38:47.478858+00:00",
+      "status": 200,
+      "path": "igx-abridged-prospectus.pdf",
+      "bytes": 468322,
+      "sha256": "1c01ddfcde4e620ddb34ddc9fc1c29d01f18a6d562c11103ceee9a87f8abfa9b",
+      "content_type": "application/pdf",
+      "company": "igx",
+      "title": "Draft abridged prospectus",
+      "final_url": "https://testwebcms.igxindia.com/files/draft-abridged-prospectus-fDGrlKdPZUzDwuNSY2ee.pdf"
+    },
+    {
+      "id": "igx-drhp",
+      "url": "https://testwebcms.igxindia.com/files/drhp-6w0Qkr9JEHUyvsQQbc1.pdf",
+      "referrer": "https://www.igxindia.com/investor-relation",
+      "retrieved_at": "2026-11-23T16:38:48.846640+00:00",
+      "status": 200,
+      "path": "igx-drhp.pdf",
+      "bytes": 13589810,
+      "sha256": "7016cee34f4ce8cce762ec6f49fa320507a32c50308d834b58c73b3e2c80b9d3",
+      "content_type": "application/pdf",
+      "company": "igx",
+      "title": "Draft Red Herring Prospectus",
+      "final_url": "https://testwebcms.igxindia.com/files/drhp-6w0Qkr9JEHUyvsQQbc1.pdf"
+    }
+  ],
+  "summary": {
+    "attempted": 3,
+    "ok": 3,
+    "failed": 0
+  }
+}

@@ -26,3 +26,17 @@ Thumbs.db
 *.log
 
 # Research evidence and reviewed outputs are intentionally retained.
+
+# Regenerable caches and local logs
+data/derived/pdf_text/
+data/server.log
+
+# Keep native third-party downloads local. Publish capture receipts and the demo projection.
+/data/captures/**/*
+!/data/captures/**/
+!/data/captures/**/manifest.json
+!/data/captures/**/receipt.json
+!/data/captures/nse_eod/store/index.json
+/research/unlisted_sources_20261112/**/*
+!/research/unlisted_sources_20261112/**/
+!/research/unlisted_sources_20261112/**/manifest.json

@@ -1,0 +1,16 @@
+{
+  "directory": "retained",
+  "initial_add": "already_added",
+  "sources": {
+    "financials": "fetched",
+    "identity": "retained",
+    "quote": "fetched"
+  },
+  "company": "nse-astral",
+  "isin": "INE006I01046",
+  "quote_as_of": "2026-11-23",
+  "detail_sources_visible": true,
+  "isin_reused_record": true,
+  "column_restored_after_reload": true,
+  "dashboard_lookup_handoff": true
+}

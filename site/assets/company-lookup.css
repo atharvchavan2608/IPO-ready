@@ -1,0 +1,10 @@
+.company-lookup { margin: 12px 0 0; padding-top: 10px; border-top: 1px solid var(--line); }
+.company-lookup-form { display: flex; flex-wrap: wrap; gap: 8px; align-items: end; max-width: 680px; margin: 10px 0 5px; }
+.company-lookup-form label { flex: 1 1 225px; color: var(--ink); font-size: 13px; font-weight: 650; }
+.company-lookup-form input { display: block; width: 100%; margin-top: 4px; min-height: 37px; border: 1px solid var(--line); border-radius: 7px; background: var(--card); color: var(--ink); padding: 6px 10px; font: inherit; }
+.lookup-results { list-style: none; padding: 0; margin: 0; max-width: 680px; }
+.lookup-results li { display: flex; justify-content: space-between; align-items: center; gap: 8px; padding: 8px 0; border-bottom: 1px solid var(--line); }
+.lookup-results li span { display: block; overflow-wrap: anywhere; }
+.lookup-results button { flex-shrink: 0; }
+.lookup-status:empty { display: none; }
+.embedded-company .company-lookup { display: none; }

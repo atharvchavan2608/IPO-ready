@@ -1,52 +1,44 @@
 # Team handoff
 
-Prepared: 2026-10-28. Research conclusions and implementation status below originate from 2026-10-22; this handoff does not imply new financial validation.
+## V1-to-V2 upgrade, 24 November 2026
 
-## Current direction
+Start with the [V2 brief](starter-kit/PROTOTYPE_BRIEF.md), [starter prompts](starter-kit/PROMPTS.md) and [owner steering](starter-kit/steering.md). The [V1 handoff archive](../archive/v1-handoff-20261124/README.md) records the baseline, its open review findings and reproducible examples.
 
-IPO-Ready is a Python analytics project for investor research. Active work is a US-first public pre-IPO disclosure pilot, including eligible foreign SEC filers where feasible. Start with the [global plan](research/topics/pre-ipo-global-plan.md) and [research status](research/STATUS.md).
+## Historical handoff, 12 November 2026
 
-The existing Aether India demo and professor proposal predate this scope change. They are useful baselines, but the global workflow has not been implemented. There is no live agent, automatic extraction, peer valuation or validated composite score.
+Commands and source paths in this section record the original repository layout. For isolated reproduction, use the archive instructions.
 
-## What is available
+For a fresh session, read the [detailed continuation log](SESSION_LOG_2026-11-12.md): user priorities, implementation map, exact source runs, archive/Git state, checks, limitations and next-task completion criteria.
 
-| Location | Purpose |
-| --- | --- |
-| `app/` | Standard-library Python engine and local HTTP demo; curated Aether inputs |
-| `notebooks/` | pandas financial-analysis notebook |
-| `outputs/poc/` | Offline demo, precomputed JSON and CSV |
-| `docs/proposal/`, `output/pdf/` | Prior India-focused professor proposal and supporting guides |
-| `docs/research/` | Canonical findings, 64 source records, definitions, decisions and queue |
-| `research/` | Acquisition/inspection scripts, evidence, hashes and pinned third-party reference excerpts |
-| `outputs/ipo-ready-survey-20261022/` | Historical workbook snapshots; not editable research authority |
-| `tests/` | Analytics regression tests |
+Updated: 2026-11-12. Latest user direction: staged construction of an interactive investor portal for unlisted/pre-IPO companies, free data first, recent IPO references, and learning company-specific analyst reasoning from Chittorgarh and expert reports.
 
-## Next bounded task
+Read [current architecture](architecture/CURRENT_ARCHITECTURE.md), [strategy/checklist](product/BUILD_STRATEGY.md), [research status](research/STATUS.md) and [build status](BUILD_STATUS.md). The full latest GitHub architecture package is copied and pinned under `docs/architecture/`; it is a target proposal, while `CURRENT_ARCHITECTURE.md` records actual implementation.
 
-Screen six candidate issuers and propose two pilot cases, including a foreign SEC filer if feasible. Produce a Markdown matrix with public filing/offer status at a declared cutoff, financial-statement coverage, sector, accounting basis, access outcome, extraction difficulty and selection/exclusion reasons. Save bounded coverage searches and distinguish “not found in this search” from absence of analysis.
+## Run and verify
 
-Then preserve selected pre-offer filings and hashes, review 10–15 base facts per issuer across comparable periods, and test the calculations in Python. Never substitute later annual reports for pre-offer evidence. The six-step queue and completion conditions are in the global plan. India's primary-XBRL acquisition and broader scoring work remain deferred.
-
-Suggested task split: candidate/coverage research; filing and fact review; Python analysis and checks. These are suggestions, not assigned owners. Coordinate shared register edits through pull requests.
-
-## Evidence boundaries
-
-SEC access succeeded for one bounded historical example; broad pre-IPO coverage is unproven. Company Facts contained no original S-1 accession in that example. Aether is manually curated with unresolved discrepancies. The Infosys XML is a repository copy with conflicting dates, not authenticated primary exchange evidence. The existing build status records earlier browser and notebook checks separately from this upload preparation.
-
-## GitHub setup
-
-The project contains about 31 MB of files before Git metadata. Keep the native evidence and manifests together. Use a private team repository initially because the collection includes third-party documents and code excerpts; public access does not itself establish redistribution rights. No blanket license has been added.
-
-After creating an empty GitHub repository, run from this project folder:
+`python -m portal.main` served the November app at http://127.0.0.1:8766. Its original application folder was `portal/`; the October demo and survey builders are in the [earlier archive](../archive/legacy-20261022/README.md). Runtime used Python's standard library.
 
 ```powershell
-git init -b main
-git add .
-git diff --cached --stat
-git status --short
-git commit -m "Prepare IPO-Ready research and proof of concept for team handoff"
-git remote add origin https://github.com/OWNER/REPOSITORY.git
-git push -u origin main
+python -m unittest discover -s tests -v
+python research/validate_markdown_research.py
+python -m portal.snapshot
 ```
 
-Replace `OWNER/REPOSITORY` with the actual repository path. If GitHub already contains an initial commit, clone it separately and copy these project files into that checkout before committing; avoid overwriting remote history. Add teammates through GitHub repository access settings. No remote, commit or push was performed as part of preparing these instructions.
+The optional browser script is `python scripts/check_portal.py`, with the server running and Playwright/Chrome already installed. Tests verify arithmetic/contracts and interactions, not issuer reporting or investment accuracy.
+
+## What exists
+
+- IGX active pre-IPO candidate; dated IEX transcript provides offering context. NSE reference is correctly classified as a September-2026 IPO rather than relying on a stale provider category. NSDL is discovery-only.
+- Thirty provisional secondary observations across two companies and three annual periods, with exact WWIPL row/year anchors and native hashes. Unknown statement basis remains unknown.
+- Interactive annual trends, ratios, history, formula/source inspection, one-year assumption sensitivity, coverage/reference exclusions and snapshot download.
+- A proposed analyst-claim/evidence contract informed by the Chittorgarh index and two selected broker notes. No AI model or individual Davda article evaluation.
+
+## Former next task: IGX primary reconciliation
+
+Acquire one accessible official IGX financial statement covering FY25/FY26 (prefer a clearly linked issuer/DRHP source). Retain native bytes and hash. Reconcile the selected operating revenue, other income, total income, continuing profit and CFO; identify reporting basis, dates and cash-flow composition. Save mismatches and definition ambiguities as exceptions instead of overwriting provider observations. Update N05/N06 and topic/status/register together where evidence changes.
+
+After that, implement one reusable source adapter and candidate/review persistence. Then add compatible reference/cohort work. Do not build all pending ranking, valuation, jobs, accounts and AI systems in one pass. Specific individual expert-article tracing is a later bounded method task.
+
+## Preserve
+
+Earlier 64 source IDs, Aether research and XBRL/SEC findings remain useful. Current N01-N10 add design, provider/status and expert-method evidence. Native evidence lives under `research/`; the archive manifest proves original demo code bytes were preserved. No commit, push or hosted publication is implied by this local handoff.

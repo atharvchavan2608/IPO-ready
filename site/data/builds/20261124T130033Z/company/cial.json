@@ -1,0 +1,4569 @@
+{
+ "id": "cial",
+ "name": "Cochin International Airport Ltd",
+ "short": "CIAL",
+ "hierarchy": [
+  "Industrials",
+  "Transport Infrastructure",
+  "Airports",
+  "Airport Operators"
+ ],
+ "model": "infrastructure",
+ "listed_peers": [
+  "GMRAIRPORT"
+ ],
+ "status_note": null,
+ "market_status": null,
+ "quote": {
+  "price_inr": "440.00",
+  "state": "reported",
+  "change_raw": "+ 0.00 %",
+  "kind": "unlisted dealer quote (indicative, not an exchange trade)",
+  "as_of": "2026-11-23T16:45:26+00:00",
+  "high_52w": "460.00 (13/12/25)",
+  "low_52w": "433.00 (27/03/26)",
+  "ev": "ev1"
+ },
+ "profile": {
+  "provider_sector": "Airport",
+  "isin": "INE02KH01019",
+  "cin": "U63033KL1994PLC007803",
+  "registration_date": "30/03/1994",
+  "face_value": "10",
+  "lot_size": "200",
+  "drhp_filed": "No",
+  "depository": "nsdl",
+  "rofr": "No",
+  "description": null,
+  "share_details_as_of": "March 31, 2026",
+  "ev": "ev2"
+ },
+ "periods": [
+  "FY2022",
+  "FY2023",
+  "FY2024",
+  "FY2025",
+  "FY2026"
+ ],
+ "basis": "unspecified",
+ "raw_units": [
+  "INR crore"
+ ],
+ "layout": "five-year summary",
+ "fields": {
+  "total_income": {
+   "label": "Total income",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": "524.2",
+     "state": "reported",
+     "ev": "ev3"
+    },
+    "FY2023": {
+     "value": "954.83",
+     "state": "reported",
+     "ev": "ev4"
+    },
+    "FY2024": {
+     "value": "1233.51",
+     "state": "reported",
+     "ev": "ev5"
+    },
+    "FY2025": {
+     "value": "1402.3",
+     "state": "reported",
+     "ev": "ev6"
+    },
+    "FY2026": {
+     "value": "1492.22",
+     "state": "reported",
+     "ev": "ev7"
+    }
+   }
+  },
+  "revenue_ops": {
+   "label": "Revenue from operations",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": "502.3",
+     "state": "reported",
+     "ev": "ev8"
+    },
+    "FY2023": {
+     "value": "939.64",
+     "state": "reported",
+     "ev": "ev9"
+    },
+    "FY2024": {
+     "value": "1158.43",
+     "state": "reported",
+     "ev": "ev10"
+    },
+    "FY2025": {
+     "value": "1309.95",
+     "state": "reported",
+     "ev": "ev11"
+    },
+    "FY2026": {
+     "value": "1401.49",
+     "state": "reported",
+     "ev": "ev12"
+    }
+   }
+  },
+  "other_income": {
+   "label": "Other income",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": "21.9",
+     "state": "reported",
+     "ev": "ev13"
+    },
+    "FY2023": {
+     "value": "15.19",
+     "state": "reported",
+     "ev": "ev14"
+    },
+    "FY2024": {
+     "value": "75.08",
+     "state": "reported",
+     "ev": "ev15"
+    },
+    "FY2025": {
+     "value": "92.34",
+     "state": "reported",
+     "ev": "ev16"
+    },
+    "FY2026": {
+     "value": "90.73",
+     "state": "reported",
+     "ev": "ev17"
+    }
+   }
+  },
+  "other_gains": {
+   "label": "Other gains / losses",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2023": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "job_work_revenue": {
+   "label": "Revenue from job work",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2023": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "total_expenses": {
+   "label": "Total expenses",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": "475.64",
+     "state": "reported",
+     "ev": "ev18"
+    },
+    "FY2023": {
+     "value": "563.14",
+     "state": "reported",
+     "ev": "ev19"
+    },
+    "FY2024": {
+     "value": "635.02",
+     "state": "reported",
+     "ev": "ev20"
+    },
+    "FY2025": {
+     "value": "709.5",
+     "state": "reported",
+     "ev": "ev21"
+    },
+    "FY2026": {
+     "value": "779.26",
+     "state": "reported",
+     "ev": "ev22"
+    }
+   }
+  },
+  "finance_cost": {
+   "label": "Finance cost",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": "54.94",
+     "state": "reported",
+     "ev": "ev23"
+    },
+    "FY2023": {
+     "value": "44.84",
+     "state": "reported",
+     "ev": "ev24"
+    },
+    "FY2024": {
+     "value": "50.83",
+     "state": "reported",
+     "ev": "ev25"
+    },
+    "FY2025": {
+     "value": "42.43",
+     "state": "reported",
+     "ev": "ev26"
+    },
+    "FY2026": {
+     "value": "34.74",
+     "state": "reported",
+     "ev": "ev27"
+    }
+   }
+  },
+  "depreciation": {
+   "label": "Depreciation",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": "145.37",
+     "state": "reported",
+     "ev": "ev28"
+    },
+    "FY2023": {
+     "value": "141.68",
+     "state": "reported",
+     "ev": "ev29"
+    },
+    "FY2024": {
+     "value": "148.37",
+     "state": "reported",
+     "ev": "ev30"
+    },
+    "FY2025": {
+     "value": "145.44",
+     "state": "reported",
+     "ev": "ev31"
+    },
+    "FY2026": {
+     "value": "158.88",
+     "state": "reported",
+     "ev": "ev32"
+    }
+   }
+  },
+  "pbt": {
+   "label": "Profit before tax",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": "48.56",
+     "state": "reported",
+     "ev": "ev33"
+    },
+    "FY2023": {
+     "value": "391.69",
+     "state": "reported",
+     "ev": "ev34"
+    },
+    "FY2024": {
+     "value": "598.49",
+     "state": "reported",
+     "ev": "ev35"
+    },
+    "FY2025": {
+     "value": "692.8",
+     "state": "reported",
+     "ev": "ev36"
+    },
+    "FY2026": {
+     "value": "709.55",
+     "state": "reported",
+     "ev": "ev37"
+    }
+   }
+  },
+  "tax": {
+   "label": "Tax",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": "13.57",
+     "state": "reported",
+     "ev": "ev38"
+    },
+    "FY2023": {
+     "value": "98.94",
+     "state": "reported",
+     "ev": "ev39"
+    },
+    "FY2024": {
+     "value": "150.71",
+     "state": "reported",
+     "ev": "ev40"
+    },
+    "FY2025": {
+     "value": "177.25",
+     "state": "reported",
+     "ev": "ev41"
+    },
+    "FY2026": {
+     "value": "182.8",
+     "state": "reported",
+     "ev": "ev42"
+    }
+   }
+  },
+  "pat": {
+   "label": "Profit after tax",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": "34.99",
+     "state": "reported",
+     "ev": "ev43"
+    },
+    "FY2023": {
+     "value": "292.74",
+     "state": "reported",
+     "ev": "ev44"
+    },
+    "FY2024": {
+     "value": "447.78",
+     "state": "reported",
+     "ev": "ev45"
+    },
+    "FY2025": {
+     "value": "515.55",
+     "state": "reported",
+     "ev": "ev46"
+    },
+    "FY2026": {
+     "value": "526.75",
+     "state": "reported",
+     "ev": "ev47"
+    }
+   }
+  },
+  "total_assets": {
+   "label": "Total assets",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": "2512.55",
+     "state": "reported",
+     "ev": "ev48"
+    },
+    "FY2023": {
+     "value": "3430.87",
+     "state": "reported",
+     "ev": "ev49"
+    },
+    "FY2024": {
+     "value": "3573.44",
+     "state": "reported",
+     "ev": "ev50"
+    },
+    "FY2025": {
+     "value": "3841.99",
+     "state": "reported",
+     "ev": "ev51"
+    },
+    "FY2026": {
+     "value": "3995.16",
+     "state": "reported",
+     "ev": "ev52"
+    }
+   }
+  },
+  "total_equity": {
+   "label": "Total equity",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": "1346.93",
+     "state": "reported",
+     "ev": "ev53"
+    },
+    "FY2023": {
+     "value": "2115.56",
+     "state": "reported",
+     "ev": "ev54"
+    },
+    "FY2024": {
+     "value": "2367.24",
+     "state": "reported",
+     "ev": "ev55"
+    },
+    "FY2025": {
+     "value": "2665.26",
+     "state": "reported",
+     "ev": "ev56"
+    },
+    "FY2026": {
+     "value": "2954.48",
+     "state": "reported",
+     "ev": "ev57"
+    }
+   }
+  },
+  "total_liabilities": {
+   "label": "Total liabilities",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": "1165.62",
+     "state": "reported",
+     "ev": "ev58"
+    },
+    "FY2023": {
+     "value": "1315.31",
+     "state": "reported",
+     "ev": "ev59"
+    },
+    "FY2024": {
+     "value": "1206.2",
+     "state": "reported",
+     "ev": "ev60"
+    },
+    "FY2025": {
+     "value": "1176.73",
+     "state": "reported",
+     "ev": "ev61"
+    },
+    "FY2026": {
+     "value": "1040.67",
+     "state": "reported",
+     "ev": "ev62"
+    }
+   }
+  },
+  "current_assets": {
+   "label": "Current assets",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": "247.72",
+     "state": "reported",
+     "ev": "ev63"
+    },
+    "FY2023": {
+     "value": "1186.54",
+     "state": "reported",
+     "ev": "ev64"
+    },
+    "FY2024": {
+     "value": "1293.32",
+     "state": "reported",
+     "ev": "ev65"
+    },
+    "FY2025": {
+     "value": "1421.02",
+     "state": "reported",
+     "ev": "ev66"
+    },
+    "FY2026": {
+     "value": "1350.65",
+     "state": "reported",
+     "ev": "ev67"
+    }
+   }
+  },
+  "current_liabilities": {
+   "label": "Current liabilities",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": "234.58",
+     "state": "reported",
+     "ev": "ev68"
+    },
+    "FY2023": {
+     "value": "403.9",
+     "state": "reported",
+     "ev": "ev69"
+    },
+    "FY2024": {
+     "value": "358.25",
+     "state": "reported",
+     "ev": "ev70"
+    },
+    "FY2025": {
+     "value": "430.39",
+     "state": "reported",
+     "ev": "ev71"
+    },
+    "FY2026": {
+     "value": "448.7",
+     "state": "reported",
+     "ev": "ev72"
+    }
+   }
+  },
+  "inventories": {
+   "label": "Inventories",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2023": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "cash": {
+   "label": "Cash & equivalents",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2023": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "loans": {
+   "label": "Loans",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2023": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "cfo": {
+   "label": "Cash from operations",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": "158.8",
+     "state": "reported",
+     "ev": "ev73"
+    },
+    "FY2023": {
+     "value": "559.82",
+     "state": "reported",
+     "ev": "ev74"
+    },
+    "FY2024": {
+     "value": "592.43",
+     "state": "reported",
+     "ev": "ev75"
+    },
+    "FY2025": {
+     "value": "648.55",
+     "state": "reported",
+     "ev": "ev76"
+    },
+    "FY2026": {
+     "value": "664.91",
+     "state": "reported",
+     "ev": "ev77"
+    }
+   }
+  },
+  "cfi": {
+   "label": "Cash from investing",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": "-110.73",
+     "state": "reported",
+     "ev": "ev78"
+    },
+    "FY2023": {
+     "value": "-972.49",
+     "state": "reported",
+     "ev": "ev79"
+    },
+    "FY2024": {
+     "value": "-199.26",
+     "state": "reported",
+     "ev": "ev80"
+    },
+    "FY2025": {
+     "value": "-234.2",
+     "state": "reported",
+     "ev": "ev81"
+    },
+    "FY2026": {
+     "value": "-289.36",
+     "state": "reported",
+     "ev": "ev82"
+    }
+   }
+  },
+  "cff": {
+   "label": "Cash from financing",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": "-1.24",
+     "state": "reported",
+     "ev": "ev83"
+    },
+    "FY2023": {
+     "value": "434.29",
+     "state": "reported",
+     "ev": "ev84"
+    },
+    "FY2024": {
+     "value": "-393.49",
+     "state": "reported",
+     "ev": "ev85"
+    },
+    "FY2025": {
+     "value": "-368.15",
+     "state": "reported",
+     "ev": "ev86"
+    },
+    "FY2026": {
+     "value": "-398.78",
+     "state": "reported",
+     "ev": "ev87"
+    }
+   }
+  },
+  "ebitda": {
+   "label": "EBITDA",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2023": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "eps": {
+   "label": "EPS (provider)",
+   "unit": "INR",
+   "by_period": {
+    "FY2022": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2023": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "shares_outstanding": {
+   "label": "Shares outstanding",
+   "unit": "shares",
+   "by_period": {
+    "FY2022": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2023": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  }
+ },
+ "cash_flow": {
+  "unit": "INR crore",
+  "by_period": {
+   "FY2022": {
+    "basis": "unspecified",
+    "origin": "provider",
+    "lines": {
+     "opening": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "cfo": {
+      "value": "158.8",
+      "state": "reported",
+      "ev": "ev73"
+     },
+     "cfi": {
+      "value": "-110.73",
+      "state": "reported",
+      "ev": "ev78"
+     },
+     "cff": {
+      "value": "-1.24",
+      "state": "reported",
+      "ev": "ev83"
+     },
+     "other_effects": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "net_change": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "closing": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "before_working_capital": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "receivables": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "other_assets": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "payables_and_liabilities": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "tax_paid": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "capex": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "net_investment_purchases": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "debt_principal": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "lease_principal": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "lease_interest": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "overdraft_interest": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "share_proceeds": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "dividends": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "current_accounts": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "settlement_accounts": {
+      "state": "not_in_source",
+      "value": null
+     }
+    },
+    "reconciliation": {
+     "state": "partial"
+    },
+    "provider_comparison": null
+   },
+   "FY2023": {
+    "basis": "unspecified",
+    "origin": "provider",
+    "lines": {
+     "opening": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "cfo": {
+      "value": "559.82",
+      "state": "reported",
+      "ev": "ev74"
+     },
+     "cfi": {
+      "value": "-972.49",
+      "state": "reported",
+      "ev": "ev79"
+     },
+     "cff": {
+      "value": "434.29",
+      "state": "reported",
+      "ev": "ev84"
+     },
+     "other_effects": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "net_change": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "closing": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "before_working_capital": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "receivables": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "other_assets": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "payables_and_liabilities": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "tax_paid": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "capex": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "net_investment_purchases": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "debt_principal": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "lease_principal": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "lease_interest": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "overdraft_interest": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "share_proceeds": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "dividends": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "current_accounts": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "settlement_accounts": {
+      "state": "not_in_source",
+      "value": null
+     }
+    },
+    "reconciliation": {
+     "state": "partial"
+    },
+    "provider_comparison": null
+   },
+   "FY2024": {
+    "basis": "unspecified",
+    "origin": "provider",
+    "lines": {
+     "opening": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "cfo": {
+      "value": "592.43",
+      "state": "reported",
+      "ev": "ev75"
+     },
+     "cfi": {
+      "value": "-199.26",
+      "state": "reported",
+      "ev": "ev80"
+     },
+     "cff": {
+      "value": "-393.49",
+      "state": "reported",
+      "ev": "ev85"
+     },
+     "other_effects": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "net_change": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "closing": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "before_working_capital": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "receivables": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "other_assets": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "payables_and_liabilities": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "tax_paid": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "capex": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "net_investment_purchases": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "debt_principal": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "lease_principal": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "lease_interest": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "overdraft_interest": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "share_proceeds": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "dividends": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "current_accounts": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "settlement_accounts": {
+      "state": "not_in_source",
+      "value": null
+     }
+    },
+    "reconciliation": {
+     "state": "partial"
+    },
+    "provider_comparison": null
+   },
+   "FY2025": {
+    "basis": "unspecified",
+    "origin": "provider",
+    "lines": {
+     "opening": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "cfo": {
+      "value": "648.55",
+      "state": "reported",
+      "ev": "ev76"
+     },
+     "cfi": {
+      "value": "-234.2",
+      "state": "reported",
+      "ev": "ev81"
+     },
+     "cff": {
+      "value": "-368.15",
+      "state": "reported",
+      "ev": "ev86"
+     },
+     "other_effects": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "net_change": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "closing": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "before_working_capital": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "receivables": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "other_assets": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "payables_and_liabilities": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "tax_paid": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "capex": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "net_investment_purchases": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "debt_principal": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "lease_principal": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "lease_interest": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "overdraft_interest": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "share_proceeds": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "dividends": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "current_accounts": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "settlement_accounts": {
+      "state": "not_in_source",
+      "value": null
+     }
+    },
+    "reconciliation": {
+     "state": "partial"
+    },
+    "provider_comparison": null
+   },
+   "FY2026": {
+    "basis": "unspecified",
+    "origin": "provider",
+    "lines": {
+     "opening": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "cfo": {
+      "value": "664.91",
+      "state": "reported",
+      "ev": "ev77"
+     },
+     "cfi": {
+      "value": "-289.36",
+      "state": "reported",
+      "ev": "ev82"
+     },
+     "cff": {
+      "value": "-398.78",
+      "state": "reported",
+      "ev": "ev87"
+     },
+     "other_effects": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "net_change": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "closing": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "before_working_capital": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "receivables": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "other_assets": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "payables_and_liabilities": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "tax_paid": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "capex": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "net_investment_purchases": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "debt_principal": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "lease_principal": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "lease_interest": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "overdraft_interest": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "share_proceeds": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "dividends": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "current_accounts": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "settlement_accounts": {
+      "state": "not_in_source",
+      "value": null
+     }
+    },
+    "reconciliation": {
+     "state": "partial"
+    },
+    "provider_comparison": null
+   }
+  }
+ },
+ "documents": [],
+ "reconciliation": null,
+ "agent": {
+  "inventories": {
+   "company": "cial",
+   "field": "inventories",
+   "status": "not_found_no_documents",
+   "summary": "No issuer documents retained for CIAL; the provider does not report inventories. Expectation: possible.",
+   "how_to_verify": "Not verifiable from retained evidence.",
+   "expectation": {
+    "level": "possible",
+    "reason": "Operators may carry stores and spares."
+   },
+   "evidence": [],
+   "evidence_total": 0,
+   "next_checks": [
+    "Audited annual report: balance sheet 'Inventories' line and note on valuation",
+    "MCA AOC-4 financial statement filing (paid access)",
+    "DRHP 'Restated financial information' if the company files for an IPO"
+   ],
+   "trace": [
+    {
+     "step": 1,
+     "tool": "provider_lookup",
+     "input": {
+      "company": "cial",
+      "field": "inventories"
+     },
+     "output": {
+      "found": false,
+      "periods": [],
+      "detail": "no matching line in the provider's parsed statements"
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 2,
+     "tool": "applicability_rule",
+     "input": {
+      "field": "inventories",
+      "business_model": "infrastructure"
+     },
+     "output": {
+      "expectation": "possible",
+      "reason": "Operators may carry stores and spares."
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 3,
+     "tool": "statement_line_check",
+     "input": {
+      "document": null
+     },
+     "output": {
+      "skipped": true,
+      "why": "no retained issuer balance sheet for this company"
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 4,
+     "tool": "document_search",
+     "input": {
+      "documents": [],
+      "patterns": [
+       "\\binventor(?:y|ies)\\b"
+      ]
+     },
+     "output": {
+      "documents_searched": [],
+      "pages_with_word_matches": 0,
+      "pages_with_naive_substring": 0,
+      "note": "naive substring 'inventor' also matches unrelated words (e.g. 'COMPANY' contains 'NPA'); word-boundary patterns used"
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 5,
+     "tool": "classify_passages",
+     "input": {
+      "passages": 0
+     },
+     "output": {
+      "by_kind": {}
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 6,
+     "tool": "verdict",
+     "input": {
+      "signals": {
+       "provider": false,
+       "numeric": 0,
+       "explicit_na": 0,
+       "line_check": null,
+       "expectation": "possible"
+      }
+     },
+     "output": {
+      "status": "not_found_no_documents",
+      "summary": "No issuer documents retained for CIAL; the provider does not report inventories. Expectation: possible.",
+      "how_to_verify": "Not verifiable from retained evidence."
+     },
+     "ms": 0.0
+    }
+   ],
+   "executed": "deterministic tool sequence (no language model call)"
+  },
+  "npa": {
+   "company": "cial",
+   "field": "npa",
+   "status": "inapplicable",
+   "summary": "Not applicable by business model: NPA is a lender asset-quality measure; this business has no loan book to classify.",
+   "how_to_verify": "No mentions to review; the business-model rule decides.",
+   "expectation": {
+    "level": "not_applicable",
+    "reason": "NPA is a lender asset-quality measure; this business has no loan book to classify."
+   },
+   "evidence": [],
+   "evidence_total": 0,
+   "next_checks": [
+    "Annual report notes: 'Stage 3 assets', 'Gross NPA', 'Net NPA' (RBI disclosure for NBFCs)"
+   ],
+   "trace": [
+    {
+     "step": 1,
+     "tool": "provider_lookup",
+     "input": {
+      "company": "cial",
+      "field": "gross_npa"
+     },
+     "output": {
+      "found": false,
+      "periods": [],
+      "detail": "no matching line in the provider's parsed statements"
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 2,
+     "tool": "applicability_rule",
+     "input": {
+      "field": "npa",
+      "business_model": "infrastructure"
+     },
+     "output": {
+      "expectation": "not_applicable",
+      "reason": "NPA is a lender asset-quality measure; this business has no loan book to classify."
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 3,
+     "tool": "statement_line_check",
+     "input": {
+      "document": null
+     },
+     "output": {
+      "skipped": true,
+      "why": "no retained issuer balance sheet for this company"
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 4,
+     "tool": "document_search",
+     "input": {
+      "documents": [],
+      "patterns": [
+       "\\bG?N?NPAs?\\b",
+       "\\bnon[- ]performing (?:assets?|loans?)\\b",
+       "\\bstage\\s*(?:3|III)\\s+(?:assets|loans)\\b"
+      ]
+     },
+     "output": {
+      "documents_searched": [],
+      "pages_with_word_matches": 0,
+      "pages_with_naive_substring": 0,
+      "note": "naive substring 'npa' also matches unrelated words (e.g. 'COMPANY' contains 'NPA'); word-boundary patterns used"
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 5,
+     "tool": "classify_passages",
+     "input": {
+      "passages": 0
+     },
+     "output": {
+      "by_kind": {}
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 6,
+     "tool": "verdict",
+     "input": {
+      "signals": {
+       "provider": false,
+       "numeric": 0,
+       "explicit_na": 0,
+       "line_check": null,
+       "expectation": "not_applicable"
+      }
+     },
+     "output": {
+      "status": "inapplicable",
+      "summary": "Not applicable by business model: NPA is a lender asset-quality measure; this business has no loan book to classify.",
+      "how_to_verify": "No mentions to review; the business-model rule decides."
+     },
+     "ms": 0.0
+    }
+   ],
+   "executed": "deterministic tool sequence (no language model call)"
+  }
+ },
+ "metrics": {
+  "FY2022": {
+   "revenue_growth": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "(current / previous) - 1",
+    "inputs": {
+     "current": "502.3",
+     "previous": null
+    },
+    "unit": "%",
+    "ev": [
+     "ev8"
+    ]
+   },
+   "pat_margin": {
+    "value": "6.6749",
+    "state": "ok",
+    "formula": "PAT / total income x 100",
+    "inputs": {
+     "pat": "34.99",
+     "total_income": "524.2"
+    },
+    "unit": "%",
+    "ev": [
+     "ev43",
+     "ev3"
+    ]
+   },
+   "net_profit_ratio": {
+    "value": "6.9660",
+    "state": "ok",
+    "formula": "PAT / revenue from operations x 100",
+    "inputs": {
+     "pat": "34.99",
+     "revenue_ops": "502.3"
+    },
+    "unit": "%",
+    "ev": [
+     "ev43",
+     "ev8"
+    ]
+   },
+   "other_income_share": {
+    "value": "4.1778",
+    "state": "ok",
+    "formula": "other income / total income x 100",
+    "inputs": {
+     "other_income": "21.9",
+     "total_income": "524.2"
+    },
+    "unit": "%",
+    "ev": [
+     "ev13",
+     "ev3"
+    ]
+   },
+   "current_ratio": {
+    "value": "1.0560",
+    "state": "ok",
+    "formula": "current assets / current liabilities",
+    "inputs": {
+     "current_assets": "247.72",
+     "current_liabilities": "234.58"
+    },
+    "unit": "x",
+    "ev": [
+     "ev63",
+     "ev68"
+    ]
+   },
+   "quick_ratio": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "(current assets - inventories) / current liabilities",
+    "inputs": {
+     "current_assets": "247.72",
+     "inventories": null,
+     "current_liabilities": "234.58"
+    },
+    "note": "inventories not disclosed in the available source; quick ratio withheld",
+    "unit": "x",
+    "ev": [
+     "ev63",
+     "ev68"
+    ]
+   },
+   "roe": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "PAT / average of opening and closing equity x 100",
+    "inputs": {
+     "pat": "34.99",
+     "average_equity": null
+    },
+    "unit": "%",
+    "ev": [
+     "ev43",
+     "ev53"
+    ]
+   },
+   "roce": {
+    "value": "4.5435",
+    "state": "ok",
+    "formula": "(PBT + finance cost) / (total assets - current liabilities) x 100",
+    "inputs": {
+     "ebit": "103.50",
+     "capital_employed": "2277.97"
+    },
+    "unit": "%",
+    "ev": [
+     "ev33",
+     "ev23",
+     "ev48",
+     "ev68"
+    ]
+   },
+   "cfo_to_pat": {
+    "value": "4.5384",
+    "state": "ok",
+    "formula": "cash from operations / PAT",
+    "inputs": {
+     "cfo": "158.8",
+     "pat": "34.99"
+    },
+    "unit": "x",
+    "ev": [
+     "ev73",
+     "ev43"
+    ]
+   }
+  },
+  "FY2023": {
+   "revenue_growth": {
+    "value": "87.0675",
+    "state": "ok",
+    "formula": "(current / previous) - 1",
+    "inputs": {
+     "current": "939.64",
+     "previous": "502.3"
+    },
+    "unit": "%",
+    "ev": [
+     "ev9",
+     "ev8"
+    ]
+   },
+   "pat_margin": {
+    "value": "30.6589",
+    "state": "ok",
+    "formula": "PAT / total income x 100",
+    "inputs": {
+     "pat": "292.74",
+     "total_income": "954.83"
+    },
+    "unit": "%",
+    "ev": [
+     "ev44",
+     "ev4"
+    ]
+   },
+   "net_profit_ratio": {
+    "value": "31.1545",
+    "state": "ok",
+    "formula": "PAT / revenue from operations x 100",
+    "inputs": {
+     "pat": "292.74",
+     "revenue_ops": "939.64"
+    },
+    "unit": "%",
+    "ev": [
+     "ev44",
+     "ev9"
+    ]
+   },
+   "other_income_share": {
+    "value": "1.5909",
+    "state": "ok",
+    "formula": "other income / total income x 100",
+    "inputs": {
+     "other_income": "15.19",
+     "total_income": "954.83"
+    },
+    "unit": "%",
+    "ev": [
+     "ev14",
+     "ev4"
+    ]
+   },
+   "current_ratio": {
+    "value": "2.9377",
+    "state": "ok",
+    "formula": "current assets / current liabilities",
+    "inputs": {
+     "current_assets": "1186.54",
+     "current_liabilities": "403.9"
+    },
+    "unit": "x",
+    "ev": [
+     "ev64",
+     "ev69"
+    ]
+   },
+   "quick_ratio": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "(current assets - inventories) / current liabilities",
+    "inputs": {
+     "current_assets": "1186.54",
+     "inventories": null,
+     "current_liabilities": "403.9"
+    },
+    "note": "inventories not disclosed in the available source; quick ratio withheld",
+    "unit": "x",
+    "ev": [
+     "ev64",
+     "ev69"
+    ]
+   },
+   "roe": {
+    "value": "16.9092",
+    "state": "ok",
+    "formula": "PAT / average of opening and closing equity x 100",
+    "inputs": {
+     "pat": "292.74",
+     "average_equity": "1731.245"
+    },
+    "unit": "%",
+    "ev": [
+     "ev44",
+     "ev54",
+     "ev53"
+    ]
+   },
+   "roce": {
+    "value": "14.4214",
+    "state": "ok",
+    "formula": "(PBT + finance cost) / (total assets - current liabilities) x 100",
+    "inputs": {
+     "ebit": "436.53",
+     "capital_employed": "3026.97"
+    },
+    "unit": "%",
+    "ev": [
+     "ev34",
+     "ev24",
+     "ev49",
+     "ev69"
+    ]
+   },
+   "cfo_to_pat": {
+    "value": "1.9123",
+    "state": "ok",
+    "formula": "cash from operations / PAT",
+    "inputs": {
+     "cfo": "559.82",
+     "pat": "292.74"
+    },
+    "unit": "x",
+    "ev": [
+     "ev74",
+     "ev44"
+    ]
+   }
+  },
+  "FY2024": {
+   "revenue_growth": {
+    "value": "23.2844",
+    "state": "ok",
+    "formula": "(current / previous) - 1",
+    "inputs": {
+     "current": "1158.43",
+     "previous": "939.64"
+    },
+    "unit": "%",
+    "ev": [
+     "ev10",
+     "ev9"
+    ]
+   },
+   "pat_margin": {
+    "value": "36.3013",
+    "state": "ok",
+    "formula": "PAT / total income x 100",
+    "inputs": {
+     "pat": "447.78",
+     "total_income": "1233.51"
+    },
+    "unit": "%",
+    "ev": [
+     "ev45",
+     "ev5"
+    ]
+   },
+   "net_profit_ratio": {
+    "value": "38.6540",
+    "state": "ok",
+    "formula": "PAT / revenue from operations x 100",
+    "inputs": {
+     "pat": "447.78",
+     "revenue_ops": "1158.43"
+    },
+    "unit": "%",
+    "ev": [
+     "ev45",
+     "ev10"
+    ]
+   },
+   "other_income_share": {
+    "value": "6.0867",
+    "state": "ok",
+    "formula": "other income / total income x 100",
+    "inputs": {
+     "other_income": "75.08",
+     "total_income": "1233.51"
+    },
+    "unit": "%",
+    "ev": [
+     "ev15",
+     "ev5"
+    ]
+   },
+   "current_ratio": {
+    "value": "3.6101",
+    "state": "ok",
+    "formula": "current assets / current liabilities",
+    "inputs": {
+     "current_assets": "1293.32",
+     "current_liabilities": "358.25"
+    },
+    "unit": "x",
+    "ev": [
+     "ev65",
+     "ev70"
+    ]
+   },
+   "quick_ratio": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "(current assets - inventories) / current liabilities",
+    "inputs": {
+     "current_assets": "1293.32",
+     "inventories": null,
+     "current_liabilities": "358.25"
+    },
+    "note": "inventories not disclosed in the available source; quick ratio withheld",
+    "unit": "x",
+    "ev": [
+     "ev65",
+     "ev70"
+    ]
+   },
+   "roe": {
+    "value": "19.9777",
+    "state": "ok",
+    "formula": "PAT / average of opening and closing equity x 100",
+    "inputs": {
+     "pat": "447.78",
+     "average_equity": "2241.40"
+    },
+    "unit": "%",
+    "ev": [
+     "ev45",
+     "ev55",
+     "ev54"
+    ]
+   },
+   "roce": {
+    "value": "20.1954",
+    "state": "ok",
+    "formula": "(PBT + finance cost) / (total assets - current liabilities) x 100",
+    "inputs": {
+     "ebit": "649.32",
+     "capital_employed": "3215.19"
+    },
+    "unit": "%",
+    "ev": [
+     "ev35",
+     "ev25",
+     "ev50",
+     "ev70"
+    ]
+   },
+   "cfo_to_pat": {
+    "value": "1.3230",
+    "state": "ok",
+    "formula": "cash from operations / PAT",
+    "inputs": {
+     "cfo": "592.43",
+     "pat": "447.78"
+    },
+    "unit": "x",
+    "ev": [
+     "ev75",
+     "ev45"
+    ]
+   }
+  },
+  "FY2025": {
+   "revenue_growth": {
+    "value": "13.0798",
+    "state": "ok",
+    "formula": "(current / previous) - 1",
+    "inputs": {
+     "current": "1309.95",
+     "previous": "1158.43"
+    },
+    "unit": "%",
+    "ev": [
+     "ev11",
+     "ev10"
+    ]
+   },
+   "pat_margin": {
+    "value": "36.7646",
+    "state": "ok",
+    "formula": "PAT / total income x 100",
+    "inputs": {
+     "pat": "515.55",
+     "total_income": "1402.3"
+    },
+    "unit": "%",
+    "ev": [
+     "ev46",
+     "ev6"
+    ]
+   },
+   "net_profit_ratio": {
+    "value": "39.3565",
+    "state": "ok",
+    "formula": "PAT / revenue from operations x 100",
+    "inputs": {
+     "pat": "515.55",
+     "revenue_ops": "1309.95"
+    },
+    "unit": "%",
+    "ev": [
+     "ev46",
+     "ev11"
+    ]
+   },
+   "other_income_share": {
+    "value": "6.5849",
+    "state": "ok",
+    "formula": "other income / total income x 100",
+    "inputs": {
+     "other_income": "92.34",
+     "total_income": "1402.3"
+    },
+    "unit": "%",
+    "ev": [
+     "ev16",
+     "ev6"
+    ]
+   },
+   "current_ratio": {
+    "value": "3.3017",
+    "state": "ok",
+    "formula": "current assets / current liabilities",
+    "inputs": {
+     "current_assets": "1421.02",
+     "current_liabilities": "430.39"
+    },
+    "unit": "x",
+    "ev": [
+     "ev66",
+     "ev71"
+    ]
+   },
+   "quick_ratio": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "(current assets - inventories) / current liabilities",
+    "inputs": {
+     "current_assets": "1421.02",
+     "inventories": null,
+     "current_liabilities": "430.39"
+    },
+    "note": "inventories not disclosed in the available source; quick ratio withheld",
+    "unit": "x",
+    "ev": [
+     "ev66",
+     "ev71"
+    ]
+   },
+   "roe": {
+    "value": "20.4888",
+    "state": "ok",
+    "formula": "PAT / average of opening and closing equity x 100",
+    "inputs": {
+     "pat": "515.55",
+     "average_equity": "2516.25"
+    },
+    "unit": "%",
+    "ev": [
+     "ev46",
+     "ev56",
+     "ev55"
+    ]
+   },
+   "roce": {
+    "value": "21.5509",
+    "state": "ok",
+    "formula": "(PBT + finance cost) / (total assets - current liabilities) x 100",
+    "inputs": {
+     "ebit": "735.23",
+     "capital_employed": "3411.60"
+    },
+    "unit": "%",
+    "ev": [
+     "ev36",
+     "ev26",
+     "ev51",
+     "ev71"
+    ]
+   },
+   "cfo_to_pat": {
+    "value": "1.2580",
+    "state": "ok",
+    "formula": "cash from operations / PAT",
+    "inputs": {
+     "cfo": "648.55",
+     "pat": "515.55"
+    },
+    "unit": "x",
+    "ev": [
+     "ev76",
+     "ev46"
+    ]
+   }
+  },
+  "FY2026": {
+   "revenue_growth": {
+    "value": "6.9881",
+    "state": "ok",
+    "formula": "(current / previous) - 1",
+    "inputs": {
+     "current": "1401.49",
+     "previous": "1309.95"
+    },
+    "unit": "%",
+    "ev": [
+     "ev12",
+     "ev11"
+    ]
+   },
+   "pat_margin": {
+    "value": "35.2998",
+    "state": "ok",
+    "formula": "PAT / total income x 100",
+    "inputs": {
+     "pat": "526.75",
+     "total_income": "1492.22"
+    },
+    "unit": "%",
+    "ev": [
+     "ev47",
+     "ev7"
+    ]
+   },
+   "net_profit_ratio": {
+    "value": "37.5850",
+    "state": "ok",
+    "formula": "PAT / revenue from operations x 100",
+    "inputs": {
+     "pat": "526.75",
+     "revenue_ops": "1401.49"
+    },
+    "unit": "%",
+    "ev": [
+     "ev47",
+     "ev12"
+    ]
+   },
+   "other_income_share": {
+    "value": "6.0802",
+    "state": "ok",
+    "formula": "other income / total income x 100",
+    "inputs": {
+     "other_income": "90.73",
+     "total_income": "1492.22"
+    },
+    "unit": "%",
+    "ev": [
+     "ev17",
+     "ev7"
+    ]
+   },
+   "current_ratio": {
+    "value": "3.0101",
+    "state": "ok",
+    "formula": "current assets / current liabilities",
+    "inputs": {
+     "current_assets": "1350.65",
+     "current_liabilities": "448.7"
+    },
+    "unit": "x",
+    "ev": [
+     "ev67",
+     "ev72"
+    ]
+   },
+   "quick_ratio": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "(current assets - inventories) / current liabilities",
+    "inputs": {
+     "current_assets": "1350.65",
+     "inventories": null,
+     "current_liabilities": "448.7"
+    },
+    "note": "inventories not disclosed in the available source; quick ratio withheld",
+    "unit": "x",
+    "ev": [
+     "ev67",
+     "ev72"
+    ]
+   },
+   "roe": {
+    "value": "18.7464",
+    "state": "ok",
+    "formula": "PAT / average of opening and closing equity x 100",
+    "inputs": {
+     "pat": "526.75",
+     "average_equity": "2809.87"
+    },
+    "unit": "%",
+    "ev": [
+     "ev47",
+     "ev57",
+     "ev56"
+    ]
+   },
+   "roce": {
+    "value": "20.9868",
+    "state": "ok",
+    "formula": "(PBT + finance cost) / (total assets - current liabilities) x 100",
+    "inputs": {
+     "ebit": "744.29",
+     "capital_employed": "3546.46"
+    },
+    "unit": "%",
+    "ev": [
+     "ev37",
+     "ev27",
+     "ev52",
+     "ev72"
+    ]
+   },
+   "cfo_to_pat": {
+    "value": "1.2623",
+    "state": "ok",
+    "formula": "cash from operations / PAT",
+    "inputs": {
+     "cfo": "664.91",
+     "pat": "526.75"
+    },
+    "unit": "x",
+    "ev": [
+     "ev77",
+     "ev47"
+    ]
+   }
+  }
+ },
+ "valuation": {
+  "period": "FY2026",
+  "shares_used": "478218436",
+  "shares_source": "shares_details",
+  "market_cap": {
+   "value": "21041.6112",
+   "state": "ok",
+   "formula": "price (INR) x shares outstanding / 1e7",
+   "inputs": {
+    "price_inr": "440.00",
+    "shares": "478218436"
+   },
+   "unit": "INR crore"
+  },
+  "eps": {
+   "value": "11.0148",
+   "state": "ok",
+   "formula": "PAT (INR crore) x 1e7 / shares outstanding",
+   "inputs": {
+    "pat_cr": "526.75",
+    "shares": "478218436"
+   },
+   "unit": "INR"
+  },
+  "pe": {
+   "value": "39.9463",
+   "state": "ok",
+   "formula": "price / EPS",
+   "inputs": {
+    "price_inr": "440.00",
+    "eps": "11.0148"
+   },
+   "unit": "x"
+  },
+  "pb": {
+   "value": "7.1219",
+   "state": "ok",
+   "formula": "market cap / total equity",
+   "inputs": {
+    "market_cap": "21041.611184",
+    "total_equity": "2954.48"
+   },
+   "unit": "x"
+  },
+  "ps": {
+   "value": "14.1009",
+   "state": "ok",
+   "formula": "market cap / total income",
+   "inputs": {
+    "market_cap": "21041.611184",
+    "total_income": "1492.22"
+   },
+   "unit": "x"
+  },
+  "provider": {
+   "pe": "39.96",
+   "mcap": "21,041.61 Crore",
+   "eps": "11.01"
+  },
+  "note": "Valued at an indicative unlisted dealer quote against the latest fiscal-year PAT; not a traded market price."
+ },
+ "coverage_gaps": [
+  {
+   "field": "inventories",
+   "state": "not_in_source",
+   "label": "Inventories"
+  },
+  {
+   "field": "cash",
+   "state": "not_in_source",
+   "label": "Cash & equivalents"
+  },
+  {
+   "field": "eps",
+   "state": "not_in_source",
+   "label": "EPS (provider)"
+  },
+  {
+   "field": "shares_outstanding",
+   "state": "not_in_source",
+   "label": "Shares outstanding"
+  }
+ ],
+ "checks": [
+  {
+   "check": "balance_identity",
+   "period": "FY2022",
+   "result": "pass",
+   "detail": "assets 2512.55 - (equity 1346.93 + liabilities 1165.62) = 0.00"
+  },
+  {
+   "check": "income_identity",
+   "period": "FY2022",
+   "result": "pass",
+   "detail": "total income 524.2 - (operations 502.3 + other 21.9 + separate income lines 0) = 0.0"
+  },
+  {
+   "check": "balance_identity",
+   "period": "FY2023",
+   "result": "pass",
+   "detail": "assets 3430.87 - (equity 2115.56 + liabilities 1315.31) = 0.00"
+  },
+  {
+   "check": "income_identity",
+   "period": "FY2023",
+   "result": "pass",
+   "detail": "total income 954.83 - (operations 939.64 + other 15.19 + separate income lines 0) = 0.00"
+  },
+  {
+   "check": "balance_identity",
+   "period": "FY2024",
+   "result": "pass",
+   "detail": "assets 3573.44 - (equity 2367.24 + liabilities 1206.2) = 0.00"
+  },
+  {
+   "check": "income_identity",
+   "period": "FY2024",
+   "result": "pass",
+   "detail": "total income 1233.51 - (operations 1158.43 + other 75.08 + separate income lines 0) = 0.00"
+  },
+  {
+   "check": "balance_identity",
+   "period": "FY2025",
+   "result": "pass",
+   "detail": "assets 3841.99 - (equity 2665.26 + liabilities 1176.73) = 0.00"
+  },
+  {
+   "check": "income_identity",
+   "period": "FY2025",
+   "result": "pass",
+   "detail": "total income 1402.3 - (operations 1309.95 + other 92.34 + separate income lines 0) = 0.01"
+  },
+  {
+   "check": "balance_identity",
+   "period": "FY2026",
+   "result": "pass",
+   "detail": "assets 3995.16 - (equity 2954.48 + liabilities 1040.67) = 0.01"
+  },
+  {
+   "check": "income_identity",
+   "period": "FY2026",
+   "result": "pass",
+   "detail": "total income 1492.22 - (operations 1401.49 + other 90.73 + separate income lines 0) = 0.00"
+  }
+ ],
+ "provider_ratios": {},
+ "evidence": {
+  "ev1": {
+   "source": "WWIPL company overview",
+   "url": "https://wwipl.com/unlisted-shares/cochin-international-cial-share-price",
+   "retrieved_at": "2026-11-23T16:45:26+00:00",
+   "sha256": "d91d6565f1f0d96792a81064dddeede3fac977dce189e190250751bdf81d09bc",
+   "capture_run": "20261123T164433Z",
+   "file": "cial-overview.html",
+   "raw_label": "Last Traded Price",
+   "raw_text": "440.00"
+  },
+  "ev2": {
+   "source": "WWIPL company overview",
+   "url": "https://wwipl.com/unlisted-shares/cochin-international-cial-share-price",
+   "retrieved_at": "2026-11-23T16:45:26+00:00",
+   "sha256": "d91d6565f1f0d96792a81064dddeede3fac977dce189e190250751bdf81d09bc",
+   "capture_run": "20261123T164433Z",
+   "file": "cial-overview.html",
+   "raw_label": "Company fundamentals block"
+  },
+  "ev3": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/cochin-international-cial-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:27+00:00",
+   "sha256": "9f76a5697624508378a9eac92acd02ce08ef4bf1c923f6b13ae564cafb1a4b23",
+   "capture_run": "20261123T164433Z",
+   "file": "cial-financial.html",
+   "raw_label": "Revenue",
+   "raw_text": "524.20",
+   "raw_unit": "INR crore",
+   "period": "FY2022",
+   "period_label": "2021-22",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "cial-financial.html",
+    "table_index": 3,
+    "row_index": 1,
+    "heading": "Cochin International Airport Limited CIAL Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev4": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/cochin-international-cial-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:27+00:00",
+   "sha256": "9f76a5697624508378a9eac92acd02ce08ef4bf1c923f6b13ae564cafb1a4b23",
+   "capture_run": "20261123T164433Z",
+   "file": "cial-financial.html",
+   "raw_label": "Revenue",
+   "raw_text": "954.83",
+   "raw_unit": "INR crore",
+   "period": "FY2023",
+   "period_label": "2022-23",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "cial-financial.html",
+    "table_index": 3,
+    "row_index": 1,
+    "heading": "Cochin International Airport Limited CIAL Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev5": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/cochin-international-cial-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:27+00:00",
+   "sha256": "9f76a5697624508378a9eac92acd02ce08ef4bf1c923f6b13ae564cafb1a4b23",
+   "capture_run": "20261123T164433Z",
+   "file": "cial-financial.html",
+   "raw_label": "Revenue",
+   "raw_text": "1,233.51",
+   "raw_unit": "INR crore",
+   "period": "FY2024",
+   "period_label": "2023-24",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "cial-financial.html",
+    "table_index": 3,
+    "row_index": 1,
+    "heading": "Cochin International Airport Limited CIAL Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev6": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/cochin-international-cial-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:27+00:00",
+   "sha256": "9f76a5697624508378a9eac92acd02ce08ef4bf1c923f6b13ae564cafb1a4b23",
+   "capture_run": "20261123T164433Z",
+   "file": "cial-financial.html",
+   "raw_label": "Revenue",
+   "raw_text": "1,402.30",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "2024-25",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "cial-financial.html",
+    "table_index": 3,
+    "row_index": 1,
+    "heading": "Cochin International Airport Limited CIAL Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev7": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/cochin-international-cial-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:27+00:00",
+   "sha256": "9f76a5697624508378a9eac92acd02ce08ef4bf1c923f6b13ae564cafb1a4b23",
+   "capture_run": "20261123T164433Z",
+   "file": "cial-financial.html",
+   "raw_label": "Revenue",
+   "raw_text": "1,492.22",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "2025-26",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "cial-financial.html",
+    "table_index": 3,
+    "row_index": 1,
+    "heading": "Cochin International Airport Limited CIAL Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev8": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/cochin-international-cial-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:27+00:00",
+   "sha256": "9f76a5697624508378a9eac92acd02ce08ef4bf1c923f6b13ae564cafb1a4b23",
+   "capture_run": "20261123T164433Z",
+   "file": "cial-financial.html",
+   "raw_label": "Revenue from operations",
+   "raw_text": "502.30",
+   "raw_unit": "INR crore",
+   "period": "FY2022",
+   "period_label": "2021-22",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "cial-financial.html",
+    "table_index": 3,
+    "row_index": 2,
+    "heading": "Cochin International Airport Limited CIAL Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev9": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/cochin-international-cial-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:27+00:00",
+   "sha256": "9f76a5697624508378a9eac92acd02ce08ef4bf1c923f6b13ae564cafb1a4b23",
+   "capture_run": "20261123T164433Z",
+   "file": "cial-financial.html",
+   "raw_label": "Revenue from operations",
+   "raw_text": "939.64",
+   "raw_unit": "INR crore",
+   "period": "FY2023",
+   "period_label": "2022-23",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "cial-financial.html",
+    "table_index": 3,
+    "row_index": 2,
+    "heading": "Cochin International Airport Limited CIAL Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev10": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/cochin-international-cial-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:27+00:00",
+   "sha256": "9f76a5697624508378a9eac92acd02ce08ef4bf1c923f6b13ae564cafb1a4b23",
+   "capture_run": "20261123T164433Z",
+   "file": "cial-financial.html",
+   "raw_label": "Revenue from operations",
+   "raw_text": "1,158.43",
+   "raw_unit": "INR crore",
+   "period": "FY2024",
+   "period_label": "2023-24",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "cial-financial.html",
+    "table_index": 3,
+    "row_index": 2,
+    "heading": "Cochin International Airport Limited CIAL Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev11": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/cochin-international-cial-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:27+00:00",
+   "sha256": "9f76a5697624508378a9eac92acd02ce08ef4bf1c923f6b13ae564cafb1a4b23",
+   "capture_run": "20261123T164433Z",
+   "file": "cial-financial.html",
+   "raw_label": "Revenue from operations",
+   "raw_text": "1,309.95",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "2024-25",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "cial-financial.html",
+    "table_index": 3,
+    "row_index": 2,
+    "heading": "Cochin International Airport Limited CIAL Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev12": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/cochin-international-cial-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:27+00:00",
+   "sha256": "9f76a5697624508378a9eac92acd02ce08ef4bf1c923f6b13ae564cafb1a4b23",
+   "capture_run": "20261123T164433Z",
+   "file": "cial-financial.html",
+   "raw_label": "Revenue from operations",
+   "raw_text": "1,401.49",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "2025-26",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "cial-financial.html",
+    "table_index": 3,
+    "row_index": 2,
+    "heading": "Cochin International Airport Limited CIAL Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev13": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/cochin-international-cial-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:27+00:00",
+   "sha256": "9f76a5697624508378a9eac92acd02ce08ef4bf1c923f6b13ae564cafb1a4b23",
+   "capture_run": "20261123T164433Z",
+   "file": "cial-financial.html",
+   "raw_label": "Other income",
+   "raw_text": "21.90",
+   "raw_unit": "INR crore",
+   "period": "FY2022",
+   "period_label": "2021-22",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "cial-financial.html",
+    "table_index": 3,
+    "row_index": 3,
+    "heading": "Cochin International Airport Limited CIAL Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev14": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/cochin-international-cial-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:27+00:00",
+   "sha256": "9f76a5697624508378a9eac92acd02ce08ef4bf1c923f6b13ae564cafb1a4b23",
+   "capture_run": "20261123T164433Z",
+   "file": "cial-financial.html",
+   "raw_label": "Other income",
+   "raw_text": "15.19",
+   "raw_unit": "INR crore",
+   "period": "FY2023",
+   "period_label": "2022-23",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "cial-financial.html",
+    "table_index": 3,
+    "row_index": 3,
+    "heading": "Cochin International Airport Limited CIAL Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev15": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/cochin-international-cial-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:27+00:00",
+   "sha256": "9f76a5697624508378a9eac92acd02ce08ef4bf1c923f6b13ae564cafb1a4b23",
+   "capture_run": "20261123T164433Z",
+   "file": "cial-financial.html",
+   "raw_label": "Other income",
+   "raw_text": "75.08",
+   "raw_unit": "INR crore",
+   "period": "FY2024",
+   "period_label": "2023-24",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "cial-financial.html",
+    "table_index": 3,
+    "row_index": 3,
+    "heading": "Cochin International Airport Limited CIAL Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev16": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/cochin-international-cial-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:27+00:00",
+   "sha256": "9f76a5697624508378a9eac92acd02ce08ef4bf1c923f6b13ae564cafb1a4b23",
+   "capture_run": "20261123T164433Z",
+   "file": "cial-financial.html",
+   "raw_label": "Other income",
+   "raw_text": "92.34",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "2024-25",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "cial-financial.html",
+    "table_index": 3,
+    "row_index": 3,
+    "heading": "Cochin International Airport Limited CIAL Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev17": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/cochin-international-cial-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:27+00:00",
+   "sha256": "9f76a5697624508378a9eac92acd02ce08ef4bf1c923f6b13ae564cafb1a4b23",
+   "capture_run": "20261123T164433Z",
+   "file": "cial-financial.html",
+   "raw_label": "Other income",
+   "raw_text": "90.73",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "2025-26",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "cial-financial.html",
+    "table_index": 3,
+    "row_index": 3,
+    "heading": "Cochin International Airport Limited CIAL Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev18": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/cochin-international-cial-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:27+00:00",
+   "sha256": "9f76a5697624508378a9eac92acd02ce08ef4bf1c923f6b13ae564cafb1a4b23",
+   "capture_run": "20261123T164433Z",
+   "file": "cial-financial.html",
+   "raw_label": "Expenses",
+   "raw_text": "475.64",
+   "raw_unit": "INR crore",
+   "period": "FY2022",
+   "period_label": "2021-22",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "cial-financial.html",
+    "table_index": 3,
+    "row_index": 4,
+    "heading": "Cochin International Airport Limited CIAL Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev19": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/cochin-international-cial-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:27+00:00",
+   "sha256": "9f76a5697624508378a9eac92acd02ce08ef4bf1c923f6b13ae564cafb1a4b23",
+   "capture_run": "20261123T164433Z",
+   "file": "cial-financial.html",
+   "raw_label": "Expenses",
+   "raw_text": "563.14",
+   "raw_unit": "INR crore",
+   "period": "FY2023",
+   "period_label": "2022-23",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "cial-financial.html",
+    "table_index": 3,
+    "row_index": 4,
+    "heading": "Cochin International Airport Limited CIAL Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev20": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/cochin-international-cial-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:27+00:00",
+   "sha256": "9f76a5697624508378a9eac92acd02ce08ef4bf1c923f6b13ae564cafb1a4b23",
+   "capture_run": "20261123T164433Z",
+   "file": "cial-financial.html",
+   "raw_label": "Expenses",
+   "raw_text": "635.02",
+   "raw_unit": "INR crore",
+   "period": "FY2024",
+   "period_label": "2023-24",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "cial-financial.html",
+    "table_index": 3,
+    "row_index": 4,
+    "heading": "Cochin International Airport Limited CIAL Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev21": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/cochin-international-cial-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:27+00:00",
+   "sha256": "9f76a5697624508378a9eac92acd02ce08ef4bf1c923f6b13ae564cafb1a4b23",
+   "capture_run": "20261123T164433Z",
+   "file": "cial-financial.html",
+   "raw_label": "Expenses",
+   "raw_text": "709.50",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "2024-25",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "cial-financial.html",
+    "table_index": 3,
+    "row_index": 4,
+    "heading": "Cochin International Airport Limited CIAL Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev22": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/cochin-international-cial-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:27+00:00",
+   "sha256": "9f76a5697624508378a9eac92acd02ce08ef4bf1c923f6b13ae564cafb1a4b23",
+   "capture_run": "20261123T164433Z",
+   "file": "cial-financial.html",
+   "raw_label": "Expenses",
+   "raw_text": "779.26",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "2025-26",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "cial-financial.html",
+    "table_index": 3,
+    "row_index": 4,
+    "heading": "Cochin International Airport Limited CIAL Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev23": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/cochin-international-cial-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:27+00:00",
+   "sha256": "9f76a5697624508378a9eac92acd02ce08ef4bf1c923f6b13ae564cafb1a4b23",
+   "capture_run": "20261123T164433Z",
+   "file": "cial-financial.html",
+   "raw_label": "Finance cost",
+   "raw_text": "54.94",
+   "raw_unit": "INR crore",
+   "period": "FY2022",
+   "period_label": "2021-22",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "cial-financial.html",
+    "table_index": 3,
+    "row_index": 5,
+    "heading": "Cochin International Airport Limited CIAL Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev24": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/cochin-international-cial-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:27+00:00",
+   "sha256": "9f76a5697624508378a9eac92acd02ce08ef4bf1c923f6b13ae564cafb1a4b23",
+   "capture_run": "20261123T164433Z",
+   "file": "cial-financial.html",
+   "raw_label": "Finance cost",
+   "raw_text": "44.84",
+   "raw_unit": "INR crore",
+   "period": "FY2023",
+   "period_label": "2022-23",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "cial-financial.html",
+    "table_index": 3,
+    "row_index": 5,
+    "heading": "Cochin International Airport Limited CIAL Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev25": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/cochin-international-cial-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:27+00:00",
+   "sha256": "9f76a5697624508378a9eac92acd02ce08ef4bf1c923f6b13ae564cafb1a4b23",
+   "capture_run": "20261123T164433Z",
+   "file": "cial-financial.html",
+   "raw_label": "Finance cost",
+   "raw_text": "50.83",
+   "raw_unit": "INR crore",
+   "period": "FY2024",
+   "period_label": "2023-24",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "cial-financial.html",
+    "table_index": 3,
+    "row_index": 5,
+    "heading": "Cochin International Airport Limited CIAL Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev26": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/cochin-international-cial-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:27+00:00",
+   "sha256": "9f76a5697624508378a9eac92acd02ce08ef4bf1c923f6b13ae564cafb1a4b23",
+   "capture_run": "20261123T164433Z",
+   "file": "cial-financial.html",
+   "raw_label": "Finance cost",
+   "raw_text": "42.43",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "2024-25",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "cial-financial.html",
+    "table_index": 3,
+    "row_index": 5,
+    "heading": "Cochin International Airport Limited CIAL Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev27": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/cochin-international-cial-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:27+00:00",
+   "sha256": "9f76a5697624508378a9eac92acd02ce08ef4bf1c923f6b13ae564cafb1a4b23",
+   "capture_run": "20261123T164433Z",
+   "file": "cial-financial.html",
+   "raw_label": "Finance cost",
+   "raw_text": "34.74",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "2025-26",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "cial-financial.html",
+    "table_index": 3,
+    "row_index": 5,
+    "heading": "Cochin International Airport Limited CIAL Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev28": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/cochin-international-cial-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:27+00:00",
+   "sha256": "9f76a5697624508378a9eac92acd02ce08ef4bf1c923f6b13ae564cafb1a4b23",
+   "capture_run": "20261123T164433Z",
+   "file": "cial-financial.html",
+   "raw_label": "Depreciation and Amortisation expense",
+   "raw_text": "145.37",
+   "raw_unit": "INR crore",
+   "period": "FY2022",
+   "period_label": "2021-22",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "cial-financial.html",
+    "table_index": 3,
+    "row_index": 7,
+    "heading": "Cochin International Airport Limited CIAL Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev29": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/cochin-international-cial-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:27+00:00",
+   "sha256": "9f76a5697624508378a9eac92acd02ce08ef4bf1c923f6b13ae564cafb1a4b23",
+   "capture_run": "20261123T164433Z",
+   "file": "cial-financial.html",
+   "raw_label": "Depreciation and Amortisation expense",
+   "raw_text": "141.68",
+   "raw_unit": "INR crore",
+   "period": "FY2023",
+   "period_label": "2022-23",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "cial-financial.html",
+    "table_index": 3,
+    "row_index": 7,
+    "heading": "Cochin International Airport Limited CIAL Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev30": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/cochin-international-cial-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:27+00:00",
+   "sha256": "9f76a5697624508378a9eac92acd02ce08ef4bf1c923f6b13ae564cafb1a4b23",
+   "capture_run": "20261123T164433Z",
+   "file": "cial-financial.html",
+   "raw_label": "Depreciation and Amortisation expense",
+   "raw_text": "148.37",
+   "raw_unit": "INR crore",
+   "period": "FY2024",
+   "period_label": "2023-24",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "cial-financial.html",
+    "table_index": 3,
+    "row_index": 7,
+    "heading": "Cochin International Airport Limited CIAL Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev31": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/cochin-international-cial-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:27+00:00",
+   "sha256": "9f76a5697624508378a9eac92acd02ce08ef4bf1c923f6b13ae564cafb1a4b23",
+   "capture_run": "20261123T164433Z",
+   "file": "cial-financial.html",
+   "raw_label": "Depreciation and Amortisation expense",
+   "raw_text": "145.44",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "2024-25",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "cial-financial.html",
+    "table_index": 3,
+    "row_index": 7,
+    "heading": "Cochin International Airport Limited CIAL Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev32": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/cochin-international-cial-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:27+00:00",
+   "sha256": "9f76a5697624508378a9eac92acd02ce08ef4bf1c923f6b13ae564cafb1a4b23",
+   "capture_run": "20261123T164433Z",
+   "file": "cial-financial.html",
+   "raw_label": "Depreciation and Amortisation expense",
+   "raw_text": "158.88",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "2025-26",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "cial-financial.html",
+    "table_index": 3,
+    "row_index": 7,
+    "heading": "Cochin International Airport Limited CIAL Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev33": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/cochin-international-cial-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:27+00:00",
+   "sha256": "9f76a5697624508378a9eac92acd02ce08ef4bf1c923f6b13ae564cafb1a4b23",
+   "capture_run": "20261123T164433Z",
+   "file": "cial-financial.html",
+   "raw_label": "Profit/(loss) before tax",
+   "raw_text": "48.56",
+   "raw_unit": "INR crore",
+   "period": "FY2022",
+   "period_label": "2021-22",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "cial-financial.html",
+    "table_index": 3,
+    "row_index": 9,
+    "heading": "Cochin International Airport Limited CIAL Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev34": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/cochin-international-cial-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:27+00:00",
+   "sha256": "9f76a5697624508378a9eac92acd02ce08ef4bf1c923f6b13ae564cafb1a4b23",
+   "capture_run": "20261123T164433Z",
+   "file": "cial-financial.html",
+   "raw_label": "Profit/(loss) before tax",
+   "raw_text": "391.69",
+   "raw_unit": "INR crore",
+   "period": "FY2023",
+   "period_label": "2022-23",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "cial-financial.html",
+    "table_index": 3,
+    "row_index": 9,
+    "heading": "Cochin International Airport Limited CIAL Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev35": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/cochin-international-cial-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:27+00:00",
+   "sha256": "9f76a5697624508378a9eac92acd02ce08ef4bf1c923f6b13ae564cafb1a4b23",
+   "capture_run": "20261123T164433Z",
+   "file": "cial-financial.html",
+   "raw_label": "Profit/(loss) before tax",
+   "raw_text": "598.49",
+   "raw_unit": "INR crore",
+   "period": "FY2024",
+   "period_label": "2023-24",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "cial-financial.html",
+    "table_index": 3,
+    "row_index": 9,
+    "heading": "Cochin International Airport Limited CIAL Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev36": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/cochin-international-cial-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:27+00:00",
+   "sha256": "9f76a5697624508378a9eac92acd02ce08ef4bf1c923f6b13ae564cafb1a4b23",
+   "capture_run": "20261123T164433Z",
+   "file": "cial-financial.html",
+   "raw_label": "Profit/(loss) before tax",
+   "raw_text": "692.80",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "2024-25",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "cial-financial.html",
+    "table_index": 3,
+    "row_index": 9,
+    "heading": "Cochin International Airport Limited CIAL Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev37": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/cochin-international-cial-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:27+00:00",
+   "sha256": "9f76a5697624508378a9eac92acd02ce08ef4bf1c923f6b13ae564cafb1a4b23",
+   "capture_run": "20261123T164433Z",
+   "file": "cial-financial.html",
+   "raw_label": "Profit/(loss) before tax",
+   "raw_text": "709.55",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "2025-26",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "cial-financial.html",
+    "table_index": 3,
+    "row_index": 9,
+    "heading": "Cochin International Airport Limited CIAL Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev38": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/cochin-international-cial-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:27+00:00",
+   "sha256": "9f76a5697624508378a9eac92acd02ce08ef4bf1c923f6b13ae564cafb1a4b23",
+   "capture_run": "20261123T164433Z",
+   "file": "cial-financial.html",
+   "raw_label": "Tax Expense",
+   "raw_text": "13.57",
+   "raw_unit": "INR crore",
+   "period": "FY2022",
+   "period_label": "2021-22",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "cial-financial.html",
+    "table_index": 3,
+    "row_index": 10,
+    "heading": "Cochin International Airport Limited CIAL Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev39": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/cochin-international-cial-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:27+00:00",
+   "sha256": "9f76a5697624508378a9eac92acd02ce08ef4bf1c923f6b13ae564cafb1a4b23",
+   "capture_run": "20261123T164433Z",
+   "file": "cial-financial.html",
+   "raw_label": "Tax Expense",
+   "raw_text": "98.94",
+   "raw_unit": "INR crore",
+   "period": "FY2023",
+   "period_label": "2022-23",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "cial-financial.html",
+    "table_index": 3,
+    "row_index": 10,
+    "heading": "Cochin International Airport Limited CIAL Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev40": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/cochin-international-cial-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:27+00:00",
+   "sha256": "9f76a5697624508378a9eac92acd02ce08ef4bf1c923f6b13ae564cafb1a4b23",
+   "capture_run": "20261123T164433Z",
+   "file": "cial-financial.html",
+   "raw_label": "Tax Expense",
+   "raw_text": "150.71",
+   "raw_unit": "INR crore",
+   "period": "FY2024",
+   "period_label": "2023-24",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "cial-financial.html",
+    "table_index": 3,
+    "row_index": 10,
+    "heading": "Cochin International Airport Limited CIAL Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev41": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/cochin-international-cial-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:27+00:00",
+   "sha256": "9f76a5697624508378a9eac92acd02ce08ef4bf1c923f6b13ae564cafb1a4b23",
+   "capture_run": "20261123T164433Z",
+   "file": "cial-financial.html",
+   "raw_label": "Tax Expense",
+   "raw_text": "177.25",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "2024-25",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "cial-financial.html",
+    "table_index": 3,
+    "row_index": 10,
+    "heading": "Cochin International Airport Limited CIAL Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev42": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/cochin-international-cial-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:27+00:00",
+   "sha256": "9f76a5697624508378a9eac92acd02ce08ef4bf1c923f6b13ae564cafb1a4b23",
+   "capture_run": "20261123T164433Z",
+   "file": "cial-financial.html",
+   "raw_label": "Tax Expense",
+   "raw_text": "182.80",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "2025-26",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "cial-financial.html",
+    "table_index": 3,
+    "row_index": 10,
+    "heading": "Cochin International Airport Limited CIAL Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev43": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/cochin-international-cial-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:27+00:00",
+   "sha256": "9f76a5697624508378a9eac92acd02ce08ef4bf1c923f6b13ae564cafb1a4b23",
+   "capture_run": "20261123T164433Z",
+   "file": "cial-financial.html",
+   "raw_label": "Profit (Loss) for the period from continuing Operations",
+   "raw_text": "34.99",
+   "raw_unit": "INR crore",
+   "period": "FY2022",
+   "period_label": "2021-22",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "cial-financial.html",
+    "table_index": 3,
+    "row_index": 13,
+    "heading": "Cochin International Airport Limited CIAL Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev44": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/cochin-international-cial-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:27+00:00",
+   "sha256": "9f76a5697624508378a9eac92acd02ce08ef4bf1c923f6b13ae564cafb1a4b23",
+   "capture_run": "20261123T164433Z",
+   "file": "cial-financial.html",
+   "raw_label": "Profit (Loss) for the period from continuing Operations",
+   "raw_text": "292.74",
+   "raw_unit": "INR crore",
+   "period": "FY2023",
+   "period_label": "2022-23",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "cial-financial.html",
+    "table_index": 3,
+    "row_index": 13,
+    "heading": "Cochin International Airport Limited CIAL Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev45": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/cochin-international-cial-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:27+00:00",
+   "sha256": "9f76a5697624508378a9eac92acd02ce08ef4bf1c923f6b13ae564cafb1a4b23",
+   "capture_run": "20261123T164433Z",
+   "file": "cial-financial.html",
+   "raw_label": "Profit (Loss) for the period from continuing Operations",
+   "raw_text": "447.78",
+   "raw_unit": "INR crore",
+   "period": "FY2024",
+   "period_label": "2023-24",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "cial-financial.html",
+    "table_index": 3,
+    "row_index": 13,
+    "heading": "Cochin International Airport Limited CIAL Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev46": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/cochin-international-cial-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:27+00:00",
+   "sha256": "9f76a5697624508378a9eac92acd02ce08ef4bf1c923f6b13ae564cafb1a4b23",
+   "capture_run": "20261123T164433Z",
+   "file": "cial-financial.html",
+   "raw_label": "Profit (Loss) for the period from continuing Operations",
+   "raw_text": "515.55",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "2024-25",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "cial-financial.html",
+    "table_index": 3,
+    "row_index": 13,
+    "heading": "Cochin International Airport Limited CIAL Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev47": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/cochin-international-cial-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:27+00:00",
+   "sha256": "9f76a5697624508378a9eac92acd02ce08ef4bf1c923f6b13ae564cafb1a4b23",
+   "capture_run": "20261123T164433Z",
+   "file": "cial-financial.html",
+   "raw_label": "Profit (Loss) for the period from continuing Operations",
+   "raw_text": "526.75",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "2025-26",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "cial-financial.html",
+    "table_index": 3,
+    "row_index": 13,
+    "heading": "Cochin International Airport Limited CIAL Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev48": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/cochin-international-cial-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:27+00:00",
+   "sha256": "9f76a5697624508378a9eac92acd02ce08ef4bf1c923f6b13ae564cafb1a4b23",
+   "capture_run": "20261123T164433Z",
+   "file": "cial-financial.html",
+   "raw_label": "ASSETS",
+   "raw_text": "2,512.55",
+   "raw_unit": "INR crore",
+   "period": "FY2022",
+   "period_label": "2021-22",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "cial-financial.html",
+    "table_index": 1,
+    "row_index": 6,
+    "heading": "Cochin International Airport Limited CIAL Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev49": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/cochin-international-cial-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:27+00:00",
+   "sha256": "9f76a5697624508378a9eac92acd02ce08ef4bf1c923f6b13ae564cafb1a4b23",
+   "capture_run": "20261123T164433Z",
+   "file": "cial-financial.html",
+   "raw_label": "ASSETS",
+   "raw_text": "3,430.87",
+   "raw_unit": "INR crore",
+   "period": "FY2023",
+   "period_label": "2022-23",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "cial-financial.html",
+    "table_index": 1,
+    "row_index": 6,
+    "heading": "Cochin International Airport Limited CIAL Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev50": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/cochin-international-cial-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:27+00:00",
+   "sha256": "9f76a5697624508378a9eac92acd02ce08ef4bf1c923f6b13ae564cafb1a4b23",
+   "capture_run": "20261123T164433Z",
+   "file": "cial-financial.html",
+   "raw_label": "ASSETS",
+   "raw_text": "3,573.44",
+   "raw_unit": "INR crore",
+   "period": "FY2024",
+   "period_label": "2023-24",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "cial-financial.html",
+    "table_index": 1,
+    "row_index": 6,
+    "heading": "Cochin International Airport Limited CIAL Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev51": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/cochin-international-cial-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:27+00:00",
+   "sha256": "9f76a5697624508378a9eac92acd02ce08ef4bf1c923f6b13ae564cafb1a4b23",
+   "capture_run": "20261123T164433Z",
+   "file": "cial-financial.html",
+   "raw_label": "ASSETS",
+   "raw_text": "3,841.99",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "2024-25",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "cial-financial.html",
+    "table_index": 1,
+    "row_index": 6,
+    "heading": "Cochin International Airport Limited CIAL Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev52": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/cochin-international-cial-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:27+00:00",
+   "sha256": "9f76a5697624508378a9eac92acd02ce08ef4bf1c923f6b13ae564cafb1a4b23",
+   "capture_run": "20261123T164433Z",
+   "file": "cial-financial.html",
+   "raw_label": "ASSETS",
+   "raw_text": "3,995.16",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "2025-26",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "cial-financial.html",
+    "table_index": 1,
+    "row_index": 6,
+    "heading": "Cochin International Airport Limited CIAL Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev53": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/cochin-international-cial-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:27+00:00",
+   "sha256": "9f76a5697624508378a9eac92acd02ce08ef4bf1c923f6b13ae564cafb1a4b23",
+   "capture_run": "20261123T164433Z",
+   "file": "cial-financial.html",
+   "raw_label": "Total equity",
+   "raw_text": "1,346.93",
+   "raw_unit": "INR crore",
+   "period": "FY2022",
+   "period_label": "2021-22",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "cial-financial.html",
+    "table_index": 1,
+    "row_index": 2,
+    "heading": "Cochin International Airport Limited CIAL Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev54": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/cochin-international-cial-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:27+00:00",
+   "sha256": "9f76a5697624508378a9eac92acd02ce08ef4bf1c923f6b13ae564cafb1a4b23",
+   "capture_run": "20261123T164433Z",
+   "file": "cial-financial.html",
+   "raw_label": "Total equity",
+   "raw_text": "2,115.56",
+   "raw_unit": "INR crore",
+   "period": "FY2023",
+   "period_label": "2022-23",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "cial-financial.html",
+    "table_index": 1,
+    "row_index": 2,
+    "heading": "Cochin International Airport Limited CIAL Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev55": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/cochin-international-cial-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:27+00:00",
+   "sha256": "9f76a5697624508378a9eac92acd02ce08ef4bf1c923f6b13ae564cafb1a4b23",
+   "capture_run": "20261123T164433Z",
+   "file": "cial-financial.html",
+   "raw_label": "Total equity",
+   "raw_text": "2,367.24",
+   "raw_unit": "INR crore",
+   "period": "FY2024",
+   "period_label": "2023-24",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "cial-financial.html",
+    "table_index": 1,
+    "row_index": 2,
+    "heading": "Cochin International Airport Limited CIAL Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev56": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/cochin-international-cial-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:27+00:00",
+   "sha256": "9f76a5697624508378a9eac92acd02ce08ef4bf1c923f6b13ae564cafb1a4b23",
+   "capture_run": "20261123T164433Z",
+   "file": "cial-financial.html",
+   "raw_label": "Total equity",
+   "raw_text": "2,665.26",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "2024-25",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "cial-financial.html",
+    "table_index": 1,
+    "row_index": 2,
+    "heading": "Cochin International Airport Limited CIAL Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev57": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/cochin-international-cial-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:27+00:00",
+   "sha256": "9f76a5697624508378a9eac92acd02ce08ef4bf1c923f6b13ae564cafb1a4b23",
+   "capture_run": "20261123T164433Z",
+   "file": "cial-financial.html",
+   "raw_label": "Total equity",
+   "raw_text": "2,954.48",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "2025-26",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "cial-financial.html",
+    "table_index": 1,
+    "row_index": 2,
+    "heading": "Cochin International Airport Limited CIAL Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev58": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/cochin-international-cial-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:27+00:00",
+   "sha256": "9f76a5697624508378a9eac92acd02ce08ef4bf1c923f6b13ae564cafb1a4b23",
+   "capture_run": "20261123T164433Z",
+   "file": "cial-financial.html",
+   "raw_label": "Total liabilities",
+   "raw_text": "1,165.62",
+   "raw_unit": "INR crore",
+   "period": "FY2022",
+   "period_label": "2021-22",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "cial-financial.html",
+    "table_index": 1,
+    "row_index": 3,
+    "heading": "Cochin International Airport Limited CIAL Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev59": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/cochin-international-cial-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:27+00:00",
+   "sha256": "9f76a5697624508378a9eac92acd02ce08ef4bf1c923f6b13ae564cafb1a4b23",
+   "capture_run": "20261123T164433Z",
+   "file": "cial-financial.html",
+   "raw_label": "Total liabilities",
+   "raw_text": "1,315.31",
+   "raw_unit": "INR crore",
+   "period": "FY2023",
+   "period_label": "2022-23",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "cial-financial.html",
+    "table_index": 1,
+    "row_index": 3,
+    "heading": "Cochin International Airport Limited CIAL Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev60": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/cochin-international-cial-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:27+00:00",
+   "sha256": "9f76a5697624508378a9eac92acd02ce08ef4bf1c923f6b13ae564cafb1a4b23",
+   "capture_run": "20261123T164433Z",
+   "file": "cial-financial.html",
+   "raw_label": "Total liabilities",
+   "raw_text": "1,206.20",
+   "raw_unit": "INR crore",
+   "period": "FY2024",
+   "period_label": "2023-24",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "cial-financial.html",
+    "table_index": 1,
+    "row_index": 3,
+    "heading": "Cochin International Airport Limited CIAL Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev61": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/cochin-international-cial-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:27+00:00",
+   "sha256": "9f76a5697624508378a9eac92acd02ce08ef4bf1c923f6b13ae564cafb1a4b23",
+   "capture_run": "20261123T164433Z",
+   "file": "cial-financial.html",
+   "raw_label": "Total liabilities",
+   "raw_text": "1,176.73",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "2024-25",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "cial-financial.html",
+    "table_index": 1,
+    "row_index": 3,
+    "heading": "Cochin International Airport Limited CIAL Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev62": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/cochin-international-cial-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:27+00:00",
+   "sha256": "9f76a5697624508378a9eac92acd02ce08ef4bf1c923f6b13ae564cafb1a4b23",
+   "capture_run": "20261123T164433Z",
+   "file": "cial-financial.html",
+   "raw_label": "Total liabilities",
+   "raw_text": "1,040.67",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "2025-26",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "cial-financial.html",
+    "table_index": 1,
+    "row_index": 3,
+    "heading": "Cochin International Airport Limited CIAL Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev63": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/cochin-international-cial-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:27+00:00",
+   "sha256": "9f76a5697624508378a9eac92acd02ce08ef4bf1c923f6b13ae564cafb1a4b23",
+   "capture_run": "20261123T164433Z",
+   "file": "cial-financial.html",
+   "raw_label": "Current assets",
+   "raw_text": "247.72",
+   "raw_unit": "INR crore",
+   "period": "FY2022",
+   "period_label": "2021-22",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "cial-financial.html",
+    "table_index": 1,
+    "row_index": 8,
+    "heading": "Cochin International Airport Limited CIAL Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev64": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/cochin-international-cial-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:27+00:00",
+   "sha256": "9f76a5697624508378a9eac92acd02ce08ef4bf1c923f6b13ae564cafb1a4b23",
+   "capture_run": "20261123T164433Z",
+   "file": "cial-financial.html",
+   "raw_label": "Current assets",
+   "raw_text": "1,186.54",
+   "raw_unit": "INR crore",
+   "period": "FY2023",
+   "period_label": "2022-23",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "cial-financial.html",
+    "table_index": 1,
+    "row_index": 8,
+    "heading": "Cochin International Airport Limited CIAL Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev65": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/cochin-international-cial-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:27+00:00",
+   "sha256": "9f76a5697624508378a9eac92acd02ce08ef4bf1c923f6b13ae564cafb1a4b23",
+   "capture_run": "20261123T164433Z",
+   "file": "cial-financial.html",
+   "raw_label": "Current assets",
+   "raw_text": "1,293.32",
+   "raw_unit": "INR crore",
+   "period": "FY2024",
+   "period_label": "2023-24",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "cial-financial.html",
+    "table_index": 1,
+    "row_index": 8,
+    "heading": "Cochin International Airport Limited CIAL Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev66": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/cochin-international-cial-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:27+00:00",
+   "sha256": "9f76a5697624508378a9eac92acd02ce08ef4bf1c923f6b13ae564cafb1a4b23",
+   "capture_run": "20261123T164433Z",
+   "file": "cial-financial.html",
+   "raw_label": "Current assets",
+   "raw_text": "1,421.02",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "2024-25",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "cial-financial.html",
+    "table_index": 1,
+    "row_index": 8,
+    "heading": "Cochin International Airport Limited CIAL Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev67": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/cochin-international-cial-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:27+00:00",
+   "sha256": "9f76a5697624508378a9eac92acd02ce08ef4bf1c923f6b13ae564cafb1a4b23",
+   "capture_run": "20261123T164433Z",
+   "file": "cial-financial.html",
+   "raw_label": "Current assets",
+   "raw_text": "1,350.65",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "2025-26",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "cial-financial.html",
+    "table_index": 1,
+    "row_index": 8,
+    "heading": "Cochin International Airport Limited CIAL Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev68": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/cochin-international-cial-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:27+00:00",
+   "sha256": "9f76a5697624508378a9eac92acd02ce08ef4bf1c923f6b13ae564cafb1a4b23",
+   "capture_run": "20261123T164433Z",
+   "file": "cial-financial.html",
+   "raw_label": "Current liabilities",
+   "raw_text": "234.58",
+   "raw_unit": "INR crore",
+   "period": "FY2022",
+   "period_label": "2021-22",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "cial-financial.html",
+    "table_index": 1,
+    "row_index": 5,
+    "heading": "Cochin International Airport Limited CIAL Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev69": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/cochin-international-cial-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:27+00:00",
+   "sha256": "9f76a5697624508378a9eac92acd02ce08ef4bf1c923f6b13ae564cafb1a4b23",
+   "capture_run": "20261123T164433Z",
+   "file": "cial-financial.html",
+   "raw_label": "Current liabilities",
+   "raw_text": "403.90",
+   "raw_unit": "INR crore",
+   "period": "FY2023",
+   "period_label": "2022-23",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "cial-financial.html",
+    "table_index": 1,
+    "row_index": 5,
+    "heading": "Cochin International Airport Limited CIAL Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev70": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/cochin-international-cial-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:27+00:00",
+   "sha256": "9f76a5697624508378a9eac92acd02ce08ef4bf1c923f6b13ae564cafb1a4b23",
+   "capture_run": "20261123T164433Z",
+   "file": "cial-financial.html",
+   "raw_label": "Current liabilities",
+   "raw_text": "358.25",
+   "raw_unit": "INR crore",
+   "period": "FY2024",
+   "period_label": "2023-24",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "cial-financial.html",
+    "table_index": 1,
+    "row_index": 5,
+    "heading": "Cochin International Airport Limited CIAL Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev71": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/cochin-international-cial-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:27+00:00",
+   "sha256": "9f76a5697624508378a9eac92acd02ce08ef4bf1c923f6b13ae564cafb1a4b23",
+   "capture_run": "20261123T164433Z",
+   "file": "cial-financial.html",
+   "raw_label": "Current liabilities",
+   "raw_text": "430.39",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "2024-25",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "cial-financial.html",
+    "table_index": 1,
+    "row_index": 5,
+    "heading": "Cochin International Airport Limited CIAL Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev72": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/cochin-international-cial-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:27+00:00",
+   "sha256": "9f76a5697624508378a9eac92acd02ce08ef4bf1c923f6b13ae564cafb1a4b23",
+   "capture_run": "20261123T164433Z",
+   "file": "cial-financial.html",
+   "raw_label": "Current liabilities",
+   "raw_text": "448.70",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "2025-26",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "cial-financial.html",
+    "table_index": 1,
+    "row_index": 5,
+    "heading": "Cochin International Airport Limited CIAL Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev73": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/cochin-international-cial-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:27+00:00",
+   "sha256": "9f76a5697624508378a9eac92acd02ce08ef4bf1c923f6b13ae564cafb1a4b23",
+   "capture_run": "20261123T164433Z",
+   "file": "cial-financial.html",
+   "raw_label": "Net cash from/(used in) operating activities",
+   "raw_text": "158.80",
+   "raw_unit": "INR crore",
+   "period": "FY2022",
+   "period_label": "2021-22",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "cial-financial.html",
+    "table_index": 2,
+    "row_index": 1,
+    "heading": "Cochin International Airport Limited CIAL CashFlow Statement(Rs in Crores)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev74": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/cochin-international-cial-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:27+00:00",
+   "sha256": "9f76a5697624508378a9eac92acd02ce08ef4bf1c923f6b13ae564cafb1a4b23",
+   "capture_run": "20261123T164433Z",
+   "file": "cial-financial.html",
+   "raw_label": "Net cash from/(used in) operating activities",
+   "raw_text": "559.82",
+   "raw_unit": "INR crore",
+   "period": "FY2023",
+   "period_label": "2022-23",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "cial-financial.html",
+    "table_index": 2,
+    "row_index": 1,
+    "heading": "Cochin International Airport Limited CIAL CashFlow Statement(Rs in Crores)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev75": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/cochin-international-cial-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:27+00:00",
+   "sha256": "9f76a5697624508378a9eac92acd02ce08ef4bf1c923f6b13ae564cafb1a4b23",
+   "capture_run": "20261123T164433Z",
+   "file": "cial-financial.html",
+   "raw_label": "Net cash from/(used in) operating activities",
+   "raw_text": "592.43",
+   "raw_unit": "INR crore",
+   "period": "FY2024",
+   "period_label": "2023-24",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "cial-financial.html",
+    "table_index": 2,
+    "row_index": 1,
+    "heading": "Cochin International Airport Limited CIAL CashFlow Statement(Rs in Crores)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev76": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/cochin-international-cial-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:27+00:00",
+   "sha256": "9f76a5697624508378a9eac92acd02ce08ef4bf1c923f6b13ae564cafb1a4b23",
+   "capture_run": "20261123T164433Z",
+   "file": "cial-financial.html",
+   "raw_label": "Net cash from/(used in) operating activities",
+   "raw_text": "648.55",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "2024-25",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "cial-financial.html",
+    "table_index": 2,
+    "row_index": 1,
+    "heading": "Cochin International Airport Limited CIAL CashFlow Statement(Rs in Crores)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev77": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/cochin-international-cial-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:27+00:00",
+   "sha256": "9f76a5697624508378a9eac92acd02ce08ef4bf1c923f6b13ae564cafb1a4b23",
+   "capture_run": "20261123T164433Z",
+   "file": "cial-financial.html",
+   "raw_label": "Net cash from/(used in) operating activities",
+   "raw_text": "664.91",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "2025-26",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "cial-financial.html",
+    "table_index": 2,
+    "row_index": 1,
+    "heading": "Cochin International Airport Limited CIAL CashFlow Statement(Rs in Crores)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev78": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/cochin-international-cial-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:27+00:00",
+   "sha256": "9f76a5697624508378a9eac92acd02ce08ef4bf1c923f6b13ae564cafb1a4b23",
+   "capture_run": "20261123T164433Z",
+   "file": "cial-financial.html",
+   "raw_label": "Net cash from/(used in) investing activities",
+   "raw_text": "-110.73",
+   "raw_unit": "INR crore",
+   "period": "FY2022",
+   "period_label": "2021-22",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "cial-financial.html",
+    "table_index": 2,
+    "row_index": 2,
+    "heading": "Cochin International Airport Limited CIAL CashFlow Statement(Rs in Crores)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev79": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/cochin-international-cial-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:27+00:00",
+   "sha256": "9f76a5697624508378a9eac92acd02ce08ef4bf1c923f6b13ae564cafb1a4b23",
+   "capture_run": "20261123T164433Z",
+   "file": "cial-financial.html",
+   "raw_label": "Net cash from/(used in) investing activities",
+   "raw_text": "-972.49",
+   "raw_unit": "INR crore",
+   "period": "FY2023",
+   "period_label": "2022-23",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "cial-financial.html",
+    "table_index": 2,
+    "row_index": 2,
+    "heading": "Cochin International Airport Limited CIAL CashFlow Statement(Rs in Crores)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev80": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/cochin-international-cial-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:27+00:00",
+   "sha256": "9f76a5697624508378a9eac92acd02ce08ef4bf1c923f6b13ae564cafb1a4b23",
+   "capture_run": "20261123T164433Z",
+   "file": "cial-financial.html",
+   "raw_label": "Net cash from/(used in) investing activities",
+   "raw_text": "-199.26",
+   "raw_unit": "INR crore",
+   "period": "FY2024",
+   "period_label": "2023-24",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "cial-financial.html",
+    "table_index": 2,
+    "row_index": 2,
+    "heading": "Cochin International Airport Limited CIAL CashFlow Statement(Rs in Crores)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev81": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/cochin-international-cial-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:27+00:00",
+   "sha256": "9f76a5697624508378a9eac92acd02ce08ef4bf1c923f6b13ae564cafb1a4b23",
+   "capture_run": "20261123T164433Z",
+   "file": "cial-financial.html",
+   "raw_label": "Net cash from/(used in) investing activities",
+   "raw_text": "-234.20",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "2024-25",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "cial-financial.html",
+    "table_index": 2,
+    "row_index": 2,
+    "heading": "Cochin International Airport Limited CIAL CashFlow Statement(Rs in Crores)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev82": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/cochin-international-cial-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:27+00:00",
+   "sha256": "9f76a5697624508378a9eac92acd02ce08ef4bf1c923f6b13ae564cafb1a4b23",
+   "capture_run": "20261123T164433Z",
+   "file": "cial-financial.html",
+   "raw_label": "Net cash from/(used in) investing activities",
+   "raw_text": "-289.36",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "2025-26",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "cial-financial.html",
+    "table_index": 2,
+    "row_index": 2,
+    "heading": "Cochin International Airport Limited CIAL CashFlow Statement(Rs in Crores)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev83": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/cochin-international-cial-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:27+00:00",
+   "sha256": "9f76a5697624508378a9eac92acd02ce08ef4bf1c923f6b13ae564cafb1a4b23",
+   "capture_run": "20261123T164433Z",
+   "file": "cial-financial.html",
+   "raw_label": "Net cash from/(used) in financing activities",
+   "raw_text": "-1.24",
+   "raw_unit": "INR crore",
+   "period": "FY2022",
+   "period_label": "2021-22",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "cial-financial.html",
+    "table_index": 2,
+    "row_index": 3,
+    "heading": "Cochin International Airport Limited CIAL CashFlow Statement(Rs in Crores)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev84": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/cochin-international-cial-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:27+00:00",
+   "sha256": "9f76a5697624508378a9eac92acd02ce08ef4bf1c923f6b13ae564cafb1a4b23",
+   "capture_run": "20261123T164433Z",
+   "file": "cial-financial.html",
+   "raw_label": "Net cash from/(used) in financing activities",
+   "raw_text": "434.29",
+   "raw_unit": "INR crore",
+   "period": "FY2023",
+   "period_label": "2022-23",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "cial-financial.html",
+    "table_index": 2,
+    "row_index": 3,
+    "heading": "Cochin International Airport Limited CIAL CashFlow Statement(Rs in Crores)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev85": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/cochin-international-cial-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:27+00:00",
+   "sha256": "9f76a5697624508378a9eac92acd02ce08ef4bf1c923f6b13ae564cafb1a4b23",
+   "capture_run": "20261123T164433Z",
+   "file": "cial-financial.html",
+   "raw_label": "Net cash from/(used) in financing activities",
+   "raw_text": "-393.49",
+   "raw_unit": "INR crore",
+   "period": "FY2024",
+   "period_label": "2023-24",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "cial-financial.html",
+    "table_index": 2,
+    "row_index": 3,
+    "heading": "Cochin International Airport Limited CIAL CashFlow Statement(Rs in Crores)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev86": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/cochin-international-cial-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:27+00:00",
+   "sha256": "9f76a5697624508378a9eac92acd02ce08ef4bf1c923f6b13ae564cafb1a4b23",
+   "capture_run": "20261123T164433Z",
+   "file": "cial-financial.html",
+   "raw_label": "Net cash from/(used) in financing activities",
+   "raw_text": "-368.15",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "2024-25",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "cial-financial.html",
+    "table_index": 2,
+    "row_index": 3,
+    "heading": "Cochin International Airport Limited CIAL CashFlow Statement(Rs in Crores)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev87": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/cochin-international-cial-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:27+00:00",
+   "sha256": "9f76a5697624508378a9eac92acd02ce08ef4bf1c923f6b13ae564cafb1a4b23",
+   "capture_run": "20261123T164433Z",
+   "file": "cial-financial.html",
+   "raw_label": "Net cash from/(used) in financing activities",
+   "raw_text": "-398.78",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "2025-26",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "cial-financial.html",
+    "table_index": 2,
+    "row_index": 3,
+    "heading": "Cochin International Airport Limited CIAL CashFlow Statement(Rs in Crores)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  }
+ },
+ "news": {
+  "query": "\"Cochin International Airport\"",
+  "retrieved_at": "2026-11-23T16:46:28+00:00",
+  "items": [
+   {
+    "title": "Kannada writer Ravi Hanj detained at Kochi airport amid row over his book",
+    "publisher": "Onmanorama",
+    "date": "2026-11-21",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNcnY3ZXVsaHNRZm5Pa3o5R3JGSHU4MW9ZR3dsdjdkTDRfWEZiTGZJdF9zREVsNFR2TG9KdEhnRnR3SkxuLThrMVVVcU80MFp4THotVVk2MzBUMXZuN1E0ZnF6d0ZQdzFTODVWUnkwVUxrUzZScWVaZk53ckdwcVlROWFXWUpFN3dicWs0cDNfblhZRjJmMUd3Y3E3OWFVRjYzYkRXQWNrV1d5d2xEakdSbEYwcDBUZkVWYklSQk5WY3NQa2xVanpj?oc=5"
+   },
+   {
+    "title": "US-Based Author, Booked For Making Derogatory Remarks On Basavanna, Taken Into Custody At Cochin Airport",
+    "publisher": "ETV Bharat",
+    "date": "2026-11-21",
+    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQTmVRN0l6WlAzVk1mRTQ4SFlGRlBrNG9LRzBvLVhKSXhsbVdtU3kzNU5fYkd5V0lGY0R1SUV2eXpwQ1RNSl9vQy1Fc2NnSjZFTS1PbWRaTlQ4a3UxUzY0Wkw1OERkQ0M5eHRyeHd3ejZRUjlLZ2E2eHA1UHA0ZTF5UFliR1Z6b1lGWnhsd3BMZFNZYnpmMkdxLXAxSzFWdTAyZ21FZGtLb3JrdzRtYV9lTHRuOHZlYTFEVFZleEI3WUxiZ3lWU0xfNmlBeXB2Nnc4OFR2dnJfQ2QzQU52VG93WWxIWUtnTEHSAewBQVVfeXFMTWVwOTN0YlZ3bFF5YjV2VGF1NV9vd3hod0lXZk0xajRrdHE4V0lPX3pZak5DeVg5RUlQSFBQU0JnLXM4RlB5SGVtUkZ4SElVZTRvekdRR3E3ZG5FRjl2dW9UbHZBbDg1SE9MU0FMOVR2Z2wzdHI4akp3dXhXZUNZclRwN2did2dNQUlRMkM0WHRwYkRTejhMMWtXb1pTN0loaEZiSVBra3poeGJQZlB4NFpiblVVRnhMUXJPUGdJZEJWdVpjOGRfRzdSeHo5V2h0YmdFSXpEendLZnJxMi11dDdwOGJESXIyYmZDOXU?oc=5"
+   },
+   {
+    "title": "CM Satheesan Inaugurates Pilgrim Facilitation Centre for Sabarimala Devotees at Cochin Airport",
+    "publisher": "Deccan Chronicle",
+    "date": "2026-11-17",
+    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPR0xEOFB5WGtHSTNPUjYyREliNTRkVmtrWnhPWjB1XzZIMl95Y0xQNkZlSW5vekdjclh3OWlRcHBETGFndXRNUFo0NFpmaTVjbUxXemtXbUU3UHhzRFQ0RmVVaVIwNUd5SDRHYUZ5MUdPSVd0alRhcnV3UlFfZ3cySlRGV0NGeHRqdkRPd0xlbHpyak1qdGlDNlJKM1hyQ2w1YVMwcDFtVE9fRmlVcF9XVUpzR2s5eDRMSVJXdGd6cVBCTEdTOFJOMnV3S0J5eVFrV01zWHZlVkZmdDN6Wk9MNzJNYndHbENmUEFLZ1Jn0gHzAUFVX3lxTFBzN0diQzZ2anUzQ2p6M0dNVWVXbGJWZEtRRE5KNk1vYnZSVm90ajRaR1RaM256YVZGNC13SDJndGpRenFhQjJDSllCeVRQQlJ5S0ZjTVBGNnVueHNwczRWcFRpblZhVy1BbmgySkloMnJfWjFlZGYwNkxIczlNTVR6cmtOTURjT183S1lscDNCWUZDUVNtQ2piS2kwT25qZHQ3cjlPeWRaaXh4Y3ZGbEZ0ZUxmMVdBVWpOdUptN2NfUWNIZUx3eElLREYwRmVSSlljcXZRVEpWODEzV0pua3ZleDZHSHVnOEozeVkxUzdBOEZHaw?oc=5"
+   },
+   {
+    "title": "Keralam CM inaugurates pilgrim facilitation centre for Sabarimala devotees at Cochin airport",
+    "publisher": "ThePrint",
+    "date": "2026-11-17",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOb09wc25WMi1CNEI3OW1Yb1ExTlpBaXg0UnJtdUxYZ2dHdkd6Nm5BR00zQ2NJbmdWZ3RUaWJIa0FhTFV0RW9uN2Fjd3VxUEJGY2lJc2lhQ2JSbXhXTG5sc01IT2hrOG1RQjRDZ05RZWQwX1VFdzZiR3lKOFUxbWlQS01kU3VxMTFiUkJUYS1xR3Y5OTF6dEU5bWdudUJmSE1LUk83NThPQnhDbVVJaEVYME9ULUZVY1RtcnJwZGFVN0E3ZlB0LWfSAcsBQVVfeXFMTjBlWDA2cFJ0RWZRMlR1M3UzbmFDeTIzMVNFdGRXczdIUDF6N1V1aUVqVEtpWWJUdW9pV0xkQzJwY0txcnZ1czZYQ1B0cUFfd05DZHBFajJya183bENtNm9FTS1tWnROaThDZkZtXzJSSW1ZUzdmSF92dEJLY0VvWWViZEtabzVQMTZHSlBUd1RSdUhXWkhpRmxVYklLR2dOZEpYQURlNVZLSWNEeGpwSmxJdjU4UlBuUG8yUGZfQUNzVXcyWGNpUThWMlk?oc=5"
+   },
+   {
+    "title": "Cochin Airport to Launch 24/7 Sabarimala Pilgrims’ Centre on November 17, Boosting Support for Ayyappa Devotees",
+    "publisher": "IndianEagle",
+    "date": "2026-11-16",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVWpPR09XbXB2Y2xfbUduOWVDMmhVTF9ocTBuMlVqQUZKLWVfTjZzejRDQ2E0UkNjd2lwbl8xdndBY2E1OU1DSENMMUxWVGxuVE5QR1VaNm5jUGVZTkxkWmxZUEVVQUxDc2V1VnpqdGVxWVNuSFAwRXFSSzl1Z0VwS1k2dWNGUjQwQWt1Y19PTF8xYnd2RjcyQ0NB?oc=5"
+   },
+   {
+    "title": "Jacobs to develop 25-year master plan for Cochin International Airport in India",
+    "publisher": "Jacobs",
+    "date": "2026-11-11",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNFN5Uzc0Q1BlUXB6dlJsVDlUcjFlMnhHVHk0bGRud3BscWxVcEM4bWYxTXE3UGoxSWx3a00yQTkyOUZMQnNVT2MtcERVTHlkQjVYQ2dfTzlLd2NadzBZc29RRExkZ3BrUFpNd21oZVZOc0N3WXQzVVdDNXh4YW5tT1JZYndyQVNFYnk4U0J3TnJFX01GYnhtbTRoY2R5X2hFN3FLN0g1Ui0zTjNmSzBhZVZKRkhWZw?oc=5"
+   },
+   {
+    "title": "Farms to tables abroad! Cochin International Airport Ltd ‘cooks up’ plan",
+    "publisher": "The New Indian Express",
+    "date": "2026-11-07",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVGhmMlpSVzBjQ29PS19ROWtTTlVoTkpLVXlWYjgzMVRoQXZkakNOeUdsTVFRdC1od1VISGhxOS1PczduUXNHSEtEMFBWY201dWJGcDRvSGdxbHRBYVZMeWRRT3ptaEVQTUJ1R0VZbktzSHFHSkloMEJXTHNHYjVMc0h6NUtId3dVa1h5V3JuNWZObVhzNWRrSXBxUThVbk5FWTRDbDFrc2FQVjZlWlZ3R3FkbmNWbFVjSzEzbGM5bTdBSjhSTkIw0gHUAUFVX3lxTE5JcDdCNXFDQlNVaWcwWmVEU082bHBDbFN3VExRRjh5SWZNNGh4MFlTVEJKQzVDVlZIQThwN2xoWFBTeS1IU0RLb1hfY29NSGozOTFXaW85VEY4WU1oTzUtRl95ejNZY1poeVhRQllMWWNjcHZJa1F3TXA5Z2JpNURNVWVZckJJdUhZamNUT2xJNFZ0M2ZLMkNkZGdPZDhreXhjaU5NTG1wMW5SbUtyYTIwVjJFbGR6UWVrOE5yN1JkTVR6X1REeFdIbVh3LW90MkFRdnFX?oc=5"
+   },
+   {
+    "title": "Cochin International Airport Limited AGM approves 55% dividend to shareholders, launches aviation consultancy services",
+    "publisher": "The Hindu",
+    "date": "2026-09-24",
+    "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNVGM1REFtNkJtY0dWV2hvVV9RV01WSTFqblJLSVhXcUVpQzVDQS12Rkk5Z2VMNUxSQTMwSnJEWHdnYmx4VGNhRzQ0SGk2dHdXZmtucFcwZlBZYlRXZDBZTU05QjZrR3d0TFBZcGozbTZGNHJvVEhhSm96QnE2MWNaMjdGZkY2Ymc0emxoMm53R2ZvaUMxb0pRN0hJZ0xUTDR2RkptLTZUbDZOSVNOR0dQaE9kZFYtZEpLQWZwRmp6NVdPbmtIQVpYcmd4RVY3ZkVaUFJWUnB2RDVDcTBjRk9ucTlrOXF3amM1Q21YY0ZGbXU1TUhudzFTbnJzSEloMlVndkNpYklZc1hNb200RUVv0gGWAkFVX3lxTFA5emdxaWJDcm1TQnlKVHdfMWtOdFNkQmVPQlZrVkQtQXhDaU90cnBCcnhjR0RfdWdzb1ZFcDJNNlMxaDN1TDQ4WXdMTGR3QzlxMGUzMjVvLWEwYnJDM21DZThrVngzbGhKTmdzR0xjQ29kdy1uellhWHR3SFVXcGdVbkpTNndzdnhJWmJxSkZsenlSVUVhUFVGM2pqMWZPNHcwWWY2dVV0eU05bjZ2ZnpCbDlYVVdrVmQzWXlKNHpNdGgyOUV2RlkzbkpXb0dfdzZuWDUxOWtOX3JPM2VRaThiRzZxWnNKaHJLdW5jT1Q5T1FvaWwyT3UtcVBORnpsWkxIR0JKVTRTdzdHU3U1TFNQZjBkbW5R?oc=5"
+   }
+  ],
+  "source": {
+   "name": "Google News RSS search",
+   "url": "https://news.google.com/rss/search?q=%22Cochin+International+Airport%22&hl=en-IN&gl=IN&ceid=IN:en",
+   "sha256": "18f9b89146ddcb7016df8f3cab837b952ec793805c1b22591724fbd304bb7a12",
+   "run": "20261123T164603Z"
+  }
+ },
+ "peer_annual": {
+  "label": "FY2026 issuer consolidated statements",
+  "basis": "consolidated",
+  "period_end": "2026-03-31",
+  "date": "2026-08-08",
+  "facts": {
+   "revenue_ops": {
+    "value": "1401.4885",
+    "state": "reported",
+    "basis": "consolidated",
+    "evidence": {
+     "url": "https://www.cial.aero/ckeditor/upload/CIAL_Annual_Report_2025_2026.pdf#page=127",
+     "page": 127,
+     "anchor": "Revenue from Operations",
+     "retrieved_at": "2026-11-23T18:00:29+00:00",
+     "sha256": "7cfd43fb6ec7d96a3f1bd11b41940002fa07823362bdd82c008c66455643b766",
+     "capture_run": "20261123T180022Z",
+     "file": "cial-annual-2026.pdf",
+     "source": "CIAL annual report FY2026",
+     "raw_label": "Revenue from Operations",
+     "raw_text": "1,40,148.85",
+     "raw_unit": "INR lakh",
+     "period_label": "For the year ended 31.03.2026"
+    }
+   },
+   "other_income": {
+    "value": "90.7281",
+    "state": "reported",
+    "basis": "consolidated",
+    "evidence": {
+     "url": "https://www.cial.aero/ckeditor/upload/CIAL_Annual_Report_2025_2026.pdf#page=127",
+     "page": 127,
+     "anchor": "Other Income",
+     "retrieved_at": "2026-11-23T18:00:29+00:00",
+     "sha256": "7cfd43fb6ec7d96a3f1bd11b41940002fa07823362bdd82c008c66455643b766",
+     "capture_run": "20261123T180022Z",
+     "file": "cial-annual-2026.pdf",
+     "source": "CIAL annual report FY2026",
+     "raw_label": "Other Income",
+     "raw_text": "9,072.81",
+     "raw_unit": "INR lakh",
+     "period_label": "For the year ended 31.03.2026"
+    }
+   },
+   "finance_cost": {
+    "value": "34.7441",
+    "state": "reported",
+    "basis": "consolidated",
+    "evidence": {
+     "url": "https://www.cial.aero/ckeditor/upload/CIAL_Annual_Report_2025_2026.pdf#page=127",
+     "page": 127,
+     "anchor": "Finance Costs",
+     "retrieved_at": "2026-11-23T18:00:29+00:00",
+     "sha256": "7cfd43fb6ec7d96a3f1bd11b41940002fa07823362bdd82c008c66455643b766",
+     "capture_run": "20261123T180022Z",
+     "file": "cial-annual-2026.pdf",
+     "source": "CIAL annual report FY2026",
+     "raw_label": "Finance Costs",
+     "raw_text": "3,474.41",
+     "raw_unit": "INR lakh",
+     "period_label": "For the year ended 31.03.2026"
+    }
+   },
+   "pbt": {
+    "value": "709.5512",
+    "state": "reported",
+    "basis": "consolidated",
+    "evidence": {
+     "url": "https://www.cial.aero/ckeditor/upload/CIAL_Annual_Report_2025_2026.pdf#page=127",
+     "page": 127,
+     "anchor": "Profit before tax (VII - VIII)",
+     "retrieved_at": "2026-11-23T18:00:29+00:00",
+     "sha256": "7cfd43fb6ec7d96a3f1bd11b41940002fa07823362bdd82c008c66455643b766",
+     "capture_run": "20261123T180022Z",
+     "file": "cial-annual-2026.pdf",
+     "source": "CIAL annual report FY2026",
+     "raw_label": "Profit before tax (VII - VIII)",
+     "raw_text": "70,955.12",
+     "raw_unit": "INR lakh",
+     "period_label": "For the year ended 31.03.2026"
+    }
+   },
+   "pat": {
+    "value": "526.7463",
+    "state": "reported",
+    "basis": "consolidated",
+    "evidence": {
+     "url": "https://www.cial.aero/ckeditor/upload/CIAL_Annual_Report_2025_2026.pdf#page=127",
+     "page": 127,
+     "anchor": "Profit for the year (IX - X)",
+     "retrieved_at": "2026-11-23T18:00:29+00:00",
+     "sha256": "7cfd43fb6ec7d96a3f1bd11b41940002fa07823362bdd82c008c66455643b766",
+     "capture_run": "20261123T180022Z",
+     "file": "cial-annual-2026.pdf",
+     "source": "CIAL annual report FY2026",
+     "raw_label": "Profit for the year (IX - X)",
+     "raw_text": "52,674.63",
+     "raw_unit": "INR lakh",
+     "period_label": "For the year ended 31.03.2026"
+    }
+   },
+   "eps": {
+    "value": "11.01",
+    "state": "reported",
+    "basis": "consolidated",
+    "evidence": {
+     "url": "https://www.cial.aero/ckeditor/upload/CIAL_Annual_Report_2025_2026.pdf#page=127",
+     "page": 127,
+     "anchor": "Basic (In ₹per share)",
+     "retrieved_at": "2026-11-23T18:00:29+00:00",
+     "sha256": "7cfd43fb6ec7d96a3f1bd11b41940002fa07823362bdd82c008c66455643b766",
+     "capture_run": "20261123T180022Z",
+     "file": "cial-annual-2026.pdf",
+     "source": "CIAL annual report FY2026",
+     "raw_label": "Basic (In ₹per share)",
+     "raw_text": "11.01",
+     "raw_unit": "INR/share",
+     "period_label": "For the year ended 31.03.2026"
+    }
+   }
+  },
+  "evidence": {
+   "url": "https://www.cial.aero/ckeditor/upload/CIAL_Annual_Report_2025_2026.pdf#page=127",
+   "page": 127,
+   "anchor": "Consolidated Statement of Profit and Loss",
+   "retrieved_at": "2026-11-23T18:00:29+00:00",
+   "sha256": "7cfd43fb6ec7d96a3f1bd11b41940002fa07823362bdd82c008c66455643b766",
+   "capture_run": "20261123T180022Z",
+   "file": "cial-annual-2026.pdf"
+  }
+ },
+ "peer_reviewed": true,
+ "discovery": [
+  {
+   "id": "kial",
+   "short": "KIAL",
+   "name": "Kannur International Airport Ltd",
+   "reasons": [
+    "same business: Airports"
+   ],
+   "score": 3,
+   "price_inr": 126.0,
+   "latest_period": "FY2025"
+  },
+  {
+   "id": "ncdex",
+   "short": "NCDEX",
+   "name": "National Commodity & Derivatives Exchange Ltd",
+   "reasons": [
+    "provider reports DRHP filed (IPO research lead)",
+    "in the news 2026-11-11"
+   ],
+   "score": 3,
+   "price_inr": 253.0,
+   "latest_period": "FY2026"
+  },
+  {
+   "id": "oyo",
+   "short": "OYO",
+   "name": "Oravel Stays Ltd (OYO)",
+   "reasons": [
+    "provider reports DRHP filed (IPO research lead)",
+    "in the news 2026-11-23"
+   ],
+   "score": 3,
+   "price_inr": 20.45,
+   "latest_period": "FY2026"
+  },
+  {
+   "id": "pharmeasy",
+   "short": "PharmEasy",
+   "name": "API Holdings Ltd (PharmEasy)",
+   "reasons": [
+    "provider reports DRHP filed (IPO research lead)",
+    "in the news 2026-10-28"
+   ],
+   "score": 3,
+   "price_inr": 6.15,
+   "latest_period": "FY2026"
+  },
+  {
+   "id": "axlesindia",
+   "short": "Axles India",
+   "name": "Axles India Ltd",
+   "reasons": [
+    "in the news 2026-11-20"
+   ],
+   "score": 1,
+   "price_inr": 525.0,
+   "latest_period": "FY2026"
+  },
+  {
+   "id": "csk",
+   "short": "CSK",
+   "name": "Chennai Super Kings Cricket Ltd",
+   "reasons": [
+    "in the news 2026-11-20"
+   ],
+   "score": 1,
+   "price_inr": 245.0,
+   "latest_period": "FY2026"
+  }
+ ],
+ "fallbacks": []
+}

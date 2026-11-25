@@ -1,0 +1,134 @@
+{
+  "source_date": "2026-10-29",
+  "commit": "5b71ab3e0fea6dff294519fc2f6560aad5a059aa",
+  "files": [
+    {
+      "path": "README.md",
+      "source_url": "https://raw.githubusercontent.com/atharvchavan2608/IPO-ready/5b71ab3e0fea6dff294519fc2f6560aad5a059aa/docs/architecture/README.md",
+      "commit": "5b71ab3e0fea6dff294519fc2f6560aad5a059aa",
+      "retrieved_at": "2026-11-12T11:26:55.981014+00:00",
+      "bytes": 1179,
+      "sha256": "1f1238ad596c5b71c87a5d055e2aa2c9feea0a0d8b10b5f7f578972d374922db"
+    },
+    {
+      "path": "IMPLEMENTATION_BACKLOG.md",
+      "source_url": "https://raw.githubusercontent.com/atharvchavan2608/IPO-ready/5b71ab3e0fea6dff294519fc2f6560aad5a059aa/docs/architecture/IMPLEMENTATION_BACKLOG.md",
+      "commit": "5b71ab3e0fea6dff294519fc2f6560aad5a059aa",
+      "retrieved_at": "2026-11-12T11:26:56.855879+00:00",
+      "bytes": 1599,
+      "sha256": "12192a07156494b9d74bb3522563b2c01702830b3968b558d9b9cfb518d82194"
+    },
+    {
+      "path": "IPO_Ready_Design_Framework.md",
+      "source_url": "https://raw.githubusercontent.com/atharvchavan2608/IPO-ready/5b71ab3e0fea6dff294519fc2f6560aad5a059aa/docs/architecture/IPO_Ready_Design_Framework.md",
+      "commit": "5b71ab3e0fea6dff294519fc2f6560aad5a059aa",
+      "retrieved_at": "2026-11-12T11:26:57.784652+00:00",
+      "bytes": 19446,
+      "sha256": "1ddf4df08075ff8aa643ae9e8563e9fb0104392009e62d39fd0ad442bc022039"
+    },
+    {
+      "path": "IPO_Ready_Mermaid_Diagrams.md",
+      "source_url": "https://raw.githubusercontent.com/atharvchavan2608/IPO-ready/5b71ab3e0fea6dff294519fc2f6560aad5a059aa/docs/architecture/IPO_Ready_Mermaid_Diagrams.md",
+      "commit": "5b71ab3e0fea6dff294519fc2f6560aad5a059aa",
+      "retrieved_at": "2026-11-12T11:26:58.591916+00:00",
+      "bytes": 5227,
+      "sha256": "bc5fbc7f73e47627d047760b8b9b24538fde0583cdf4300d86729aa886a4f2d8"
+    },
+    {
+      "path": "IPO_Ready_Eraser_Description.md",
+      "source_url": "https://raw.githubusercontent.com/atharvchavan2608/IPO-ready/5b71ab3e0fea6dff294519fc2f6560aad5a059aa/docs/architecture/IPO_Ready_Eraser_Description.md",
+      "commit": "5b71ab3e0fea6dff294519fc2f6560aad5a059aa",
+      "retrieved_at": "2026-11-12T11:26:59.390140+00:00",
+      "bytes": 4088,
+      "sha256": "b9e33e36b637df45da7f36ff4777ea9b2f499f716616f98f3e7eed8e7f3e9c3c"
+    },
+    {
+      "path": "IPO_Ready_Architecture_Design.pdf",
+      "source_url": "https://raw.githubusercontent.com/atharvchavan2608/IPO-ready/5b71ab3e0fea6dff294519fc2f6560aad5a059aa/docs/architecture/IPO_Ready_Architecture_Design.pdf",
+      "commit": "5b71ab3e0fea6dff294519fc2f6560aad5a059aa",
+      "retrieved_at": "2026-11-12T11:27:00.452138+00:00",
+      "bytes": 77238,
+      "sha256": "f9c095ad916a72f8287f1549e0282a172c562370bfbf96d0addebd18e40edb0f"
+    },
+    {
+      "path": "IPO_Ready_Editable_Diagrams.drawio",
+      "source_url": "https://raw.githubusercontent.com/atharvchavan2608/IPO-ready/5b71ab3e0fea6dff294519fc2f6560aad5a059aa/docs/architecture/IPO_Ready_Editable_Diagrams.drawio",
+      "commit": "5b71ab3e0fea6dff294519fc2f6560aad5a059aa",
+      "retrieved_at": "2026-11-12T11:27:01.646490+00:00",
+      "bytes": 199395,
+      "sha256": "e5cf71e92cbf95c23938f2918416861966233c16fc8ad1486ee95b76fa3503cd"
+    },
+    {
+      "path": "01-target-product-architecture.svg",
+      "source_url": "https://raw.githubusercontent.com/atharvchavan2608/IPO-ready/5b71ab3e0fea6dff294519fc2f6560aad5a059aa/docs/architecture/01-target-product-architecture.svg",
+      "commit": "5b71ab3e0fea6dff294519fc2f6560aad5a059aa",
+      "retrieved_at": "2026-11-12T11:27:02.487547+00:00",
+      "bytes": 19456,
+      "sha256": "58c4ffdfe1d6704dce98459833f3db24feaf87f63d7a724d0f0d302c631c01dd"
+    },
+    {
+      "path": "02-product-system-context.svg",
+      "source_url": "https://raw.githubusercontent.com/atharvchavan2608/IPO-ready/5b71ab3e0fea6dff294519fc2f6560aad5a059aa/docs/architecture/02-product-system-context.svg",
+      "commit": "5b71ab3e0fea6dff294519fc2f6560aad5a059aa",
+      "retrieved_at": "2026-11-12T11:27:03.335308+00:00",
+      "bytes": 10165,
+      "sha256": "0b8af5232178254294f8125d38f538c8772a94648dbf4143262209adffc86339"
+    },
+    {
+      "path": "03-advisory-intelligence.svg",
+      "source_url": "https://raw.githubusercontent.com/atharvchavan2608/IPO-ready/5b71ab3e0fea6dff294519fc2f6560aad5a059aa/docs/architecture/03-advisory-intelligence.svg",
+      "commit": "5b71ab3e0fea6dff294519fc2f6560aad5a059aa",
+      "retrieved_at": "2026-11-12T11:27:04.440192+00:00",
+      "bytes": 13289,
+      "sha256": "7aa6a514ea40b4df18926872a530652752fa4e33e871ca6fe01608410e1ad6c9"
+    },
+    {
+      "path": "04-data-model-lifecycle.svg",
+      "source_url": "https://raw.githubusercontent.com/atharvchavan2608/IPO-ready/5b71ab3e0fea6dff294519fc2f6560aad5a059aa/docs/architecture/04-data-model-lifecycle.svg",
+      "commit": "5b71ab3e0fea6dff294519fc2f6560aad5a059aa",
+      "retrieved_at": "2026-11-12T11:27:05.286016+00:00",
+      "bytes": 13941,
+      "sha256": "5997ba229d2b9300f155299b676a83fc515095c91220631ca1cd71d9c4bda192"
+    },
+    {
+      "path": "05-point-in-time-research.svg",
+      "source_url": "https://raw.githubusercontent.com/atharvchavan2608/IPO-ready/5b71ab3e0fea6dff294519fc2f6560aad5a059aa/docs/architecture/05-point-in-time-research.svg",
+      "commit": "5b71ab3e0fea6dff294519fc2f6560aad5a059aa",
+      "retrieved_at": "2026-11-12T11:27:06.091560+00:00",
+      "bytes": 11505,
+      "sha256": "9b1def83f0e7cdc663a726a55d461dc23f9c66a85ea288fa7004edb54fbfdd7c"
+    },
+    {
+      "path": "06-deployment-operating-model.svg",
+      "source_url": "https://raw.githubusercontent.com/atharvchavan2608/IPO-ready/5b71ab3e0fea6dff294519fc2f6560aad5a059aa/docs/architecture/06-deployment-operating-model.svg",
+      "commit": "5b71ab3e0fea6dff294519fc2f6560aad5a059aa",
+      "retrieved_at": "2026-11-12T11:27:06.926851+00:00",
+      "bytes": 10201,
+      "sha256": "f5ce4d742a4158ca5b51c37b1eb5ee988647cdb5f2906a0c9e3cf744920b2d20"
+    },
+    {
+      "path": "07-design-decisions-roadmap.svg",
+      "source_url": "https://raw.githubusercontent.com/atharvchavan2608/IPO-ready/5b71ab3e0fea6dff294519fc2f6560aad5a059aa/docs/architecture/07-design-decisions-roadmap.svg",
+      "commit": "5b71ab3e0fea6dff294519fc2f6560aad5a059aa",
+      "retrieved_at": "2026-11-12T11:27:07.758257+00:00",
+      "bytes": 11966,
+      "sha256": "46d392d8d3e906a7fda2d60dc3dd7ce55684d68c2d1eb291726c19a8a6bfa16f"
+    },
+    {
+      "path": "tools/build_product_architecture.py",
+      "source_url": "https://raw.githubusercontent.com/atharvchavan2608/IPO-ready/5b71ab3e0fea6dff294519fc2f6560aad5a059aa/docs/architecture/tools/build_product_architecture.py",
+      "commit": "5b71ab3e0fea6dff294519fc2f6560aad5a059aa",
+      "retrieved_at": "2026-11-12T11:27:08.619448+00:00",
+      "bytes": 20876,
+      "sha256": "1cbed8f798a658e156107228c8a474f5e3629c2e844d400b2948308c471b3bf2"
+    },
+    {
+      "path": "tools/product_diagram_engine.py",
+      "source_url": "https://raw.githubusercontent.com/atharvchavan2608/IPO-ready/5b71ab3e0fea6dff294519fc2f6560aad5a059aa/docs/architecture/tools/product_diagram_engine.py",
+      "commit": "5b71ab3e0fea6dff294519fc2f6560aad5a059aa",
+      "retrieved_at": "2026-11-12T11:27:09.446436+00:00",
+      "bytes": 9510,
+      "sha256": "73fcbeb5d900ceaf66de6642d0750ff03fd59142083f96d38fde06d3c8f2ad22"
+    }
+  ]
+}

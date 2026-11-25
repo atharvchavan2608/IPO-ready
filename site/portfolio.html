@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>IPO-Ready · Portfolio lab</title>
+<meta name="description" content="Compare illustrative allocations, risk mix and exit assumptions with and without an unlisted holding.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 viewBox=%270 0 32 32%27%3E%3Crect width=%2732%27 height=%2732%27 rx=%276%27 fill=%27%2313203b%27/%3E%3Cpath d=%27M7 22l6-7 5 4 7-9%27 stroke=%27%23d97a14%27 stroke-width=%273%27 fill=%27none%27/%3E%3C/svg%3E">
+<link rel="stylesheet" href="assets/app.css">
+</head>
+<body data-page="portfolio">
+<div class="ticker" id="ticker" aria-label="Market ticker"><div class="ticker-inner"><span class="tick">Loading market data…</span></div></div>
+<header class="site">
+  <div class="site-inner">
+    <a class="brand" href="index.html"><span class="mark">IPO<span>·</span>Ready</span><span class="tag">Unlisted research desk</span></a>
+    <nav class="main" aria-label="Pages">
+      <a href="index.html"><span class="pg">1</span>Company</a>
+      <a href="compare.html"><span class="pg">2</span>Compare &amp; screen</a>
+      <a href="portfolio.html" aria-current="page"><span class="pg">3</span>Portfolio lab</a>
+    </nav>
+    <div class="build-stamp" id="build-stamp"></div>
+  </div>
+</header>
+
+<main class="page single portfolio-page">
+  <div class="col-main">
+    <header class="portfolio-heading">
+      <h1 class="co-name">Portfolio risk &amp; diversification lab</h1>
+      <p>Test how an unlisted holding changes your allocation, modeled losses and liquidity.</p>
+    </header>
+    <div id="portfolio-status" role="status" class="small muted">Loading portfolio inputs…</div>
+    <section class="card portfolio-scenario" id="portfolio-scenario" aria-labelledby="portfolio-scenario-title" hidden>
+      <div class="portfolio-scenario-head">
+        <h2 id="portfolio-scenario-title">Allocation scenario</h2>
+        <a id="portfolio-scenario-json" href="/api/portfolio/allocate" hidden>Open scenario JSON</a>
+      </div>
+      <form id="portfolio-controls" class="portfolio-controls">
+        <label for="portfolio-amount">Amount (₹)
+          <input id="portfolio-amount" name="amount" type="text" inputmode="decimal" value="500000" aria-describedby="portfolio-amount-help">
+        </label>
+        <label for="portfolio-tolerance">Risk tolerance
+          <select id="portfolio-tolerance" name="tolerance">
+            <option value="conservative">Conservative</option>
+            <option value="balanced" selected>Balanced</option>
+            <option value="growth">Growth</option>
+          </select>
+        </label>
+        <label for="portfolio-company">Unlisted company
+          <select id="portfolio-company" name="company"></select>
+        </label>
+        <label class="portfolio-include" for="portfolio-include"><input id="portfolio-include" name="include_unlisted" type="checkbox" checked> Include unlisted holding</label>
+        <button class="btn" type="submit">Calculate allocation</button>
+      </form>
+      <p id="portfolio-amount-help" class="small muted portfolio-amount-help">₹1 to ₹10 crore. Use up to two decimal places and no commas.</p>
+      <p id="portfolio-scenario-message" role="status" hidden></p>
+      <div id="portfolio-scenario-result"></div>
+    </section>
+    <section class="card portfolio-unlisted" id="portfolio-unlisted" aria-labelledby="portfolio-unlisted-title" hidden>
+      <h2 id="portfolio-unlisted-title">Unlisted holding evidence</h2>
+      <div id="portfolio-company-detail" aria-live="polite"></div>
+    </section>
+    <section id="portfolio-instruments" class="portfolio-instruments" aria-label="Portfolio instruments"></section>
+    <details class="card portfolio-method" id="portfolio-method" hidden>
+      <summary>How the risk figures are calculated</summary>
+      <div id="portfolio-method-body"></div>
+      <a href="data/current/portfolio.json">Open weekly prices and source records (JSON)</a>
+    </details>
+  </div>
+</main>
+<footer class="site">IPO-Ready prototype. Nothing here is investment advice.</footer>
+<script src="assets/core.js"></script>
+<script src="assets/portfolio.js"></script>
+</body>
+</html>

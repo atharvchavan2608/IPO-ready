@@ -1,0 +1,5139 @@
+{
+ "id": "axlesindia",
+ "name": "Axles India Ltd",
+ "short": "Axles India",
+ "hierarchy": [
+  "Industrials",
+  "Automotive Components",
+  "Driveline",
+  "Commercial Vehicle Axles"
+ ],
+ "model": "manufacturer",
+ "listed_peers": [
+  "AUTOAXLES",
+  "GNA"
+ ],
+ "status_note": null,
+ "market_status": null,
+ "quote": {
+  "price_inr": "525.00",
+  "state": "reported",
+  "change_raw": "+ 0.00 %",
+  "kind": "unlisted dealer quote (indicative, not an exchange trade)",
+  "as_of": "2026-11-23T17:58:44+00:00",
+  "high_52w": "600.00 (31/12/25)",
+  "low_52w": "430.00 (28/03/26)",
+  "ev": "ev1"
+ },
+ "profile": {
+  "provider_sector": "Auto Ancillaries",
+  "isin": "INE701C01011",
+  "cin": "U27209TN1981PLC008630",
+  "registration_date": "18/02/1981",
+  "face_value": "10",
+  "lot_size": "100",
+  "drhp_filed": "No",
+  "depository": "nsdl",
+  "rofr": "No",
+  "description": null,
+  "share_details_as_of": "March 31, 2026",
+  "ev": "ev2"
+ },
+ "periods": [
+  "FY2025",
+  "FY2026"
+ ],
+ "basis": "standalone",
+ "raw_units": [
+  "INR crore"
+ ],
+ "layout": "detailed statements",
+ "fields": {
+  "total_income": {
+   "label": "Total income",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": "846.78",
+     "state": "reported",
+     "ev": "ev3"
+    },
+    "FY2026": {
+     "value": "887.85",
+     "state": "reported",
+     "ev": "ev4"
+    }
+   }
+  },
+  "revenue_ops": {
+   "label": "Revenue from operations",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": "841.54",
+     "state": "reported",
+     "ev": "ev5"
+    },
+    "FY2026": {
+     "value": "871.19",
+     "state": "reported",
+     "ev": "ev6"
+    }
+   }
+  },
+  "other_income": {
+   "label": "Other income",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": "2.11",
+     "state": "reported",
+     "ev": "ev7"
+    },
+    "FY2026": {
+     "value": "2.27",
+     "state": "reported",
+     "ev": "ev8"
+    }
+   }
+  },
+  "other_gains": {
+   "label": "Other gains / losses",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": "3.13",
+     "state": "reported",
+     "ev": "ev9"
+    },
+    "FY2026": {
+     "value": "14.39",
+     "state": "reported",
+     "ev": "ev10"
+    }
+   }
+  },
+  "job_work_revenue": {
+   "label": "Revenue from job work",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "total_expenses": {
+   "label": "Total expenses",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": "753.63",
+     "state": "reported",
+     "ev": "ev11"
+    },
+    "FY2026": {
+     "value": "791.27",
+     "state": "reported",
+     "ev": "ev12"
+    }
+   }
+  },
+  "finance_cost": {
+   "label": "Finance cost",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": "0.87",
+     "state": "reported",
+     "ev": "ev13"
+    },
+    "FY2026": {
+     "value": "1",
+     "state": "reported",
+     "ev": "ev14"
+    }
+   }
+  },
+  "depreciation": {
+   "label": "Depreciation",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": "11.54",
+     "state": "reported",
+     "ev": "ev15"
+    },
+    "FY2026": {
+     "value": "13.12",
+     "state": "reported",
+     "ev": "ev16"
+    }
+   }
+  },
+  "pbt": {
+   "label": "Profit before tax",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": "93.15",
+     "state": "reported",
+     "ev": "ev17"
+    },
+    "FY2026": {
+     "value": "96.58",
+     "state": "reported",
+     "ev": "ev18"
+    }
+   }
+  },
+  "tax": {
+   "label": "Tax",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "pat": {
+   "label": "Profit after tax",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": "68.7",
+     "state": "reported",
+     "ev": "ev19"
+    },
+    "FY2026": {
+     "value": "73.24",
+     "state": "reported",
+     "ev": "ev20"
+    }
+   }
+  },
+  "total_assets": {
+   "label": "Total assets",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": "518.76",
+     "state": "reported",
+     "ev": "ev21"
+    },
+    "FY2026": {
+     "value": "543.03",
+     "state": "reported",
+     "ev": "ev22"
+    }
+   }
+  },
+  "total_equity": {
+   "label": "Total equity",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": "307.61",
+     "state": "derived",
+     "ev": "ev23"
+    },
+    "FY2026": {
+     "value": "369.49",
+     "state": "derived",
+     "ev": "ev24"
+    }
+   }
+  },
+  "total_liabilities": {
+   "label": "Total liabilities",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "current_assets": {
+   "label": "Current assets",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": "411.70",
+     "state": "derived",
+     "ev": "ev25"
+    },
+    "FY2026": {
+     "value": "440.93",
+     "state": "derived",
+     "ev": "ev26"
+    }
+   }
+  },
+  "current_liabilities": {
+   "label": "Current liabilities",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": "73.43",
+     "state": "derived",
+     "ev": "ev27"
+    },
+    "FY2026": {
+     "value": "40.53",
+     "state": "derived",
+     "ev": "ev28"
+    }
+   }
+  },
+  "inventories": {
+   "label": "Inventories",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": "178.54",
+     "state": "reported",
+     "ev": "ev29"
+    },
+    "FY2026": {
+     "value": "151.25",
+     "state": "reported",
+     "ev": "ev30"
+    }
+   }
+  },
+  "cash": {
+   "label": "Cash & equivalents",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": "29.49",
+     "state": "reported",
+     "ev": "ev31"
+    },
+    "FY2026": {
+     "value": "76.06",
+     "state": "reported",
+     "ev": "ev32"
+    }
+   }
+  },
+  "loans": {
+   "label": "Loans",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": "0.63",
+     "state": "reported",
+     "ev": "ev33"
+    },
+    "FY2026": {
+     "value": "0.58",
+     "state": "reported",
+     "ev": "ev34"
+    }
+   }
+  },
+  "cfo": {
+   "label": "Cash from operations",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": "118.04",
+     "state": "reported",
+     "ev": "ev35"
+    },
+    "FY2026": {
+     "value": "98.81",
+     "state": "reported",
+     "ev": "ev36"
+    }
+   }
+  },
+  "cfi": {
+   "label": "Cash from investing",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": "-29.84",
+     "state": "reported",
+     "ev": "ev37"
+    },
+    "FY2026": {
+     "value": "-1.49",
+     "state": "reported",
+     "ev": "ev38"
+    }
+   }
+  },
+  "cff": {
+   "label": "Cash from financing",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": "-68.99",
+     "state": "reported",
+     "ev": "ev39"
+    },
+    "FY2026": {
+     "value": "-50.75",
+     "state": "reported",
+     "ev": "ev40"
+    }
+   }
+  },
+  "ebitda": {
+   "label": "EBITDA",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "eps": {
+   "label": "EPS (provider)",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "shares_outstanding": {
+   "label": "Shares outstanding",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "pat_pre_associate": {
+   "label": "Profit after tax before associate contribution",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "pat_owners": {
+   "label": "Profit attributable to owners",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "associate_profit": {
+   "label": "Share of associate profit",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "eps_basic": {
+   "label": "Reported basic EPS",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "eps_diluted": {
+   "label": "Reported diluted EPS",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "gross_profit": {
+   "label": "Gross profit",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "operating_profit": {
+   "label": "Operating profit",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "cost_of_sales": {
+   "label": "Cost of sales",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "trade_receivables": {
+   "label": "Trade receivables",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": "190.7",
+     "state": "reported",
+     "ev": "ev41"
+    },
+    "FY2026": {
+     "value": "198.8",
+     "state": "reported",
+     "ev": "ev42"
+    }
+   }
+  },
+  "trade_payables": {
+   "label": "Trade payables",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "fixed_assets": {
+   "label": "Fixed assets",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": "57.84",
+     "state": "reported",
+     "ev": "ev43"
+    },
+    "FY2026": {
+     "value": "93.1",
+     "state": "reported",
+     "ev": "ev44"
+    }
+   }
+  },
+  "borrowings": {
+   "label": "Borrowings",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "dividend_per_share": {
+   "label": "Dividend per share",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "gross_npa": {
+   "label": "Gross NPA",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "net_npa": {
+   "label": "Net NPA",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "nim": {
+   "label": "Net interest margin",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "provision_coverage": {
+   "label": "Provision coverage",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "capital_adequacy": {
+   "label": "Capital adequacy",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "claims_ratio": {
+   "label": "Incurred claims ratio",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "combined_ratio": {
+   "label": "Combined ratio",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "solvency_ratio": {
+   "label": "Solvency ratio",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  }
+ },
+ "cash_flow": {
+  "unit": "INR crore",
+  "by_period": {
+   "FY2025": {
+    "basis": "standalone",
+    "origin": "provider",
+    "provider_name": "WWIPL",
+    "lines": {
+     "opening": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "cfo": {
+      "value": "118.04",
+      "state": "reported",
+      "ev": "ev35"
+     },
+     "cfi": {
+      "value": "-29.84",
+      "state": "reported",
+      "ev": "ev37"
+     },
+     "cff": {
+      "value": "-68.99",
+      "state": "reported",
+      "ev": "ev39"
+     },
+     "other_effects": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "net_change": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "closing": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "before_working_capital": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "receivables": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "other_assets": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "payables_and_liabilities": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "tax_paid": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "capex": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "net_investment_purchases": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "debt_principal": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "lease_principal": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "lease_interest": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "overdraft_interest": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "share_proceeds": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "dividends": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "current_accounts": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "settlement_accounts": {
+      "state": "not_in_source",
+      "value": null
+     }
+    },
+    "reconciliation": {
+     "state": "partial"
+    },
+    "provider_comparison": null
+   },
+   "FY2026": {
+    "basis": "standalone",
+    "origin": "provider",
+    "provider_name": "WWIPL",
+    "lines": {
+     "opening": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "cfo": {
+      "value": "98.81",
+      "state": "reported",
+      "ev": "ev36"
+     },
+     "cfi": {
+      "value": "-1.49",
+      "state": "reported",
+      "ev": "ev38"
+     },
+     "cff": {
+      "value": "-50.75",
+      "state": "reported",
+      "ev": "ev40"
+     },
+     "other_effects": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "net_change": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "closing": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "before_working_capital": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "receivables": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "other_assets": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "payables_and_liabilities": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "tax_paid": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "capex": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "net_investment_purchases": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "debt_principal": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "lease_principal": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "lease_interest": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "overdraft_interest": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "share_proceeds": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "dividends": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "current_accounts": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "settlement_accounts": {
+      "state": "not_in_source",
+      "value": null
+     }
+    },
+    "reconciliation": {
+     "state": "partial"
+    },
+    "provider_comparison": null
+   }
+  }
+ },
+ "documents": [],
+ "reconciliation": null,
+ "agent": {
+  "inventories": {
+   "company": "axlesindia",
+   "field": "inventories",
+   "status": "found_in_provider",
+   "summary": "Inventories reported by the provider for FY2025, FY2026.",
+   "how_to_verify": "Open the provider row from the evidence drawer; reconcile with the issuer's annual report before relying on it.",
+   "expectation": {
+    "level": "expected",
+    "reason": "Manufacturers carry raw material, work-in-progress and finished goods."
+   },
+   "evidence": [],
+   "evidence_total": 0,
+   "next_checks": [
+    "Audited annual report: balance sheet 'Inventories' line and note on valuation"
+   ],
+   "trace": [
+    {
+     "step": 1,
+     "tool": "provider_lookup",
+     "input": {
+      "company": "axlesindia",
+      "field": "inventories"
+     },
+     "output": {
+      "found": true,
+      "periods": [
+       "FY2025",
+       "FY2026"
+      ],
+      "detail": "line present in provider statements"
+     },
+     "ms": 0.1
+    },
+    {
+     "step": 2,
+     "tool": "applicability_rule",
+     "input": {
+      "field": "inventories",
+      "business_model": "manufacturer"
+     },
+     "output": {
+      "expectation": "expected",
+      "reason": "Manufacturers carry raw material, work-in-progress and finished goods."
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 3,
+     "tool": "statement_line_check",
+     "input": {
+      "document": null
+     },
+     "output": {
+      "skipped": true,
+      "why": "no retained issuer balance sheet for this company"
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 4,
+     "tool": "document_search",
+     "input": {
+      "documents": [],
+      "patterns": [
+       "\\binventor(?:y|ies)\\b"
+      ]
+     },
+     "output": {
+      "documents_searched": [],
+      "pages_with_word_matches": 0,
+      "pages_with_naive_substring": 0,
+      "note": "naive substring 'inventor' also matches unrelated words (e.g. 'COMPANY' contains 'NPA'); word-boundary patterns used"
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 5,
+     "tool": "classify_passages",
+     "input": {
+      "passages": 0
+     },
+     "output": {
+      "by_kind": {}
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 6,
+     "tool": "verdict",
+     "input": {
+      "signals": {
+       "provider": true,
+       "numeric": 0,
+       "explicit_na": 0,
+       "line_check": null,
+       "expectation": "expected"
+      }
+     },
+     "output": {
+      "status": "found_in_provider",
+      "summary": "Inventories reported by the provider for FY2025, FY2026.",
+      "how_to_verify": "Open the provider row from the evidence drawer; reconcile with the issuer's annual report before relying on it."
+     },
+     "ms": 0.0
+    }
+   ],
+   "executed": "deterministic tool sequence (no language model call)"
+  },
+  "npa": {
+   "company": "axlesindia",
+   "field": "npa",
+   "status": "inapplicable",
+   "summary": "Not applicable by business model: NPA is a lender asset-quality measure; this business has no loan book to classify.",
+   "how_to_verify": "No mentions to review; the business-model rule decides.",
+   "expectation": {
+    "level": "not_applicable",
+    "reason": "NPA is a lender asset-quality measure; this business has no loan book to classify."
+   },
+   "evidence": [],
+   "evidence_total": 0,
+   "next_checks": [
+    "Annual report notes: 'Stage 3 assets', 'Gross NPA', 'Net NPA' (RBI disclosure for NBFCs)"
+   ],
+   "trace": [
+    {
+     "step": 1,
+     "tool": "provider_lookup",
+     "input": {
+      "company": "axlesindia",
+      "field": "gross_npa"
+     },
+     "output": {
+      "found": false,
+      "periods": [],
+      "detail": "no matching line in the provider's parsed statements"
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 2,
+     "tool": "applicability_rule",
+     "input": {
+      "field": "npa",
+      "business_model": "manufacturer"
+     },
+     "output": {
+      "expectation": "not_applicable",
+      "reason": "NPA is a lender asset-quality measure; this business has no loan book to classify."
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 3,
+     "tool": "statement_line_check",
+     "input": {
+      "document": null
+     },
+     "output": {
+      "skipped": true,
+      "why": "no retained issuer balance sheet for this company"
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 4,
+     "tool": "document_search",
+     "input": {
+      "documents": [],
+      "patterns": [
+       "\\bG?N?NPAs?\\b",
+       "\\bnon[- ]performing (?:assets?|loans?)\\b",
+       "\\bstage\\s*(?:3|III)\\s+(?:assets|loans)\\b"
+      ]
+     },
+     "output": {
+      "documents_searched": [],
+      "pages_with_word_matches": 0,
+      "pages_with_naive_substring": 0,
+      "note": "naive substring 'npa' also matches unrelated words (e.g. 'COMPANY' contains 'NPA'); word-boundary patterns used"
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 5,
+     "tool": "classify_passages",
+     "input": {
+      "passages": 0
+     },
+     "output": {
+      "by_kind": {}
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 6,
+     "tool": "verdict",
+     "input": {
+      "signals": {
+       "provider": false,
+       "numeric": 0,
+       "explicit_na": 0,
+       "line_check": null,
+       "expectation": "not_applicable"
+      }
+     },
+     "output": {
+      "status": "inapplicable",
+      "summary": "Not applicable by business model: NPA is a lender asset-quality measure; this business has no loan book to classify.",
+      "how_to_verify": "No mentions to review; the business-model rule decides."
+     },
+     "ms": 0.0
+    }
+   ],
+   "executed": "deterministic tool sequence (no language model call)"
+  }
+ },
+ "metrics": {
+  "FY2025": {
+   "revenue_growth": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "(current / previous) - 1",
+    "inputs": {
+     "current": "841.54",
+     "previous": null
+    },
+    "unit": "%",
+    "ev": [
+     "ev5"
+    ]
+   },
+   "pat_margin": {
+    "value": "8.1131",
+    "state": "ok",
+    "formula": "PAT / total income x 100",
+    "inputs": {
+     "pat": "68.7",
+     "total_income": "846.78"
+    },
+    "unit": "%",
+    "ev": [
+     "ev19",
+     "ev3"
+    ]
+   },
+   "net_profit_ratio": {
+    "value": "8.1636",
+    "state": "ok",
+    "formula": "PAT / revenue from operations x 100",
+    "inputs": {
+     "pat": "68.7",
+     "revenue_ops": "841.54"
+    },
+    "unit": "%",
+    "ev": [
+     "ev19",
+     "ev5"
+    ]
+   },
+   "other_income_share": {
+    "value": "0.2492",
+    "state": "ok",
+    "formula": "other income / total income x 100",
+    "inputs": {
+     "other_income": "2.11",
+     "total_income": "846.78"
+    },
+    "unit": "%",
+    "ev": [
+     "ev7",
+     "ev3"
+    ]
+   },
+   "current_ratio": {
+    "value": "5.6067",
+    "state": "ok",
+    "formula": "current assets / current liabilities",
+    "inputs": {
+     "current_assets": "411.70",
+     "current_liabilities": "73.43"
+    },
+    "unit": "x",
+    "ev": [
+     "ev25",
+     "ev27"
+    ]
+   },
+   "quick_ratio": {
+    "value": "3.1753",
+    "state": "ok",
+    "formula": "(current assets - inventories) / current liabilities",
+    "inputs": {
+     "current_assets": "411.70",
+     "inventories": "178.54",
+     "current_liabilities": "73.43"
+    },
+    "unit": "x",
+    "ev": [
+     "ev25",
+     "ev27",
+     "ev29"
+    ]
+   },
+   "roe": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "PAT / average of opening and closing equity x 100",
+    "inputs": {
+     "pat": "68.7",
+     "average_equity": null
+    },
+    "unit": "%",
+    "ev": [
+     "ev19",
+     "ev23"
+    ]
+   },
+   "roce": {
+    "value": "21.1124",
+    "state": "ok",
+    "formula": "(PBT + finance cost) / (total assets - current liabilities) x 100",
+    "inputs": {
+     "ebit": "94.02",
+     "capital_employed": "445.33"
+    },
+    "unit": "%",
+    "ev": [
+     "ev17",
+     "ev13",
+     "ev21",
+     "ev27"
+    ]
+   },
+   "cfo_to_pat": {
+    "value": "1.7182",
+    "state": "ok",
+    "formula": "cash from operations / PAT",
+    "inputs": {
+     "cfo": "118.04",
+     "pat": "68.7"
+    },
+    "unit": "x",
+    "ev": [
+     "ev35",
+     "ev19"
+    ]
+   }
+  },
+  "FY2026": {
+   "revenue_growth": {
+    "value": "3.5233",
+    "state": "ok",
+    "formula": "(current / previous) - 1",
+    "inputs": {
+     "current": "871.19",
+     "previous": "841.54"
+    },
+    "unit": "%",
+    "ev": [
+     "ev6",
+     "ev5"
+    ]
+   },
+   "pat_margin": {
+    "value": "8.2491",
+    "state": "ok",
+    "formula": "PAT / total income x 100",
+    "inputs": {
+     "pat": "73.24",
+     "total_income": "887.85"
+    },
+    "unit": "%",
+    "ev": [
+     "ev20",
+     "ev4"
+    ]
+   },
+   "net_profit_ratio": {
+    "value": "8.4069",
+    "state": "ok",
+    "formula": "PAT / revenue from operations x 100",
+    "inputs": {
+     "pat": "73.24",
+     "revenue_ops": "871.19"
+    },
+    "unit": "%",
+    "ev": [
+     "ev20",
+     "ev6"
+    ]
+   },
+   "other_income_share": {
+    "value": "0.2557",
+    "state": "ok",
+    "formula": "other income / total income x 100",
+    "inputs": {
+     "other_income": "2.27",
+     "total_income": "887.85"
+    },
+    "unit": "%",
+    "ev": [
+     "ev8",
+     "ev4"
+    ]
+   },
+   "current_ratio": {
+    "value": "10.8791",
+    "state": "ok",
+    "formula": "current assets / current liabilities",
+    "inputs": {
+     "current_assets": "440.93",
+     "current_liabilities": "40.53"
+    },
+    "unit": "x",
+    "ev": [
+     "ev26",
+     "ev28"
+    ]
+   },
+   "quick_ratio": {
+    "value": "7.1473",
+    "state": "ok",
+    "formula": "(current assets - inventories) / current liabilities",
+    "inputs": {
+     "current_assets": "440.93",
+     "inventories": "151.25",
+     "current_liabilities": "40.53"
+    },
+    "unit": "x",
+    "ev": [
+     "ev26",
+     "ev28",
+     "ev30"
+    ]
+   },
+   "roe": {
+    "value": "21.6334",
+    "state": "ok",
+    "formula": "PAT / average of opening and closing equity x 100",
+    "inputs": {
+     "pat": "73.24",
+     "average_equity": "338.55"
+    },
+    "unit": "%",
+    "ev": [
+     "ev20",
+     "ev24",
+     "ev23"
+    ]
+   },
+   "roce": {
+    "value": "19.4189",
+    "state": "ok",
+    "formula": "(PBT + finance cost) / (total assets - current liabilities) x 100",
+    "inputs": {
+     "ebit": "97.58",
+     "capital_employed": "502.50"
+    },
+    "unit": "%",
+    "ev": [
+     "ev18",
+     "ev14",
+     "ev22",
+     "ev28"
+    ]
+   },
+   "cfo_to_pat": {
+    "value": "1.3491",
+    "state": "ok",
+    "formula": "cash from operations / PAT",
+    "inputs": {
+     "cfo": "98.81",
+     "pat": "73.24"
+    },
+    "unit": "x",
+    "ev": [
+     "ev36",
+     "ev20"
+    ]
+   }
+  }
+ },
+ "valuation": {
+  "period": "FY2026",
+  "shares_used": "25490646",
+  "shares_source": "shares_details",
+  "market_cap": {
+   "value": "1338.2589",
+   "state": "ok",
+   "formula": "price (INR) x shares outstanding / 1e7",
+   "inputs": {
+    "price_inr": "525.00",
+    "shares": "25490646"
+   },
+   "unit": "INR crore"
+  },
+  "eps": {
+   "value": "28.7321",
+   "state": "ok",
+   "formula": "PAT (INR crore) x 1e7 / shares outstanding",
+   "inputs": {
+    "pat_cr": "73.24",
+    "shares": "25490646"
+   },
+   "unit": "INR"
+  },
+  "eps_reported_basic": null,
+  "eps_reported_diluted": null,
+  "pe": {
+   "value": "18.2722",
+   "state": "ok",
+   "formula": "price / EPS",
+   "inputs": {
+    "price_inr": "525.00",
+    "eps": "28.73210824080331271322037111"
+   },
+   "unit": "x",
+   "eps_basis": "pat_share_proxy",
+   "basis": "standalone",
+   "ev": [
+    "ev20",
+    "ev1"
+   ],
+   "note": "Uses a calculated proxy of annual PAT divided by shares outstanding."
+  },
+  "pe_reported": {
+   "value": null,
+   "state": "missing_input",
+   "formula": "price / EPS",
+   "inputs": {
+    "price_inr": "525.00",
+    "eps": null
+   },
+   "unit": "x",
+   "eps_basis": "reported_basic",
+   "basis": "standalone",
+   "ev": [
+    "ev1"
+   ]
+  },
+  "pe_proxy": {
+   "value": "18.2722",
+   "state": "ok",
+   "formula": "price / EPS",
+   "inputs": {
+    "price_inr": "525.00",
+    "eps": "28.73210824080331271322037111"
+   },
+   "unit": "x",
+   "eps_basis": "pat_share_proxy",
+   "basis": "standalone",
+   "ev": [
+    "ev20",
+    "ev1"
+   ]
+  },
+  "pb": {
+   "value": "3.6219",
+   "state": "ok",
+   "formula": "market cap / total equity",
+   "inputs": {
+    "market_cap": "1338.258915",
+    "total_equity": "369.49"
+   },
+   "unit": "x"
+  },
+  "ps": {
+   "value": "1.5361",
+   "state": "ok",
+   "formula": "market cap / operating revenue",
+   "inputs": {
+    "market_cap": "1338.258915",
+    "operating_revenue": "871.19"
+   },
+   "unit": "x"
+  },
+  "provider": {
+   "pe": "18.27",
+   "mcap": "1,338.26 Crore",
+   "eps": "28.73"
+  },
+  "note": "Valued at an indicative unlisted dealer quote against the latest fiscal-year PAT; not a traded market price."
+ },
+ "coverage_gaps": [
+  {
+   "field": "eps",
+   "state": "not_in_source",
+   "label": "EPS (provider)"
+  },
+  {
+   "field": "shares_outstanding",
+   "state": "not_in_source",
+   "label": "Shares outstanding"
+  }
+ ],
+ "checks": [
+  {
+   "check": "income_identity",
+   "period": "FY2025",
+   "result": "pass",
+   "detail": "total income 846.78 - (operations 841.54 + other 2.11 + separate income lines 3.13) = 0.00"
+  },
+  {
+   "check": "income_identity",
+   "period": "FY2026",
+   "result": "pass",
+   "detail": "total income 887.85 - (operations 871.19 + other 2.27 + separate income lines 14.39) = 0.00"
+  }
+ ],
+ "provider_ratios": {
+  "Current ratio": {
+   "FY2026": {
+    "raw_text": "2.79",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "2.15",
+    "state": "reported"
+   }
+  },
+  "Debt equity ratio": {
+   "FY2026": {
+    "raw_text": "0.03",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "0.16",
+    "state": "reported"
+   }
+  },
+  "Debt service coverage ratio": {
+   "FY2026": {
+    "raw_text": "9.98",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "1.58",
+    "state": "reported"
+   }
+  },
+  "Return on equity ratio": {
+   "FY2026": {
+    "raw_text": "22%",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "24%",
+    "state": "reported"
+   }
+  },
+  "Inventory turnover ratio": {
+   "FY2026": {
+    "raw_text": "3.17",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "4.71",
+    "state": "reported"
+   }
+  },
+  "Trade receivables ratio": {
+   "FY2026": {
+    "raw_text": "4.47",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "4.41",
+    "state": "reported"
+   }
+  },
+  "Trade payables turnover ratio": {
+   "FY2026": {
+    "raw_text": "4.20",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "3.93",
+    "state": "reported"
+   }
+  },
+  "Net capital turnover ratio": {
+   "FY2026": {
+    "raw_text": "3.08",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "3.82",
+    "state": "reported"
+   }
+  },
+  "Net profit ratio": {
+   "FY2026": {
+    "raw_text": "8%",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "8%",
+    "state": "reported"
+   }
+  },
+  "Return on capital employed": {
+   "FY2026": {
+    "raw_text": "26%",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "26%",
+    "state": "reported"
+   }
+  },
+  "Return on Investments": {
+   "FY2026": {
+    "raw_text": "18%",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "18%",
+    "state": "reported"
+   }
+  }
+ },
+ "evidence": {
+  "ev1": {
+   "source": "WWIPL company overview",
+   "url": "https://wwipl.com/unlisted-shares/axles-india-unlisted-share-price",
+   "retrieved_at": "2026-11-23T17:58:44+00:00",
+   "sha256": "c81467c6fa78421882dabd5c4411a55d831d51710a177e3ea79bcd781114c9ee",
+   "capture_run": "20261123T175837Z",
+   "file": "axlesindia-overview.html",
+   "raw_label": "Last Traded Price",
+   "raw_text": "525.00"
+  },
+  "ev2": {
+   "source": "WWIPL company overview",
+   "url": "https://wwipl.com/unlisted-shares/axles-india-unlisted-share-price",
+   "retrieved_at": "2026-11-23T17:58:44+00:00",
+   "sha256": "c81467c6fa78421882dabd5c4411a55d831d51710a177e3ea79bcd781114c9ee",
+   "capture_run": "20261123T175837Z",
+   "file": "axlesindia-overview.html",
+   "raw_label": "Company fundamentals block"
+  },
+  "ev3": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/axles-india-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:46+00:00",
+   "sha256": "c15b319c08dc800a8192469b611104ee04f1ae680def85cf777ee1ad6568135d",
+   "capture_run": "20261123T175837Z",
+   "file": "axlesindia-financial.html",
+   "raw_label": "Total Income",
+   "raw_text": "846.78",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "31-03-2025",
+   "basis": "standalone",
+   "anchor": {
+    "file": "axlesindia-financial.html",
+    "table_index": 2,
+    "row_index": 5,
+    "heading": "Axles India Limited Standalone Profit & Loss Statement (Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev4": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/axles-india-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:46+00:00",
+   "sha256": "c15b319c08dc800a8192469b611104ee04f1ae680def85cf777ee1ad6568135d",
+   "capture_run": "20261123T175837Z",
+   "file": "axlesindia-financial.html",
+   "raw_label": "Total Income",
+   "raw_text": "887.85",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "31-03-2026",
+   "basis": "standalone",
+   "anchor": {
+    "file": "axlesindia-financial.html",
+    "table_index": 2,
+    "row_index": 5,
+    "heading": "Axles India Limited Standalone Profit & Loss Statement (Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev5": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/axles-india-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:46+00:00",
+   "sha256": "c15b319c08dc800a8192469b611104ee04f1ae680def85cf777ee1ad6568135d",
+   "capture_run": "20261123T175837Z",
+   "file": "axlesindia-financial.html",
+   "raw_label": "Revenue from Operations",
+   "raw_text": "841.54",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "31-03-2025",
+   "basis": "standalone",
+   "anchor": {
+    "file": "axlesindia-financial.html",
+    "table_index": 2,
+    "row_index": 2,
+    "heading": "Axles India Limited Standalone Profit & Loss Statement (Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev6": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/axles-india-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:46+00:00",
+   "sha256": "c15b319c08dc800a8192469b611104ee04f1ae680def85cf777ee1ad6568135d",
+   "capture_run": "20261123T175837Z",
+   "file": "axlesindia-financial.html",
+   "raw_label": "Revenue from Operations",
+   "raw_text": "871.19",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "31-03-2026",
+   "basis": "standalone",
+   "anchor": {
+    "file": "axlesindia-financial.html",
+    "table_index": 2,
+    "row_index": 2,
+    "heading": "Axles India Limited Standalone Profit & Loss Statement (Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev7": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/axles-india-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:46+00:00",
+   "sha256": "c15b319c08dc800a8192469b611104ee04f1ae680def85cf777ee1ad6568135d",
+   "capture_run": "20261123T175837Z",
+   "file": "axlesindia-financial.html",
+   "raw_label": "Other Income",
+   "raw_text": "2.11",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "31-03-2025",
+   "basis": "standalone",
+   "anchor": {
+    "file": "axlesindia-financial.html",
+    "table_index": 2,
+    "row_index": 3,
+    "heading": "Axles India Limited Standalone Profit & Loss Statement (Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev8": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/axles-india-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:46+00:00",
+   "sha256": "c15b319c08dc800a8192469b611104ee04f1ae680def85cf777ee1ad6568135d",
+   "capture_run": "20261123T175837Z",
+   "file": "axlesindia-financial.html",
+   "raw_label": "Other Income",
+   "raw_text": "2.27",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "31-03-2026",
+   "basis": "standalone",
+   "anchor": {
+    "file": "axlesindia-financial.html",
+    "table_index": 2,
+    "row_index": 3,
+    "heading": "Axles India Limited Standalone Profit & Loss Statement (Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev9": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/axles-india-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:46+00:00",
+   "sha256": "c15b319c08dc800a8192469b611104ee04f1ae680def85cf777ee1ad6568135d",
+   "capture_run": "20261123T175837Z",
+   "file": "axlesindia-financial.html",
+   "raw_label": "Other gains/(losses)",
+   "raw_text": "3.13",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "31-03-2025",
+   "basis": "standalone",
+   "anchor": {
+    "file": "axlesindia-financial.html",
+    "table_index": 2,
+    "row_index": 4,
+    "heading": "Axles India Limited Standalone Profit & Loss Statement (Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev10": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/axles-india-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:46+00:00",
+   "sha256": "c15b319c08dc800a8192469b611104ee04f1ae680def85cf777ee1ad6568135d",
+   "capture_run": "20261123T175837Z",
+   "file": "axlesindia-financial.html",
+   "raw_label": "Other gains/(losses)",
+   "raw_text": "14.39",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "31-03-2026",
+   "basis": "standalone",
+   "anchor": {
+    "file": "axlesindia-financial.html",
+    "table_index": 2,
+    "row_index": 4,
+    "heading": "Axles India Limited Standalone Profit & Loss Statement (Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev11": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/axles-india-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:46+00:00",
+   "sha256": "c15b319c08dc800a8192469b611104ee04f1ae680def85cf777ee1ad6568135d",
+   "capture_run": "20261123T175837Z",
+   "file": "axlesindia-financial.html",
+   "raw_label": "Total Expenses",
+   "raw_text": "753.63",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "31-03-2025",
+   "basis": "standalone",
+   "anchor": {
+    "file": "axlesindia-financial.html",
+    "table_index": 2,
+    "row_index": 13,
+    "heading": "Axles India Limited Standalone Profit & Loss Statement (Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev12": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/axles-india-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:46+00:00",
+   "sha256": "c15b319c08dc800a8192469b611104ee04f1ae680def85cf777ee1ad6568135d",
+   "capture_run": "20261123T175837Z",
+   "file": "axlesindia-financial.html",
+   "raw_label": "Total Expenses",
+   "raw_text": "791.27",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "31-03-2026",
+   "basis": "standalone",
+   "anchor": {
+    "file": "axlesindia-financial.html",
+    "table_index": 2,
+    "row_index": 13,
+    "heading": "Axles India Limited Standalone Profit & Loss Statement (Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev13": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/axles-india-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:46+00:00",
+   "sha256": "c15b319c08dc800a8192469b611104ee04f1ae680def85cf777ee1ad6568135d",
+   "capture_run": "20261123T175837Z",
+   "file": "axlesindia-financial.html",
+   "raw_label": "Finance costs",
+   "raw_text": "0.87",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "31-03-2025",
+   "basis": "standalone",
+   "anchor": {
+    "file": "axlesindia-financial.html",
+    "table_index": 2,
+    "row_index": 12,
+    "heading": "Axles India Limited Standalone Profit & Loss Statement (Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev14": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/axles-india-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:46+00:00",
+   "sha256": "c15b319c08dc800a8192469b611104ee04f1ae680def85cf777ee1ad6568135d",
+   "capture_run": "20261123T175837Z",
+   "file": "axlesindia-financial.html",
+   "raw_label": "Finance costs",
+   "raw_text": "1.00",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "31-03-2026",
+   "basis": "standalone",
+   "anchor": {
+    "file": "axlesindia-financial.html",
+    "table_index": 2,
+    "row_index": 12,
+    "heading": "Axles India Limited Standalone Profit & Loss Statement (Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev15": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/axles-india-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:46+00:00",
+   "sha256": "c15b319c08dc800a8192469b611104ee04f1ae680def85cf777ee1ad6568135d",
+   "capture_run": "20261123T175837Z",
+   "file": "axlesindia-financial.html",
+   "raw_label": "Depreciation & amortization expense",
+   "raw_text": "11.54",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "31-03-2025",
+   "basis": "standalone",
+   "anchor": {
+    "file": "axlesindia-financial.html",
+    "table_index": 2,
+    "row_index": 10,
+    "heading": "Axles India Limited Standalone Profit & Loss Statement (Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev16": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/axles-india-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:46+00:00",
+   "sha256": "c15b319c08dc800a8192469b611104ee04f1ae680def85cf777ee1ad6568135d",
+   "capture_run": "20261123T175837Z",
+   "file": "axlesindia-financial.html",
+   "raw_label": "Depreciation & amortization expense",
+   "raw_text": "13.12",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "31-03-2026",
+   "basis": "standalone",
+   "anchor": {
+    "file": "axlesindia-financial.html",
+    "table_index": 2,
+    "row_index": 10,
+    "heading": "Axles India Limited Standalone Profit & Loss Statement (Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev17": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/axles-india-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:46+00:00",
+   "sha256": "c15b319c08dc800a8192469b611104ee04f1ae680def85cf777ee1ad6568135d",
+   "capture_run": "20261123T175837Z",
+   "file": "axlesindia-financial.html",
+   "raw_label": "Profit Before Tax",
+   "raw_text": "93.15",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "31-03-2025",
+   "basis": "standalone",
+   "anchor": {
+    "file": "axlesindia-financial.html",
+    "table_index": 2,
+    "row_index": 14,
+    "heading": "Axles India Limited Standalone Profit & Loss Statement (Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev18": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/axles-india-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:46+00:00",
+   "sha256": "c15b319c08dc800a8192469b611104ee04f1ae680def85cf777ee1ad6568135d",
+   "capture_run": "20261123T175837Z",
+   "file": "axlesindia-financial.html",
+   "raw_label": "Profit Before Tax",
+   "raw_text": "96.58",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "31-03-2026",
+   "basis": "standalone",
+   "anchor": {
+    "file": "axlesindia-financial.html",
+    "table_index": 2,
+    "row_index": 14,
+    "heading": "Axles India Limited Standalone Profit & Loss Statement (Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev19": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/axles-india-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:46+00:00",
+   "sha256": "c15b319c08dc800a8192469b611104ee04f1ae680def85cf777ee1ad6568135d",
+   "capture_run": "20261123T175837Z",
+   "file": "axlesindia-financial.html",
+   "raw_label": "Profit/(Loss) for the period",
+   "raw_text": "68.70",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "31-03-2025",
+   "basis": "standalone",
+   "anchor": {
+    "file": "axlesindia-financial.html",
+    "table_index": 2,
+    "row_index": 17,
+    "heading": "Axles India Limited Standalone Profit & Loss Statement (Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev20": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/axles-india-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:46+00:00",
+   "sha256": "c15b319c08dc800a8192469b611104ee04f1ae680def85cf777ee1ad6568135d",
+   "capture_run": "20261123T175837Z",
+   "file": "axlesindia-financial.html",
+   "raw_label": "Profit/(Loss) for the period",
+   "raw_text": "73.24",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "31-03-2026",
+   "basis": "standalone",
+   "anchor": {
+    "file": "axlesindia-financial.html",
+    "table_index": 2,
+    "row_index": 17,
+    "heading": "Axles India Limited Standalone Profit & Loss Statement (Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev21": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/axles-india-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:46+00:00",
+   "sha256": "c15b319c08dc800a8192469b611104ee04f1ae680def85cf777ee1ad6568135d",
+   "capture_run": "20261123T175837Z",
+   "file": "axlesindia-financial.html",
+   "raw_label": "Total Assets",
+   "raw_text": "518.76",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "31-03-2025",
+   "basis": "standalone",
+   "anchor": {
+    "file": "axlesindia-financial.html",
+    "table_index": 1,
+    "row_index": 16,
+    "heading": "Axles India Limited Standalone Balance Sheet (Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev22": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/axles-india-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:46+00:00",
+   "sha256": "c15b319c08dc800a8192469b611104ee04f1ae680def85cf777ee1ad6568135d",
+   "capture_run": "20261123T175837Z",
+   "file": "axlesindia-financial.html",
+   "raw_label": "Total Assets",
+   "raw_text": "543.03",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "31-03-2026",
+   "basis": "standalone",
+   "anchor": {
+    "file": "axlesindia-financial.html",
+    "table_index": 1,
+    "row_index": 16,
+    "heading": "Axles India Limited Standalone Balance Sheet (Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev23": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/axles-india-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:46+00:00",
+   "sha256": "c15b319c08dc800a8192469b611104ee04f1ae680def85cf777ee1ad6568135d",
+   "capture_run": "20261123T175837Z",
+   "file": "axlesindia-financial.html",
+   "raw_label": "Sum of 2 lines under 'equity'",
+   "raw_text": null,
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": null,
+   "basis": "standalone",
+   "anchor": {
+    "file": "axlesindia-financial.html",
+    "table_index": 1,
+    "row_index": 18,
+    "heading": "Axles India Limited Standalone Balance Sheet (Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": true,
+   "components": [
+    {
+     "label": "Equity Share Capital",
+     "value": "25.49"
+    },
+    {
+     "label": "Reserves And Surplus",
+     "value": "282.12"
+    }
+   ]
+  },
+  "ev24": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/axles-india-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:46+00:00",
+   "sha256": "c15b319c08dc800a8192469b611104ee04f1ae680def85cf777ee1ad6568135d",
+   "capture_run": "20261123T175837Z",
+   "file": "axlesindia-financial.html",
+   "raw_label": "Sum of 2 lines under 'equity'",
+   "raw_text": null,
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": null,
+   "basis": "standalone",
+   "anchor": {
+    "file": "axlesindia-financial.html",
+    "table_index": 1,
+    "row_index": 18,
+    "heading": "Axles India Limited Standalone Balance Sheet (Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": true,
+   "components": [
+    {
+     "label": "Equity Share Capital",
+     "value": "25.49"
+    },
+    {
+     "label": "Reserves And Surplus",
+     "value": "344"
+    }
+   ]
+  },
+  "ev25": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/axles-india-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:46+00:00",
+   "sha256": "c15b319c08dc800a8192469b611104ee04f1ae680def85cf777ee1ad6568135d",
+   "capture_run": "20261123T175837Z",
+   "file": "axlesindia-financial.html",
+   "raw_label": "Sum of 6 lines under 'current assets'",
+   "raw_text": null,
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": null,
+   "basis": "standalone",
+   "anchor": {
+    "file": "axlesindia-financial.html",
+    "table_index": 1,
+    "row_index": 10,
+    "heading": "Axles India Limited Standalone Balance Sheet (Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": true,
+   "components": [
+    {
+     "label": "Inventories",
+     "value": "178.54"
+    },
+    {
+     "label": "Trade Receivables",
+     "value": "190.7"
+    },
+    {
+     "label": "Cash And Cash Equivalents",
+     "value": "29.49"
+    },
+    {
+     "label": "Bank Balances Other Than (Ii) Above",
+     "value": "0.28"
+    },
+    {
+     "label": "Loans",
+     "value": "0.63"
+    },
+    {
+     "label": "Other Current Asset",
+     "value": "12.06"
+    }
+   ]
+  },
+  "ev26": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/axles-india-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:46+00:00",
+   "sha256": "c15b319c08dc800a8192469b611104ee04f1ae680def85cf777ee1ad6568135d",
+   "capture_run": "20261123T175837Z",
+   "file": "axlesindia-financial.html",
+   "raw_label": "Sum of 6 lines under 'current assets'",
+   "raw_text": null,
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": null,
+   "basis": "standalone",
+   "anchor": {
+    "file": "axlesindia-financial.html",
+    "table_index": 1,
+    "row_index": 10,
+    "heading": "Axles India Limited Standalone Balance Sheet (Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": true,
+   "components": [
+    {
+     "label": "Inventories",
+     "value": "151.25"
+    },
+    {
+     "label": "Trade Receivables",
+     "value": "198.8"
+    },
+    {
+     "label": "Cash And Cash Equivalents",
+     "value": "76.06"
+    },
+    {
+     "label": "Bank Balances Other Than (Ii) Above",
+     "value": "0.25"
+    },
+    {
+     "label": "Loans",
+     "value": "0.58"
+    },
+    {
+     "label": "Other Current Asset",
+     "value": "13.99"
+    }
+   ]
+  },
+  "ev27": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/axles-india-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:46+00:00",
+   "sha256": "c15b319c08dc800a8192469b611104ee04f1ae680def85cf777ee1ad6568135d",
+   "capture_run": "20261123T175837Z",
+   "file": "axlesindia-financial.html",
+   "raw_label": "Sum of 6 lines under 'current liabilities'",
+   "raw_text": null,
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": null,
+   "basis": "standalone",
+   "anchor": {
+    "file": "axlesindia-financial.html",
+    "table_index": 1,
+    "row_index": 25,
+    "heading": "Axles India Limited Standalone Balance Sheet (Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": true,
+   "components": [
+    {
+     "label": "Borrowings",
+     "value": "41.59"
+    },
+    {
+     "label": "Other Financial Liabilities",
+     "value": "8.41"
+    },
+    {
+     "label": "Provisions",
+     "value": "10.45"
+    },
+    {
+     "label": "Employee Benefit Obligations",
+     "value": "5.69"
+    },
+    {
+     "label": "Current Tax Liabilities (Net",
+     "value": "0.78"
+    },
+    {
+     "label": "Other Current Liabilities",
+     "value": "6.51"
+    }
+   ]
+  },
+  "ev28": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/axles-india-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:46+00:00",
+   "sha256": "c15b319c08dc800a8192469b611104ee04f1ae680def85cf777ee1ad6568135d",
+   "capture_run": "20261123T175837Z",
+   "file": "axlesindia-financial.html",
+   "raw_label": "Sum of 6 lines under 'current liabilities'",
+   "raw_text": null,
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": null,
+   "basis": "standalone",
+   "anchor": {
+    "file": "axlesindia-financial.html",
+    "table_index": 1,
+    "row_index": 25,
+    "heading": "Axles India Limited Standalone Balance Sheet (Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": true,
+   "components": [
+    {
+     "label": "Borrowings",
+     "value": "7.76"
+    },
+    {
+     "label": "Other Financial Liabilities",
+     "value": "5.66"
+    },
+    {
+     "label": "Provisions",
+     "value": "14.16"
+    },
+    {
+     "label": "Employee Benefit Obligations",
+     "value": "6.28"
+    },
+    {
+     "label": "Current Tax Liabilities (Net",
+     "value": "0.01"
+    },
+    {
+     "label": "Other Current Liabilities",
+     "value": "6.66"
+    }
+   ]
+  },
+  "ev29": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/axles-india-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:46+00:00",
+   "sha256": "c15b319c08dc800a8192469b611104ee04f1ae680def85cf777ee1ad6568135d",
+   "capture_run": "20261123T175837Z",
+   "file": "axlesindia-financial.html",
+   "raw_label": "Inventories",
+   "raw_text": "178.54",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "31-03-2025",
+   "basis": "standalone",
+   "anchor": {
+    "file": "axlesindia-financial.html",
+    "table_index": 1,
+    "row_index": 10,
+    "heading": "Axles India Limited Standalone Balance Sheet (Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev30": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/axles-india-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:46+00:00",
+   "sha256": "c15b319c08dc800a8192469b611104ee04f1ae680def85cf777ee1ad6568135d",
+   "capture_run": "20261123T175837Z",
+   "file": "axlesindia-financial.html",
+   "raw_label": "Inventories",
+   "raw_text": "151.25",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "31-03-2026",
+   "basis": "standalone",
+   "anchor": {
+    "file": "axlesindia-financial.html",
+    "table_index": 1,
+    "row_index": 10,
+    "heading": "Axles India Limited Standalone Balance Sheet (Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev31": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/axles-india-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:46+00:00",
+   "sha256": "c15b319c08dc800a8192469b611104ee04f1ae680def85cf777ee1ad6568135d",
+   "capture_run": "20261123T175837Z",
+   "file": "axlesindia-financial.html",
+   "raw_label": "Cash And Cash Equivalents",
+   "raw_text": "29.49",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "31-03-2025",
+   "basis": "standalone",
+   "anchor": {
+    "file": "axlesindia-financial.html",
+    "table_index": 1,
+    "row_index": 12,
+    "heading": "Axles India Limited Standalone Balance Sheet (Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev32": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/axles-india-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:46+00:00",
+   "sha256": "c15b319c08dc800a8192469b611104ee04f1ae680def85cf777ee1ad6568135d",
+   "capture_run": "20261123T175837Z",
+   "file": "axlesindia-financial.html",
+   "raw_label": "Cash And Cash Equivalents",
+   "raw_text": "76.06",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "31-03-2026",
+   "basis": "standalone",
+   "anchor": {
+    "file": "axlesindia-financial.html",
+    "table_index": 1,
+    "row_index": 12,
+    "heading": "Axles India Limited Standalone Balance Sheet (Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev33": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/axles-india-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:46+00:00",
+   "sha256": "c15b319c08dc800a8192469b611104ee04f1ae680def85cf777ee1ad6568135d",
+   "capture_run": "20261123T175837Z",
+   "file": "axlesindia-financial.html",
+   "raw_label": "Loans",
+   "raw_text": "0.63",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "31-03-2025",
+   "basis": "standalone",
+   "anchor": {
+    "file": "axlesindia-financial.html",
+    "table_index": 1,
+    "row_index": 14,
+    "heading": "Axles India Limited Standalone Balance Sheet (Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev34": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/axles-india-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:46+00:00",
+   "sha256": "c15b319c08dc800a8192469b611104ee04f1ae680def85cf777ee1ad6568135d",
+   "capture_run": "20261123T175837Z",
+   "file": "axlesindia-financial.html",
+   "raw_label": "Loans",
+   "raw_text": "0.58",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "31-03-2026",
+   "basis": "standalone",
+   "anchor": {
+    "file": "axlesindia-financial.html",
+    "table_index": 1,
+    "row_index": 14,
+    "heading": "Axles India Limited Standalone Balance Sheet (Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev35": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/axles-india-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:46+00:00",
+   "sha256": "c15b319c08dc800a8192469b611104ee04f1ae680def85cf777ee1ad6568135d",
+   "capture_run": "20261123T175837Z",
+   "file": "axlesindia-financial.html",
+   "raw_label": "Net cash inflow from operating activities",
+   "raw_text": "118.04",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "31-03-2025",
+   "basis": "standalone",
+   "anchor": {
+    "file": "axlesindia-financial.html",
+    "table_index": 3,
+    "row_index": 23,
+    "heading": "Axles India Limited Standalone Cash Flow Statement (Rs in Crores)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev36": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/axles-india-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:46+00:00",
+   "sha256": "c15b319c08dc800a8192469b611104ee04f1ae680def85cf777ee1ad6568135d",
+   "capture_run": "20261123T175837Z",
+   "file": "axlesindia-financial.html",
+   "raw_label": "Net cash inflow from operating activities",
+   "raw_text": "98.81",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "31-03-2026",
+   "basis": "standalone",
+   "anchor": {
+    "file": "axlesindia-financial.html",
+    "table_index": 3,
+    "row_index": 23,
+    "heading": "Axles India Limited Standalone Cash Flow Statement (Rs in Crores)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev37": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/axles-india-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:46+00:00",
+   "sha256": "c15b319c08dc800a8192469b611104ee04f1ae680def85cf777ee1ad6568135d",
+   "capture_run": "20261123T175837Z",
+   "file": "axlesindia-financial.html",
+   "raw_label": "Net cash outflow from investing activities",
+   "raw_text": "-29.84",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "31-03-2025",
+   "basis": "standalone",
+   "anchor": {
+    "file": "axlesindia-financial.html",
+    "table_index": 3,
+    "row_index": 29,
+    "heading": "Axles India Limited Standalone Cash Flow Statement (Rs in Crores)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev38": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/axles-india-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:46+00:00",
+   "sha256": "c15b319c08dc800a8192469b611104ee04f1ae680def85cf777ee1ad6568135d",
+   "capture_run": "20261123T175837Z",
+   "file": "axlesindia-financial.html",
+   "raw_label": "Net cash outflow from investing activities",
+   "raw_text": "-1.49",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "31-03-2026",
+   "basis": "standalone",
+   "anchor": {
+    "file": "axlesindia-financial.html",
+    "table_index": 3,
+    "row_index": 29,
+    "heading": "Axles India Limited Standalone Cash Flow Statement (Rs in Crores)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev39": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/axles-india-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:46+00:00",
+   "sha256": "c15b319c08dc800a8192469b611104ee04f1ae680def85cf777ee1ad6568135d",
+   "capture_run": "20261123T175837Z",
+   "file": "axlesindia-financial.html",
+   "raw_label": "Net cash outflow from financing activities",
+   "raw_text": "-68.99",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "31-03-2025",
+   "basis": "standalone",
+   "anchor": {
+    "file": "axlesindia-financial.html",
+    "table_index": 3,
+    "row_index": 36,
+    "heading": "Axles India Limited Standalone Cash Flow Statement (Rs in Crores)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev40": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/axles-india-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:46+00:00",
+   "sha256": "c15b319c08dc800a8192469b611104ee04f1ae680def85cf777ee1ad6568135d",
+   "capture_run": "20261123T175837Z",
+   "file": "axlesindia-financial.html",
+   "raw_label": "Net cash outflow from financing activities",
+   "raw_text": "-50.75",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "31-03-2026",
+   "basis": "standalone",
+   "anchor": {
+    "file": "axlesindia-financial.html",
+    "table_index": 3,
+    "row_index": 36,
+    "heading": "Axles India Limited Standalone Cash Flow Statement (Rs in Crores)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev41": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/axles-india-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:46+00:00",
+   "sha256": "c15b319c08dc800a8192469b611104ee04f1ae680def85cf777ee1ad6568135d",
+   "capture_run": "20261123T175837Z",
+   "file": "axlesindia-financial.html",
+   "raw_label": "Trade Receivables",
+   "raw_text": "190.70",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "31-03-2025",
+   "basis": "standalone",
+   "anchor": {
+    "file": "axlesindia-financial.html",
+    "table_index": 1,
+    "row_index": 11,
+    "heading": "Axles India Limited Standalone Balance Sheet (Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev42": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/axles-india-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:46+00:00",
+   "sha256": "c15b319c08dc800a8192469b611104ee04f1ae680def85cf777ee1ad6568135d",
+   "capture_run": "20261123T175837Z",
+   "file": "axlesindia-financial.html",
+   "raw_label": "Trade Receivables",
+   "raw_text": "198.80",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "31-03-2026",
+   "basis": "standalone",
+   "anchor": {
+    "file": "axlesindia-financial.html",
+    "table_index": 1,
+    "row_index": 11,
+    "heading": "Axles India Limited Standalone Balance Sheet (Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev43": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/axles-india-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:46+00:00",
+   "sha256": "c15b319c08dc800a8192469b611104ee04f1ae680def85cf777ee1ad6568135d",
+   "capture_run": "20261123T175837Z",
+   "file": "axlesindia-financial.html",
+   "raw_label": "Property, Plant And Equipment",
+   "raw_text": "57.84",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "31-03-2025",
+   "basis": "standalone",
+   "anchor": {
+    "file": "axlesindia-financial.html",
+    "table_index": 1,
+    "row_index": 2,
+    "heading": "Axles India Limited Standalone Balance Sheet (Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev44": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/axles-india-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:46+00:00",
+   "sha256": "c15b319c08dc800a8192469b611104ee04f1ae680def85cf777ee1ad6568135d",
+   "capture_run": "20261123T175837Z",
+   "file": "axlesindia-financial.html",
+   "raw_label": "Property, Plant And Equipment",
+   "raw_text": "93.10",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "31-03-2026",
+   "basis": "standalone",
+   "anchor": {
+    "file": "axlesindia-financial.html",
+    "table_index": 1,
+    "row_index": 2,
+    "heading": "Axles India Limited Standalone Balance Sheet (Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  }
+ },
+ "news": {
+  "query": "\"Axles India Limited\"",
+  "retrieved_at": "2026-11-23T17:59:07+00:00",
+  "items": [
+   {
+    "title": "Wheels India (NSEI:WHEELS) - Stock Analysis",
+    "publisher": "Simply Wall St",
+    "date": "2026-11-20",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4tZEhjLXM5NnozbmN1M0ZpLWxvb19yWm1pdFpEZWxDUmRZSG1DVG1QbEpkbjVoclNBVUJKRzVmalFFVXBVcXhHU2hvdzNuSEFWUzI1MU5VWlNELThqTEF0MkZDU0wtX3VfdlBKTlh5cmRSa3NpTmM3bnU1YnBfeUU?oc=5"
+   },
+   {
+    "title": "Tsf Investments Share Price Target 2026, 2027, 2030, 2040, 2050",
+    "publisher": "Share Price Target",
+    "date": "2026-01-13",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1lU2xDSGNXaTVIbHZzdlhFdFRpNG5Qc1ZtNkJfUmRMcWd2YWtHcDRfUV9TbV9hdEtnWWVkUUIzTjhfVVRrQmw1UHJPcFRKOWJUNS1fcTNINEVyNk0wUUlHbUh2T2NkSEdFSHdCbkFpTXhFbXc?oc=5"
+   },
+   {
+    "title": "AXLES INDIA LIMITED FINANCIAL RESULTS ANALYSIS (FY22–FY25)",
+    "publisher": "UnlistedZone",
+    "date": "2025-08-04",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZ25kVk51UzRlWWhFSjYtT0xkVjRlczRBcnd6aTU5bnlOOXZVdzJ5cWY0bHNsckRfQXN0VDZSbG1Dd0d5ekUtZzZVYnlBU3FfRTdETV8yXzRSQS1vUUdIOF83b0FRWW00YlRDUEdkejRhSXlUQk5VV0xBS1NCNkNDNVNfNWZqZ1E?oc=5"
+   },
+   {
+    "title": "EPFO to conduct Nidhi Aapke Nikat 2.0",
+    "publisher": "The Hindu",
+    "date": "2025-07-25",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPLWloVlF0UTl4SDIyNV9tVDdMLVFtS2Rjck1Jc2J5cHVieTJYcWxFMkFQXzVIR09vV242eXBYUWMyQktTZk9Ca2FvMkJyZ0tfaEQ4RUlLdzJpX3NpRjB6YVZVdm1QVm82YUwzWndnTENMZmdlVU9DOFpZRW9WdEVnT0U5N3ltM1hEaTNhYVJ6M19rV3lNeF9kUXE1bFNidXFsVzB3dGp5R3Jfd9IBsAFBVV95cUxNUE5aTlFkZmFNbUc0WkcxTDJIcmg2aHZQY2JoejFmcTNhdnVWNEMxZkowa3FGdVhMUG5uUkc2R0d0N2dHcnF2SGpEd00xVVIySDA4NGEweEtsbVBybUVzR1VtcF9fUlJ0MEhuazdpOEtiV0l0V28xQm5meFZHUW1OVDF0S0xjODkySXlScGNwdi0tVkw4SE12bFd5X0lCTGUtQ21sN1d1VUROaXlCQnJWdw?oc=5"
+   },
+   {
+    "title": "Wheels India to acquire 7.64 lakh equity shares of Axles India from Forge 2000 for ₹23 crore",
+    "publisher": "BusinessLine",
+    "date": "2025-06-25",
+    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNNWNfdUJzZkFBZ3lYZF9fcmRWSFVhbTdtek01ZnBfWncxUzUtWF9qRk0wYW1lcjVTNVVBeWxpLXdRRF9MVU55Z1FoTUpQblo5aXVGSXVxNFlFNEZkVDVKeVJHYjRHYVhqOXhvYjY1Z0N5WGlmZmJWMjNjVDVpWHhhZ09Xdk5ldHkyZHdocEtmbF83UlZNMEtNbi1Xb0dFZ2dpd2gtc3R5UTRSb0VRRWl6MVlUTGZSZ1paQldZbGlZY2pqYlhhTGx4Z2hEcmlNbzdaRXIxN2hHTTd4Rl9wVkxiWnVmMnc4eUxvRHB2bjh30gH0AUFVX3lxTE9vWDFTQjJzN1hXLVpiZDZzdXJIMHgyeE9jdk5FRWVkSzJlYzZqOVFkSHh6MkdhQ0lHMEhrY3dYRWJmUTRnNXpOZEtYb0VWNDdfdEN0T1JmSTU4TnBKSDhOZlVYeUdEbmhUMTFtNF9LR2J5bW5UcFFEQkUyMUJEYWVLd3ZNR3VTOFhCY1BtR3F4WkpQNWl0bWJBMFNsMmQtaGZrNTI5WHZyOF94Qkp1QURyRkF6LUpjWmUwQmN3em95VHUxdFNRblcycnBKaExFdHEwZ3NOVWtwekRMTklFMGo1Wk5Bd0Y1T0I3eUlaWnZSSFBGYmU?oc=5"
+   },
+   {
+    "title": "Sundaram Finance Holdings to Acquire 24.16% Stake in Axles India for ₹182.68 Crore",
+    "publisher": "Autocar Professional",
+    "date": "2025-04-10",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZm9BVFh1dXoxSWdXMWRpSkx2Ri1QT2xBVTlvMlJfbnhIbThaNkRGWElSenRQRVE3QmpLbmFqRzVJRDZwc3F3QlZ3SkZvQUlHSE9fdFYwZFJXWXBsMTRQY3dUR0ZXczQzYXc0c0VNeTVheFNBRHRPWjVzYjJlZVpudVZvWUxfajZqUlZjNm5yN2Y3UTFIRjgxV0laU0JxUWJSaHJvLWdFaHdaQy1QX3hTWjZ5akFtWUpWQlp0aEZPRWZmRkXSAcsBQVVfeXFMTVFyc2pVdVBUSGtPYWh0LW54bWtySmZlU09jNXhFVW1pMjdlUm5UNnZjWDRZajJFUTdsZTktSnFfRzJwbWx5UjI2RTd2aExjbTRERXp2QzBFTDVUQnBEcmlfSkxKLWNIV2lpbE9KTlFDb2pzcEstZzRYQmVMczNSblhmWWhqYjlBdjBsdVZ6b0Iwa2NVS0s0WVlrOHY3dWc4b3BDYmN4Zi12ei1HcVdzMzE1N1lQekJPVFNseDNHYlB6UGxFd0Zmd0t2QkE?oc=5"
+   },
+   {
+    "title": "Enterprise Growth Awards 2025",
+    "publisher": "Deloitte",
+    "date": "2025-03-11",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQU1lYZWtBd0I3NXZVZk9aWW1WcEgyU25xUnViX3lJN29iREEyMHFhTHh3aWRQMkZnN2JBOFpIZjZJNkRtbjdEcTN4UDkyOXdXZThVLXdPcGF3OVNxdjdhYnU3YUhtZVV0bGczbDVBS2lGc3VLWjhLVWhMdEhxRl96VDlKakRzSzVyNjlpWlRGNjZWNVVqMDc4b1JseG5jWTQ5MkFtbHNn?oc=5"
+   },
+   {
+    "title": "Axles India Limited Unlisted Share Price — Buy Sell with UnlistedZone",
+    "publisher": "UnlistedZone",
+    "date": "2024-01-11",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBjZjJnTS1pQ0NJQjFoX2NvQTlva3JadHVmOEhhcVJUbjZXeXRubDJJQTRNenJuZ3EyTTZSNFFNT2tEczd5akdlQWstelpfWXNzWF9mSVFYRDlpWE1xaHhEQlJOcmlSUXh6ZENlQ25nT2dfYktpWXc?oc=5"
+   }
+  ],
+  "source": {
+   "name": "Google News RSS search",
+   "url": "https://news.google.com/rss/search?q=%22Axles+India+Limited%22&hl=en-IN&gl=IN&ceid=IN:en",
+   "sha256": "bcff8219fac40cf3cb4096a0f47bfff34781575a9c95639f71c6d8f82f0c2a68",
+   "run": "20261123T175837Z"
+  }
+ },
+ "peer_reviewed": true,
+ "analysis": {
+  "FY2025": {
+   "basis": "standalone",
+   "facts": {
+    "total_income": {
+     "value": "846.78",
+     "state": "reported",
+     "ev": "ev3"
+    },
+    "revenue_ops": {
+     "value": "841.54",
+     "state": "reported",
+     "ev": "ev5"
+    },
+    "other_income": {
+     "value": "2.11",
+     "state": "reported",
+     "ev": "ev7"
+    },
+    "other_gains": {
+     "value": "3.13",
+     "state": "reported",
+     "ev": "ev9"
+    },
+    "job_work_revenue": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "total_expenses": {
+     "value": "753.63",
+     "state": "reported",
+     "ev": "ev11"
+    },
+    "finance_cost": {
+     "value": "0.87",
+     "state": "reported",
+     "ev": "ev13"
+    },
+    "depreciation": {
+     "value": "11.54",
+     "state": "reported",
+     "ev": "ev15"
+    },
+    "pbt": {
+     "value": "93.15",
+     "state": "reported",
+     "ev": "ev17"
+    },
+    "tax": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "pat": {
+     "value": "68.7",
+     "state": "reported",
+     "ev": "ev19"
+    },
+    "total_assets": {
+     "value": "518.76",
+     "state": "reported",
+     "ev": "ev21"
+    },
+    "total_equity": {
+     "value": "307.61",
+     "state": "derived",
+     "ev": "ev23"
+    },
+    "total_liabilities": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "current_assets": {
+     "value": "411.70",
+     "state": "derived",
+     "ev": "ev25"
+    },
+    "current_liabilities": {
+     "value": "73.43",
+     "state": "derived",
+     "ev": "ev27"
+    },
+    "inventories": {
+     "value": "178.54",
+     "state": "reported",
+     "ev": "ev29"
+    },
+    "cash": {
+     "value": "29.49",
+     "state": "reported",
+     "ev": "ev31"
+    },
+    "loans": {
+     "value": "0.63",
+     "state": "reported",
+     "ev": "ev33"
+    },
+    "cfo": {
+     "value": "118.04",
+     "state": "reported",
+     "ev": "ev35"
+    },
+    "cfi": {
+     "value": "-29.84",
+     "state": "reported",
+     "ev": "ev37"
+    },
+    "cff": {
+     "value": "-68.99",
+     "state": "reported",
+     "ev": "ev39"
+    },
+    "ebitda": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "eps": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "shares_outstanding": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "pat_pre_associate": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "pat_owners": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "associate_profit": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "eps_basic": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "eps_diluted": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "gross_profit": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "operating_profit": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "cost_of_sales": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "trade_receivables": {
+     "value": "190.7",
+     "state": "reported",
+     "ev": "ev41"
+    },
+    "trade_payables": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "fixed_assets": {
+     "value": "57.84",
+     "state": "reported",
+     "ev": "ev43"
+    },
+    "borrowings": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "dividend_per_share": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "gross_npa": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "net_npa": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "nim": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "provision_coverage": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "capital_adequacy": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "claims_ratio": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "combined_ratio": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "solvency_ratio": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "capex": {
+     "state": "not_in_source",
+     "value": null
+    }
+   }
+  },
+  "FY2026": {
+   "basis": "standalone",
+   "facts": {
+    "total_income": {
+     "value": "887.85",
+     "state": "reported",
+     "ev": "ev4"
+    },
+    "revenue_ops": {
+     "value": "871.19",
+     "state": "reported",
+     "ev": "ev6"
+    },
+    "other_income": {
+     "value": "2.27",
+     "state": "reported",
+     "ev": "ev8"
+    },
+    "other_gains": {
+     "value": "14.39",
+     "state": "reported",
+     "ev": "ev10"
+    },
+    "job_work_revenue": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "total_expenses": {
+     "value": "791.27",
+     "state": "reported",
+     "ev": "ev12"
+    },
+    "finance_cost": {
+     "value": "1",
+     "state": "reported",
+     "ev": "ev14"
+    },
+    "depreciation": {
+     "value": "13.12",
+     "state": "reported",
+     "ev": "ev16"
+    },
+    "pbt": {
+     "value": "96.58",
+     "state": "reported",
+     "ev": "ev18"
+    },
+    "tax": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "pat": {
+     "value": "73.24",
+     "state": "reported",
+     "ev": "ev20"
+    },
+    "total_assets": {
+     "value": "543.03",
+     "state": "reported",
+     "ev": "ev22"
+    },
+    "total_equity": {
+     "value": "369.49",
+     "state": "derived",
+     "ev": "ev24"
+    },
+    "total_liabilities": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "current_assets": {
+     "value": "440.93",
+     "state": "derived",
+     "ev": "ev26"
+    },
+    "current_liabilities": {
+     "value": "40.53",
+     "state": "derived",
+     "ev": "ev28"
+    },
+    "inventories": {
+     "value": "151.25",
+     "state": "reported",
+     "ev": "ev30"
+    },
+    "cash": {
+     "value": "76.06",
+     "state": "reported",
+     "ev": "ev32"
+    },
+    "loans": {
+     "value": "0.58",
+     "state": "reported",
+     "ev": "ev34"
+    },
+    "cfo": {
+     "value": "98.81",
+     "state": "reported",
+     "ev": "ev36"
+    },
+    "cfi": {
+     "value": "-1.49",
+     "state": "reported",
+     "ev": "ev38"
+    },
+    "cff": {
+     "value": "-50.75",
+     "state": "reported",
+     "ev": "ev40"
+    },
+    "ebitda": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "eps": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "shares_outstanding": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "pat_pre_associate": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "pat_owners": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "associate_profit": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "eps_basic": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "eps_diluted": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "gross_profit": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "operating_profit": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "cost_of_sales": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "trade_receivables": {
+     "value": "198.8",
+     "state": "reported",
+     "ev": "ev42"
+    },
+    "trade_payables": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "fixed_assets": {
+     "value": "93.1",
+     "state": "reported",
+     "ev": "ev44"
+    },
+    "borrowings": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "dividend_per_share": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "gross_npa": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "net_npa": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "nim": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "provision_coverage": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "capital_adequacy": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "claims_ratio": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "combined_ratio": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "solvency_ratio": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "capex": {
+     "state": "not_in_source",
+     "value": null
+    }
+   }
+  }
+ },
+ "ratios": {
+  "defaults": [
+   "revenue_growth",
+   "ebitda_margin",
+   "roce",
+   "cfo_to_pat",
+   "net_debt_ebitda",
+   "pe"
+  ],
+  "groups": {
+   "Profitability": [
+    {
+     "id": "pat_margin",
+     "label": "PAT margin",
+     "unit": "%",
+     "formula": "PAT / total income"
+    },
+    {
+     "id": "net_profit_ratio",
+     "label": "Net profit ratio",
+     "unit": "%",
+     "formula": "PAT / operating revenue"
+    },
+    {
+     "id": "gross_margin",
+     "label": "Gross margin",
+     "unit": "%",
+     "formula": "gross profit / operating revenue"
+    },
+    {
+     "id": "operating_margin",
+     "label": "Operating margin",
+     "unit": "%",
+     "formula": "operating profit / operating revenue"
+    },
+    {
+     "id": "ebitda_margin",
+     "label": "EBITDA margin",
+     "unit": "%",
+     "formula": "EBITDA / operating revenue"
+    },
+    {
+     "id": "roe",
+     "label": "Return on equity",
+     "unit": "%",
+     "formula": "PAT / average equity"
+    },
+    {
+     "id": "roa",
+     "label": "Return on assets",
+     "unit": "%",
+     "formula": "PAT / average assets"
+    },
+    {
+     "id": "roce",
+     "label": "ROCE",
+     "unit": "%",
+     "formula": "(PBT + finance costs) / (total assets − current liabilities)"
+    },
+    {
+     "id": "other_income_share",
+     "label": "Other-income share",
+     "unit": "%",
+     "formula": "other income / total income"
+    }
+   ],
+   "Growth and per share": [
+    {
+     "id": "revenue_growth",
+     "label": "Revenue growth",
+     "unit": "%",
+     "formula": "operating revenue / prior-year operating revenue − 1"
+    },
+    {
+     "id": "revenue_cagr",
+     "label": "Three-year revenue CAGR",
+     "unit": "%",
+     "formula": "(operating revenue / operating revenue three years earlier)^(1/3) − 1"
+    },
+    {
+     "id": "diluted_growth",
+     "label": "Diluted EPS growth",
+     "unit": "%",
+     "formula": "diluted EPS / prior-year diluted EPS − 1"
+    },
+    {
+     "id": "eps_basic",
+     "label": "Reported basic EPS",
+     "unit": "₹/share",
+     "formula": "reported basic EPS"
+    },
+    {
+     "id": "eps_diluted",
+     "label": "Reported diluted EPS",
+     "unit": "₹/share",
+     "formula": "reported diluted EPS"
+    },
+    {
+     "id": "book_per_share",
+     "label": "Book value per share",
+     "unit": "₹/share",
+     "formula": "equity (₹ crore) × 10,000,000 / period-end shares"
+    }
+   ],
+   "Liquidity and debt": [
+    {
+     "id": "current_ratio",
+     "label": "Current ratio",
+     "unit": "×",
+     "formula": "current assets / current liabilities"
+    },
+    {
+     "id": "quick_ratio",
+     "label": "Quick ratio",
+     "unit": "×",
+     "formula": "(current assets − inventories) / current liabilities"
+    },
+    {
+     "id": "cash_ratio",
+     "label": "Cash ratio",
+     "unit": "×",
+     "formula": "cash and equivalents / current liabilities"
+    },
+    {
+     "id": "debt_equity",
+     "label": "Debt-to-equity",
+     "unit": "×",
+     "formula": "reported debt / equity"
+    },
+    {
+     "id": "interest_cover",
+     "label": "Interest coverage",
+     "unit": "×",
+     "formula": "(PBT + finance costs) / finance costs"
+    },
+    {
+     "id": "net_debt_ebitda",
+     "label": "Net debt / EBITDA",
+     "unit": "×",
+     "formula": "(reported debt − cash and equivalents) / EBITDA"
+    },
+    {
+     "id": "debt_cover",
+     "label": "Debt service coverage",
+     "unit": "×",
+     "formula": "operating cash flow / scheduled principal and interest"
+    }
+   ],
+   "Cash generation": [
+    {
+     "id": "cfo_to_pat",
+     "label": "Operating cash flow / profit",
+     "unit": "×",
+     "formula": "operating cash flow / PAT"
+    },
+    {
+     "id": "cfo_margin",
+     "label": "Operating cash flow margin",
+     "unit": "%",
+     "formula": "operating cash flow / operating revenue"
+    },
+    {
+     "id": "cfo_current",
+     "label": "Operating cash flow / current liabilities",
+     "unit": "×",
+     "formula": "operating cash flow / current liabilities"
+    },
+    {
+     "id": "fcf_margin",
+     "label": "Free cash flow margin",
+     "unit": "%",
+     "formula": "(operating cash flow + signed cash capex) / operating revenue"
+    }
+   ],
+   "Asset and working-capital efficiency": [
+    {
+     "id": "asset_turnover",
+     "label": "Asset turnover",
+     "unit": "×",
+     "formula": "operating revenue / average total assets"
+    },
+    {
+     "id": "fixed_turnover",
+     "label": "Fixed-asset turnover",
+     "unit": "×",
+     "formula": "operating revenue / average fixed assets"
+    },
+    {
+     "id": "inventory_days",
+     "label": "Inventory days",
+     "unit": "days",
+     "formula": "365 × average inventory / cost of sales"
+    },
+    {
+     "id": "receivable_days",
+     "label": "Receivable days",
+     "unit": "days",
+     "formula": "365 × average trade receivables / operating revenue"
+    },
+    {
+     "id": "payable_days",
+     "label": "Payable days",
+     "unit": "days",
+     "formula": "365 × average trade payables / cost of sales"
+    },
+    {
+     "id": "cash_cycle",
+     "label": "Cash conversion cycle",
+     "unit": "days",
+     "formula": "inventory days + receivable days − payable days"
+    }
+   ],
+   "Valuation and distributions": [
+    {
+     "id": "pe",
+     "label": "P/E at quote",
+     "unit": "×",
+     "formula": "dated price / annual EPS"
+    },
+    {
+     "id": "pb",
+     "label": "Price-to-book",
+     "unit": "×",
+     "formula": "indicative market cap / equity"
+    },
+    {
+     "id": "ps",
+     "label": "Price-to-sales",
+     "unit": "×",
+     "formula": "indicative market cap / operating revenue"
+    },
+    {
+     "id": "ev_ebitda",
+     "label": "EV / EBITDA",
+     "unit": "×",
+     "formula": "(market cap + debt − cash) / EBITDA"
+    },
+    {
+     "id": "ev_revenue",
+     "label": "EV / revenue",
+     "unit": "×",
+     "formula": "(market cap + debt − cash) / operating revenue"
+    },
+    {
+     "id": "dividend_payout",
+     "label": "Dividend payout ratio",
+     "unit": "%",
+     "formula": "reported dividend per share / annual basic EPS"
+    },
+    {
+     "id": "dividend_yield",
+     "label": "Indicative dividend yield",
+     "unit": "%",
+     "formula": "reported dividend per share / quoted price"
+    },
+    {
+     "id": "dividend_per_share",
+     "label": "Dividend per share",
+     "unit": "₹/share",
+     "formula": "reported dividend per share"
+    }
+   ],
+   "Lender measures": [
+    {
+     "id": "nim",
+     "label": "Net interest margin",
+     "unit": "%",
+     "formula": "issuer's reported NIM"
+    },
+    {
+     "id": "gross_npa",
+     "label": "Gross NPA ratio",
+     "unit": "%",
+     "formula": "issuer's reported gross NPA ratio"
+    },
+    {
+     "id": "net_npa",
+     "label": "Net NPA ratio",
+     "unit": "%",
+     "formula": "issuer's reported net NPA ratio"
+    },
+    {
+     "id": "provision_coverage",
+     "label": "Provision coverage",
+     "unit": "%",
+     "formula": "issuer's reported coverage"
+    },
+    {
+     "id": "capital_adequacy",
+     "label": "Capital adequacy",
+     "unit": "%",
+     "formula": "issuer's reported capital adequacy"
+    }
+   ],
+   "Insurer measures": [
+    {
+     "id": "claims_ratio",
+     "label": "Incurred claims ratio",
+     "unit": "%",
+     "formula": "issuer's reported claims ratio"
+    },
+    {
+     "id": "combined_ratio",
+     "label": "Combined ratio",
+     "unit": "%",
+     "formula": "issuer's reported combined ratio"
+    },
+    {
+     "id": "solvency_ratio",
+     "label": "Solvency ratio",
+     "unit": "×",
+     "formula": "issuer's reported solvency ratio"
+    }
+   ],
+   "Exchange measures": [
+    {
+     "id": "volume_growth",
+     "label": "Traded-volume growth",
+     "unit": "%",
+     "formula": "matched-contract volume / prior-year volume − 1"
+    },
+    {
+     "id": "fee_per_unit",
+     "label": "Transaction fee per unit",
+     "unit": "₹/unit",
+     "formula": "transaction fee / same-contract traded volume"
+    }
+   ]
+  },
+  "by_period": {
+   "FY2025": {
+    "pat_margin": {
+     "value": "8.1131",
+     "state": "ok",
+     "formula": "PAT / total income",
+     "inputs": {
+      "numerator": "68.7",
+      "denominator": "846.78"
+     },
+     "unit": "%",
+     "ev": [
+      "ev19",
+      "ev3",
+      "ev5",
+      "ev7"
+     ],
+     "basis": "standalone"
+    },
+    "other_income_share": {
+     "value": "0.2492",
+     "state": "ok",
+     "formula": "other income / total income",
+     "inputs": {
+      "numerator": "2.11",
+      "denominator": "846.78"
+     },
+     "unit": "%",
+     "ev": [
+      "ev7",
+      "ev3",
+      "ev5"
+     ],
+     "basis": "standalone"
+    },
+    "net_profit_ratio": {
+     "value": "8.1636",
+     "state": "ok",
+     "formula": "PAT / operating revenue",
+     "inputs": {
+      "numerator": "68.7",
+      "denominator": "841.54"
+     },
+     "unit": "%",
+     "ev": [
+      "ev19",
+      "ev5"
+     ],
+     "basis": "standalone"
+    },
+    "gross_margin": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "gross profit / operating revenue",
+     "inputs": {
+      "numerator": null,
+      "denominator": "841.54"
+     },
+     "unit": "%",
+     "ev": [
+      "ev5"
+     ],
+     "basis": "standalone",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "operating_margin": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "operating profit / operating revenue",
+     "inputs": {
+      "numerator": null,
+      "denominator": "841.54"
+     },
+     "unit": "%",
+     "ev": [
+      "ev5"
+     ],
+     "basis": "standalone",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "ebitda_margin": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "EBITDA / operating revenue",
+     "inputs": {
+      "numerator": null,
+      "denominator": "841.54"
+     },
+     "unit": "%",
+     "ev": [
+      "ev5"
+     ],
+     "basis": "standalone",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "cfo_margin": {
+     "value": "14.0267",
+     "state": "ok",
+     "formula": "operating cash flow / operating revenue",
+     "inputs": {
+      "numerator": "118.04",
+      "denominator": "841.54"
+     },
+     "unit": "%",
+     "ev": [
+      "ev35",
+      "ev5"
+     ],
+     "basis": "standalone"
+    },
+    "roa": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "PAT / average assets",
+     "inputs": {
+      "numerator": "68.7",
+      "denominator": null
+     },
+     "unit": "%",
+     "ev": [
+      "ev19",
+      "ev21"
+     ],
+     "basis": "standalone",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "roe": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "PAT / average equity",
+     "inputs": {
+      "numerator": "68.7",
+      "denominator": null
+     },
+     "unit": "%",
+     "ev": [
+      "ev19",
+      "ev23"
+     ],
+     "basis": "standalone",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "asset_turnover": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "operating revenue / average total assets",
+     "inputs": {
+      "numerator": "841.54",
+      "denominator": null
+     },
+     "unit": "×",
+     "ev": [
+      "ev5",
+      "ev21"
+     ],
+     "basis": "standalone",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "fixed_turnover": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "operating revenue / average fixed assets",
+     "inputs": {
+      "numerator": "841.54",
+      "denominator": null
+     },
+     "unit": "×",
+     "ev": [
+      "ev5",
+      "ev43"
+     ],
+     "basis": "standalone",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "current_ratio": {
+     "value": "5.6067",
+     "state": "ok",
+     "formula": "current assets / current liabilities",
+     "inputs": {
+      "numerator": "411.70",
+      "denominator": "73.43"
+     },
+     "unit": "×",
+     "ev": [
+      "ev25",
+      "ev27"
+     ],
+     "basis": "standalone"
+    },
+    "cash_ratio": {
+     "value": "0.4016",
+     "state": "ok",
+     "formula": "cash and equivalents / current liabilities",
+     "inputs": {
+      "numerator": "29.49",
+      "denominator": "73.43"
+     },
+     "unit": "×",
+     "ev": [
+      "ev31",
+      "ev27"
+     ],
+     "basis": "standalone"
+    },
+    "debt_equity": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "reported debt / equity",
+     "inputs": {
+      "numerator": null,
+      "denominator": "307.61"
+     },
+     "unit": "×",
+     "ev": [
+      "ev23"
+     ],
+     "basis": "standalone",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "cfo_current": {
+     "value": "1.6075",
+     "state": "ok",
+     "formula": "operating cash flow / current liabilities",
+     "inputs": {
+      "numerator": "118.04",
+      "denominator": "73.43"
+     },
+     "unit": "×",
+     "ev": [
+      "ev35",
+      "ev27"
+     ],
+     "basis": "standalone"
+    },
+    "cfo_to_pat": {
+     "value": "1.7182",
+     "state": "ok",
+     "formula": "operating cash flow / PAT",
+     "inputs": {
+      "numerator": "118.04",
+      "denominator": "68.7"
+     },
+     "unit": "×",
+     "ev": [
+      "ev35",
+      "ev19"
+     ],
+     "basis": "standalone"
+    },
+    "dividend_payout": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "reported dividend per share / annual basic EPS",
+     "inputs": {
+      "numerator": null,
+      "denominator": null
+     },
+     "unit": "%",
+     "ev": [],
+     "basis": "standalone",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "roce": {
+     "value": "21.1124",
+     "state": "ok",
+     "formula": "(PBT + finance costs) / (total assets − current liabilities)",
+     "inputs": {
+      "numerator": "94.02",
+      "denominator": "445.33"
+     },
+     "unit": "%",
+     "ev": [
+      "ev17",
+      "ev13",
+      "ev21",
+      "ev27"
+     ],
+     "basis": "standalone"
+    },
+    "interest_cover": {
+     "value": "108.0690",
+     "state": "ok",
+     "formula": "(PBT + finance costs) / finance costs",
+     "inputs": {
+      "numerator": "94.02",
+      "denominator": "0.87"
+     },
+     "unit": "×",
+     "ev": [
+      "ev17",
+      "ev13"
+     ],
+     "basis": "standalone"
+    },
+    "net_debt_ebitda": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "(reported debt − cash and equivalents) / EBITDA",
+     "inputs": {
+      "numerator": null,
+      "denominator": null
+     },
+     "unit": "×",
+     "ev": [
+      "ev31"
+     ],
+     "basis": "standalone",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "fcf_margin": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "(operating cash flow + signed cash capex) / operating revenue",
+     "inputs": {
+      "numerator": null,
+      "denominator": "841.54"
+     },
+     "unit": "%",
+     "ev": [
+      "ev35",
+      "ev5"
+     ],
+     "basis": "standalone",
+     "note": "Requires operating cash flow and paid cash capex for the same period and basis."
+    },
+    "quick_ratio": {
+     "value": "3.1753",
+     "state": "ok",
+     "formula": "(current assets - inventories) / current liabilities",
+     "inputs": {
+      "current_assets": "411.70",
+      "inventories": "178.54",
+      "current_liabilities": "73.43"
+     },
+     "unit": "x",
+     "ev": [
+      "ev25",
+      "ev27",
+      "ev29"
+     ],
+     "basis": "standalone"
+    },
+    "revenue_growth": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "(current / previous) - 1",
+     "inputs": {
+      "current": "841.54",
+      "previous": null
+     },
+     "unit": "%",
+     "basis": "standalone",
+     "ev": [
+      "ev5"
+     ],
+     "note": "Required comparable inputs are unavailable."
+    },
+    "revenue_cagr": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "(end / start)^(1/3) - 1",
+     "inputs": {
+      "end": "841.54",
+      "start": null,
+      "years": 3
+     },
+     "unit": "%",
+     "basis": "standalone",
+     "ev": [
+      "ev5"
+     ],
+     "note": "Required comparable inputs are unavailable."
+    },
+    "diluted_growth": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "(current / previous) - 1",
+     "inputs": {
+      "current": null,
+      "previous": null
+     },
+     "unit": "%",
+     "basis": "standalone",
+     "ev": [],
+     "note": "Required comparable inputs are unavailable."
+    },
+    "inventory_days": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "365 × average inventory / cost of sales",
+     "inputs": {
+      "numerator": null,
+      "denominator": null
+     },
+     "unit": "days",
+     "ev": [
+      "ev29"
+     ],
+     "basis": "standalone",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "payable_days": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "365 × average trade payables / cost of sales",
+     "inputs": {
+      "numerator": null,
+      "denominator": null
+     },
+     "unit": "days",
+     "ev": [],
+     "basis": "standalone",
+     "note": "Cost of sales proxies for supplier purchases; uses 365 days."
+    },
+    "receivable_days": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "365 × average trade receivables / operating revenue",
+     "inputs": {
+      "numerator": null,
+      "denominator": "841.54"
+     },
+     "unit": "days",
+     "ev": [
+      "ev41",
+      "ev5"
+     ],
+     "basis": "standalone",
+     "note": "Operating revenue proxies for credit sales; uses 365 days."
+    },
+    "book_per_share": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "equity (₹ crore) × 10,000,000 / period-end shares",
+     "inputs": {
+      "numerator": "3076100000.00",
+      "denominator": null
+     },
+     "unit": "₹/share",
+     "ev": [
+      "ev23"
+     ],
+     "basis": "standalone",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "eps_basic": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "reported basic EPS",
+     "inputs": {
+      "eps_basic": null
+     },
+     "unit": "₹/share",
+     "ev": [],
+     "basis": "standalone",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "eps_diluted": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "reported diluted EPS",
+     "inputs": {
+      "eps_diluted": null
+     },
+     "unit": "₹/share",
+     "ev": [],
+     "basis": "standalone",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "dividend_per_share": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "reported dividend per share",
+     "inputs": {
+      "dividend_per_share": null
+     },
+     "unit": "₹/share",
+     "ev": [],
+     "basis": "standalone",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "nim": {
+     "value": null,
+     "state": "inapplicable",
+     "formula": "issuer's reported NIM",
+     "inputs": {},
+     "note": "The measure does not apply to this business model.",
+     "unit": "%",
+     "basis": "standalone"
+    },
+    "gross_npa": {
+     "value": null,
+     "state": "inapplicable",
+     "formula": "issuer's reported gross NPA ratio",
+     "inputs": {},
+     "note": "The measure does not apply to this business model.",
+     "unit": "%",
+     "basis": "standalone"
+    },
+    "net_npa": {
+     "value": null,
+     "state": "inapplicable",
+     "formula": "issuer's reported net NPA ratio",
+     "inputs": {},
+     "note": "The measure does not apply to this business model.",
+     "unit": "%",
+     "basis": "standalone"
+    },
+    "provision_coverage": {
+     "value": null,
+     "state": "inapplicable",
+     "formula": "issuer's reported coverage",
+     "inputs": {},
+     "note": "The measure does not apply to this business model.",
+     "unit": "%",
+     "basis": "standalone"
+    },
+    "capital_adequacy": {
+     "value": null,
+     "state": "inapplicable",
+     "formula": "issuer's reported capital adequacy",
+     "inputs": {},
+     "note": "The measure does not apply to this business model.",
+     "unit": "%",
+     "basis": "standalone"
+    },
+    "claims_ratio": {
+     "value": null,
+     "state": "inapplicable",
+     "formula": "issuer's reported claims ratio",
+     "inputs": {},
+     "note": "The measure does not apply to this business model.",
+     "unit": "%",
+     "basis": "standalone"
+    },
+    "combined_ratio": {
+     "value": null,
+     "state": "inapplicable",
+     "formula": "issuer's reported combined ratio",
+     "inputs": {},
+     "note": "The measure does not apply to this business model.",
+     "unit": "%",
+     "basis": "standalone"
+    },
+    "solvency_ratio": {
+     "value": null,
+     "state": "inapplicable",
+     "formula": "issuer's reported solvency ratio",
+     "inputs": {},
+     "note": "The measure does not apply to this business model.",
+     "unit": "×",
+     "basis": "standalone"
+    },
+    "debt_cover": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "operating cash flow / scheduled principal and interest",
+     "inputs": {},
+     "unit": "×",
+     "basis": "standalone",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "cash_cycle": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "inventory days + receivable days − payable days",
+     "inputs": {},
+     "unit": "days",
+     "basis": "standalone",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "pe": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "dated price / annual EPS",
+     "inputs": {},
+     "unit": "×",
+     "basis": "standalone",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "pb": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "indicative market cap / equity",
+     "inputs": {},
+     "unit": "×",
+     "basis": "standalone",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "ps": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "indicative market cap / operating revenue",
+     "inputs": {},
+     "unit": "×",
+     "basis": "standalone",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "ev_ebitda": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "(market cap + debt − cash) / EBITDA",
+     "inputs": {},
+     "unit": "×",
+     "basis": "standalone",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "ev_revenue": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "(market cap + debt − cash) / operating revenue",
+     "inputs": {},
+     "unit": "×",
+     "basis": "standalone",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "dividend_yield": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "reported dividend per share / quoted price",
+     "inputs": {},
+     "unit": "%",
+     "basis": "standalone",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "volume_growth": {
+     "value": null,
+     "state": "inapplicable",
+     "formula": "matched-contract volume / prior-year volume − 1",
+     "inputs": {},
+     "note": "The measure does not apply to this business model.",
+     "unit": "%",
+     "basis": "standalone"
+    },
+    "fee_per_unit": {
+     "value": null,
+     "state": "inapplicable",
+     "formula": "transaction fee / same-contract traded volume",
+     "inputs": {},
+     "note": "The measure does not apply to this business model.",
+     "unit": "₹/unit",
+     "basis": "standalone"
+    }
+   },
+   "FY2026": {
+    "pat_margin": {
+     "value": "8.2491",
+     "state": "ok",
+     "formula": "PAT / total income",
+     "inputs": {
+      "numerator": "73.24",
+      "denominator": "887.85"
+     },
+     "unit": "%",
+     "ev": [
+      "ev20",
+      "ev4",
+      "ev6",
+      "ev8"
+     ],
+     "basis": "standalone"
+    },
+    "other_income_share": {
+     "value": "0.2557",
+     "state": "ok",
+     "formula": "other income / total income",
+     "inputs": {
+      "numerator": "2.27",
+      "denominator": "887.85"
+     },
+     "unit": "%",
+     "ev": [
+      "ev8",
+      "ev4",
+      "ev6"
+     ],
+     "basis": "standalone"
+    },
+    "net_profit_ratio": {
+     "value": "8.4069",
+     "state": "ok",
+     "formula": "PAT / operating revenue",
+     "inputs": {
+      "numerator": "73.24",
+      "denominator": "871.19"
+     },
+     "unit": "%",
+     "ev": [
+      "ev20",
+      "ev6"
+     ],
+     "basis": "standalone"
+    },
+    "gross_margin": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "gross profit / operating revenue",
+     "inputs": {
+      "numerator": null,
+      "denominator": "871.19"
+     },
+     "unit": "%",
+     "ev": [
+      "ev6"
+     ],
+     "basis": "standalone",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "operating_margin": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "operating profit / operating revenue",
+     "inputs": {
+      "numerator": null,
+      "denominator": "871.19"
+     },
+     "unit": "%",
+     "ev": [
+      "ev6"
+     ],
+     "basis": "standalone",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "ebitda_margin": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "EBITDA / operating revenue",
+     "inputs": {
+      "numerator": null,
+      "denominator": "871.19"
+     },
+     "unit": "%",
+     "ev": [
+      "ev6"
+     ],
+     "basis": "standalone",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "cfo_margin": {
+     "value": "11.3420",
+     "state": "ok",
+     "formula": "operating cash flow / operating revenue",
+     "inputs": {
+      "numerator": "98.81",
+      "denominator": "871.19"
+     },
+     "unit": "%",
+     "ev": [
+      "ev36",
+      "ev6"
+     ],
+     "basis": "standalone"
+    },
+    "roa": {
+     "value": "13.7956",
+     "state": "ok",
+     "formula": "PAT / average assets",
+     "inputs": {
+      "numerator": "73.24",
+      "denominator": "530.895"
+     },
+     "unit": "%",
+     "ev": [
+      "ev20",
+      "ev22",
+      "ev21"
+     ],
+     "basis": "standalone"
+    },
+    "roe": {
+     "value": "21.6334",
+     "state": "ok",
+     "formula": "PAT / average equity",
+     "inputs": {
+      "numerator": "73.24",
+      "denominator": "338.55"
+     },
+     "unit": "%",
+     "ev": [
+      "ev20",
+      "ev24",
+      "ev23"
+     ],
+     "basis": "standalone"
+    },
+    "asset_turnover": {
+     "value": "1.6410",
+     "state": "ok",
+     "formula": "operating revenue / average total assets",
+     "inputs": {
+      "numerator": "871.19",
+      "denominator": "530.895"
+     },
+     "unit": "×",
+     "ev": [
+      "ev6",
+      "ev22",
+      "ev21"
+     ],
+     "basis": "standalone"
+    },
+    "fixed_turnover": {
+     "value": "11.5435",
+     "state": "ok",
+     "formula": "operating revenue / average fixed assets",
+     "inputs": {
+      "numerator": "871.19",
+      "denominator": "75.47"
+     },
+     "unit": "×",
+     "ev": [
+      "ev6",
+      "ev44",
+      "ev43"
+     ],
+     "basis": "standalone"
+    },
+    "current_ratio": {
+     "value": "10.8791",
+     "state": "ok",
+     "formula": "current assets / current liabilities",
+     "inputs": {
+      "numerator": "440.93",
+      "denominator": "40.53"
+     },
+     "unit": "×",
+     "ev": [
+      "ev26",
+      "ev28"
+     ],
+     "basis": "standalone"
+    },
+    "cash_ratio": {
+     "value": "1.8766",
+     "state": "ok",
+     "formula": "cash and equivalents / current liabilities",
+     "inputs": {
+      "numerator": "76.06",
+      "denominator": "40.53"
+     },
+     "unit": "×",
+     "ev": [
+      "ev32",
+      "ev28"
+     ],
+     "basis": "standalone"
+    },
+    "debt_equity": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "reported debt / equity",
+     "inputs": {
+      "numerator": null,
+      "denominator": "369.49"
+     },
+     "unit": "×",
+     "ev": [
+      "ev24"
+     ],
+     "basis": "standalone",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "cfo_current": {
+     "value": "2.4379",
+     "state": "ok",
+     "formula": "operating cash flow / current liabilities",
+     "inputs": {
+      "numerator": "98.81",
+      "denominator": "40.53"
+     },
+     "unit": "×",
+     "ev": [
+      "ev36",
+      "ev28"
+     ],
+     "basis": "standalone"
+    },
+    "cfo_to_pat": {
+     "value": "1.3491",
+     "state": "ok",
+     "formula": "operating cash flow / PAT",
+     "inputs": {
+      "numerator": "98.81",
+      "denominator": "73.24"
+     },
+     "unit": "×",
+     "ev": [
+      "ev36",
+      "ev20"
+     ],
+     "basis": "standalone"
+    },
+    "dividend_payout": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "reported dividend per share / annual basic EPS",
+     "inputs": {
+      "numerator": null,
+      "denominator": null
+     },
+     "unit": "%",
+     "ev": [],
+     "basis": "standalone",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "roce": {
+     "value": "19.4189",
+     "state": "ok",
+     "formula": "(PBT + finance costs) / (total assets − current liabilities)",
+     "inputs": {
+      "numerator": "97.58",
+      "denominator": "502.50"
+     },
+     "unit": "%",
+     "ev": [
+      "ev18",
+      "ev14",
+      "ev22",
+      "ev28"
+     ],
+     "basis": "standalone"
+    },
+    "interest_cover": {
+     "value": "97.5800",
+     "state": "ok",
+     "formula": "(PBT + finance costs) / finance costs",
+     "inputs": {
+      "numerator": "97.58",
+      "denominator": "1"
+     },
+     "unit": "×",
+     "ev": [
+      "ev18",
+      "ev14"
+     ],
+     "basis": "standalone"
+    },
+    "net_debt_ebitda": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "(reported debt − cash and equivalents) / EBITDA",
+     "inputs": {
+      "numerator": null,
+      "denominator": null
+     },
+     "unit": "×",
+     "ev": [
+      "ev32"
+     ],
+     "basis": "standalone",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "fcf_margin": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "(operating cash flow + signed cash capex) / operating revenue",
+     "inputs": {
+      "numerator": null,
+      "denominator": "871.19"
+     },
+     "unit": "%",
+     "ev": [
+      "ev36",
+      "ev6"
+     ],
+     "basis": "standalone",
+     "note": "Requires operating cash flow and paid cash capex for the same period and basis."
+    },
+    "quick_ratio": {
+     "value": "7.1473",
+     "state": "ok",
+     "formula": "(current assets - inventories) / current liabilities",
+     "inputs": {
+      "current_assets": "440.93",
+      "inventories": "151.25",
+      "current_liabilities": "40.53"
+     },
+     "unit": "x",
+     "ev": [
+      "ev26",
+      "ev28",
+      "ev30"
+     ],
+     "basis": "standalone"
+    },
+    "revenue_growth": {
+     "value": "3.5233",
+     "state": "ok",
+     "formula": "(current / previous) - 1",
+     "inputs": {
+      "current": "871.19",
+      "previous": "841.54"
+     },
+     "unit": "%",
+     "basis": "standalone",
+     "ev": [
+      "ev6",
+      "ev5"
+     ]
+    },
+    "revenue_cagr": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "(end / start)^(1/3) - 1",
+     "inputs": {
+      "end": "871.19",
+      "start": null,
+      "years": 3
+     },
+     "unit": "%",
+     "basis": "standalone",
+     "ev": [
+      "ev6"
+     ],
+     "note": "Required comparable inputs are unavailable."
+    },
+    "diluted_growth": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "(current / previous) - 1",
+     "inputs": {
+      "current": null,
+      "previous": null
+     },
+     "unit": "%",
+     "basis": "standalone",
+     "ev": [],
+     "note": "Required comparable inputs are unavailable."
+    },
+    "inventory_days": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "365 × average inventory / cost of sales",
+     "inputs": {
+      "numerator": "60186.675",
+      "denominator": null
+     },
+     "unit": "days",
+     "ev": [
+      "ev30",
+      "ev29"
+     ],
+     "basis": "standalone",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "payable_days": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "365 × average trade payables / cost of sales",
+     "inputs": {
+      "numerator": null,
+      "denominator": null
+     },
+     "unit": "days",
+     "ev": [],
+     "basis": "standalone",
+     "note": "Cost of sales proxies for supplier purchases; uses 365 days."
+    },
+    "receivable_days": {
+     "value": "81.5939",
+     "state": "ok",
+     "formula": "365 × average trade receivables / operating revenue",
+     "inputs": {
+      "numerator": "71083.75",
+      "denominator": "871.19"
+     },
+     "unit": "days",
+     "ev": [
+      "ev42",
+      "ev41",
+      "ev6"
+     ],
+     "basis": "standalone",
+     "note": "Operating revenue proxies for credit sales; uses 365 days."
+    },
+    "book_per_share": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "equity (₹ crore) × 10,000,000 / period-end shares",
+     "inputs": {
+      "numerator": "3694900000.00",
+      "denominator": null
+     },
+     "unit": "₹/share",
+     "ev": [
+      "ev24"
+     ],
+     "basis": "standalone",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "eps_basic": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "reported basic EPS",
+     "inputs": {
+      "eps_basic": null
+     },
+     "unit": "₹/share",
+     "ev": [],
+     "basis": "standalone",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "eps_diluted": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "reported diluted EPS",
+     "inputs": {
+      "eps_diluted": null
+     },
+     "unit": "₹/share",
+     "ev": [],
+     "basis": "standalone",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "dividend_per_share": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "reported dividend per share",
+     "inputs": {
+      "dividend_per_share": null
+     },
+     "unit": "₹/share",
+     "ev": [],
+     "basis": "standalone",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "nim": {
+     "value": null,
+     "state": "inapplicable",
+     "formula": "issuer's reported NIM",
+     "inputs": {},
+     "note": "The measure does not apply to this business model.",
+     "unit": "%",
+     "basis": "standalone"
+    },
+    "gross_npa": {
+     "value": null,
+     "state": "inapplicable",
+     "formula": "issuer's reported gross NPA ratio",
+     "inputs": {},
+     "note": "The measure does not apply to this business model.",
+     "unit": "%",
+     "basis": "standalone"
+    },
+    "net_npa": {
+     "value": null,
+     "state": "inapplicable",
+     "formula": "issuer's reported net NPA ratio",
+     "inputs": {},
+     "note": "The measure does not apply to this business model.",
+     "unit": "%",
+     "basis": "standalone"
+    },
+    "provision_coverage": {
+     "value": null,
+     "state": "inapplicable",
+     "formula": "issuer's reported coverage",
+     "inputs": {},
+     "note": "The measure does not apply to this business model.",
+     "unit": "%",
+     "basis": "standalone"
+    },
+    "capital_adequacy": {
+     "value": null,
+     "state": "inapplicable",
+     "formula": "issuer's reported capital adequacy",
+     "inputs": {},
+     "note": "The measure does not apply to this business model.",
+     "unit": "%",
+     "basis": "standalone"
+    },
+    "claims_ratio": {
+     "value": null,
+     "state": "inapplicable",
+     "formula": "issuer's reported claims ratio",
+     "inputs": {},
+     "note": "The measure does not apply to this business model.",
+     "unit": "%",
+     "basis": "standalone"
+    },
+    "combined_ratio": {
+     "value": null,
+     "state": "inapplicable",
+     "formula": "issuer's reported combined ratio",
+     "inputs": {},
+     "note": "The measure does not apply to this business model.",
+     "unit": "%",
+     "basis": "standalone"
+    },
+    "solvency_ratio": {
+     "value": null,
+     "state": "inapplicable",
+     "formula": "issuer's reported solvency ratio",
+     "inputs": {},
+     "note": "The measure does not apply to this business model.",
+     "unit": "×",
+     "basis": "standalone"
+    },
+    "pe": {
+     "basis": "standalone",
+     "value": "18.2722",
+     "state": "ok",
+     "formula": "price / EPS",
+     "inputs": {
+      "price_inr": "525.00",
+      "eps": "28.73210824080331271322037111"
+     },
+     "unit": "x",
+     "eps_basis": "pat_share_proxy",
+     "ev": [
+      "ev20",
+      "ev1"
+     ],
+     "note": "Uses a calculated proxy of annual PAT divided by shares outstanding."
+    },
+    "pb": {
+     "basis": "standalone",
+     "value": "3.6219",
+     "state": "ok",
+     "formula": "market cap / total equity",
+     "inputs": {
+      "market_cap": "1338.258915",
+      "total_equity": "369.49"
+     },
+     "unit": "x"
+    },
+    "ps": {
+     "basis": "standalone",
+     "value": "1.5361",
+     "state": "ok",
+     "formula": "market cap / operating revenue",
+     "inputs": {
+      "market_cap": "1338.258915",
+      "operating_revenue": "871.19"
+     },
+     "unit": "x"
+    },
+    "dividend_yield": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "reported dividend per share / quoted price",
+     "inputs": {
+      "numerator": null,
+      "denominator": "525.00"
+     },
+     "unit": "%",
+     "ev": [
+      "ev1"
+     ],
+     "basis": "standalone",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "ev_ebitda": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "(market cap + debt − cash) / EBITDA",
+     "inputs": {
+      "numerator": null,
+      "denominator": null
+     },
+     "unit": "×",
+     "ev": [
+      "ev32"
+     ],
+     "basis": "standalone",
+     "note": "Requires market cap and debt/cash on the same basis; no adjustment for undisclosed debt."
+    },
+    "ev_revenue": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "(market cap + debt − cash) / operating revenue",
+     "inputs": {
+      "numerator": null,
+      "denominator": "871.19"
+     },
+     "unit": "×",
+     "ev": [
+      "ev32",
+      "ev6"
+     ],
+     "basis": "standalone",
+     "note": "Requires market cap and debt/cash on the same basis; no adjustment for undisclosed debt."
+    },
+    "debt_cover": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "operating cash flow / scheduled principal and interest",
+     "inputs": {},
+     "unit": "×",
+     "basis": "standalone",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "cash_cycle": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "inventory days + receivable days − payable days",
+     "inputs": {},
+     "unit": "days",
+     "basis": "standalone",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "volume_growth": {
+     "value": null,
+     "state": "inapplicable",
+     "formula": "matched-contract volume / prior-year volume − 1",
+     "inputs": {},
+     "note": "The measure does not apply to this business model.",
+     "unit": "%",
+     "basis": "standalone"
+    },
+    "fee_per_unit": {
+     "value": null,
+     "state": "inapplicable",
+     "formula": "transaction fee / same-contract traded volume",
+     "inputs": {},
+     "note": "The measure does not apply to this business model.",
+     "unit": "₹/unit",
+     "basis": "standalone"
+    }
+   }
+  }
+ },
+ "identity": {
+  "key": "INE701C01011",
+  "isin": "INE701C01011",
+  "cin": "U27209TN1981PLC008630",
+  "listing": "unlisted",
+  "state": "provider_identity",
+  "ev": "ev2"
+ },
+ "research": {
+  "by_period": {
+   "FY2025": {
+    "comparison": {
+     "revenue": {
+      "value": "841.54",
+      "state": "reported",
+      "basis": "standalone",
+      "match_basis": "standalone",
+      "definition": "revenue",
+      "ev": [
+       "ev5"
+      ]
+     },
+     "margin": {
+      "value": "8.1636",
+      "state": "ok",
+      "basis": "standalone",
+      "match_basis": "standalone",
+      "definition": "margin",
+      "ev": [
+       "ev19",
+       "ev5"
+      ]
+     },
+     "cfo": {
+      "value": "118.04",
+      "state": "reported",
+      "basis": "standalone",
+      "match_basis": "standalone",
+      "definition": "cfo",
+      "ev": [
+       "ev35"
+      ]
+     },
+     "pe": {
+      "value": null,
+      "state": "missing_input",
+      "basis": "standalone",
+      "match_basis": "standalone",
+      "definition": "pe",
+      "ev": []
+     }
+    },
+    "claims": [],
+    "scenario": {
+     "base": "841.54",
+     "upside": "925.69",
+     "downside": "757.39",
+     "note": "Illustrative sensitivity of operating revenue to a ±10% change. Review price, volume and margin assumptions after results."
+    },
+    "event": null,
+    "financial_risk": "Review cash versus profit and working capital.",
+    "valuation_risk": "Comparable price and/or annual earnings are unavailable."
+   },
+   "FY2026": {
+    "comparison": {
+     "revenue": {
+      "value": "871.19",
+      "state": "reported",
+      "basis": "standalone",
+      "match_basis": "standalone",
+      "definition": "revenue",
+      "ev": [
+       "ev6"
+      ]
+     },
+     "margin": {
+      "value": "8.4069",
+      "state": "ok",
+      "basis": "standalone",
+      "match_basis": "standalone",
+      "definition": "margin",
+      "ev": [
+       "ev20",
+       "ev6"
+      ]
+     },
+     "cfo": {
+      "value": "98.81",
+      "state": "reported",
+      "basis": "standalone",
+      "match_basis": "standalone",
+      "definition": "cfo",
+      "ev": [
+       "ev36"
+      ]
+     },
+     "pe": {
+      "value": "18.2722",
+      "state": "ok",
+      "basis": "standalone",
+      "match_basis": "standalone",
+      "definition": "pat_share_proxy",
+      "ev": [
+       "ev20",
+       "ev1"
+      ]
+     }
+    },
+    "claims": [
+     {
+      "category": "Pro",
+      "title": "Operating revenue changed 3.52% year on year",
+      "interpretation": "Use the matched annual revenue series and check whether volumes, pricing or a one-off drove the movement.",
+      "ev": [
+       "ev6",
+       "ev5"
+      ]
+     },
+     {
+      "category": "Valuation",
+      "title": "Dated price implies 18.27× earnings",
+      "interpretation": "Check the pat share proxy basis and update the quote before comparing valuation.",
+      "ev": [
+       "ev20",
+       "ev1"
+      ]
+     }
+    ],
+    "scenario": {
+     "base": "871.19",
+     "upside": "958.31",
+     "downside": "784.07",
+     "note": "Illustrative sensitivity of operating revenue to a ±10% change. Review price, volume and margin assumptions after results."
+    },
+    "event": null,
+    "financial_risk": "Review cash versus profit and working capital.",
+    "valuation_risk": "Recheck the dated price and EPS definition."
+   }
+  },
+  "risk": {
+   "summary": "Off-exchange exit risk",
+   "business": "Follow utilisation, input costs, customer concentration and working capital.",
+   "liquidity": "Ask for an executable lot and confirm counterparty, settlement and transfer terms.",
+   "restriction": "Verified transfer restrictions are unavailable in this scenario.",
+   "horizon": "Three years is an illiquidity planning assumption. Review at each relevant filing, quote or transfer change."
+  }
+ },
+ "discovery": [
+  {
+   "id": "gkndriveline",
+   "short": "GKN Driveline",
+   "name": "GKN Driveline (India) Ltd",
+   "reasons": [
+    "same business: Driveline",
+    "in the news 2026-10-07"
+   ],
+   "score": 4,
+   "price_inr": 1980.0,
+   "latest_period": "FY2026"
+  },
+  {
+   "id": "ncdex",
+   "short": "NCDEX",
+   "name": "National Commodity & Derivatives Exchange Ltd",
+   "reasons": [
+    "provider reports DRHP filed (IPO research lead)",
+    "in the news 2026-11-11"
+   ],
+   "score": 3,
+   "price_inr": 253.0,
+   "latest_period": "FY2026"
+  },
+  {
+   "id": "oyo",
+   "short": "OYO",
+   "name": "Oravel Stays Ltd (OYO)",
+   "reasons": [
+    "provider reports DRHP filed (IPO research lead)",
+    "in the news 2026-11-23"
+   ],
+   "score": 3,
+   "price_inr": 20.45,
+   "latest_period": "FY2026"
+  },
+  {
+   "id": "pharmeasy",
+   "short": "PharmEasy",
+   "name": "API Holdings Ltd (PharmEasy)",
+   "reasons": [
+    "provider reports DRHP filed (IPO research lead)",
+    "in the news 2026-10-28"
+   ],
+   "score": 3,
+   "price_inr": 6.15,
+   "latest_period": "FY2026"
+  },
+  {
+   "id": "cial",
+   "short": "CIAL",
+   "name": "Cochin International Airport Ltd",
+   "reasons": [
+    "in the news 2026-11-21"
+   ],
+   "score": 1,
+   "price_inr": 440.0,
+   "latest_period": "FY2026"
+  },
+  {
+   "id": "csk",
+   "short": "CSK",
+   "name": "Chennai Super Kings Cricket Ltd",
+   "reasons": [
+    "in the news 2026-11-20"
+   ],
+   "score": 1,
+   "price_inr": 245.0,
+   "latest_period": "FY2026"
+  }
+ ],
+ "fallbacks": []
+}

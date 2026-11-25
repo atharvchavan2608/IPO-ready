@@ -1,0 +1,17 @@
+[
+  {
+    "id": "nse-listing-status",
+    "url": "https://nsearchives.nseindia.com/web/pressrelease/2026-11/PR_cc_03112026_20261103175822.pdf",
+    "retrieved_at": "2026-11-12T11:29:13.571221+00:00",
+    "source_date": null,
+    "timeout_seconds": 12,
+    "max_capture_bytes": 16000000,
+    "evidence_type": "HTTP access experiment",
+    "status": 200,
+    "final_url": "https://nsearchives.nseindia.com/web/pressrelease/2026-11/PR_cc_03112026_20261103175822.pdf",
+    "content_type": "application/pdf",
+    "path": "nse-listing-status.pdf",
+    "bytes": 12072423,
+    "sha256": "b6bd5bdf6e12bd7bacd1f1049151b9a6cc8acef777eec5f58983c208a2da4d20"
+  }
+]

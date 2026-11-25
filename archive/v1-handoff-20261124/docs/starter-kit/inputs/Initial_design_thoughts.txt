@@ -1,0 +1,43 @@
+Take major learnings from Screener.in, expert articles wisdom from chattisgarh.
+
+
+Take listed company data from money control? Use unofficial api??
+
+Take data for unlisted companies from unlistedzone, wwipl. 
+
+Mainly create automated pipeline, workflow of getting data from the source, putting it into its place, json workflow, placeholders, etc to get the dashboard. 
+
+Explore agentic, ai integrated design.
+
+This project has vast domain but we select niche of unlisted company.
+
+Rough idea of what project can look like: 
+
+Page 1 idea: first page dashboard of the selected unlisted company. Reports available
+turnover, liquidity, quick ratios, etc are readily available. except inventory, npa. these can be  not rarely available and need to be searched in unlisted companies. May need to be searched by ai for individual companies?? Verify this
+
+
+On sides, Some current news, stock market price, nifty, sensex, existing. Some live charts.
+Should look like a authentic finance site. 
+
+On side section, suggestions/recomendations of unlisted session. 
+
+page 2. comparision on 2nd page. 
+Comparision with listed companies who are peers. Peers classified with genres like example: Commodities  - Chemicals  - Chemicals & Petrochemicals  - Carbon Black  
+Ratios, etc. 
+Analyse ratios, give overview analysis,
+Their future planning, information news articles summarized.
+
+Comparisions within unlisted companies like through Database querying style, used in screener.in eg of query on site: Market capitalization > 500 AND
+Price to earning < 15 AND
+Return on capital employed > 22%. 
+
+
+Page 3. Calculations like if you have certain amount, you wish to invest in something, what kind of risk you can take, diversify your portfolio
+
+Example you have 5 lakh, what to invest in, where. take one of stocks. Take some low risk, Medium rbi, hdfc, etc, 3rd metal, 4th highly fluctuative, 
+Give ratios, pie chart, how much percent in high, medium, low. 
+Develop risk calculations algorithm.
+
+Use, learn from design decisions made by other companies like unlistedzone, wwipl, chattishgarh, moneycontrol, international sites having both listed, unlisted data.
+What metrics they use, how they present, etc.

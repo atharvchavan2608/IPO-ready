@@ -1,0 +1,108 @@
+{
+    "archived_on":  "2026-11-23",
+    "reason":  "Owner moved the exploratory portal out of the active project for a fresh prototype build.",
+    "files":  [
+                  {
+                      "original_path":  "portal/analytics.py",
+                      "archived_path":  "archive/portal-exploration-20261123/portal/analytics.py",
+                      "sha256":  "3cf0c7985ed8a937037795d1d4a2c956287068b3fc02d914159199c1bb953324",
+                      "bytes":  6545
+                  },
+                  {
+                      "original_path":  "portal/main.py",
+                      "archived_path":  "archive/portal-exploration-20261123/portal/main.py",
+                      "sha256":  "e4a7528d0635dc5af9a87cd9c2ec78b2d0526240c7efe09186cd4a8b7fdff61d",
+                      "bytes":  2943
+                  },
+                  {
+                      "original_path":  "portal/README.md",
+                      "archived_path":  "archive/portal-exploration-20261123/portal/README.md",
+                      "sha256":  "80c6b113e3c537e970e306445e86f8125553450835f896dc617e0dc2dd4e0599",
+                      "bytes":  1700
+                  },
+                  {
+                      "original_path":  "portal/snapshot.py",
+                      "archived_path":  "archive/portal-exploration-20261123/portal/snapshot.py",
+                      "sha256":  "e79c16faa844282df68d363784d54398acc4f5daf2dd9d1661ea5a44b4e9a01b",
+                      "bytes":  3493
+                  },
+                  {
+                      "original_path":  "portal/__init__.py",
+                      "archived_path":  "archive/portal-exploration-20261123/portal/__init__.py",
+                      "sha256":  "0dc5bfee61733182ee09c971cc7722c714a76e79cc60ee590a5779ff06f76411",
+                      "bytes":  83
+                  },
+                  {
+                      "original_path":  "portal/data/observations.json",
+                      "archived_path":  "archive/portal-exploration-20261123/portal/data/observations.json",
+                      "sha256":  "72f6f88c3d13b1851bfac051c702561e893e75ba31e58f7789396feef1158d0c",
+                      "bytes":  36172
+                  },
+                  {
+                      "original_path":  "portal/web/app.js",
+                      "archived_path":  "archive/portal-exploration-20261123/portal/web/app.js",
+                      "sha256":  "a30aea08bac637b884f5635e9fdcaf6431bc47284a9fc926aacbab7f16ba0388",
+                      "bytes":  14306
+                  },
+                  {
+                      "original_path":  "portal/web/index.html",
+                      "archived_path":  "archive/portal-exploration-20261123/portal/web/index.html",
+                      "sha256":  "41aa35538e3cc8cb9d9df7ec997e0e6e8e0fac9abe340bfe80b3e44e0b8cf1ba",
+                      "bytes":  7509
+                  },
+                  {
+                      "original_path":  "portal/web/styles.css",
+                      "archived_path":  "archive/portal-exploration-20261123/portal/web/styles.css",
+                      "sha256":  "29c3045ed2ae7ff61f2d37c96d624d08124e61156f2314f1091c11c7b30ceba3",
+                      "bytes":  13193
+                  },
+                  {
+                      "original_path":  "outputs/portal/browser-check.json",
+                      "archived_path":  "archive/portal-exploration-20261123/outputs/portal/browser-check.json",
+                      "sha256":  "8e346b63d17a864b73554ad39682e4b650cf79978442aceca846b6e15c571dee",
+                      "bytes":  485
+                  },
+                  {
+                      "original_path":  "outputs/portal/dashboard-desktop.png",
+                      "archived_path":  "archive/portal-exploration-20261123/outputs/portal/dashboard-desktop.png",
+                      "sha256":  "8b464700f1e4735f3d543299b255718c89d139dfbb073787be01f1dddd2000e6",
+                      "bytes":  127773
+                  },
+                  {
+                      "original_path":  "outputs/portal/dashboard-mobile.png",
+                      "archived_path":  "archive/portal-exploration-20261123/outputs/portal/dashboard-mobile.png",
+                      "sha256":  "6f5cc1f10f727bd21fbfa3b3e9b9f84fe1a0a76e5e24b6436dd6409fdbfd77cd",
+                      "bytes":  101960
+                  },
+                  {
+                      "original_path":  "outputs/portal/downloaded-snapshot.json",
+                      "archived_path":  "archive/portal-exploration-20261123/outputs/portal/downloaded-snapshot.json",
+                      "sha256":  "b70fa7432fad9746a98160861d794fdd8d2ca292f8175066dee8c01c76e85965",
+                      "bytes":  27375
+                  },
+                  {
+                      "original_path":  "outputs/portal/research-snapshot.json",
+                      "archived_path":  "archive/portal-exploration-20261123/outputs/portal/research-snapshot.json",
+                      "sha256":  "2997640b12565704f7ff3e7707e0159137e20806bf0ac2c0e590279383d80460",
+                      "bytes":  27268
+                  },
+                  {
+                      "original_path":  "tests/test_portal.py",
+                      "archived_path":  "archive/portal-exploration-20261123/tests/test_portal.py",
+                      "sha256":  "b65660173aef97a6b58f1aeb9a6b306bcc39ab7c0064068887f8b3d05146c8ee",
+                      "bytes":  5606
+                  },
+                  {
+                      "original_path":  "scripts/check_portal.py",
+                      "archived_path":  "archive/portal-exploration-20261123/scripts/check_portal.py",
+                      "sha256":  "670c2f0cfa69e2b9bc8431568c23b3a8c2cf3a65573fa1d6ced92d0cd69aeda2",
+                      "bytes":  3735
+                  },
+                  {
+                      "original_path":  "research/prepare_unlisted_pilot.py",
+                      "archived_path":  "archive/portal-exploration-20261123/research/prepare_unlisted_pilot.py",
+                      "sha256":  "815068d6b1c0b885333016c032b53ab5bcadb48594d209fb576fe7fca0af40be",
+                      "bytes":  8078
+                  }
+              ]
+}

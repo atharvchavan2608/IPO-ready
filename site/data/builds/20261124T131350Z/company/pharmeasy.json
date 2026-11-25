@@ -1,0 +1,5163 @@
+{
+ "id": "pharmeasy",
+ "name": "API Holdings Ltd (PharmEasy)",
+ "short": "PharmEasy",
+ "hierarchy": [
+  "Healthcare",
+  "Healthcare Services",
+  "Pharmacy Retail & Distribution",
+  "E-Pharmacy"
+ ],
+ "model": "platform",
+ "listed_peers": [
+  "MEDPLUS"
+ ],
+ "status_note": null,
+ "market_status": null,
+ "quote": {
+  "price_inr": "6.15",
+  "state": "reported",
+  "change_raw": "+ 0.00 %",
+  "kind": "unlisted dealer quote (indicative, not an exchange trade)",
+  "as_of": "2026-11-23T16:45:12+00:00",
+  "high_52w": "9.50 (15/09/26)",
+  "low_52w": "4.90 (30/07/26)",
+  "ev": "ev1"
+ },
+ "profile": {
+  "provider_sector": "eCommerce",
+  "isin": "INE0DJ201029",
+  "cin": "U60100MH2019PLC323444",
+  "registration_date": "31/03/2019",
+  "face_value": "1",
+  "lot_size": "10,000",
+  "drhp_filed": "Yes",
+  "depository": "nsdl",
+  "rofr": "No",
+  "description": null,
+  "share_details_as_of": null,
+  "ev": "ev2"
+ },
+ "periods": [
+  "FY2022",
+  "FY2023",
+  "FY2024",
+  "FY2025",
+  "FY2026"
+ ],
+ "basis": "unspecified",
+ "raw_units": [
+  "INR crore"
+ ],
+ "layout": "five-year summary",
+ "fields": {
+  "total_income": {
+   "label": "Total income",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": "5781",
+     "state": "reported",
+     "ev": "ev3"
+    },
+    "FY2023": {
+     "value": "6699.77",
+     "state": "reported",
+     "ev": "ev4"
+    },
+    "FY2024": {
+     "value": "5758.94",
+     "state": "reported",
+     "ev": "ev5"
+    },
+    "FY2025": {
+     "value": "5980.03",
+     "state": "reported",
+     "ev": "ev6"
+    },
+    "FY2026": {
+     "value": "6689.29",
+     "state": "reported",
+     "ev": "ev7"
+    }
+   }
+  },
+  "revenue_ops": {
+   "label": "Revenue from operations",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": "5728.82",
+     "state": "reported",
+     "ev": "ev8"
+    },
+    "FY2023": {
+     "value": "6643.94",
+     "state": "reported",
+     "ev": "ev9"
+    },
+    "FY2024": {
+     "value": "5664.29",
+     "state": "reported",
+     "ev": "ev10"
+    },
+    "FY2025": {
+     "value": "5872.16",
+     "state": "reported",
+     "ev": "ev11"
+    },
+    "FY2026": {
+     "value": "6618.5",
+     "state": "reported",
+     "ev": "ev12"
+    }
+   }
+  },
+  "other_income": {
+   "label": "Other income",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": "52.18",
+     "state": "reported",
+     "ev": "ev13"
+    },
+    "FY2023": {
+     "value": "55.83",
+     "state": "reported",
+     "ev": "ev14"
+    },
+    "FY2024": {
+     "value": "94.66",
+     "state": "reported",
+     "ev": "ev15"
+    },
+    "FY2025": {
+     "value": "107.87",
+     "state": "reported",
+     "ev": "ev16"
+    },
+    "FY2026": {
+     "value": "70.79",
+     "state": "reported",
+     "ev": "ev17"
+    }
+   }
+  },
+  "other_gains": {
+   "label": "Other gains / losses",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2023": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "job_work_revenue": {
+   "label": "Revenue from job work",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2023": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "total_expenses": {
+   "label": "Total expenses",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": "8491.59",
+     "state": "reported",
+     "ev": "ev18"
+    },
+    "FY2023": {
+     "value": "8974.01",
+     "state": "reported",
+     "ev": "ev19"
+    },
+    "FY2024": {
+     "value": "7254.8",
+     "state": "reported",
+     "ev": "ev20"
+    },
+    "FY2025": {
+     "value": "7208.56",
+     "state": "reported",
+     "ev": "ev21"
+    },
+    "FY2026": {
+     "value": "7146.74",
+     "state": "reported",
+     "ev": "ev22"
+    }
+   }
+  },
+  "finance_cost": {
+   "label": "Finance cost",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": "258.26",
+     "state": "reported",
+     "ev": "ev23"
+    },
+    "FY2023": {
+     "value": "665.54",
+     "state": "reported",
+     "ev": "ev24"
+    },
+    "FY2024": {
+     "value": "727.92",
+     "state": "reported",
+     "ev": "ev25"
+    },
+    "FY2025": {
+     "value": "506.11",
+     "state": "reported",
+     "ev": "ev26"
+    },
+    "FY2026": {
+     "value": "409.96",
+     "state": "reported",
+     "ev": "ev27"
+    }
+   }
+  },
+  "depreciation": {
+   "label": "Depreciation",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": "158.79",
+     "state": "reported",
+     "ev": "ev28"
+    },
+    "FY2023": {
+     "value": "243.44",
+     "state": "reported",
+     "ev": "ev29"
+    },
+    "FY2024": {
+     "value": "215.95",
+     "state": "reported",
+     "ev": "ev30"
+    },
+    "FY2025": {
+     "value": "168.98",
+     "state": "reported",
+     "ev": "ev31"
+    },
+    "FY2026": {
+     "value": "156.26",
+     "state": "reported",
+     "ev": "ev32"
+    }
+   }
+  },
+  "pbt": {
+   "label": "Profit before tax",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": "-3971.43",
+     "state": "reported",
+     "ev": "ev33"
+    },
+    "FY2023": {
+     "value": "-5196.22",
+     "state": "reported",
+     "ev": "ev34"
+    },
+    "FY2024": {
+     "value": "-2522.85",
+     "state": "reported",
+     "ev": "ev35"
+    },
+    "FY2025": {
+     "value": "-1516.89",
+     "state": "reported",
+     "ev": "ev36"
+    },
+    "FY2026": {
+     "value": "-456.1",
+     "state": "reported",
+     "ev": "ev37"
+    }
+   }
+  },
+  "tax": {
+   "label": "Tax",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": "21.73",
+     "state": "reported",
+     "ev": "ev38"
+    },
+    "FY2023": {
+     "value": "15.21",
+     "state": "reported",
+     "ev": "ev39"
+    },
+    "FY2024": {
+     "value": "11.54",
+     "state": "reported",
+     "ev": "ev40"
+    },
+    "FY2025": {
+     "value": "55.5",
+     "state": "reported",
+     "ev": "ev41"
+    },
+    "FY2026": {
+     "value": "64.19",
+     "state": "reported",
+     "ev": "ev42"
+    }
+   }
+  },
+  "pat": {
+   "label": "Profit after tax",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": "-3993.16",
+     "state": "reported",
+     "ev": "ev43"
+    },
+    "FY2023": {
+     "value": "-5211.44",
+     "state": "reported",
+     "ev": "ev44"
+    },
+    "FY2024": {
+     "value": "-2534.39",
+     "state": "reported",
+     "ev": "ev45"
+    },
+    "FY2025": {
+     "value": "-1572.39",
+     "state": "reported",
+     "ev": "ev46"
+    },
+    "FY2026": {
+     "value": "-520.29",
+     "state": "reported",
+     "ev": "ev47"
+    }
+   }
+  },
+  "total_assets": {
+   "label": "Total assets",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": "11381.51",
+     "state": "reported",
+     "ev": "ev48"
+    },
+    "FY2023": {
+     "value": "8256.42",
+     "state": "reported",
+     "ev": "ev49"
+    },
+    "FY2024": {
+     "value": "8389.66",
+     "state": "reported",
+     "ev": "ev50"
+    },
+    "FY2025": {
+     "value": "6976.58",
+     "state": "reported",
+     "ev": "ev51"
+    },
+    "FY2026": {
+     "value": "6481.07",
+     "state": "reported",
+     "ev": "ev52"
+    }
+   }
+  },
+  "total_equity": {
+   "label": "Total equity",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": "7022.48",
+     "state": "reported",
+     "ev": "ev53"
+    },
+    "FY2023": {
+     "value": "2436.89",
+     "state": "reported",
+     "ev": "ev54"
+    },
+    "FY2024": {
+     "value": "2588.31",
+     "state": "reported",
+     "ev": "ev55"
+    },
+    "FY2025": {
+     "value": "3272.28",
+     "state": "reported",
+     "ev": "ev56"
+    },
+    "FY2026": {
+     "value": "3427.21",
+     "state": "reported",
+     "ev": "ev57"
+    }
+   }
+  },
+  "total_liabilities": {
+   "label": "Total liabilities",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": "4359.03",
+     "state": "reported",
+     "ev": "ev58"
+    },
+    "FY2023": {
+     "value": "5819.53",
+     "state": "reported",
+     "ev": "ev59"
+    },
+    "FY2024": {
+     "value": "5801.35",
+     "state": "reported",
+     "ev": "ev60"
+    },
+    "FY2025": {
+     "value": "3704.3",
+     "state": "reported",
+     "ev": "ev61"
+    },
+    "FY2026": {
+     "value": "3053.86",
+     "state": "reported",
+     "ev": "ev62"
+    }
+   }
+  },
+  "current_assets": {
+   "label": "Current assets",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": "2502.21",
+     "state": "reported",
+     "ev": "ev63"
+    },
+    "FY2023": {
+     "value": "2534.75",
+     "state": "reported",
+     "ev": "ev64"
+    },
+    "FY2024": {
+     "value": "3471.96",
+     "state": "reported",
+     "ev": "ev65"
+    },
+    "FY2025": {
+     "value": "2511.82",
+     "state": "reported",
+     "ev": "ev66"
+    },
+    "FY2026": {
+     "value": "2044.37",
+     "state": "reported",
+     "ev": "ev67"
+    }
+   }
+  },
+  "current_liabilities": {
+   "label": "Current liabilities",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": "3761.61",
+     "state": "reported",
+     "ev": "ev68"
+    },
+    "FY2023": {
+     "value": "2323.22",
+     "state": "reported",
+     "ev": "ev69"
+    },
+    "FY2024": {
+     "value": "3502.48",
+     "state": "reported",
+     "ev": "ev70"
+    },
+    "FY2025": {
+     "value": "1781.22",
+     "state": "reported",
+     "ev": "ev71"
+    },
+    "FY2026": {
+     "value": "1733.44",
+     "state": "reported",
+     "ev": "ev72"
+    }
+   }
+  },
+  "inventories": {
+   "label": "Inventories",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2023": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "cash": {
+   "label": "Cash & equivalents",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2023": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "loans": {
+   "label": "Loans",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2023": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "cfo": {
+   "label": "Cash from operations",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": "-2589.37",
+     "state": "reported",
+     "ev": "ev73"
+    },
+    "FY2023": {
+     "value": "-746.59",
+     "state": "reported",
+     "ev": "ev74"
+    },
+    "FY2024": {
+     "value": "-61.14",
+     "state": "reported",
+     "ev": "ev75"
+    },
+    "FY2025": {
+     "value": "-210.92",
+     "state": "reported",
+     "ev": "ev76"
+    },
+    "FY2026": {
+     "value": "77.18",
+     "state": "reported",
+     "ev": "ev77"
+    }
+   }
+  },
+  "cfi": {
+   "label": "Cash from investing",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": "-5789.21",
+     "state": "reported",
+     "ev": "ev78"
+    },
+    "FY2023": {
+     "value": "-70.13",
+     "state": "reported",
+     "ev": "ev79"
+    },
+    "FY2024": {
+     "value": "-1260.95",
+     "state": "reported",
+     "ev": "ev80"
+    },
+    "FY2025": {
+     "value": "795.41",
+     "state": "reported",
+     "ev": "ev81"
+    },
+    "FY2026": {
+     "value": "514.93",
+     "state": "reported",
+     "ev": "ev82"
+    }
+   }
+  },
+  "cff": {
+   "label": "Cash from financing",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": "8305.37",
+     "state": "reported",
+     "ev": "ev83"
+    },
+    "FY2023": {
+     "value": "853.49",
+     "state": "reported",
+     "ev": "ev84"
+    },
+    "FY2024": {
+     "value": "1457.38",
+     "state": "reported",
+     "ev": "ev85"
+    },
+    "FY2025": {
+     "value": "-792.97",
+     "state": "reported",
+     "ev": "ev86"
+    },
+    "FY2026": {
+     "value": "-465.74",
+     "state": "reported",
+     "ev": "ev87"
+    }
+   }
+  },
+  "ebitda": {
+   "label": "EBITDA",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": "-3554.38",
+     "state": "reported",
+     "ev": "ev88"
+    },
+    "FY2023": {
+     "value": "-4287.24",
+     "state": "reported",
+     "ev": "ev89"
+    },
+    "FY2024": {
+     "value": "-1578.98",
+     "state": "reported",
+     "ev": "ev90"
+    },
+    "FY2025": {
+     "value": "-841.8",
+     "state": "reported",
+     "ev": "ev91"
+    },
+    "FY2026": {
+     "value": "110.12",
+     "state": "reported",
+     "ev": "ev92"
+    }
+   }
+  },
+  "eps": {
+   "label": "EPS (provider)",
+   "unit": "INR per share",
+   "by_period": {
+    "FY2022": {
+     "value": "-6.5",
+     "state": "reported",
+     "ev": "ev93"
+    },
+    "FY2023": {
+     "value": "-8.48",
+     "state": "reported",
+     "ev": "ev94"
+    },
+    "FY2024": {
+     "value": "-4.06",
+     "state": "reported",
+     "ev": "ev95"
+    },
+    "FY2025": {
+     "value": "-2.41",
+     "state": "reported",
+     "ev": "ev96"
+    },
+    "FY2026": {
+     "value": "-0.74",
+     "state": "reported",
+     "ev": "ev97"
+    }
+   }
+  },
+  "shares_outstanding": {
+   "label": "Shares outstanding",
+   "unit": "shares",
+   "by_period": {
+    "FY2022": {
+     "value": "6142041070",
+     "state": "reported",
+     "ev": "ev98"
+    },
+    "FY2023": {
+     "value": "6142041070",
+     "state": "reported",
+     "ev": "ev99"
+    },
+    "FY2024": {
+     "value": "6240435432",
+     "state": "reported",
+     "ev": "ev100"
+    },
+    "FY2025": {
+     "value": "6516668712",
+     "state": "reported",
+     "ev": "ev101"
+    },
+    "FY2026": {
+     "value": "7025624934",
+     "state": "reported",
+     "ev": "ev102"
+    }
+   }
+  },
+  "pat_pre_associate": {
+   "label": "Profit after tax before associate contribution",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2023": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "pat_owners": {
+   "label": "Profit attributable to owners",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2023": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "associate_profit": {
+   "label": "Share of associate profit",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2023": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "eps_basic": {
+   "label": "Reported basic EPS",
+   "unit": "INR per share",
+   "by_period": {
+    "FY2022": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2023": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "eps_diluted": {
+   "label": "Reported diluted EPS",
+   "unit": "INR per share",
+   "by_period": {
+    "FY2022": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2023": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  }
+ },
+ "cash_flow": {
+  "unit": "INR crore",
+  "by_period": {
+   "FY2022": {
+    "basis": "unspecified",
+    "origin": "provider",
+    "lines": {
+     "opening": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "cfo": {
+      "value": "-2589.37",
+      "state": "reported",
+      "ev": "ev73"
+     },
+     "cfi": {
+      "value": "-5789.21",
+      "state": "reported",
+      "ev": "ev78"
+     },
+     "cff": {
+      "value": "8305.37",
+      "state": "reported",
+      "ev": "ev83"
+     },
+     "other_effects": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "net_change": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "closing": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "before_working_capital": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "receivables": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "other_assets": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "payables_and_liabilities": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "tax_paid": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "capex": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "net_investment_purchases": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "debt_principal": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "lease_principal": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "lease_interest": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "overdraft_interest": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "share_proceeds": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "dividends": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "current_accounts": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "settlement_accounts": {
+      "state": "not_in_source",
+      "value": null
+     }
+    },
+    "reconciliation": {
+     "state": "partial"
+    },
+    "provider_comparison": null
+   },
+   "FY2023": {
+    "basis": "unspecified",
+    "origin": "provider",
+    "lines": {
+     "opening": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "cfo": {
+      "value": "-746.59",
+      "state": "reported",
+      "ev": "ev74"
+     },
+     "cfi": {
+      "value": "-70.13",
+      "state": "reported",
+      "ev": "ev79"
+     },
+     "cff": {
+      "value": "853.49",
+      "state": "reported",
+      "ev": "ev84"
+     },
+     "other_effects": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "net_change": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "closing": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "before_working_capital": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "receivables": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "other_assets": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "payables_and_liabilities": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "tax_paid": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "capex": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "net_investment_purchases": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "debt_principal": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "lease_principal": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "lease_interest": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "overdraft_interest": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "share_proceeds": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "dividends": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "current_accounts": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "settlement_accounts": {
+      "state": "not_in_source",
+      "value": null
+     }
+    },
+    "reconciliation": {
+     "state": "partial"
+    },
+    "provider_comparison": null
+   },
+   "FY2024": {
+    "basis": "unspecified",
+    "origin": "provider",
+    "lines": {
+     "opening": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "cfo": {
+      "value": "-61.14",
+      "state": "reported",
+      "ev": "ev75"
+     },
+     "cfi": {
+      "value": "-1260.95",
+      "state": "reported",
+      "ev": "ev80"
+     },
+     "cff": {
+      "value": "1457.38",
+      "state": "reported",
+      "ev": "ev85"
+     },
+     "other_effects": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "net_change": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "closing": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "before_working_capital": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "receivables": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "other_assets": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "payables_and_liabilities": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "tax_paid": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "capex": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "net_investment_purchases": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "debt_principal": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "lease_principal": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "lease_interest": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "overdraft_interest": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "share_proceeds": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "dividends": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "current_accounts": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "settlement_accounts": {
+      "state": "not_in_source",
+      "value": null
+     }
+    },
+    "reconciliation": {
+     "state": "partial"
+    },
+    "provider_comparison": null
+   },
+   "FY2025": {
+    "basis": "unspecified",
+    "origin": "provider",
+    "lines": {
+     "opening": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "cfo": {
+      "value": "-210.92",
+      "state": "reported",
+      "ev": "ev76"
+     },
+     "cfi": {
+      "value": "795.41",
+      "state": "reported",
+      "ev": "ev81"
+     },
+     "cff": {
+      "value": "-792.97",
+      "state": "reported",
+      "ev": "ev86"
+     },
+     "other_effects": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "net_change": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "closing": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "before_working_capital": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "receivables": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "other_assets": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "payables_and_liabilities": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "tax_paid": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "capex": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "net_investment_purchases": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "debt_principal": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "lease_principal": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "lease_interest": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "overdraft_interest": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "share_proceeds": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "dividends": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "current_accounts": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "settlement_accounts": {
+      "state": "not_in_source",
+      "value": null
+     }
+    },
+    "reconciliation": {
+     "state": "partial"
+    },
+    "provider_comparison": null
+   },
+   "FY2026": {
+    "basis": "unspecified",
+    "origin": "provider",
+    "lines": {
+     "opening": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "cfo": {
+      "value": "77.18",
+      "state": "reported",
+      "ev": "ev77"
+     },
+     "cfi": {
+      "value": "514.93",
+      "state": "reported",
+      "ev": "ev82"
+     },
+     "cff": {
+      "value": "-465.74",
+      "state": "reported",
+      "ev": "ev87"
+     },
+     "other_effects": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "net_change": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "closing": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "before_working_capital": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "receivables": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "other_assets": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "payables_and_liabilities": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "tax_paid": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "capex": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "net_investment_purchases": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "debt_principal": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "lease_principal": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "lease_interest": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "overdraft_interest": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "share_proceeds": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "dividends": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "current_accounts": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "settlement_accounts": {
+      "state": "not_in_source",
+      "value": null
+     }
+    },
+    "reconciliation": {
+     "state": "partial"
+    },
+    "provider_comparison": null
+   }
+  }
+ },
+ "documents": [],
+ "reconciliation": null,
+ "agent": {
+  "inventories": {
+   "company": "pharmeasy",
+   "field": "inventories",
+   "status": "not_found_no_documents",
+   "summary": "No issuer documents retained for PharmEasy; the provider does not report inventories. Expectation: possible.",
+   "how_to_verify": "Not verifiable from retained evidence.",
+   "expectation": {
+    "level": "possible",
+    "reason": "Marketplace models may hold no stock; inventory-led models (e.g. e-pharmacy) do."
+   },
+   "evidence": [],
+   "evidence_total": 0,
+   "next_checks": [
+    "Audited annual report: balance sheet 'Inventories' line and note on valuation",
+    "MCA AOC-4 financial statement filing (paid access)",
+    "DRHP 'Restated financial information' if the company files for an IPO"
+   ],
+   "trace": [
+    {
+     "step": 1,
+     "tool": "provider_lookup",
+     "input": {
+      "company": "pharmeasy",
+      "field": "inventories"
+     },
+     "output": {
+      "found": false,
+      "periods": [],
+      "detail": "no matching line in the provider's parsed statements"
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 2,
+     "tool": "applicability_rule",
+     "input": {
+      "field": "inventories",
+      "business_model": "platform"
+     },
+     "output": {
+      "expectation": "possible",
+      "reason": "Marketplace models may hold no stock; inventory-led models (e.g. e-pharmacy) do."
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 3,
+     "tool": "statement_line_check",
+     "input": {
+      "document": null
+     },
+     "output": {
+      "skipped": true,
+      "why": "no retained issuer balance sheet for this company"
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 4,
+     "tool": "document_search",
+     "input": {
+      "documents": [],
+      "patterns": [
+       "\\binventor(?:y|ies)\\b"
+      ]
+     },
+     "output": {
+      "documents_searched": [],
+      "pages_with_word_matches": 0,
+      "pages_with_naive_substring": 0,
+      "note": "naive substring 'inventor' also matches unrelated words (e.g. 'COMPANY' contains 'NPA'); word-boundary patterns used"
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 5,
+     "tool": "classify_passages",
+     "input": {
+      "passages": 0
+     },
+     "output": {
+      "by_kind": {}
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 6,
+     "tool": "verdict",
+     "input": {
+      "signals": {
+       "provider": false,
+       "numeric": 0,
+       "explicit_na": 0,
+       "line_check": null,
+       "expectation": "possible"
+      }
+     },
+     "output": {
+      "status": "not_found_no_documents",
+      "summary": "No issuer documents retained for PharmEasy; the provider does not report inventories. Expectation: possible.",
+      "how_to_verify": "Not verifiable from retained evidence."
+     },
+     "ms": 0.0
+    }
+   ],
+   "executed": "deterministic tool sequence (no language model call)"
+  },
+  "npa": {
+   "company": "pharmeasy",
+   "field": "npa",
+   "status": "inapplicable",
+   "summary": "Not applicable by business model: NPA is a lender asset-quality measure; this business has no loan book to classify.",
+   "how_to_verify": "No mentions to review; the business-model rule decides.",
+   "expectation": {
+    "level": "not_applicable",
+    "reason": "NPA is a lender asset-quality measure; this business has no loan book to classify."
+   },
+   "evidence": [],
+   "evidence_total": 0,
+   "next_checks": [
+    "Annual report notes: 'Stage 3 assets', 'Gross NPA', 'Net NPA' (RBI disclosure for NBFCs)"
+   ],
+   "trace": [
+    {
+     "step": 1,
+     "tool": "provider_lookup",
+     "input": {
+      "company": "pharmeasy",
+      "field": "gross_npa"
+     },
+     "output": {
+      "found": false,
+      "periods": [],
+      "detail": "no matching line in the provider's parsed statements"
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 2,
+     "tool": "applicability_rule",
+     "input": {
+      "field": "npa",
+      "business_model": "platform"
+     },
+     "output": {
+      "expectation": "not_applicable",
+      "reason": "NPA is a lender asset-quality measure; this business has no loan book to classify."
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 3,
+     "tool": "statement_line_check",
+     "input": {
+      "document": null
+     },
+     "output": {
+      "skipped": true,
+      "why": "no retained issuer balance sheet for this company"
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 4,
+     "tool": "document_search",
+     "input": {
+      "documents": [],
+      "patterns": [
+       "\\bG?N?NPAs?\\b",
+       "\\bnon[- ]performing (?:assets?|loans?)\\b",
+       "\\bstage\\s*(?:3|III)\\s+(?:assets|loans)\\b"
+      ]
+     },
+     "output": {
+      "documents_searched": [],
+      "pages_with_word_matches": 0,
+      "pages_with_naive_substring": 0,
+      "note": "naive substring 'npa' also matches unrelated words (e.g. 'COMPANY' contains 'NPA'); word-boundary patterns used"
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 5,
+     "tool": "classify_passages",
+     "input": {
+      "passages": 0
+     },
+     "output": {
+      "by_kind": {}
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 6,
+     "tool": "verdict",
+     "input": {
+      "signals": {
+       "provider": false,
+       "numeric": 0,
+       "explicit_na": 0,
+       "line_check": null,
+       "expectation": "not_applicable"
+      }
+     },
+     "output": {
+      "status": "inapplicable",
+      "summary": "Not applicable by business model: NPA is a lender asset-quality measure; this business has no loan book to classify.",
+      "how_to_verify": "No mentions to review; the business-model rule decides."
+     },
+     "ms": 0.0
+    }
+   ],
+   "executed": "deterministic tool sequence (no language model call)"
+  }
+ },
+ "metrics": {
+  "FY2022": {
+   "revenue_growth": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "(current / previous) - 1",
+    "inputs": {
+     "current": "5728.82",
+     "previous": null
+    },
+    "unit": "%",
+    "ev": [
+     "ev8"
+    ]
+   },
+   "pat_margin": {
+    "value": "-69.0739",
+    "state": "ok",
+    "formula": "PAT / total income x 100",
+    "inputs": {
+     "pat": "-3993.16",
+     "total_income": "5781"
+    },
+    "unit": "%",
+    "ev": [
+     "ev43",
+     "ev3"
+    ]
+   },
+   "net_profit_ratio": {
+    "value": "-69.7030",
+    "state": "ok",
+    "formula": "PAT / revenue from operations x 100",
+    "inputs": {
+     "pat": "-3993.16",
+     "revenue_ops": "5728.82"
+    },
+    "unit": "%",
+    "ev": [
+     "ev43",
+     "ev8"
+    ]
+   },
+   "other_income_share": {
+    "value": "0.9026",
+    "state": "ok",
+    "formula": "other income / total income x 100",
+    "inputs": {
+     "other_income": "52.18",
+     "total_income": "5781"
+    },
+    "unit": "%",
+    "ev": [
+     "ev13",
+     "ev3"
+    ]
+   },
+   "current_ratio": {
+    "value": "0.6652",
+    "state": "ok",
+    "formula": "current assets / current liabilities",
+    "inputs": {
+     "current_assets": "2502.21",
+     "current_liabilities": "3761.61"
+    },
+    "unit": "x",
+    "ev": [
+     "ev63",
+     "ev68"
+    ]
+   },
+   "quick_ratio": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "(current assets - inventories) / current liabilities",
+    "inputs": {
+     "current_assets": "2502.21",
+     "inventories": null,
+     "current_liabilities": "3761.61"
+    },
+    "note": "inventories not disclosed in the available source; quick ratio withheld",
+    "unit": "x",
+    "ev": [
+     "ev63",
+     "ev68"
+    ]
+   },
+   "roe": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "PAT / average of opening and closing equity x 100",
+    "inputs": {
+     "pat": "-3993.16",
+     "average_equity": null
+    },
+    "unit": "%",
+    "ev": [
+     "ev43",
+     "ev53"
+    ]
+   },
+   "roce": {
+    "value": "-48.7299",
+    "state": "ok",
+    "formula": "(PBT + finance cost) / (total assets - current liabilities) x 100",
+    "inputs": {
+     "ebit": "-3713.17",
+     "capital_employed": "7619.90"
+    },
+    "unit": "%",
+    "ev": [
+     "ev33",
+     "ev23",
+     "ev48",
+     "ev68"
+    ]
+   },
+   "cfo_to_pat": {
+    "value": "0.6485",
+    "state": "ok",
+    "formula": "cash from operations / PAT",
+    "inputs": {
+     "cfo": "-2589.37",
+     "pat": "-3993.16"
+    },
+    "unit": "x",
+    "ev": [
+     "ev73",
+     "ev43"
+    ]
+   }
+  },
+  "FY2023": {
+   "revenue_growth": {
+    "value": "15.9740",
+    "state": "ok",
+    "formula": "(current / previous) - 1",
+    "inputs": {
+     "current": "6643.94",
+     "previous": "5728.82"
+    },
+    "unit": "%",
+    "ev": [
+     "ev9",
+     "ev8"
+    ]
+   },
+   "pat_margin": {
+    "value": "-77.7854",
+    "state": "ok",
+    "formula": "PAT / total income x 100",
+    "inputs": {
+     "pat": "-5211.44",
+     "total_income": "6699.77"
+    },
+    "unit": "%",
+    "ev": [
+     "ev44",
+     "ev4"
+    ]
+   },
+   "net_profit_ratio": {
+    "value": "-78.4390",
+    "state": "ok",
+    "formula": "PAT / revenue from operations x 100",
+    "inputs": {
+     "pat": "-5211.44",
+     "revenue_ops": "6643.94"
+    },
+    "unit": "%",
+    "ev": [
+     "ev44",
+     "ev9"
+    ]
+   },
+   "other_income_share": {
+    "value": "0.8333",
+    "state": "ok",
+    "formula": "other income / total income x 100",
+    "inputs": {
+     "other_income": "55.83",
+     "total_income": "6699.77"
+    },
+    "unit": "%",
+    "ev": [
+     "ev14",
+     "ev4"
+    ]
+   },
+   "current_ratio": {
+    "value": "1.0911",
+    "state": "ok",
+    "formula": "current assets / current liabilities",
+    "inputs": {
+     "current_assets": "2534.75",
+     "current_liabilities": "2323.22"
+    },
+    "unit": "x",
+    "ev": [
+     "ev64",
+     "ev69"
+    ]
+   },
+   "quick_ratio": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "(current assets - inventories) / current liabilities",
+    "inputs": {
+     "current_assets": "2534.75",
+     "inventories": null,
+     "current_liabilities": "2323.22"
+    },
+    "note": "inventories not disclosed in the available source; quick ratio withheld",
+    "unit": "x",
+    "ev": [
+     "ev64",
+     "ev69"
+    ]
+   },
+   "roe": {
+    "value": "-110.1858",
+    "state": "ok",
+    "formula": "PAT / average of opening and closing equity x 100",
+    "inputs": {
+     "pat": "-5211.44",
+     "average_equity": "4729.685"
+    },
+    "unit": "%",
+    "ev": [
+     "ev44",
+     "ev54",
+     "ev53"
+    ]
+   },
+   "roce": {
+    "value": "-76.3615",
+    "state": "ok",
+    "formula": "(PBT + finance cost) / (total assets - current liabilities) x 100",
+    "inputs": {
+     "ebit": "-4530.68",
+     "capital_employed": "5933.20"
+    },
+    "unit": "%",
+    "ev": [
+     "ev34",
+     "ev24",
+     "ev49",
+     "ev69"
+    ]
+   },
+   "cfo_to_pat": {
+    "value": "0.1433",
+    "state": "ok",
+    "formula": "cash from operations / PAT",
+    "inputs": {
+     "cfo": "-746.59",
+     "pat": "-5211.44"
+    },
+    "unit": "x",
+    "ev": [
+     "ev74",
+     "ev44"
+    ]
+   }
+  },
+  "FY2024": {
+   "revenue_growth": {
+    "value": "-14.7450",
+    "state": "ok",
+    "formula": "(current / previous) - 1",
+    "inputs": {
+     "current": "5664.29",
+     "previous": "6643.94"
+    },
+    "unit": "%",
+    "ev": [
+     "ev10",
+     "ev9"
+    ]
+   },
+   "pat_margin": {
+    "value": "-44.0079",
+    "state": "ok",
+    "formula": "PAT / total income x 100",
+    "inputs": {
+     "pat": "-2534.39",
+     "total_income": "5758.94"
+    },
+    "unit": "%",
+    "ev": [
+     "ev45",
+     "ev5"
+    ]
+   },
+   "net_profit_ratio": {
+    "value": "-44.7433",
+    "state": "ok",
+    "formula": "PAT / revenue from operations x 100",
+    "inputs": {
+     "pat": "-2534.39",
+     "revenue_ops": "5664.29"
+    },
+    "unit": "%",
+    "ev": [
+     "ev45",
+     "ev10"
+    ]
+   },
+   "other_income_share": {
+    "value": "1.6437",
+    "state": "ok",
+    "formula": "other income / total income x 100",
+    "inputs": {
+     "other_income": "94.66",
+     "total_income": "5758.94"
+    },
+    "unit": "%",
+    "ev": [
+     "ev15",
+     "ev5"
+    ]
+   },
+   "current_ratio": {
+    "value": "0.9913",
+    "state": "ok",
+    "formula": "current assets / current liabilities",
+    "inputs": {
+     "current_assets": "3471.96",
+     "current_liabilities": "3502.48"
+    },
+    "unit": "x",
+    "ev": [
+     "ev65",
+     "ev70"
+    ]
+   },
+   "quick_ratio": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "(current assets - inventories) / current liabilities",
+    "inputs": {
+     "current_assets": "3471.96",
+     "inventories": null,
+     "current_liabilities": "3502.48"
+    },
+    "note": "inventories not disclosed in the available source; quick ratio withheld",
+    "unit": "x",
+    "ev": [
+     "ev65",
+     "ev70"
+    ]
+   },
+   "roe": {
+    "value": "-100.8672",
+    "state": "ok",
+    "formula": "PAT / average of opening and closing equity x 100",
+    "inputs": {
+     "pat": "-2534.39",
+     "average_equity": "2512.60"
+    },
+    "unit": "%",
+    "ev": [
+     "ev45",
+     "ev55",
+     "ev54"
+    ]
+   },
+   "roce": {
+    "value": "-36.7273",
+    "state": "ok",
+    "formula": "(PBT + finance cost) / (total assets - current liabilities) x 100",
+    "inputs": {
+     "ebit": "-1794.93",
+     "capital_employed": "4887.18"
+    },
+    "unit": "%",
+    "ev": [
+     "ev35",
+     "ev25",
+     "ev50",
+     "ev70"
+    ]
+   },
+   "cfo_to_pat": {
+    "value": "0.0241",
+    "state": "ok",
+    "formula": "cash from operations / PAT",
+    "inputs": {
+     "cfo": "-61.14",
+     "pat": "-2534.39"
+    },
+    "unit": "x",
+    "ev": [
+     "ev75",
+     "ev45"
+    ]
+   }
+  },
+  "FY2025": {
+   "revenue_growth": {
+    "value": "3.6698",
+    "state": "ok",
+    "formula": "(current / previous) - 1",
+    "inputs": {
+     "current": "5872.16",
+     "previous": "5664.29"
+    },
+    "unit": "%",
+    "ev": [
+     "ev11",
+     "ev10"
+    ]
+   },
+   "pat_margin": {
+    "value": "-26.2940",
+    "state": "ok",
+    "formula": "PAT / total income x 100",
+    "inputs": {
+     "pat": "-1572.39",
+     "total_income": "5980.03"
+    },
+    "unit": "%",
+    "ev": [
+     "ev46",
+     "ev6"
+    ]
+   },
+   "net_profit_ratio": {
+    "value": "-26.7770",
+    "state": "ok",
+    "formula": "PAT / revenue from operations x 100",
+    "inputs": {
+     "pat": "-1572.39",
+     "revenue_ops": "5872.16"
+    },
+    "unit": "%",
+    "ev": [
+     "ev46",
+     "ev11"
+    ]
+   },
+   "other_income_share": {
+    "value": "1.8038",
+    "state": "ok",
+    "formula": "other income / total income x 100",
+    "inputs": {
+     "other_income": "107.87",
+     "total_income": "5980.03"
+    },
+    "unit": "%",
+    "ev": [
+     "ev16",
+     "ev6"
+    ]
+   },
+   "current_ratio": {
+    "value": "1.4102",
+    "state": "ok",
+    "formula": "current assets / current liabilities",
+    "inputs": {
+     "current_assets": "2511.82",
+     "current_liabilities": "1781.22"
+    },
+    "unit": "x",
+    "ev": [
+     "ev66",
+     "ev71"
+    ]
+   },
+   "quick_ratio": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "(current assets - inventories) / current liabilities",
+    "inputs": {
+     "current_assets": "2511.82",
+     "inventories": null,
+     "current_liabilities": "1781.22"
+    },
+    "note": "inventories not disclosed in the available source; quick ratio withheld",
+    "unit": "x",
+    "ev": [
+     "ev66",
+     "ev71"
+    ]
+   },
+   "roe": {
+    "value": "-53.6598",
+    "state": "ok",
+    "formula": "PAT / average of opening and closing equity x 100",
+    "inputs": {
+     "pat": "-1572.39",
+     "average_equity": "2930.295"
+    },
+    "unit": "%",
+    "ev": [
+     "ev46",
+     "ev56",
+     "ev55"
+    ]
+   },
+   "roce": {
+    "value": "-19.4554",
+    "state": "ok",
+    "formula": "(PBT + finance cost) / (total assets - current liabilities) x 100",
+    "inputs": {
+     "ebit": "-1010.78",
+     "capital_employed": "5195.36"
+    },
+    "unit": "%",
+    "ev": [
+     "ev36",
+     "ev26",
+     "ev51",
+     "ev71"
+    ]
+   },
+   "cfo_to_pat": {
+    "value": "0.1341",
+    "state": "ok",
+    "formula": "cash from operations / PAT",
+    "inputs": {
+     "cfo": "-210.92",
+     "pat": "-1572.39"
+    },
+    "unit": "x",
+    "ev": [
+     "ev76",
+     "ev46"
+    ]
+   }
+  },
+  "FY2026": {
+   "revenue_growth": {
+    "value": "12.7098",
+    "state": "ok",
+    "formula": "(current / previous) - 1",
+    "inputs": {
+     "current": "6618.5",
+     "previous": "5872.16"
+    },
+    "unit": "%",
+    "ev": [
+     "ev12",
+     "ev11"
+    ]
+   },
+   "pat_margin": {
+    "value": "-7.7780",
+    "state": "ok",
+    "formula": "PAT / total income x 100",
+    "inputs": {
+     "pat": "-520.29",
+     "total_income": "6689.29"
+    },
+    "unit": "%",
+    "ev": [
+     "ev47",
+     "ev7"
+    ]
+   },
+   "net_profit_ratio": {
+    "value": "-7.8611",
+    "state": "ok",
+    "formula": "PAT / revenue from operations x 100",
+    "inputs": {
+     "pat": "-520.29",
+     "revenue_ops": "6618.5"
+    },
+    "unit": "%",
+    "ev": [
+     "ev47",
+     "ev12"
+    ]
+   },
+   "other_income_share": {
+    "value": "1.0583",
+    "state": "ok",
+    "formula": "other income / total income x 100",
+    "inputs": {
+     "other_income": "70.79",
+     "total_income": "6689.29"
+    },
+    "unit": "%",
+    "ev": [
+     "ev17",
+     "ev7"
+    ]
+   },
+   "current_ratio": {
+    "value": "1.1794",
+    "state": "ok",
+    "formula": "current assets / current liabilities",
+    "inputs": {
+     "current_assets": "2044.37",
+     "current_liabilities": "1733.44"
+    },
+    "unit": "x",
+    "ev": [
+     "ev67",
+     "ev72"
+    ]
+   },
+   "quick_ratio": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "(current assets - inventories) / current liabilities",
+    "inputs": {
+     "current_assets": "2044.37",
+     "inventories": null,
+     "current_liabilities": "1733.44"
+    },
+    "note": "inventories not disclosed in the available source; quick ratio withheld",
+    "unit": "x",
+    "ev": [
+     "ev67",
+     "ev72"
+    ]
+   },
+   "roe": {
+    "value": "-15.5322",
+    "state": "ok",
+    "formula": "PAT / average of opening and closing equity x 100",
+    "inputs": {
+     "pat": "-520.29",
+     "average_equity": "3349.745"
+    },
+    "unit": "%",
+    "ev": [
+     "ev47",
+     "ev57",
+     "ev56"
+    ]
+   },
+   "roce": {
+    "value": "-0.9719",
+    "state": "ok",
+    "formula": "(PBT + finance cost) / (total assets - current liabilities) x 100",
+    "inputs": {
+     "ebit": "-46.14",
+     "capital_employed": "4747.63"
+    },
+    "unit": "%",
+    "ev": [
+     "ev37",
+     "ev27",
+     "ev52",
+     "ev72"
+    ]
+   },
+   "cfo_to_pat": {
+    "value": "-0.1483",
+    "state": "ok",
+    "formula": "cash from operations / PAT",
+    "inputs": {
+     "cfo": "77.18",
+     "pat": "-520.29"
+    },
+    "unit": "x",
+    "ev": [
+     "ev77",
+     "ev47"
+    ]
+   }
+  }
+ },
+ "valuation": {
+  "period": "FY2026",
+  "shares_used": "7025624934",
+  "shares_source": "shares_details",
+  "market_cap": {
+   "value": "4320.7593",
+   "state": "ok",
+   "formula": "price (INR) x shares outstanding / 1e7",
+   "inputs": {
+    "price_inr": "6.15",
+    "shares": "7025624934"
+   },
+   "unit": "INR crore"
+  },
+  "eps": {
+   "value": "-0.7406",
+   "state": "ok",
+   "formula": "PAT (INR crore) x 1e7 / shares outstanding",
+   "inputs": {
+    "pat_cr": "-520.29",
+    "shares": "7025624934"
+   },
+   "unit": "INR"
+  },
+  "eps_reported_basic": null,
+  "eps_reported_diluted": null,
+  "pe": {
+   "value": null,
+   "state": "negative_base",
+   "formula": "price / EPS",
+   "inputs": {
+    "price_inr": "6.15",
+    "eps": "-0.7405604553156466578891813071"
+   },
+   "note": "Uses a calculated proxy of annual PAT divided by shares outstanding. loss-making: P/E not meaningful",
+   "unit": "x",
+   "eps_basis": "pat_share_proxy",
+   "ev": [
+    "ev47",
+    "ev1"
+   ]
+  },
+  "pe_reported": {
+   "value": null,
+   "state": "missing_input",
+   "formula": "price / EPS",
+   "inputs": {
+    "price_inr": "6.15",
+    "eps": null
+   },
+   "unit": "x",
+   "eps_basis": "reported_basic",
+   "ev": [
+    "ev1"
+   ]
+  },
+  "pe_proxy": {
+   "value": null,
+   "state": "negative_base",
+   "formula": "price / EPS",
+   "inputs": {
+    "price_inr": "6.15",
+    "eps": "-0.7405604553156466578891813071"
+   },
+   "note": "loss-making: P/E not meaningful",
+   "unit": "x",
+   "eps_basis": "pat_share_proxy",
+   "ev": [
+    "ev47",
+    "ev1"
+   ]
+  },
+  "pb": {
+   "value": "1.2607",
+   "state": "ok",
+   "formula": "market cap / total equity",
+   "inputs": {
+    "market_cap": "4320.75933441",
+    "total_equity": "3427.21"
+   },
+   "unit": "x"
+  },
+  "ps": {
+   "value": "0.6528",
+   "state": "ok",
+   "formula": "market cap / operating revenue",
+   "inputs": {
+    "market_cap": "4320.75933441",
+    "operating_revenue": "6618.5"
+   },
+   "unit": "x"
+  },
+  "provider": {
+   "pe": "-",
+   "mcap": "4,323.67 Crore",
+   "eps": "-0.74"
+  },
+  "note": "Valued at an indicative unlisted dealer quote against the latest fiscal-year PAT; not a traded market price."
+ },
+ "coverage_gaps": [
+  {
+   "field": "inventories",
+   "state": "not_in_source",
+   "label": "Inventories"
+  },
+  {
+   "field": "cash",
+   "state": "not_in_source",
+   "label": "Cash & equivalents"
+  }
+ ],
+ "checks": [
+  {
+   "check": "balance_identity",
+   "period": "FY2022",
+   "result": "pass",
+   "detail": "assets 11381.51 - (equity 7022.48 + liabilities 4359.03) = 0.00"
+  },
+  {
+   "check": "income_identity",
+   "period": "FY2022",
+   "result": "pass",
+   "detail": "total income 5781 - (operations 5728.82 + other 52.18 + separate income lines 0) = 0.00"
+  },
+  {
+   "check": "balance_identity",
+   "period": "FY2023",
+   "result": "pass",
+   "detail": "assets 8256.42 - (equity 2436.89 + liabilities 5819.53) = 0.00"
+  },
+  {
+   "check": "income_identity",
+   "period": "FY2023",
+   "result": "pass",
+   "detail": "total income 6699.77 - (operations 6643.94 + other 55.83 + separate income lines 0) = 0.00"
+  },
+  {
+   "check": "balance_identity",
+   "period": "FY2024",
+   "result": "pass",
+   "detail": "assets 8389.66 - (equity 2588.31 + liabilities 5801.35) = 0.00"
+  },
+  {
+   "check": "income_identity",
+   "period": "FY2024",
+   "result": "pass",
+   "detail": "total income 5758.94 - (operations 5664.29 + other 94.66 + separate income lines 0) = -0.01"
+  },
+  {
+   "check": "balance_identity",
+   "period": "FY2025",
+   "result": "pass",
+   "detail": "assets 6976.58 - (equity 3272.28 + liabilities 3704.3) = 0.00"
+  },
+  {
+   "check": "income_identity",
+   "period": "FY2025",
+   "result": "pass",
+   "detail": "total income 5980.03 - (operations 5872.16 + other 107.87 + separate income lines 0) = 0.00"
+  },
+  {
+   "check": "balance_identity",
+   "period": "FY2026",
+   "result": "pass",
+   "detail": "assets 6481.07 - (equity 3427.21 + liabilities 3053.86) = 0.00"
+  },
+  {
+   "check": "income_identity",
+   "period": "FY2026",
+   "result": "pass",
+   "detail": "total income 6689.29 - (operations 6618.5 + other 70.79 + separate income lines 0) = 0.00"
+  },
+  {
+   "check": "shares_outstanding_consistency",
+   "result": "pass",
+   "detail": {
+    "shares_fundamentals": "7030365534",
+    "shares_details": "7025624934",
+    "summary_latest_fy": "7025624934"
+   }
+  }
+ ],
+ "provider_ratios": {
+  "EBITDA Margin": {
+   "FY2026": {
+    "raw_text": "1.65%",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "-14.08%",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "-27.42%",
+    "state": "reported"
+   },
+   "FY2023": {
+    "raw_text": "-63.99%",
+    "state": "reported"
+   },
+   "FY2022": {
+    "raw_text": "-61.48%",
+    "state": "reported"
+   }
+  },
+  "EBIT Margin": {
+   "FY2026": {
+    "raw_text": "-0.69%",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "-16.90%",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "-31.17%",
+    "state": "reported"
+   },
+   "FY2023": {
+    "raw_text": "-67.62%",
+    "state": "reported"
+   },
+   "FY2022": {
+    "raw_text": "-64.23%",
+    "state": "reported"
+   }
+  },
+  "Return on Equity (ROE)": {
+   "FY2026": {
+    "raw_text": "-15.18%",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "-48.05%",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "-97.92%",
+    "state": "reported"
+   },
+   "FY2023": {
+    "raw_text": "-213.86%",
+    "state": "reported"
+   },
+   "FY2022": {
+    "raw_text": "-56.86%",
+    "state": "reported"
+   }
+  },
+  "Return on Capital Employed (ROCE)": {
+   "FY2026": {
+    "raw_text": "-0.98%",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "-19.46%",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "-36.73%",
+    "state": "reported"
+   },
+   "FY2023": {
+    "raw_text": "-76.36%",
+    "state": "reported"
+   },
+   "FY2022": {
+    "raw_text": "-48.73%",
+    "state": "reported"
+   }
+  },
+  "Assets Turnover Ratio": {
+   "FY2026": {
+    "raw_text": "1.03",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "0.86",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "0.69",
+    "state": "reported"
+   },
+   "FY2023": {
+    "raw_text": "0.81",
+    "state": "reported"
+   },
+   "FY2022": {
+    "raw_text": "0.51",
+    "state": "reported"
+   }
+  },
+  "Return on Assets": {
+   "FY2026": {
+    "raw_text": "-8.03%",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "-22.54%",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "-30.21%",
+    "state": "reported"
+   },
+   "FY2023": {
+    "raw_text": "-63.12%",
+    "state": "reported"
+   },
+   "FY2022": {
+    "raw_text": "-35.08%",
+    "state": "reported"
+   }
+  },
+  "Net Profit Margin": {
+   "FY2026": {
+    "raw_text": "-7.78%",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "-26.29%",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "-44.01%",
+    "state": "reported"
+   },
+   "FY2023": {
+    "raw_text": "-77.79%",
+    "state": "reported"
+   },
+   "FY2022": {
+    "raw_text": "-69.07%",
+    "state": "reported"
+   }
+  },
+  "Interest Coverage Ratio": {
+   "FY2026": {
+    "raw_text": "-0.11",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "-2.00",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "-2.47",
+    "state": "reported"
+   },
+   "FY2023": {
+    "raw_text": "-6.81",
+    "state": "reported"
+   },
+   "FY2022": {
+    "raw_text": "-14.38",
+    "state": "reported"
+   }
+  },
+  "Revenue Growth Rate (CAGR)": {
+   "FY2026": {
+    "raw_text": "11.86%",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "3.84%",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "-14.04%",
+    "state": "reported"
+   },
+   "FY2023": {
+    "raw_text": "15.89%",
+    "state": "reported"
+   },
+   "FY2022": {
+    "raw_text": "144.89%",
+    "state": "reported"
+   }
+  }
+ },
+ "evidence": {
+  "ev1": {
+   "source": "WWIPL company overview",
+   "url": "https://wwipl.com/unlisted-shares/api-holdings-pharmeasy-share-price",
+   "retrieved_at": "2026-11-23T16:45:12+00:00",
+   "sha256": "659199eeffb941f7f936b24fb69d3b970c0a0bfea269cccb37b0c3dfe276f892",
+   "capture_run": "20261123T164433Z",
+   "file": "pharmeasy-overview.html",
+   "raw_label": "Last Traded Price",
+   "raw_text": "6.15"
+  },
+  "ev2": {
+   "source": "WWIPL company overview",
+   "url": "https://wwipl.com/unlisted-shares/api-holdings-pharmeasy-share-price",
+   "retrieved_at": "2026-11-23T16:45:12+00:00",
+   "sha256": "659199eeffb941f7f936b24fb69d3b970c0a0bfea269cccb37b0c3dfe276f892",
+   "capture_run": "20261123T164433Z",
+   "file": "pharmeasy-overview.html",
+   "raw_label": "Company fundamentals block"
+  },
+  "ev3": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/api-holdings-pharmeasy-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:14+00:00",
+   "sha256": "ba7971e6764799fd1e50b1b5aa7b3ccf56efa1bf978f1eff2ba01c554342dc7a",
+   "capture_run": "20261123T164433Z",
+   "file": "pharmeasy-financial.html",
+   "raw_label": "Revenue",
+   "raw_text": "5,781.00",
+   "raw_unit": "INR crore",
+   "period": "FY2022",
+   "period_label": "2021-22",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "pharmeasy-financial.html",
+    "table_index": 4,
+    "row_index": 1,
+    "heading": "API Holdings Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev4": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/api-holdings-pharmeasy-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:14+00:00",
+   "sha256": "ba7971e6764799fd1e50b1b5aa7b3ccf56efa1bf978f1eff2ba01c554342dc7a",
+   "capture_run": "20261123T164433Z",
+   "file": "pharmeasy-financial.html",
+   "raw_label": "Revenue",
+   "raw_text": "6,699.77",
+   "raw_unit": "INR crore",
+   "period": "FY2023",
+   "period_label": "2022-23",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "pharmeasy-financial.html",
+    "table_index": 4,
+    "row_index": 1,
+    "heading": "API Holdings Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev5": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/api-holdings-pharmeasy-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:14+00:00",
+   "sha256": "ba7971e6764799fd1e50b1b5aa7b3ccf56efa1bf978f1eff2ba01c554342dc7a",
+   "capture_run": "20261123T164433Z",
+   "file": "pharmeasy-financial.html",
+   "raw_label": "Revenue",
+   "raw_text": "5,758.94",
+   "raw_unit": "INR crore",
+   "period": "FY2024",
+   "period_label": "2023-24",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "pharmeasy-financial.html",
+    "table_index": 4,
+    "row_index": 1,
+    "heading": "API Holdings Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev6": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/api-holdings-pharmeasy-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:14+00:00",
+   "sha256": "ba7971e6764799fd1e50b1b5aa7b3ccf56efa1bf978f1eff2ba01c554342dc7a",
+   "capture_run": "20261123T164433Z",
+   "file": "pharmeasy-financial.html",
+   "raw_label": "Revenue",
+   "raw_text": "5,980.03",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "2024-25",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "pharmeasy-financial.html",
+    "table_index": 4,
+    "row_index": 1,
+    "heading": "API Holdings Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev7": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/api-holdings-pharmeasy-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:14+00:00",
+   "sha256": "ba7971e6764799fd1e50b1b5aa7b3ccf56efa1bf978f1eff2ba01c554342dc7a",
+   "capture_run": "20261123T164433Z",
+   "file": "pharmeasy-financial.html",
+   "raw_label": "Revenue",
+   "raw_text": "6,689.29",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "2025-26",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "pharmeasy-financial.html",
+    "table_index": 4,
+    "row_index": 1,
+    "heading": "API Holdings Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev8": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/api-holdings-pharmeasy-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:14+00:00",
+   "sha256": "ba7971e6764799fd1e50b1b5aa7b3ccf56efa1bf978f1eff2ba01c554342dc7a",
+   "capture_run": "20261123T164433Z",
+   "file": "pharmeasy-financial.html",
+   "raw_label": "Revenue from operations",
+   "raw_text": "5,728.82",
+   "raw_unit": "INR crore",
+   "period": "FY2022",
+   "period_label": "2021-22",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "pharmeasy-financial.html",
+    "table_index": 4,
+    "row_index": 2,
+    "heading": "API Holdings Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev9": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/api-holdings-pharmeasy-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:14+00:00",
+   "sha256": "ba7971e6764799fd1e50b1b5aa7b3ccf56efa1bf978f1eff2ba01c554342dc7a",
+   "capture_run": "20261123T164433Z",
+   "file": "pharmeasy-financial.html",
+   "raw_label": "Revenue from operations",
+   "raw_text": "6,643.94",
+   "raw_unit": "INR crore",
+   "period": "FY2023",
+   "period_label": "2022-23",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "pharmeasy-financial.html",
+    "table_index": 4,
+    "row_index": 2,
+    "heading": "API Holdings Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev10": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/api-holdings-pharmeasy-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:14+00:00",
+   "sha256": "ba7971e6764799fd1e50b1b5aa7b3ccf56efa1bf978f1eff2ba01c554342dc7a",
+   "capture_run": "20261123T164433Z",
+   "file": "pharmeasy-financial.html",
+   "raw_label": "Revenue from operations",
+   "raw_text": "5,664.29",
+   "raw_unit": "INR crore",
+   "period": "FY2024",
+   "period_label": "2023-24",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "pharmeasy-financial.html",
+    "table_index": 4,
+    "row_index": 2,
+    "heading": "API Holdings Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev11": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/api-holdings-pharmeasy-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:14+00:00",
+   "sha256": "ba7971e6764799fd1e50b1b5aa7b3ccf56efa1bf978f1eff2ba01c554342dc7a",
+   "capture_run": "20261123T164433Z",
+   "file": "pharmeasy-financial.html",
+   "raw_label": "Revenue from operations",
+   "raw_text": "5,872.16",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "2024-25",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "pharmeasy-financial.html",
+    "table_index": 4,
+    "row_index": 2,
+    "heading": "API Holdings Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev12": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/api-holdings-pharmeasy-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:14+00:00",
+   "sha256": "ba7971e6764799fd1e50b1b5aa7b3ccf56efa1bf978f1eff2ba01c554342dc7a",
+   "capture_run": "20261123T164433Z",
+   "file": "pharmeasy-financial.html",
+   "raw_label": "Revenue from operations",
+   "raw_text": "6,618.50",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "2025-26",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "pharmeasy-financial.html",
+    "table_index": 4,
+    "row_index": 2,
+    "heading": "API Holdings Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev13": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/api-holdings-pharmeasy-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:14+00:00",
+   "sha256": "ba7971e6764799fd1e50b1b5aa7b3ccf56efa1bf978f1eff2ba01c554342dc7a",
+   "capture_run": "20261123T164433Z",
+   "file": "pharmeasy-financial.html",
+   "raw_label": "Other income",
+   "raw_text": "52.18",
+   "raw_unit": "INR crore",
+   "period": "FY2022",
+   "period_label": "2021-22",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "pharmeasy-financial.html",
+    "table_index": 4,
+    "row_index": 3,
+    "heading": "API Holdings Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev14": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/api-holdings-pharmeasy-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:14+00:00",
+   "sha256": "ba7971e6764799fd1e50b1b5aa7b3ccf56efa1bf978f1eff2ba01c554342dc7a",
+   "capture_run": "20261123T164433Z",
+   "file": "pharmeasy-financial.html",
+   "raw_label": "Other income",
+   "raw_text": "55.83",
+   "raw_unit": "INR crore",
+   "period": "FY2023",
+   "period_label": "2022-23",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "pharmeasy-financial.html",
+    "table_index": 4,
+    "row_index": 3,
+    "heading": "API Holdings Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev15": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/api-holdings-pharmeasy-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:14+00:00",
+   "sha256": "ba7971e6764799fd1e50b1b5aa7b3ccf56efa1bf978f1eff2ba01c554342dc7a",
+   "capture_run": "20261123T164433Z",
+   "file": "pharmeasy-financial.html",
+   "raw_label": "Other income",
+   "raw_text": "94.66",
+   "raw_unit": "INR crore",
+   "period": "FY2024",
+   "period_label": "2023-24",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "pharmeasy-financial.html",
+    "table_index": 4,
+    "row_index": 3,
+    "heading": "API Holdings Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev16": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/api-holdings-pharmeasy-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:14+00:00",
+   "sha256": "ba7971e6764799fd1e50b1b5aa7b3ccf56efa1bf978f1eff2ba01c554342dc7a",
+   "capture_run": "20261123T164433Z",
+   "file": "pharmeasy-financial.html",
+   "raw_label": "Other income",
+   "raw_text": "107.87",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "2024-25",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "pharmeasy-financial.html",
+    "table_index": 4,
+    "row_index": 3,
+    "heading": "API Holdings Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev17": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/api-holdings-pharmeasy-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:14+00:00",
+   "sha256": "ba7971e6764799fd1e50b1b5aa7b3ccf56efa1bf978f1eff2ba01c554342dc7a",
+   "capture_run": "20261123T164433Z",
+   "file": "pharmeasy-financial.html",
+   "raw_label": "Other income",
+   "raw_text": "70.79",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "2025-26",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "pharmeasy-financial.html",
+    "table_index": 4,
+    "row_index": 3,
+    "heading": "API Holdings Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev18": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/api-holdings-pharmeasy-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:14+00:00",
+   "sha256": "ba7971e6764799fd1e50b1b5aa7b3ccf56efa1bf978f1eff2ba01c554342dc7a",
+   "capture_run": "20261123T164433Z",
+   "file": "pharmeasy-financial.html",
+   "raw_label": "Expenses",
+   "raw_text": "8,491.59",
+   "raw_unit": "INR crore",
+   "period": "FY2022",
+   "period_label": "2021-22",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "pharmeasy-financial.html",
+    "table_index": 4,
+    "row_index": 4,
+    "heading": "API Holdings Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev19": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/api-holdings-pharmeasy-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:14+00:00",
+   "sha256": "ba7971e6764799fd1e50b1b5aa7b3ccf56efa1bf978f1eff2ba01c554342dc7a",
+   "capture_run": "20261123T164433Z",
+   "file": "pharmeasy-financial.html",
+   "raw_label": "Expenses",
+   "raw_text": "8,974.01",
+   "raw_unit": "INR crore",
+   "period": "FY2023",
+   "period_label": "2022-23",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "pharmeasy-financial.html",
+    "table_index": 4,
+    "row_index": 4,
+    "heading": "API Holdings Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev20": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/api-holdings-pharmeasy-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:14+00:00",
+   "sha256": "ba7971e6764799fd1e50b1b5aa7b3ccf56efa1bf978f1eff2ba01c554342dc7a",
+   "capture_run": "20261123T164433Z",
+   "file": "pharmeasy-financial.html",
+   "raw_label": "Expenses",
+   "raw_text": "7,254.80",
+   "raw_unit": "INR crore",
+   "period": "FY2024",
+   "period_label": "2023-24",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "pharmeasy-financial.html",
+    "table_index": 4,
+    "row_index": 4,
+    "heading": "API Holdings Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev21": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/api-holdings-pharmeasy-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:14+00:00",
+   "sha256": "ba7971e6764799fd1e50b1b5aa7b3ccf56efa1bf978f1eff2ba01c554342dc7a",
+   "capture_run": "20261123T164433Z",
+   "file": "pharmeasy-financial.html",
+   "raw_label": "Expenses",
+   "raw_text": "7,208.56",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "2024-25",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "pharmeasy-financial.html",
+    "table_index": 4,
+    "row_index": 4,
+    "heading": "API Holdings Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev22": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/api-holdings-pharmeasy-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:14+00:00",
+   "sha256": "ba7971e6764799fd1e50b1b5aa7b3ccf56efa1bf978f1eff2ba01c554342dc7a",
+   "capture_run": "20261123T164433Z",
+   "file": "pharmeasy-financial.html",
+   "raw_label": "Expenses",
+   "raw_text": "7,146.74",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "2025-26",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "pharmeasy-financial.html",
+    "table_index": 4,
+    "row_index": 4,
+    "heading": "API Holdings Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev23": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/api-holdings-pharmeasy-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:14+00:00",
+   "sha256": "ba7971e6764799fd1e50b1b5aa7b3ccf56efa1bf978f1eff2ba01c554342dc7a",
+   "capture_run": "20261123T164433Z",
+   "file": "pharmeasy-financial.html",
+   "raw_label": "Finance cost",
+   "raw_text": "258.26",
+   "raw_unit": "INR crore",
+   "period": "FY2022",
+   "period_label": "2021-22",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "pharmeasy-financial.html",
+    "table_index": 4,
+    "row_index": 5,
+    "heading": "API Holdings Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev24": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/api-holdings-pharmeasy-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:14+00:00",
+   "sha256": "ba7971e6764799fd1e50b1b5aa7b3ccf56efa1bf978f1eff2ba01c554342dc7a",
+   "capture_run": "20261123T164433Z",
+   "file": "pharmeasy-financial.html",
+   "raw_label": "Finance cost",
+   "raw_text": "665.54",
+   "raw_unit": "INR crore",
+   "period": "FY2023",
+   "period_label": "2022-23",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "pharmeasy-financial.html",
+    "table_index": 4,
+    "row_index": 5,
+    "heading": "API Holdings Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev25": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/api-holdings-pharmeasy-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:14+00:00",
+   "sha256": "ba7971e6764799fd1e50b1b5aa7b3ccf56efa1bf978f1eff2ba01c554342dc7a",
+   "capture_run": "20261123T164433Z",
+   "file": "pharmeasy-financial.html",
+   "raw_label": "Finance cost",
+   "raw_text": "727.92",
+   "raw_unit": "INR crore",
+   "period": "FY2024",
+   "period_label": "2023-24",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "pharmeasy-financial.html",
+    "table_index": 4,
+    "row_index": 5,
+    "heading": "API Holdings Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev26": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/api-holdings-pharmeasy-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:14+00:00",
+   "sha256": "ba7971e6764799fd1e50b1b5aa7b3ccf56efa1bf978f1eff2ba01c554342dc7a",
+   "capture_run": "20261123T164433Z",
+   "file": "pharmeasy-financial.html",
+   "raw_label": "Finance cost",
+   "raw_text": "506.11",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "2024-25",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "pharmeasy-financial.html",
+    "table_index": 4,
+    "row_index": 5,
+    "heading": "API Holdings Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev27": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/api-holdings-pharmeasy-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:14+00:00",
+   "sha256": "ba7971e6764799fd1e50b1b5aa7b3ccf56efa1bf978f1eff2ba01c554342dc7a",
+   "capture_run": "20261123T164433Z",
+   "file": "pharmeasy-financial.html",
+   "raw_label": "Finance cost",
+   "raw_text": "409.96",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "2025-26",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "pharmeasy-financial.html",
+    "table_index": 4,
+    "row_index": 5,
+    "heading": "API Holdings Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev28": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/api-holdings-pharmeasy-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:14+00:00",
+   "sha256": "ba7971e6764799fd1e50b1b5aa7b3ccf56efa1bf978f1eff2ba01c554342dc7a",
+   "capture_run": "20261123T164433Z",
+   "file": "pharmeasy-financial.html",
+   "raw_label": "Depreciation and Amortisation expense",
+   "raw_text": "158.79",
+   "raw_unit": "INR crore",
+   "period": "FY2022",
+   "period_label": "2021-22",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "pharmeasy-financial.html",
+    "table_index": 4,
+    "row_index": 7,
+    "heading": "API Holdings Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev29": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/api-holdings-pharmeasy-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:14+00:00",
+   "sha256": "ba7971e6764799fd1e50b1b5aa7b3ccf56efa1bf978f1eff2ba01c554342dc7a",
+   "capture_run": "20261123T164433Z",
+   "file": "pharmeasy-financial.html",
+   "raw_label": "Depreciation and Amortisation expense",
+   "raw_text": "243.44",
+   "raw_unit": "INR crore",
+   "period": "FY2023",
+   "period_label": "2022-23",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "pharmeasy-financial.html",
+    "table_index": 4,
+    "row_index": 7,
+    "heading": "API Holdings Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev30": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/api-holdings-pharmeasy-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:14+00:00",
+   "sha256": "ba7971e6764799fd1e50b1b5aa7b3ccf56efa1bf978f1eff2ba01c554342dc7a",
+   "capture_run": "20261123T164433Z",
+   "file": "pharmeasy-financial.html",
+   "raw_label": "Depreciation and Amortisation expense",
+   "raw_text": "215.95",
+   "raw_unit": "INR crore",
+   "period": "FY2024",
+   "period_label": "2023-24",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "pharmeasy-financial.html",
+    "table_index": 4,
+    "row_index": 7,
+    "heading": "API Holdings Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev31": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/api-holdings-pharmeasy-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:14+00:00",
+   "sha256": "ba7971e6764799fd1e50b1b5aa7b3ccf56efa1bf978f1eff2ba01c554342dc7a",
+   "capture_run": "20261123T164433Z",
+   "file": "pharmeasy-financial.html",
+   "raw_label": "Depreciation and Amortisation expense",
+   "raw_text": "168.98",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "2024-25",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "pharmeasy-financial.html",
+    "table_index": 4,
+    "row_index": 7,
+    "heading": "API Holdings Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev32": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/api-holdings-pharmeasy-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:14+00:00",
+   "sha256": "ba7971e6764799fd1e50b1b5aa7b3ccf56efa1bf978f1eff2ba01c554342dc7a",
+   "capture_run": "20261123T164433Z",
+   "file": "pharmeasy-financial.html",
+   "raw_label": "Depreciation and Amortisation expense",
+   "raw_text": "156.26",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "2025-26",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "pharmeasy-financial.html",
+    "table_index": 4,
+    "row_index": 7,
+    "heading": "API Holdings Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev33": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/api-holdings-pharmeasy-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:14+00:00",
+   "sha256": "ba7971e6764799fd1e50b1b5aa7b3ccf56efa1bf978f1eff2ba01c554342dc7a",
+   "capture_run": "20261123T164433Z",
+   "file": "pharmeasy-financial.html",
+   "raw_label": "Profit/(loss) before tax",
+   "raw_text": "-3,971.43",
+   "raw_unit": "INR crore",
+   "period": "FY2022",
+   "period_label": "2021-22",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "pharmeasy-financial.html",
+    "table_index": 4,
+    "row_index": 9,
+    "heading": "API Holdings Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev34": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/api-holdings-pharmeasy-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:14+00:00",
+   "sha256": "ba7971e6764799fd1e50b1b5aa7b3ccf56efa1bf978f1eff2ba01c554342dc7a",
+   "capture_run": "20261123T164433Z",
+   "file": "pharmeasy-financial.html",
+   "raw_label": "Profit/(loss) before tax",
+   "raw_text": "-5,196.22",
+   "raw_unit": "INR crore",
+   "period": "FY2023",
+   "period_label": "2022-23",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "pharmeasy-financial.html",
+    "table_index": 4,
+    "row_index": 9,
+    "heading": "API Holdings Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev35": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/api-holdings-pharmeasy-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:14+00:00",
+   "sha256": "ba7971e6764799fd1e50b1b5aa7b3ccf56efa1bf978f1eff2ba01c554342dc7a",
+   "capture_run": "20261123T164433Z",
+   "file": "pharmeasy-financial.html",
+   "raw_label": "Profit/(loss) before tax",
+   "raw_text": "-2,522.85",
+   "raw_unit": "INR crore",
+   "period": "FY2024",
+   "period_label": "2023-24",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "pharmeasy-financial.html",
+    "table_index": 4,
+    "row_index": 9,
+    "heading": "API Holdings Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev36": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/api-holdings-pharmeasy-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:14+00:00",
+   "sha256": "ba7971e6764799fd1e50b1b5aa7b3ccf56efa1bf978f1eff2ba01c554342dc7a",
+   "capture_run": "20261123T164433Z",
+   "file": "pharmeasy-financial.html",
+   "raw_label": "Profit/(loss) before tax",
+   "raw_text": "-1,516.89",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "2024-25",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "pharmeasy-financial.html",
+    "table_index": 4,
+    "row_index": 9,
+    "heading": "API Holdings Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev37": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/api-holdings-pharmeasy-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:14+00:00",
+   "sha256": "ba7971e6764799fd1e50b1b5aa7b3ccf56efa1bf978f1eff2ba01c554342dc7a",
+   "capture_run": "20261123T164433Z",
+   "file": "pharmeasy-financial.html",
+   "raw_label": "Profit/(loss) before tax",
+   "raw_text": "-456.10",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "2025-26",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "pharmeasy-financial.html",
+    "table_index": 4,
+    "row_index": 9,
+    "heading": "API Holdings Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev38": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/api-holdings-pharmeasy-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:14+00:00",
+   "sha256": "ba7971e6764799fd1e50b1b5aa7b3ccf56efa1bf978f1eff2ba01c554342dc7a",
+   "capture_run": "20261123T164433Z",
+   "file": "pharmeasy-financial.html",
+   "raw_label": "Tax Expense",
+   "raw_text": "21.73",
+   "raw_unit": "INR crore",
+   "period": "FY2022",
+   "period_label": "2021-22",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "pharmeasy-financial.html",
+    "table_index": 4,
+    "row_index": 10,
+    "heading": "API Holdings Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev39": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/api-holdings-pharmeasy-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:14+00:00",
+   "sha256": "ba7971e6764799fd1e50b1b5aa7b3ccf56efa1bf978f1eff2ba01c554342dc7a",
+   "capture_run": "20261123T164433Z",
+   "file": "pharmeasy-financial.html",
+   "raw_label": "Tax Expense",
+   "raw_text": "15.21",
+   "raw_unit": "INR crore",
+   "period": "FY2023",
+   "period_label": "2022-23",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "pharmeasy-financial.html",
+    "table_index": 4,
+    "row_index": 10,
+    "heading": "API Holdings Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev40": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/api-holdings-pharmeasy-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:14+00:00",
+   "sha256": "ba7971e6764799fd1e50b1b5aa7b3ccf56efa1bf978f1eff2ba01c554342dc7a",
+   "capture_run": "20261123T164433Z",
+   "file": "pharmeasy-financial.html",
+   "raw_label": "Tax Expense",
+   "raw_text": "11.54",
+   "raw_unit": "INR crore",
+   "period": "FY2024",
+   "period_label": "2023-24",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "pharmeasy-financial.html",
+    "table_index": 4,
+    "row_index": 10,
+    "heading": "API Holdings Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev41": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/api-holdings-pharmeasy-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:14+00:00",
+   "sha256": "ba7971e6764799fd1e50b1b5aa7b3ccf56efa1bf978f1eff2ba01c554342dc7a",
+   "capture_run": "20261123T164433Z",
+   "file": "pharmeasy-financial.html",
+   "raw_label": "Tax Expense",
+   "raw_text": "55.50",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "2024-25",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "pharmeasy-financial.html",
+    "table_index": 4,
+    "row_index": 10,
+    "heading": "API Holdings Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev42": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/api-holdings-pharmeasy-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:14+00:00",
+   "sha256": "ba7971e6764799fd1e50b1b5aa7b3ccf56efa1bf978f1eff2ba01c554342dc7a",
+   "capture_run": "20261123T164433Z",
+   "file": "pharmeasy-financial.html",
+   "raw_label": "Tax Expense",
+   "raw_text": "64.19",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "2025-26",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "pharmeasy-financial.html",
+    "table_index": 4,
+    "row_index": 10,
+    "heading": "API Holdings Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev43": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/api-holdings-pharmeasy-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:14+00:00",
+   "sha256": "ba7971e6764799fd1e50b1b5aa7b3ccf56efa1bf978f1eff2ba01c554342dc7a",
+   "capture_run": "20261123T164433Z",
+   "file": "pharmeasy-financial.html",
+   "raw_label": "Profit (Loss) for the period from continuing Operations",
+   "raw_text": "-3,993.16",
+   "raw_unit": "INR crore",
+   "period": "FY2022",
+   "period_label": "2021-22",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "pharmeasy-financial.html",
+    "table_index": 4,
+    "row_index": 13,
+    "heading": "API Holdings Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev44": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/api-holdings-pharmeasy-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:14+00:00",
+   "sha256": "ba7971e6764799fd1e50b1b5aa7b3ccf56efa1bf978f1eff2ba01c554342dc7a",
+   "capture_run": "20261123T164433Z",
+   "file": "pharmeasy-financial.html",
+   "raw_label": "Profit (Loss) for the period from continuing Operations",
+   "raw_text": "-5,211.44",
+   "raw_unit": "INR crore",
+   "period": "FY2023",
+   "period_label": "2022-23",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "pharmeasy-financial.html",
+    "table_index": 4,
+    "row_index": 13,
+    "heading": "API Holdings Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev45": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/api-holdings-pharmeasy-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:14+00:00",
+   "sha256": "ba7971e6764799fd1e50b1b5aa7b3ccf56efa1bf978f1eff2ba01c554342dc7a",
+   "capture_run": "20261123T164433Z",
+   "file": "pharmeasy-financial.html",
+   "raw_label": "Profit (Loss) for the period from continuing Operations",
+   "raw_text": "-2,534.39",
+   "raw_unit": "INR crore",
+   "period": "FY2024",
+   "period_label": "2023-24",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "pharmeasy-financial.html",
+    "table_index": 4,
+    "row_index": 13,
+    "heading": "API Holdings Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev46": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/api-holdings-pharmeasy-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:14+00:00",
+   "sha256": "ba7971e6764799fd1e50b1b5aa7b3ccf56efa1bf978f1eff2ba01c554342dc7a",
+   "capture_run": "20261123T164433Z",
+   "file": "pharmeasy-financial.html",
+   "raw_label": "Profit (Loss) for the period from continuing Operations",
+   "raw_text": "-1,572.39",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "2024-25",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "pharmeasy-financial.html",
+    "table_index": 4,
+    "row_index": 13,
+    "heading": "API Holdings Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev47": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/api-holdings-pharmeasy-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:14+00:00",
+   "sha256": "ba7971e6764799fd1e50b1b5aa7b3ccf56efa1bf978f1eff2ba01c554342dc7a",
+   "capture_run": "20261123T164433Z",
+   "file": "pharmeasy-financial.html",
+   "raw_label": "Profit (Loss) for the period from continuing Operations",
+   "raw_text": "-520.29",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "2025-26",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "pharmeasy-financial.html",
+    "table_index": 4,
+    "row_index": 13,
+    "heading": "API Holdings Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev48": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/api-holdings-pharmeasy-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:14+00:00",
+   "sha256": "ba7971e6764799fd1e50b1b5aa7b3ccf56efa1bf978f1eff2ba01c554342dc7a",
+   "capture_run": "20261123T164433Z",
+   "file": "pharmeasy-financial.html",
+   "raw_label": "ASSETS",
+   "raw_text": "11,381.51",
+   "raw_unit": "INR crore",
+   "period": "FY2022",
+   "period_label": "2021-22",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "pharmeasy-financial.html",
+    "table_index": 1,
+    "row_index": 7,
+    "heading": "API Holdings Limited Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev49": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/api-holdings-pharmeasy-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:14+00:00",
+   "sha256": "ba7971e6764799fd1e50b1b5aa7b3ccf56efa1bf978f1eff2ba01c554342dc7a",
+   "capture_run": "20261123T164433Z",
+   "file": "pharmeasy-financial.html",
+   "raw_label": "ASSETS",
+   "raw_text": "8,256.42",
+   "raw_unit": "INR crore",
+   "period": "FY2023",
+   "period_label": "2022-23",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "pharmeasy-financial.html",
+    "table_index": 1,
+    "row_index": 7,
+    "heading": "API Holdings Limited Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev50": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/api-holdings-pharmeasy-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:14+00:00",
+   "sha256": "ba7971e6764799fd1e50b1b5aa7b3ccf56efa1bf978f1eff2ba01c554342dc7a",
+   "capture_run": "20261123T164433Z",
+   "file": "pharmeasy-financial.html",
+   "raw_label": "ASSETS",
+   "raw_text": "8,389.66",
+   "raw_unit": "INR crore",
+   "period": "FY2024",
+   "period_label": "2023-24",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "pharmeasy-financial.html",
+    "table_index": 1,
+    "row_index": 7,
+    "heading": "API Holdings Limited Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev51": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/api-holdings-pharmeasy-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:14+00:00",
+   "sha256": "ba7971e6764799fd1e50b1b5aa7b3ccf56efa1bf978f1eff2ba01c554342dc7a",
+   "capture_run": "20261123T164433Z",
+   "file": "pharmeasy-financial.html",
+   "raw_label": "ASSETS",
+   "raw_text": "6,976.58",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "2024-25",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "pharmeasy-financial.html",
+    "table_index": 1,
+    "row_index": 7,
+    "heading": "API Holdings Limited Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev52": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/api-holdings-pharmeasy-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:14+00:00",
+   "sha256": "ba7971e6764799fd1e50b1b5aa7b3ccf56efa1bf978f1eff2ba01c554342dc7a",
+   "capture_run": "20261123T164433Z",
+   "file": "pharmeasy-financial.html",
+   "raw_label": "ASSETS",
+   "raw_text": "6,481.07",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "2025-26",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "pharmeasy-financial.html",
+    "table_index": 1,
+    "row_index": 7,
+    "heading": "API Holdings Limited Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev53": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/api-holdings-pharmeasy-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:14+00:00",
+   "sha256": "ba7971e6764799fd1e50b1b5aa7b3ccf56efa1bf978f1eff2ba01c554342dc7a",
+   "capture_run": "20261123T164433Z",
+   "file": "pharmeasy-financial.html",
+   "raw_label": "Total equity",
+   "raw_text": "7,022.48",
+   "raw_unit": "INR crore",
+   "period": "FY2022",
+   "period_label": "2021-22",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "pharmeasy-financial.html",
+    "table_index": 1,
+    "row_index": 2,
+    "heading": "API Holdings Limited Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev54": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/api-holdings-pharmeasy-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:14+00:00",
+   "sha256": "ba7971e6764799fd1e50b1b5aa7b3ccf56efa1bf978f1eff2ba01c554342dc7a",
+   "capture_run": "20261123T164433Z",
+   "file": "pharmeasy-financial.html",
+   "raw_label": "Total equity",
+   "raw_text": "2,436.89",
+   "raw_unit": "INR crore",
+   "period": "FY2023",
+   "period_label": "2022-23",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "pharmeasy-financial.html",
+    "table_index": 1,
+    "row_index": 2,
+    "heading": "API Holdings Limited Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev55": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/api-holdings-pharmeasy-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:14+00:00",
+   "sha256": "ba7971e6764799fd1e50b1b5aa7b3ccf56efa1bf978f1eff2ba01c554342dc7a",
+   "capture_run": "20261123T164433Z",
+   "file": "pharmeasy-financial.html",
+   "raw_label": "Total equity",
+   "raw_text": "2,588.31",
+   "raw_unit": "INR crore",
+   "period": "FY2024",
+   "period_label": "2023-24",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "pharmeasy-financial.html",
+    "table_index": 1,
+    "row_index": 2,
+    "heading": "API Holdings Limited Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev56": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/api-holdings-pharmeasy-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:14+00:00",
+   "sha256": "ba7971e6764799fd1e50b1b5aa7b3ccf56efa1bf978f1eff2ba01c554342dc7a",
+   "capture_run": "20261123T164433Z",
+   "file": "pharmeasy-financial.html",
+   "raw_label": "Total equity",
+   "raw_text": "3,272.28",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "2024-25",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "pharmeasy-financial.html",
+    "table_index": 1,
+    "row_index": 2,
+    "heading": "API Holdings Limited Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev57": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/api-holdings-pharmeasy-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:14+00:00",
+   "sha256": "ba7971e6764799fd1e50b1b5aa7b3ccf56efa1bf978f1eff2ba01c554342dc7a",
+   "capture_run": "20261123T164433Z",
+   "file": "pharmeasy-financial.html",
+   "raw_label": "Total equity",
+   "raw_text": "3,427.21",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "2025-26",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "pharmeasy-financial.html",
+    "table_index": 1,
+    "row_index": 2,
+    "heading": "API Holdings Limited Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev58": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/api-holdings-pharmeasy-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:14+00:00",
+   "sha256": "ba7971e6764799fd1e50b1b5aa7b3ccf56efa1bf978f1eff2ba01c554342dc7a",
+   "capture_run": "20261123T164433Z",
+   "file": "pharmeasy-financial.html",
+   "raw_label": "Total liabilities",
+   "raw_text": "4,359.03",
+   "raw_unit": "INR crore",
+   "period": "FY2022",
+   "period_label": "2021-22",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "pharmeasy-financial.html",
+    "table_index": 1,
+    "row_index": 3,
+    "heading": "API Holdings Limited Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev59": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/api-holdings-pharmeasy-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:14+00:00",
+   "sha256": "ba7971e6764799fd1e50b1b5aa7b3ccf56efa1bf978f1eff2ba01c554342dc7a",
+   "capture_run": "20261123T164433Z",
+   "file": "pharmeasy-financial.html",
+   "raw_label": "Total liabilities",
+   "raw_text": "5,819.53",
+   "raw_unit": "INR crore",
+   "period": "FY2023",
+   "period_label": "2022-23",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "pharmeasy-financial.html",
+    "table_index": 1,
+    "row_index": 3,
+    "heading": "API Holdings Limited Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev60": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/api-holdings-pharmeasy-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:14+00:00",
+   "sha256": "ba7971e6764799fd1e50b1b5aa7b3ccf56efa1bf978f1eff2ba01c554342dc7a",
+   "capture_run": "20261123T164433Z",
+   "file": "pharmeasy-financial.html",
+   "raw_label": "Total liabilities",
+   "raw_text": "5,801.35",
+   "raw_unit": "INR crore",
+   "period": "FY2024",
+   "period_label": "2023-24",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "pharmeasy-financial.html",
+    "table_index": 1,
+    "row_index": 3,
+    "heading": "API Holdings Limited Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev61": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/api-holdings-pharmeasy-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:14+00:00",
+   "sha256": "ba7971e6764799fd1e50b1b5aa7b3ccf56efa1bf978f1eff2ba01c554342dc7a",
+   "capture_run": "20261123T164433Z",
+   "file": "pharmeasy-financial.html",
+   "raw_label": "Total liabilities",
+   "raw_text": "3,704.30",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "2024-25",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "pharmeasy-financial.html",
+    "table_index": 1,
+    "row_index": 3,
+    "heading": "API Holdings Limited Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev62": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/api-holdings-pharmeasy-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:14+00:00",
+   "sha256": "ba7971e6764799fd1e50b1b5aa7b3ccf56efa1bf978f1eff2ba01c554342dc7a",
+   "capture_run": "20261123T164433Z",
+   "file": "pharmeasy-financial.html",
+   "raw_label": "Total liabilities",
+   "raw_text": "3,053.86",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "2025-26",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "pharmeasy-financial.html",
+    "table_index": 1,
+    "row_index": 3,
+    "heading": "API Holdings Limited Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev63": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/api-holdings-pharmeasy-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:14+00:00",
+   "sha256": "ba7971e6764799fd1e50b1b5aa7b3ccf56efa1bf978f1eff2ba01c554342dc7a",
+   "capture_run": "20261123T164433Z",
+   "file": "pharmeasy-financial.html",
+   "raw_label": "Current assets",
+   "raw_text": "2,502.21",
+   "raw_unit": "INR crore",
+   "period": "FY2022",
+   "period_label": "2021-22",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "pharmeasy-financial.html",
+    "table_index": 1,
+    "row_index": 9,
+    "heading": "API Holdings Limited Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev64": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/api-holdings-pharmeasy-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:14+00:00",
+   "sha256": "ba7971e6764799fd1e50b1b5aa7b3ccf56efa1bf978f1eff2ba01c554342dc7a",
+   "capture_run": "20261123T164433Z",
+   "file": "pharmeasy-financial.html",
+   "raw_label": "Current assets",
+   "raw_text": "2,534.75",
+   "raw_unit": "INR crore",
+   "period": "FY2023",
+   "period_label": "2022-23",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "pharmeasy-financial.html",
+    "table_index": 1,
+    "row_index": 9,
+    "heading": "API Holdings Limited Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev65": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/api-holdings-pharmeasy-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:14+00:00",
+   "sha256": "ba7971e6764799fd1e50b1b5aa7b3ccf56efa1bf978f1eff2ba01c554342dc7a",
+   "capture_run": "20261123T164433Z",
+   "file": "pharmeasy-financial.html",
+   "raw_label": "Current assets",
+   "raw_text": "3,471.96",
+   "raw_unit": "INR crore",
+   "period": "FY2024",
+   "period_label": "2023-24",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "pharmeasy-financial.html",
+    "table_index": 1,
+    "row_index": 9,
+    "heading": "API Holdings Limited Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev66": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/api-holdings-pharmeasy-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:14+00:00",
+   "sha256": "ba7971e6764799fd1e50b1b5aa7b3ccf56efa1bf978f1eff2ba01c554342dc7a",
+   "capture_run": "20261123T164433Z",
+   "file": "pharmeasy-financial.html",
+   "raw_label": "Current assets",
+   "raw_text": "2,511.82",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "2024-25",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "pharmeasy-financial.html",
+    "table_index": 1,
+    "row_index": 9,
+    "heading": "API Holdings Limited Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev67": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/api-holdings-pharmeasy-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:14+00:00",
+   "sha256": "ba7971e6764799fd1e50b1b5aa7b3ccf56efa1bf978f1eff2ba01c554342dc7a",
+   "capture_run": "20261123T164433Z",
+   "file": "pharmeasy-financial.html",
+   "raw_label": "Current assets",
+   "raw_text": "2,044.37",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "2025-26",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "pharmeasy-financial.html",
+    "table_index": 1,
+    "row_index": 9,
+    "heading": "API Holdings Limited Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev68": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/api-holdings-pharmeasy-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:14+00:00",
+   "sha256": "ba7971e6764799fd1e50b1b5aa7b3ccf56efa1bf978f1eff2ba01c554342dc7a",
+   "capture_run": "20261123T164433Z",
+   "file": "pharmeasy-financial.html",
+   "raw_label": "Current liabilities",
+   "raw_text": "3,761.61",
+   "raw_unit": "INR crore",
+   "period": "FY2022",
+   "period_label": "2021-22",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "pharmeasy-financial.html",
+    "table_index": 1,
+    "row_index": 5,
+    "heading": "API Holdings Limited Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev69": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/api-holdings-pharmeasy-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:14+00:00",
+   "sha256": "ba7971e6764799fd1e50b1b5aa7b3ccf56efa1bf978f1eff2ba01c554342dc7a",
+   "capture_run": "20261123T164433Z",
+   "file": "pharmeasy-financial.html",
+   "raw_label": "Current liabilities",
+   "raw_text": "2,323.22",
+   "raw_unit": "INR crore",
+   "period": "FY2023",
+   "period_label": "2022-23",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "pharmeasy-financial.html",
+    "table_index": 1,
+    "row_index": 5,
+    "heading": "API Holdings Limited Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev70": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/api-holdings-pharmeasy-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:14+00:00",
+   "sha256": "ba7971e6764799fd1e50b1b5aa7b3ccf56efa1bf978f1eff2ba01c554342dc7a",
+   "capture_run": "20261123T164433Z",
+   "file": "pharmeasy-financial.html",
+   "raw_label": "Current liabilities",
+   "raw_text": "3,502.48",
+   "raw_unit": "INR crore",
+   "period": "FY2024",
+   "period_label": "2023-24",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "pharmeasy-financial.html",
+    "table_index": 1,
+    "row_index": 5,
+    "heading": "API Holdings Limited Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev71": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/api-holdings-pharmeasy-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:14+00:00",
+   "sha256": "ba7971e6764799fd1e50b1b5aa7b3ccf56efa1bf978f1eff2ba01c554342dc7a",
+   "capture_run": "20261123T164433Z",
+   "file": "pharmeasy-financial.html",
+   "raw_label": "Current liabilities",
+   "raw_text": "1,781.22",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "2024-25",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "pharmeasy-financial.html",
+    "table_index": 1,
+    "row_index": 5,
+    "heading": "API Holdings Limited Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev72": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/api-holdings-pharmeasy-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:14+00:00",
+   "sha256": "ba7971e6764799fd1e50b1b5aa7b3ccf56efa1bf978f1eff2ba01c554342dc7a",
+   "capture_run": "20261123T164433Z",
+   "file": "pharmeasy-financial.html",
+   "raw_label": "Current liabilities",
+   "raw_text": "1,733.44",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "2025-26",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "pharmeasy-financial.html",
+    "table_index": 1,
+    "row_index": 5,
+    "heading": "API Holdings Limited Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev73": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/api-holdings-pharmeasy-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:14+00:00",
+   "sha256": "ba7971e6764799fd1e50b1b5aa7b3ccf56efa1bf978f1eff2ba01c554342dc7a",
+   "capture_run": "20261123T164433Z",
+   "file": "pharmeasy-financial.html",
+   "raw_label": "Net cash from/(used in) operating activities",
+   "raw_text": "-2,589.37",
+   "raw_unit": "INR crore",
+   "period": "FY2022",
+   "period_label": "2021-22",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "pharmeasy-financial.html",
+    "table_index": 2,
+    "row_index": 1,
+    "heading": "API Holdings Limited CashFlow Statement(Rs in Crores)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev74": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/api-holdings-pharmeasy-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:14+00:00",
+   "sha256": "ba7971e6764799fd1e50b1b5aa7b3ccf56efa1bf978f1eff2ba01c554342dc7a",
+   "capture_run": "20261123T164433Z",
+   "file": "pharmeasy-financial.html",
+   "raw_label": "Net cash from/(used in) operating activities",
+   "raw_text": "-746.59",
+   "raw_unit": "INR crore",
+   "period": "FY2023",
+   "period_label": "2022-23",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "pharmeasy-financial.html",
+    "table_index": 2,
+    "row_index": 1,
+    "heading": "API Holdings Limited CashFlow Statement(Rs in Crores)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev75": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/api-holdings-pharmeasy-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:14+00:00",
+   "sha256": "ba7971e6764799fd1e50b1b5aa7b3ccf56efa1bf978f1eff2ba01c554342dc7a",
+   "capture_run": "20261123T164433Z",
+   "file": "pharmeasy-financial.html",
+   "raw_label": "Net cash from/(used in) operating activities",
+   "raw_text": "-61.14",
+   "raw_unit": "INR crore",
+   "period": "FY2024",
+   "period_label": "2023-24",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "pharmeasy-financial.html",
+    "table_index": 2,
+    "row_index": 1,
+    "heading": "API Holdings Limited CashFlow Statement(Rs in Crores)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev76": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/api-holdings-pharmeasy-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:14+00:00",
+   "sha256": "ba7971e6764799fd1e50b1b5aa7b3ccf56efa1bf978f1eff2ba01c554342dc7a",
+   "capture_run": "20261123T164433Z",
+   "file": "pharmeasy-financial.html",
+   "raw_label": "Net cash from/(used in) operating activities",
+   "raw_text": "-210.92",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "2024-25",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "pharmeasy-financial.html",
+    "table_index": 2,
+    "row_index": 1,
+    "heading": "API Holdings Limited CashFlow Statement(Rs in Crores)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev77": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/api-holdings-pharmeasy-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:14+00:00",
+   "sha256": "ba7971e6764799fd1e50b1b5aa7b3ccf56efa1bf978f1eff2ba01c554342dc7a",
+   "capture_run": "20261123T164433Z",
+   "file": "pharmeasy-financial.html",
+   "raw_label": "Net cash from/(used in) operating activities",
+   "raw_text": "77.18",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "2025-26",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "pharmeasy-financial.html",
+    "table_index": 2,
+    "row_index": 1,
+    "heading": "API Holdings Limited CashFlow Statement(Rs in Crores)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev78": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/api-holdings-pharmeasy-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:14+00:00",
+   "sha256": "ba7971e6764799fd1e50b1b5aa7b3ccf56efa1bf978f1eff2ba01c554342dc7a",
+   "capture_run": "20261123T164433Z",
+   "file": "pharmeasy-financial.html",
+   "raw_label": "Net cash from/(used in) investing activities",
+   "raw_text": "-5,789.21",
+   "raw_unit": "INR crore",
+   "period": "FY2022",
+   "period_label": "2021-22",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "pharmeasy-financial.html",
+    "table_index": 2,
+    "row_index": 2,
+    "heading": "API Holdings Limited CashFlow Statement(Rs in Crores)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev79": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/api-holdings-pharmeasy-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:14+00:00",
+   "sha256": "ba7971e6764799fd1e50b1b5aa7b3ccf56efa1bf978f1eff2ba01c554342dc7a",
+   "capture_run": "20261123T164433Z",
+   "file": "pharmeasy-financial.html",
+   "raw_label": "Net cash from/(used in) investing activities",
+   "raw_text": "-70.13",
+   "raw_unit": "INR crore",
+   "period": "FY2023",
+   "period_label": "2022-23",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "pharmeasy-financial.html",
+    "table_index": 2,
+    "row_index": 2,
+    "heading": "API Holdings Limited CashFlow Statement(Rs in Crores)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev80": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/api-holdings-pharmeasy-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:14+00:00",
+   "sha256": "ba7971e6764799fd1e50b1b5aa7b3ccf56efa1bf978f1eff2ba01c554342dc7a",
+   "capture_run": "20261123T164433Z",
+   "file": "pharmeasy-financial.html",
+   "raw_label": "Net cash from/(used in) investing activities",
+   "raw_text": "-1,260.95",
+   "raw_unit": "INR crore",
+   "period": "FY2024",
+   "period_label": "2023-24",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "pharmeasy-financial.html",
+    "table_index": 2,
+    "row_index": 2,
+    "heading": "API Holdings Limited CashFlow Statement(Rs in Crores)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev81": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/api-holdings-pharmeasy-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:14+00:00",
+   "sha256": "ba7971e6764799fd1e50b1b5aa7b3ccf56efa1bf978f1eff2ba01c554342dc7a",
+   "capture_run": "20261123T164433Z",
+   "file": "pharmeasy-financial.html",
+   "raw_label": "Net cash from/(used in) investing activities",
+   "raw_text": "795.41",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "2024-25",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "pharmeasy-financial.html",
+    "table_index": 2,
+    "row_index": 2,
+    "heading": "API Holdings Limited CashFlow Statement(Rs in Crores)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev82": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/api-holdings-pharmeasy-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:14+00:00",
+   "sha256": "ba7971e6764799fd1e50b1b5aa7b3ccf56efa1bf978f1eff2ba01c554342dc7a",
+   "capture_run": "20261123T164433Z",
+   "file": "pharmeasy-financial.html",
+   "raw_label": "Net cash from/(used in) investing activities",
+   "raw_text": "514.93",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "2025-26",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "pharmeasy-financial.html",
+    "table_index": 2,
+    "row_index": 2,
+    "heading": "API Holdings Limited CashFlow Statement(Rs in Crores)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev83": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/api-holdings-pharmeasy-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:14+00:00",
+   "sha256": "ba7971e6764799fd1e50b1b5aa7b3ccf56efa1bf978f1eff2ba01c554342dc7a",
+   "capture_run": "20261123T164433Z",
+   "file": "pharmeasy-financial.html",
+   "raw_label": "Net cash from/(used) in financing activities",
+   "raw_text": "8,305.37",
+   "raw_unit": "INR crore",
+   "period": "FY2022",
+   "period_label": "2021-22",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "pharmeasy-financial.html",
+    "table_index": 2,
+    "row_index": 3,
+    "heading": "API Holdings Limited CashFlow Statement(Rs in Crores)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev84": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/api-holdings-pharmeasy-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:14+00:00",
+   "sha256": "ba7971e6764799fd1e50b1b5aa7b3ccf56efa1bf978f1eff2ba01c554342dc7a",
+   "capture_run": "20261123T164433Z",
+   "file": "pharmeasy-financial.html",
+   "raw_label": "Net cash from/(used) in financing activities",
+   "raw_text": "853.49",
+   "raw_unit": "INR crore",
+   "period": "FY2023",
+   "period_label": "2022-23",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "pharmeasy-financial.html",
+    "table_index": 2,
+    "row_index": 3,
+    "heading": "API Holdings Limited CashFlow Statement(Rs in Crores)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev85": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/api-holdings-pharmeasy-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:14+00:00",
+   "sha256": "ba7971e6764799fd1e50b1b5aa7b3ccf56efa1bf978f1eff2ba01c554342dc7a",
+   "capture_run": "20261123T164433Z",
+   "file": "pharmeasy-financial.html",
+   "raw_label": "Net cash from/(used) in financing activities",
+   "raw_text": "1,457.38",
+   "raw_unit": "INR crore",
+   "period": "FY2024",
+   "period_label": "2023-24",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "pharmeasy-financial.html",
+    "table_index": 2,
+    "row_index": 3,
+    "heading": "API Holdings Limited CashFlow Statement(Rs in Crores)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev86": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/api-holdings-pharmeasy-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:14+00:00",
+   "sha256": "ba7971e6764799fd1e50b1b5aa7b3ccf56efa1bf978f1eff2ba01c554342dc7a",
+   "capture_run": "20261123T164433Z",
+   "file": "pharmeasy-financial.html",
+   "raw_label": "Net cash from/(used) in financing activities",
+   "raw_text": "-792.97",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "2024-25",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "pharmeasy-financial.html",
+    "table_index": 2,
+    "row_index": 3,
+    "heading": "API Holdings Limited CashFlow Statement(Rs in Crores)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev87": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/api-holdings-pharmeasy-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:14+00:00",
+   "sha256": "ba7971e6764799fd1e50b1b5aa7b3ccf56efa1bf978f1eff2ba01c554342dc7a",
+   "capture_run": "20261123T164433Z",
+   "file": "pharmeasy-financial.html",
+   "raw_label": "Net cash from/(used) in financing activities",
+   "raw_text": "-465.74",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "2025-26",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "pharmeasy-financial.html",
+    "table_index": 2,
+    "row_index": 3,
+    "heading": "API Holdings Limited CashFlow Statement(Rs in Crores)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev88": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/api-holdings-pharmeasy-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:14+00:00",
+   "sha256": "ba7971e6764799fd1e50b1b5aa7b3ccf56efa1bf978f1eff2ba01c554342dc7a",
+   "capture_run": "20261123T164433Z",
+   "file": "pharmeasy-financial.html",
+   "raw_label": "EBITDA",
+   "raw_text": "-3,554.38",
+   "raw_unit": "INR crore",
+   "period": "FY2022",
+   "period_label": "2021-22",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "pharmeasy-financial.html",
+    "table_index": 5,
+    "row_index": 8,
+    "heading": "API Holdings Limited Summary(Rs in Crores)"
+   },
+   "statement": "summary",
+   "derived": false,
+   "components": null
+  },
+  "ev89": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/api-holdings-pharmeasy-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:14+00:00",
+   "sha256": "ba7971e6764799fd1e50b1b5aa7b3ccf56efa1bf978f1eff2ba01c554342dc7a",
+   "capture_run": "20261123T164433Z",
+   "file": "pharmeasy-financial.html",
+   "raw_label": "EBITDA",
+   "raw_text": "-4,287.24",
+   "raw_unit": "INR crore",
+   "period": "FY2023",
+   "period_label": "2022-23",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "pharmeasy-financial.html",
+    "table_index": 5,
+    "row_index": 8,
+    "heading": "API Holdings Limited Summary(Rs in Crores)"
+   },
+   "statement": "summary",
+   "derived": false,
+   "components": null
+  },
+  "ev90": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/api-holdings-pharmeasy-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:14+00:00",
+   "sha256": "ba7971e6764799fd1e50b1b5aa7b3ccf56efa1bf978f1eff2ba01c554342dc7a",
+   "capture_run": "20261123T164433Z",
+   "file": "pharmeasy-financial.html",
+   "raw_label": "EBITDA",
+   "raw_text": "-1,578.98",
+   "raw_unit": "INR crore",
+   "period": "FY2024",
+   "period_label": "2023-24",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "pharmeasy-financial.html",
+    "table_index": 5,
+    "row_index": 8,
+    "heading": "API Holdings Limited Summary(Rs in Crores)"
+   },
+   "statement": "summary",
+   "derived": false,
+   "components": null
+  },
+  "ev91": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/api-holdings-pharmeasy-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:14+00:00",
+   "sha256": "ba7971e6764799fd1e50b1b5aa7b3ccf56efa1bf978f1eff2ba01c554342dc7a",
+   "capture_run": "20261123T164433Z",
+   "file": "pharmeasy-financial.html",
+   "raw_label": "EBITDA",
+   "raw_text": "-841.80",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "2024-25",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "pharmeasy-financial.html",
+    "table_index": 5,
+    "row_index": 8,
+    "heading": "API Holdings Limited Summary(Rs in Crores)"
+   },
+   "statement": "summary",
+   "derived": false,
+   "components": null
+  },
+  "ev92": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/api-holdings-pharmeasy-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:14+00:00",
+   "sha256": "ba7971e6764799fd1e50b1b5aa7b3ccf56efa1bf978f1eff2ba01c554342dc7a",
+   "capture_run": "20261123T164433Z",
+   "file": "pharmeasy-financial.html",
+   "raw_label": "EBITDA",
+   "raw_text": "110.12",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "2025-26",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "pharmeasy-financial.html",
+    "table_index": 5,
+    "row_index": 8,
+    "heading": "API Holdings Limited Summary(Rs in Crores)"
+   },
+   "statement": "summary",
+   "derived": false,
+   "components": null
+  },
+  "ev93": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/api-holdings-pharmeasy-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:14+00:00",
+   "sha256": "ba7971e6764799fd1e50b1b5aa7b3ccf56efa1bf978f1eff2ba01c554342dc7a",
+   "capture_run": "20261123T164433Z",
+   "file": "pharmeasy-financial.html",
+   "raw_label": "Earnings Per Share (EPS)",
+   "raw_text": "-6.50",
+   "raw_unit": "INR per share",
+   "period": "FY2022",
+   "period_label": "2021-22",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "pharmeasy-financial.html",
+    "table_index": 5,
+    "row_index": 12,
+    "heading": "API Holdings Limited Summary(Rs in Crores)"
+   },
+   "statement": "summary",
+   "derived": false,
+   "components": null
+  },
+  "ev94": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/api-holdings-pharmeasy-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:14+00:00",
+   "sha256": "ba7971e6764799fd1e50b1b5aa7b3ccf56efa1bf978f1eff2ba01c554342dc7a",
+   "capture_run": "20261123T164433Z",
+   "file": "pharmeasy-financial.html",
+   "raw_label": "Earnings Per Share (EPS)",
+   "raw_text": "-8.48",
+   "raw_unit": "INR per share",
+   "period": "FY2023",
+   "period_label": "2022-23",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "pharmeasy-financial.html",
+    "table_index": 5,
+    "row_index": 12,
+    "heading": "API Holdings Limited Summary(Rs in Crores)"
+   },
+   "statement": "summary",
+   "derived": false,
+   "components": null
+  },
+  "ev95": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/api-holdings-pharmeasy-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:14+00:00",
+   "sha256": "ba7971e6764799fd1e50b1b5aa7b3ccf56efa1bf978f1eff2ba01c554342dc7a",
+   "capture_run": "20261123T164433Z",
+   "file": "pharmeasy-financial.html",
+   "raw_label": "Earnings Per Share (EPS)",
+   "raw_text": "-4.06",
+   "raw_unit": "INR per share",
+   "period": "FY2024",
+   "period_label": "2023-24",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "pharmeasy-financial.html",
+    "table_index": 5,
+    "row_index": 12,
+    "heading": "API Holdings Limited Summary(Rs in Crores)"
+   },
+   "statement": "summary",
+   "derived": false,
+   "components": null
+  },
+  "ev96": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/api-holdings-pharmeasy-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:14+00:00",
+   "sha256": "ba7971e6764799fd1e50b1b5aa7b3ccf56efa1bf978f1eff2ba01c554342dc7a",
+   "capture_run": "20261123T164433Z",
+   "file": "pharmeasy-financial.html",
+   "raw_label": "Earnings Per Share (EPS)",
+   "raw_text": "-2.41",
+   "raw_unit": "INR per share",
+   "period": "FY2025",
+   "period_label": "2024-25",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "pharmeasy-financial.html",
+    "table_index": 5,
+    "row_index": 12,
+    "heading": "API Holdings Limited Summary(Rs in Crores)"
+   },
+   "statement": "summary",
+   "derived": false,
+   "components": null
+  },
+  "ev97": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/api-holdings-pharmeasy-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:14+00:00",
+   "sha256": "ba7971e6764799fd1e50b1b5aa7b3ccf56efa1bf978f1eff2ba01c554342dc7a",
+   "capture_run": "20261123T164433Z",
+   "file": "pharmeasy-financial.html",
+   "raw_label": "Earnings Per Share (EPS)",
+   "raw_text": "-0.74",
+   "raw_unit": "INR per share",
+   "period": "FY2026",
+   "period_label": "2025-26",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "pharmeasy-financial.html",
+    "table_index": 5,
+    "row_index": 12,
+    "heading": "API Holdings Limited Summary(Rs in Crores)"
+   },
+   "statement": "summary",
+   "derived": false,
+   "components": null
+  },
+  "ev98": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/api-holdings-pharmeasy-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:14+00:00",
+   "sha256": "ba7971e6764799fd1e50b1b5aa7b3ccf56efa1bf978f1eff2ba01c554342dc7a",
+   "capture_run": "20261123T164433Z",
+   "file": "pharmeasy-financial.html",
+   "raw_label": "Outstanding Shares",
+   "raw_text": "6,142,041,070.00",
+   "raw_unit": "shares",
+   "period": "FY2022",
+   "period_label": "2021-22",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "pharmeasy-financial.html",
+    "table_index": 5,
+    "row_index": 11,
+    "heading": "API Holdings Limited Summary(Rs in Crores)"
+   },
+   "statement": "summary",
+   "derived": false,
+   "components": null
+  },
+  "ev99": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/api-holdings-pharmeasy-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:14+00:00",
+   "sha256": "ba7971e6764799fd1e50b1b5aa7b3ccf56efa1bf978f1eff2ba01c554342dc7a",
+   "capture_run": "20261123T164433Z",
+   "file": "pharmeasy-financial.html",
+   "raw_label": "Outstanding Shares",
+   "raw_text": "6,142,041,070.00",
+   "raw_unit": "shares",
+   "period": "FY2023",
+   "period_label": "2022-23",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "pharmeasy-financial.html",
+    "table_index": 5,
+    "row_index": 11,
+    "heading": "API Holdings Limited Summary(Rs in Crores)"
+   },
+   "statement": "summary",
+   "derived": false,
+   "components": null
+  },
+  "ev100": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/api-holdings-pharmeasy-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:14+00:00",
+   "sha256": "ba7971e6764799fd1e50b1b5aa7b3ccf56efa1bf978f1eff2ba01c554342dc7a",
+   "capture_run": "20261123T164433Z",
+   "file": "pharmeasy-financial.html",
+   "raw_label": "Outstanding Shares",
+   "raw_text": "6,240,435,432.00",
+   "raw_unit": "shares",
+   "period": "FY2024",
+   "period_label": "2023-24",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "pharmeasy-financial.html",
+    "table_index": 5,
+    "row_index": 11,
+    "heading": "API Holdings Limited Summary(Rs in Crores)"
+   },
+   "statement": "summary",
+   "derived": false,
+   "components": null
+  },
+  "ev101": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/api-holdings-pharmeasy-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:14+00:00",
+   "sha256": "ba7971e6764799fd1e50b1b5aa7b3ccf56efa1bf978f1eff2ba01c554342dc7a",
+   "capture_run": "20261123T164433Z",
+   "file": "pharmeasy-financial.html",
+   "raw_label": "Outstanding Shares",
+   "raw_text": "6,516,668,712.00",
+   "raw_unit": "shares",
+   "period": "FY2025",
+   "period_label": "2024-25",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "pharmeasy-financial.html",
+    "table_index": 5,
+    "row_index": 11,
+    "heading": "API Holdings Limited Summary(Rs in Crores)"
+   },
+   "statement": "summary",
+   "derived": false,
+   "components": null
+  },
+  "ev102": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/api-holdings-pharmeasy-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:14+00:00",
+   "sha256": "ba7971e6764799fd1e50b1b5aa7b3ccf56efa1bf978f1eff2ba01c554342dc7a",
+   "capture_run": "20261123T164433Z",
+   "file": "pharmeasy-financial.html",
+   "raw_label": "Outstanding Shares",
+   "raw_text": "7,025,624,934.00",
+   "raw_unit": "shares",
+   "period": "FY2026",
+   "period_label": "2025-26",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "pharmeasy-financial.html",
+    "table_index": 5,
+    "row_index": 11,
+    "heading": "API Holdings Limited Summary(Rs in Crores)"
+   },
+   "statement": "summary",
+   "derived": false,
+   "components": null
+  }
+ },
+ "news": {
+  "query": "PharmEasy",
+  "retrieved_at": "2026-11-23T16:46:20+00:00",
+  "items": [
+   {
+    "title": "PharmEasy’s Gaurav Verma on using festive moments to build year-round healthcare relevance",
+    "publisher": "Social Samosa",
+    "date": "2026-10-28",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWHBFSTF1YURaakZwSVF2Vmg3Q25qb1FlY3E1RkhremFaeXBYTGhrOVJGQUVTQWdyQ1hMTEk5Um5GSVBoSFZ3V1pxam4wN2NVU0hOZms3dDVPU29LMUpkOGZDUzJiUy1Qa2ZoSHNZaFBEWHBWbkVaeXJJTjE1VFkteGFscWprVTg5VzRWbU1hemVWTkM2MVVqT1ZBdVNfOTB6Rl9BM2ZRRDZpUG93NDMzdTlURWpuMmZUcjZtdEpn0gG-AUFVX3lxTE1YcEVJMXVhRFpqRnBJUXZWaDdDbmpvUWVjcTVGSGt6YVp5cFhMaGs5UkZBRVNBZ3JDWExMSTlSbkZJUGhIVndXWnFqbjA3Y1VTSE5mazd0NU9Tb0sxSmQ4ZkNTMmJTLVBrZmhIc1loUERYcFZuRVp5cklOMTVUWS14YWxxamtVODlXNFZtTWF6ZVZOQzYxVWpPVkF1U185MHpGX0EzZlFENmlQb3c0MzN1OVRFam4yZlRyNm10Smc?oc=5"
+   },
+   {
+    "title": "PharmEasy Parent’s ₹347.5 Cr Share Swap Deal Explained",
+    "publisher": "UnlistedZone",
+    "date": "2026-10-23",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5ibHUzQjlEbTFwX3paYk45QWVjaHltN1FRelVfQUpZVzR5bjNpeVFScVpvSGJVRFpLamRGdFdKZGJ6S0tiRzBVOGI5bzJQTlRZWU1lMUJfQUdCMVR1d29Kd1dnQkEtbnBpZVRVZWdmazc5dDRiMXhzMkRDU1FOdw?oc=5"
+   },
+   {
+    "title": "PharmEasy’s Online Pharmacy Platform Strategy",
+    "publisher": "MarkHub24",
+    "date": "2026-10-21",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaDk1Sy1EMjgyM1NTVWVJYWJDUndpQVp3TkVHdnpzbkdFZEhrWDFLUGxlZjY4YWxXT3hrcmx0WV9JUG5Da3pMRTJ1OFZDbXNaTE5nYk9SQngyY3ZkODEyNXJCNmNXQ3pnMlA0V1ZNVWlhNjRjX3N5YWZIZzF6TGNtek9B?oc=5"
+   },
+   {
+    "title": "PharmEasy parent trims FY26 loss to Rs 520 crore on shift to high-margin businesses",
+    "publisher": "MediaNama",
+    "date": "2026-10-14",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQ3JkVGxDVVlpTDRoUmY5Y0NGTWhNU0haRTYwQjdVQVZEa1RISG5sc0c3ZEVnLTE4QzVHN01FNlJWODhyX0ZGdXB2UWhCdF90QzNjMHR0MFlUMy1Vd0V6MEsydUxsSFIta2N1ZHJ2WVY1QW5jNVBQcl92Q2VDb1lWak5n?oc=5"
+   },
+   {
+    "title": "PharmEasy Parent API Holdings’ FY26 Loss Declines 67% YoY To ₹520 Cr",
+    "publisher": "Inc42",
+    "date": "2026-10-12",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNajNrdzVtN3hDYWtFU19TWlVSZjlkQ2M4WGJKR2IyMjktYWg0SFZiWkVJbXA1eGIzNmtScVRBUGZDaXBOT3J0S1F2NWd4V0k3VDlNdXBJY3VWNy1HQjlXMk9vMFRUTVVDY3lFdEgyenNReFBpRnZQWGdXYndtb0NkcWFfS1NIZVUwMlgydnVjNldFVVZ6Vy1jLTdwVjV6LWs?oc=5"
+   },
+   {
+    "title": "PharmEasy IPO Plans Return As API Holdings Clears ₹1,050 Crore Debt And Targets Profitability",
+    "publisher": "Kotak Neo",
+    "date": "2026-10-05",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMGpxemJhY3R5U29NeFgxZGpVdUlVZGx4TmtZMGlWN3BHcXhUNjZ4WFlVSHpsU0VDdHM5bXhZSWM4YlhQd1FsNi11UnByMFhvQzJtOGxZSkNTbUxPb3F6blNZQW5MdXJyaXhVM3NhT1dxZE1NZE82c1FIUzJPQjBpSG9GVEgyX0hhbHd5RDhsb3BYRjZ1UnlpV1ZYQ0lReHkxY00zUDFn?oc=5"
+   },
+   {
+    "title": "PharmEasy eyes IPO comeback after Claypond, Temasek, TPG-backed parent clears debt",
+    "publisher": "Moneycontrol.com",
+    "date": "2026-10-05",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZzhxODZFS05SWWt6THlwVy1UX0ZGZC05c0hvYkt1RjZ1OUhWZV9ZME5ERFFxb2luMktsVG1TUkl0cmxIS1hHQlpIeTMzemtheGl6SGhFNWtPSlBiTnBmRUhyTlB5Rldmd2dJc0k0NjhZdHZHdzlrbGwweGtXUV81OUM4ZFF6bERBdVFWd0RXRkhJUW12WV81a2ZVVVphMHlQRUZxR2xpS1lXalN0NzZfaU16eDlWVC0yY1BtX09vX0FIX3PSAcgBQVVfeXFMUDZXbVVmeU1mcDBBaERkWlBYcmU3MllXTUY2UEttdEdtNVluVFZ4UUE2ZzNFX0JaNUJnd0hpN1VVOXEwMG5RNHlUbEJJandycFRCTmFxeGh6UDZ0b2F0anBVU2dCQVR3eGtXX3o3MVJ1SVJ6aG9LdTVRLVZ3YTZiMzN5VjZXR21tNTFaeU1iN29ycmN5Q0JUdDJYRTFpT056MC1Td3ZHTzZVajdQV2dvVlBsdGVLSDFBemx3dEw2b0I1UjBVUldYNkk?oc=5"
+   },
+   {
+    "title": "Why the PharmEasy founders are building AllHome to organise India’s home improvement market",
+    "publisher": "Fortune India",
+    "date": "2026-08-23",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPbDZ1WEVsWUg4eXM3aVB3bTh4TnFsWUJ3anlZZEFYdzhCbWtZYzY2VXROaGZ0ZUNlMWN3dHZJUzN3TWtiMFE4NEp0Q0xaZmZtLTFyQ01fNVljZEhfRkU4am04MkRVNU5ycVlDQWUtYUZ4b3ZQMllvRVBwdXFLd3dqVl9QSm5nQzRzaFdKaWx2aWpTSWotU043WDNGWUhWZmtfZUNSeC15SERLX0tuakNkcXhGN1h6ckoxNG5wYlU0dWxCRUtta094T3pWZlRqNDJZU1pWT0lHNNIB5AFBVV95cUxQRkw0OHF5MXBJOG5RSXotU1R3M1BwWUd0b0pTanVNNk1fTExTQWVKMHhjTVk2Y3lZWDhiUnA5MWp2REVOd1BxdEpxWnkyWFpkZS1udHN5T0R5WkJ2dHBaMUtub2k1ZzdseENndERmRmhRVFI5eXhiTFppOXBscE81U3F3ODZGQlVhVUo5cE1yMXJZSi1OR1p6WnRwYlRtRzJ4azkwazg0OG5BVFBsOFQ1VXRpRjBDUzVUMnN5M0h4N3ZfVjZ6NFZPc2RaWFdpNWNQOVdlOTVVOTRsSzEtek5FTVl1Mnc?oc=5"
+   }
+  ],
+  "source": {
+   "name": "Google News RSS search",
+   "url": "https://news.google.com/rss/search?q=PharmEasy&hl=en-IN&gl=IN&ceid=IN:en",
+   "sha256": "f1786ada3ed60fefdb32fcbfb1af400ad7ec0e1e063d0860038c2e8762489aeb",
+   "run": "20261123T164603Z"
+  }
+ },
+ "peer_reviewed": true,
+ "discovery": [
+  {
+   "id": "ncdex",
+   "short": "NCDEX",
+   "name": "National Commodity & Derivatives Exchange Ltd",
+   "reasons": [
+    "provider reports DRHP filed (IPO research lead)",
+    "in the news 2026-11-11"
+   ],
+   "score": 3,
+   "price_inr": 253.0,
+   "latest_period": "FY2026"
+  },
+  {
+   "id": "oyo",
+   "short": "OYO",
+   "name": "Oravel Stays Ltd (OYO)",
+   "reasons": [
+    "provider reports DRHP filed (IPO research lead)",
+    "in the news 2026-11-23"
+   ],
+   "score": 3,
+   "price_inr": 20.45,
+   "latest_period": "FY2026"
+  },
+  {
+   "id": "axlesindia",
+   "short": "Axles India",
+   "name": "Axles India Ltd",
+   "reasons": [
+    "in the news 2026-11-20"
+   ],
+   "score": 1,
+   "price_inr": 525.0,
+   "latest_period": "FY2026"
+  },
+  {
+   "id": "cial",
+   "short": "CIAL",
+   "name": "Cochin International Airport Ltd",
+   "reasons": [
+    "in the news 2026-11-21"
+   ],
+   "score": 1,
+   "price_inr": 440.0,
+   "latest_period": "FY2026"
+  },
+  {
+   "id": "csk",
+   "short": "CSK",
+   "name": "Chennai Super Kings Cricket Ltd",
+   "reasons": [
+    "in the news 2026-11-20"
+   ],
+   "score": 1,
+   "price_inr": 245.0,
+   "latest_period": "FY2026"
+  },
+  {
+   "id": "capgemini",
+   "short": "Capgemini India",
+   "name": "Capgemini Technology Services India Ltd",
+   "reasons": [
+    "in the news 2026-10-08"
+   ],
+   "score": 1,
+   "price_inr": 8900.0,
+   "latest_period": "FY2026"
+  }
+ ],
+ "fallbacks": []
+}

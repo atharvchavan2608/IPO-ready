@@ -1,5 +1,39 @@
 # Current status and next work
 
+## Active direction · V2, 24 November 2026
+
+The owner requested a V1-to-V2 upgrade with an expanded company dashboard and a combined comparison and investment workspace. Use the [V2 brief](../starter-kit/PROTOTYPE_BRIEF.md) and [starter prompts](../starter-kit/PROMPTS.md). Start with retained evidence for the [IGX cash-flow case and ratio catalogue](../../v2%20docs/Financial%20Ratios%20and%20Cash%20Flow.md). Use existing coverage and portfolio notes to develop and test methods for mixed comparisons, pros and cons, risk and the two allocation paths. Research is bounded by the decision each slice needs.
+
+V2-01 reconciled all three retained IGX cash flows. The V2 review repair distinguishes Polymatech's reported EPS from its final-PAT proxy and bounds IGX inventory assumptions to supported periods. The workspace now uses both listed and unlisted records with explicit scope and quote gaps. Continue broadening reviewed annual and current price coverage after the local demo, and prioritise reliable sector-ratio operands over catalogue expansion. [IGX cash-flow note](topics/igx-cash-flow.md) · [Review-repair evidence](topics/v2-review-repairs.md) · [V2 task list](../starter-kit/WORKING_STATE.md)
+
+Owner steering adds dashboard history, a moving ticker and in-app issuer lookup. The desktop demo includes BSE and CDSL from retained evidence and Astral from an end-to-end online lookup. The archived Astral directory, annuals and dated close also work in retained mode. [Lookup research](topics/company-lookup.md)
+
+## V1 baseline · 24 November 2026
+
+The [V1 handoff](../../archive/v1-handoff-20261124/README.md) preserves the build record and review. Before using affected values in V2, resolve or withhold Polymatech's PAT/P/E and IGX's period-specific quick-ratio assumption.
+
+The November portal's code, web design, prepared data and checks are in the [exploration archive](../../archive/portal-exploration-20261123/README.md). Native evidence and source records remain available through the [evidence index](evidence.md). The earlier IGX reconciliation, cohort and XBRL tasks are candidates to revisit when a feature depends on them.
+
+C2 expanded the [listed-peer coverage review](topics/listed-peer-coverage.md) to eight domains. N14–N17 cover the five new companies, primary statements for CIAL and Automotive Axles, dated plans and an article, and international product research. E-pharmacy and optical chip benchmarks remain open pending closer business or verified segment coverage.
+
+R1 completed the [portfolio instrument evidence](topics/portfolio-instruments.md). N18–N20 document the dated sovereign coupon and lockup, physical gold exposure and verified MCX split. R2 used that evidence in a whole-lot allocation model with an illustrative exit haircut and combined exchange cap. R3 shows the assumptions alongside interactive scenario and baseline allocations. Verified transactions and transfer conditions would improve the modeled exit costs. [Executed scenarios](../../archive/v1-handoff-20261124/docs/report/IPO_Ready_Report.md#executed-allocation-scenarios)
+
+## Historical status from 12 November 2026
+
+The November exploration focused on unlisted/pre-IPO companies, recent IPO references, free public sources and company-specific expert analysis. See the [detailed session log](../SESSION_LOG_2026-11-12.md).
+
+The exploration completed M0 alignment and an M1 local prototype. IGX was the pre-IPO candidate and NSE a recent-IPO reference after primary listing-status evidence corrected the provider's stale category. The snapshot contains 30 provisional secondary observations across two companies and three annual periods, with unspecified reporting basis. The demo covered descriptive metrics and sensitivity.
+
+Added N01-N10: register now 74 records. Preserved full pinned GitHub architecture, native source bodies/hashes/access failures, selected expert-note PDFs/text, and dated company-status evidence. [Free-data findings](topics/unlisted-free-data.md) and [expert-method proposal](topics/expert-analysis-pipeline.md) distinguish observations, calculations and plans.
+
+Executed: bounded public-page captures; exact-value offline curation; Python snapshot build; seven active arithmetic/API tests; headless Chrome desktop/mobile interaction checks. The [build status](../BUILD_STATUS.md) records commands and limits. A first browser attempt hit a sandbox process permission error; the permitted retry passed. This verifies a local software slice, not financial-reporting accuracy.
+
+Former next task: reconcile IGX's selected five annual items against one accessible issuer filing, establishing dates, basis, continuing-profit scope and CFO composition. Retain discrepancies as review cases. The source and expert-method topic notes retain the details.
+
+Superseded Aether app/notebook/demo and builders: [archive](../../archive/legacy-20261022/README.md), 19 original non-cache files preserved with verified hashes. Prior financial/XBRL/SEC knowledge remains active reference material.
+
+## Historical status from 2026-10-22
+
 Updated: 2026-10-22.
 
 ## Latest direction: global pre-IPO scope and initial planning

@@ -1,0 +1,66 @@
+{
+  "source": "peer_context",
+  "run_id": "20261123T180022Z",
+  "items": [
+    {
+      "url": "https://nsearchives.nseindia.com/corporate/IEX_05112026110840_IEX_Intimation_EarningCall_Transcript_Q2_Sep26Signed.pdf",
+      "retrieved_at": "2026-11-23T18:00:22+00:00",
+      "status": 200,
+      "final_url": "https://nsearchives.nseindia.com/corporate/IEX_05112026110840_IEX_Intimation_EarningCall_Transcript_Q2_Sep26Signed.pdf",
+      "content_type": "application/pdf",
+      "bytes": 551945,
+      "sha256": "894f9f996938cea9ed752e52a45b664af7da79e4e305feb4998138ab1102c198",
+      "id": "iex-oct-call",
+      "path": "iex-oct-call.pdf"
+    },
+    {
+      "url": "https://www.mcxindia.com/docs/default-source/media/pressreleases/english/2026/april/mcx-receives-sebi-approval-to-incorporate-a-new-coal-exchange.pdf",
+      "retrieved_at": "2026-11-23T18:00:24+00:00",
+      "status": 200,
+      "final_url": "https://www.mcxindia.com/docs/default-source/media/pressreleases/english/2026/april/mcx-receives-sebi-approval-to-incorporate-a-new-coal-exchange.pdf",
+      "content_type": "application/pdf",
+      "bytes": 241487,
+      "sha256": "3476cdc924931f1afff83c673bc4beb886336064c0bb8eb5b63751c00110e338",
+      "id": "mcx-coal-release",
+      "path": "mcx-coal-release.pdf"
+    },
+    {
+      "url": "https://psuwatch.com/amp/story/newsupdates/igx-gas-trade-volume-rises-326-year-on-year-in-october",
+      "retrieved_at": "2026-11-23T18:00:27+00:00",
+      "status": 200,
+      "final_url": "https://psuwatch.com/amp/story/newsupdates/igx-gas-trade-volume-rises-326-year-on-year-in-october",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 53585,
+      "sha256": "d1d9350b9006c3c38879ed584d9c994e66f031f3d7ec90418cf7196ff81ee214",
+      "id": "igx-oct-reporting",
+      "path": "igx-oct-reporting.html"
+    },
+    {
+      "url": "https://www.cial.aero/ckeditor/upload/CIAL_Annual_Report_2025_2026.pdf",
+      "retrieved_at": "2026-11-23T18:00:29+00:00",
+      "status": 200,
+      "final_url": "https://www.cial.aero/ckeditor/upload/CIAL_Annual_Report_2025_2026.pdf",
+      "content_type": "application/pdf",
+      "bytes": 2272825,
+      "sha256": "7cfd43fb6ec7d96a3f1bd11b41940002fa07823362bdd82c008c66455643b766",
+      "id": "cial-annual-2026",
+      "path": "cial-annual-2026.pdf"
+    },
+    {
+      "url": "https://support.crunchbase.com/hc/en-us/articles/30493799544211-Companies-Filters-Definitions",
+      "retrieved_at": "2026-11-23T18:00:33+00:00",
+      "status": 200,
+      "final_url": "https://support.crunchbase.com/hc/en-us/articles/30493799544211-Companies-Filters-Definitions",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 61047,
+      "sha256": "c57a72aee77bd080069dd557a312faa3a9f7a361db4af842798ead762cd68e8b",
+      "id": "crunchbase-filters",
+      "path": "crunchbase-filters.html"
+    }
+  ],
+  "summary": {
+    "attempted": 5,
+    "ok": 5,
+    "failed": 0
+  }
+}

@@ -1,0 +1,139 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>IPO-Ready · Company dashboard</title>
+<meta name="description" content="Unlisted company dashboard: disclosed financials, gaps, sources and market context.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 viewBox=%270 0 32 32%27%3E%3Crect width=%2732%27 height=%2732%27 rx=%276%27 fill=%27%2313203b%27/%3E%3Cpath d=%27M7 22l6-7 5 4 7-9%27 stroke=%27%23d97a14%27 stroke-width=%273%27 fill=%27none%27/%3E%3C/svg%3E">
+<link rel="stylesheet" href="assets/app.css">
+<link rel="stylesheet" href="assets/company-charts.css">
+<link rel="stylesheet" href="assets/company-lookup.css">
+</head>
+<body data-page="company">
+<div class="ticker" id="ticker" aria-label="Market ticker"><div class="ticker-inner"><span class="tick">Loading market data…</span></div></div>
+<header class="site">
+  <div class="site-inner">
+    <a class="brand" href="index.html"><span class="mark">IPO<span>·</span>Ready</span><span class="tag">Unlisted research desk</span></a>
+    <nav class="main" aria-label="Pages">
+      <a href="index.html" aria-current="page"><span class="pg">1</span>Company</a>
+      <a href="compare.html"><span class="pg">2</span>Compare &amp; invest</a>
+    </nav>
+    <div class="build-stamp" id="build-stamp"></div>
+  </div>
+</header>
+
+<main class="page">
+  <div class="col-main">
+    <section class="card" id="co-card" aria-labelledby="co-name">
+      <div class="co-head">
+        <div>
+          <div class="crumbs" id="crumbs"></div>
+          <h1 class="co-name" id="co-name">Loading…</h1>
+          <p class="co-desc" id="co-desc"></p>
+          <div class="badges" id="badges"></div>
+        </div>
+        <div class="quote" id="quote"></div>
+      </div>
+      <div class="controls">
+        <a id="company-workspace" class="btn ghost" href="compare.html" hidden>Compare this company</a>
+        <label>Company<select id="sel-company" aria-label="Select company"></select></label>
+        <label>Reporting period<select id="sel-period" aria-label="Select reporting period"></select></label>
+      </div>
+      <details class="company-lookup" id="company-lookup"></details>
+    </section>
+
+    <section class="card" id="issuer-case" aria-labelledby="issuer-case-title" hidden></section>
+
+    <section class="card" aria-labelledby="kpi-h">
+      <h2 id="kpi-h">Financial picture <span class="aside" id="kpi-aside"></span></h2>
+      <div class="kpis" id="kpis"></div>
+      <p class="tiny muted" style="margin:10px 0 0">Select a figure to open its history and evidence.</p>
+      <details class="ratio-controls" id="ratio-controls" hidden>
+        <summary>Choose ratios</summary>
+        <div class="ratio-groups" id="ratio-options"></div>
+      </details>
+    </section>
+
+    <section class="card" aria-labelledby="trend-h">
+      <h2 id="trend-h">Company trends</h2>
+      <details class="chart-menu">
+        <summary>Choose charts</summary>
+        <div class="chart-options" id="trend-options"></div>
+      </details>
+      <div class="company-chart-grid" id="trend-chart"></div>
+    </section>
+
+    <section class="card" id="statements" aria-labelledby="fin-h">
+      <h2 id="fin-h">Financial statements <span class="aside" id="fin-aside"></span></h2>
+      <div class="seg statement-switch" role="group" aria-label="Financial statement" id="statement-switch">
+        <button type="button" data-statement="profit-loss" aria-pressed="true" disabled>Profit &amp; Loss</button>
+        <button type="button" data-statement="balance-sheet" aria-pressed="false" disabled>Balance Sheet</button>
+        <button type="button" data-statement="cash-flow" aria-pressed="false" disabled>Cash Flow</button>
+      </div>
+      <div id="statement-body" aria-live="polite"></div>
+    </section>
+
+    <section class="card" aria-labelledby="agent-h">
+      <h2 id="agent-h">Disclosure-gap agent: inventory &amp; NPA <span class="aside" id="agent-aside"></span></h2>
+      <p class="small muted" style="margin-top:0">For each field, a fixed sequence of Python tools checks the provider's data, decides whether the field applies to this business model, reads the issuer's balance sheet and searches the retained issuer documents page by page. Every step is shown below. No figures are generated.</p>
+      <div class="agent-grid" id="agent"></div>
+      <div style="margin-top:10px;display:flex;gap:10px;align-items:center;flex-wrap:wrap">
+        <button class="btn" id="agent-run">Run agent now</button>
+        <span class="small muted" id="agent-status">Showing the result saved by the pipeline build.</span>
+      </div>
+    </section>
+
+    <div class="two">
+      <section class="card" aria-labelledby="docs-h">
+        <h2 id="docs-h">Reports &amp; sources</h2>
+        <div id="docs"></div>
+      </section>
+      <section class="card" aria-labelledby="checks-h">
+        <h2 id="checks-h">Data checks &amp; gaps</h2>
+        <div id="checks"></div>
+      </section>
+    </div>
+
+    <section class="card" aria-labelledby="recon-h" id="recon-card">
+      <h2 id="recon-h">Issuer reconciliation <span class="aside" id="recon-aside"></span></h2>
+      <div id="recon"></div>
+    </section>
+  </div>
+
+  <aside class="rail" aria-label="Market, news and discovery">
+    <section class="card" aria-labelledby="mkt-h">
+      <h2 id="mkt-h">Markets <span class="aside" id="mkt-asof"></span></h2>
+      <div id="mkt-chart"></div>
+      <div class="seg" role="group" aria-label="Index chart" id="mkt-seg" style="margin:6px 0 8px">
+        <button aria-pressed="true" data-ix="nifty">Nifty 1M</button>
+        <button aria-pressed="false" data-ix="sensex">Sensex 1M</button>
+        <button aria-pressed="false" data-ix="intraday">Intraday</button>
+      </div>
+      <div id="mkt-indices"></div>
+      <div class="src-line" id="mkt-src"></div>
+    </section>
+    <section class="card" aria-labelledby="stk-h">
+      <h2 id="stk-h">Selected stocks <span class="aside">NSE close</span></h2>
+      <div id="stocks"></div>
+      <div class="src-line" id="stk-src"></div>
+    </section>
+    <section class="card" aria-labelledby="news-h">
+      <h2 id="news-h">News <span class="aside" id="news-asof"></span></h2>
+      <div id="news"></div>
+      <div class="src-line" id="news-src"></div>
+    </section>
+    <section class="card" aria-labelledby="disc-h">
+      <h2 id="disc-h">Discover unlisted</h2>
+      <div id="discovery"></div>
+    </section>
+  </aside>
+</main>
+<footer class="site" id="footer">IPO-Ready prototype. Figures are drawn from captured third-party and issuer pages and are shown for research. Unlisted prices are indicative dealer quotes. Nothing here is investment advice.</footer>
+<script src="assets/core.js"></script>
+<script src="assets/cash-flow.js"></script>
+<script src="assets/company-charts.js"></script>
+<script src="assets/company-lookup.js"></script>
+<script src="assets/page1.js"></script>
+</body>
+</html>

@@ -1,0 +1,86 @@
+{
+  "items": [
+    {
+      "id": "oyo-udrhp",
+      "company": "oyo",
+      "path": "oyo-udrhp.pdf",
+      "url": "https://www.prismlife.com/Project%20SKYE%20%20Consolidated%20UDRHP-%20I%20%28Public%20filing%29%20-%2029062026.pdf",
+      "retrieved_at": "2026-11-25T06:40:56.700632+00:00",
+      "sha256": "1d8fe86768ff9d1386e3afa7a8e8f4f4a571ce8a2c607458bdb0a2e593000f58",
+      "bytes": 14758844,
+      "status": 200,
+      "title": "Oravel Stays Updated Draft Red Herring Prospectus-I",
+      "scan_pages": [
+        1,
+        132,
+        136,
+        137,
+        138,
+        139,
+        140,
+        157,
+        327,
+        329,
+        1139
+      ]
+    },
+    {
+      "id": "oyo-addendum",
+      "company": "oyo",
+      "path": "oyo-addendum.pdf",
+      "url": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1792987300020.pdf",
+      "retrieved_at": "2026-11-25T06:40:55.212691+00:00",
+      "sha256": "615ca6f8f088f14cb3504dae58c5c3c445308c975ba79e9bafd80da00b1c6709",
+      "bytes": 866628,
+      "status": 200,
+      "title": "Oravel Stays October addendum"
+    },
+    {
+      "id": "lemontree-fy26",
+      "company": "listed-lemontree",
+      "path": "lemontree-fy26.pdf",
+      "url": "https://nsearchives.nseindia.com/annual_reports/AR_30673_LEMONTREE_2025_2026_A_17421413_26082026180144.pdf",
+      "retrieved_at": "2026-11-25T06:40:56.808669+00:00",
+      "sha256": "76be3807621f6af013fe92a2b2c37600649c69f670aa1cabd6ef96aee47dab9e",
+      "bytes": 17421413,
+      "status": 200,
+      "title": "Lemon Tree Hotels FY2026 integrated annual report"
+    },
+    {
+      "id": "oyo-annual-fy26",
+      "company": "oyo",
+      "path": "oyo-annual-fy26-pages.pdf",
+      "url": "https://prismlife.com/Annual_Report_FY26.pdf",
+      "title": "Oravel Stays FY2026 annual report (selected pages retained)",
+      "status": 200,
+      "sha256": "423ff82ad94e876b19d3c1b536a9cd53c8e3c9f7ca7c5a747d968a99e3878c88",
+      "bytes": 5329850,
+      "retrieved_at": "2026-11-25T06:42:11.087951+00:00",
+      "original_sha256": "20b4c4f1323a038ca597f804747cec6188e8a8b95236d5cdd85105a57e1e0d5d",
+      "original_bytes": 146805840,
+      "original_pages": [
+        4,
+        6,
+        8,
+        9,
+        12,
+        149,
+        163,
+        164,
+        165,
+        166
+      ]
+    },
+    {
+      "id": "igx-sebi-observation",
+      "path": "igx-sebi-observation.pdf",
+      "url": "https://nsearchives.nseindia.com/corporate/IEX_13102026132246_IEX_Intimation_IGX_DRHP_SEBI_Observation_Letter_Signed.pdf",
+      "sha256": "75e03730ed32f21c15efac133368c60f11e3333542cbd73ce6179581e1efbffc",
+      "retrieved_at": "2026-11-25T06:45:26.986856+00:00",
+      "bytes": 370644,
+      "status": 200,
+      "company": "igx",
+      "title": "IEX intimation of IGX SEBI observation (13 October 2026)"
+    }
+  ]
+}

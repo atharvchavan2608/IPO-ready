@@ -1,0 +1,1958 @@
+{
+ "build_id": "20261123T184820Z",
+ "created_at": "2026-11-23T18:48:38+00:00",
+ "mode": "offline",
+ "simulated_failures": [],
+ "pipeline_version": "0.5.0",
+ "code_hash": "9e622d57a1a7b84f",
+ "python": "3.12.6",
+ "inputs": {
+  "wwipl": {
+   "pharmed-overview": {
+    "run": "20261123T175837Z",
+    "sha256": "387505f82f84703ec581300e2cfd4715b6ecc1ab1ff08623d1fe1190cf720375",
+    "retrieved_at": "2026-11-23T17:58:37+00:00"
+   },
+   "pharmed-financial": {
+    "run": "20261123T175837Z",
+    "sha256": "8dc9fc0cb7e8b4aa78829fcd0e643da45897f395ba0873ef5f6cd53d0e66d6be",
+    "retrieved_at": "2026-11-23T17:58:39+00:00"
+   },
+   "grouppharma-overview": {
+    "run": "20261123T175837Z",
+    "sha256": "c7e77e1e248a5986938119c04666da7c8e1695ec35d9fc6bb57d081659fd6d8d",
+    "retrieved_at": "2026-11-23T17:58:40+00:00"
+   },
+   "grouppharma-financial": {
+    "run": "20261123T175837Z",
+    "sha256": "ade814946a27af8329576ce19e91ccdcc0066882602afb7c4865ae481d78bda3",
+    "retrieved_at": "2026-11-23T17:58:41+00:00"
+   },
+   "kial-overview": {
+    "run": "20261123T175837Z",
+    "sha256": "80d40fc86ac82e4ae20f4251d6a13bfec5d70e439d0a4b1909cc021922611883",
+    "retrieved_at": "2026-11-23T17:58:42+00:00"
+   },
+   "kial-financial": {
+    "run": "20261123T175837Z",
+    "sha256": "c2f03142f8b9ab5264f23969c9273009c87d306ce74a9e66e4afdd96a1a7a431",
+    "retrieved_at": "2026-11-23T17:58:43+00:00"
+   },
+   "axlesindia-overview": {
+    "run": "20261123T175837Z",
+    "sha256": "c81467c6fa78421882dabd5c4411a55d831d51710a177e3ea79bcd781114c9ee",
+    "retrieved_at": "2026-11-23T17:58:44+00:00"
+   },
+   "axlesindia-financial": {
+    "run": "20261123T175837Z",
+    "sha256": "c15b319c08dc800a8192469b611104ee04f1ae680def85cf777ee1ad6568135d",
+    "retrieved_at": "2026-11-23T17:58:46+00:00"
+   },
+   "gkndriveline-overview": {
+    "run": "20261123T175837Z",
+    "sha256": "9c20837384c9019a989db8a51bbb64ea24735daf26ce2e091091a7f7db4cb9f1",
+    "retrieved_at": "2026-11-23T17:58:48+00:00"
+   },
+   "gkndriveline-financial": {
+    "run": "20261123T175837Z",
+    "sha256": "4f65597ceb2f7433d54d57152d531600e7d68a9d9163dcadee4a419c11f8ef79",
+    "retrieved_at": "2026-11-23T17:58:49+00:00"
+   },
+   "igx-overview": {
+    "run": "20261123T164433Z",
+    "sha256": "7f9750a027c7425e9115a3e7db94e8f858008c7bf8b5d8ba43674e02702a7c36",
+    "retrieved_at": "2026-11-23T16:44:33+00:00"
+   },
+   "igx-financial": {
+    "run": "20261123T164433Z",
+    "sha256": "40a00d8792602d1301f4ecdd099dd7d5a5a2c1003e874f16e6ab3b788c46e3a9",
+    "retrieved_at": "2026-11-23T16:44:35+00:00"
+   },
+   "ncdex-overview": {
+    "run": "20261123T164433Z",
+    "sha256": "1b6d76c8187f94dd20052e93f59820fef31bcb908537fffe85e49d9ecaa1c9e6",
+    "retrieved_at": "2026-11-23T16:44:36+00:00"
+   },
+   "ncdex-financial": {
+    "run": "20261123T164433Z",
+    "sha256": "8ca08b00e39ea520c2ae2cd98ec5f0e9da6d2c4de26c97e9f6a9ac2afd231dca",
+    "retrieved_at": "2026-11-23T16:44:38+00:00"
+   },
+   "msei-overview": {
+    "run": "20261123T164433Z",
+    "sha256": "99ea31491064b7bee1fcb40e0c2c26ecc597595bbb42ceac054beb7279d95de1",
+    "retrieved_at": "2026-11-23T16:44:39+00:00"
+   },
+   "msei-financial": {
+    "run": "20261123T164433Z",
+    "sha256": "71a58ddfd80a3f14229fd180e7dcde1954585048e28da10c4614917470a4f2d8",
+    "retrieved_at": "2026-11-23T16:44:41+00:00"
+   },
+   "hpx-overview": {
+    "run": "20261123T164433Z",
+    "sha256": "2ec23b1f57931cff802e25f74df9bd05152a14cb30a2a42de681e511686ba71e",
+    "retrieved_at": "2026-11-23T16:44:44+00:00"
+   },
+   "hpx-financial": {
+    "run": "20261123T164433Z",
+    "sha256": "836bce938cc2f18f0046c36d17d85a8c92ca51e0f13b179a32c8a1c2d23b4027",
+    "retrieved_at": "2026-11-23T16:44:45+00:00"
+   },
+   "icex-overview": {
+    "run": "20261123T164433Z",
+    "sha256": "82303ff00c20b9be6255e766dccab50d2f8d394c82528ce6b6bd651321c886e0",
+    "retrieved_at": "2026-11-23T16:44:46+00:00"
+   },
+   "icex-financial": {
+    "run": "20261123T164433Z",
+    "sha256": "ba9a70fcbebafc56b8f70d15ac8836fcf57b31936e7c3b997cb289c8e00c9d0e",
+    "retrieved_at": "2026-11-23T16:44:47+00:00"
+   },
+   "herofincorp-overview": {
+    "run": "20261123T164433Z",
+    "sha256": "6a4473246e60baa3d5916bb1aaf91a2535486def20f498ccccce5ff467a2f391",
+    "retrieved_at": "2026-11-23T16:44:48+00:00"
+   },
+   "herofincorp-financial": {
+    "run": "20261123T164433Z",
+    "sha256": "b57c464bc8d4872a2551363d8b3d6ce452e77cedd883ffcb0225a790f26ab29a",
+    "retrieved_at": "2026-11-23T16:44:50+00:00"
+   },
+   "hdfcsec-overview": {
+    "run": "20261123T164433Z",
+    "sha256": "c1a74828bc12064c1b007002de89741e922dfc9a93451e200c8b9217b9271c59",
+    "retrieved_at": "2026-11-23T16:44:51+00:00"
+   },
+   "hdfcsec-financial": {
+    "run": "20261123T164433Z",
+    "sha256": "c9fd7d7f8e0dc5a176db12fc7016e000ed6fa26fc506e705ea8bd6e8d3de2368",
+    "retrieved_at": "2026-11-23T16:44:56+00:00"
+   },
+   "sbigeneral-overview": {
+    "run": "20261123T164433Z",
+    "sha256": "75c5cfe1f4b3385f6b00a26ae9e098618591f3ed1e947ffeee2d7f5555ee3129",
+    "retrieved_at": "2026-11-23T16:45:00+00:00"
+   },
+   "sbigeneral-financial": {
+    "run": "20261123T164433Z",
+    "sha256": "6912b04e398b059fffd285026c59b2b0c32f98779e17b09e87705ab4cb87d7f6",
+    "retrieved_at": "2026-11-23T16:45:02+00:00"
+   },
+   "orbis-overview": {
+    "run": "20261123T164433Z",
+    "sha256": "2fac9c09aa3f967f73de1d47e2881e80cefcf3d42d408e0b049ea9c62e6923ee",
+    "retrieved_at": "2026-11-23T16:45:03+00:00"
+   },
+   "orbis-financial": {
+    "run": "20261123T164433Z",
+    "sha256": "62764f095506f6443b203970e2d72e78cf35e10307dcbf6161e70c4b535593b1",
+    "retrieved_at": "2026-11-23T16:45:04+00:00"
+   },
+   "csk-overview": {
+    "run": "20261123T164433Z",
+    "sha256": "d50e7473208a625500c2cdaa0789cf4efa221ee569e7068c4f6b7d691f9ec92a",
+    "retrieved_at": "2026-11-23T16:45:05+00:00"
+   },
+   "csk-financial": {
+    "run": "20261123T164433Z",
+    "sha256": "48f32fbea91d00c3e2ebaeeb3ca65dd0cafb5d8106f5062ff71301e9b10c45bc",
+    "retrieved_at": "2026-11-23T16:45:07+00:00"
+   },
+   "oyo-overview": {
+    "run": "20261123T164433Z",
+    "sha256": "6465a242d65c97695358b8caa21cf0ae85dba09706e9a263e4d4dd3df2a36726",
+    "retrieved_at": "2026-11-23T16:45:09+00:00"
+   },
+   "oyo-financial": {
+    "run": "20261123T164433Z",
+    "sha256": "bc8b1583b97ff1fe3e7f8684df4d7048a9dc275cebadf27d0bbbd10f4e81cb01",
+    "retrieved_at": "2026-11-23T16:45:11+00:00"
+   },
+   "pharmeasy-overview": {
+    "run": "20261123T164433Z",
+    "sha256": "659199eeffb941f7f936b24fb69d3b970c0a0bfea269cccb37b0c3dfe276f892",
+    "retrieved_at": "2026-11-23T16:45:12+00:00"
+   },
+   "pharmeasy-financial": {
+    "run": "20261123T164433Z",
+    "sha256": "ba7971e6764799fd1e50b1b5aa7b3ccf56efa1bf978f1eff2ba01c554342dc7a",
+    "retrieved_at": "2026-11-23T16:45:14+00:00"
+   },
+   "polymatech-overview": {
+    "run": "20261123T164433Z",
+    "sha256": "6ebceb49ee152e21b7e8904d2299ddb3e547a308e6852bf2e64ea6cd4f2e23c2",
+    "retrieved_at": "2026-11-23T16:45:15+00:00"
+   },
+   "polymatech-financial": {
+    "run": "20261123T164433Z",
+    "sha256": "0f5756eb7cdd79734b1319314a55d7b0cc1dc5fdb95f68acc64ce4c1702734f5",
+    "retrieved_at": "2026-11-23T16:45:17+00:00"
+   },
+   "haldia-overview": {
+    "run": "20261123T164433Z",
+    "sha256": "6e32d4a3df08c0c9a5e59b05b167b3046150694690b75e8c2197485197fa2cca",
+    "retrieved_at": "2026-11-23T16:45:18+00:00"
+   },
+   "haldia-financial": {
+    "run": "20261123T164433Z",
+    "sha256": "a99389e98c51d29dc5e3beacb5659b68d775e85e5c33a6281a162e1d0a54c610",
+    "retrieved_at": "2026-11-23T16:45:19+00:00"
+   },
+   "indiacarbon-overview": {
+    "run": "20261123T164433Z",
+    "sha256": "778da9ea0ff00571eb6e14f46b995294aa1ff2a082b7f341e8cca5939c17f0f2",
+    "retrieved_at": "2026-11-23T16:45:20+00:00"
+   },
+   "indiacarbon-financial": {
+    "run": "20261123T164433Z",
+    "sha256": "172316e043c624e8abb61a279dea61f6f404a5e646280d70e1a8e102cf045a07",
+    "retrieved_at": "2026-11-23T16:45:21+00:00"
+   },
+   "nayara-overview": {
+    "run": "20261123T164433Z",
+    "sha256": "3a7ab2396f5c0dae0f068e04ea7026dd59dd14ca40e8c2fbeddf4fa9f9616998",
+    "retrieved_at": "2026-11-23T16:45:23+00:00"
+   },
+   "nayara-financial": {
+    "run": "20261123T164433Z",
+    "sha256": "5e8183a49a23d9c1f0df1521135d1f1b99a6259b652e25ac28b9fe0e209bdb2b",
+    "retrieved_at": "2026-11-23T16:45:24+00:00"
+   },
+   "cial-overview": {
+    "run": "20261123T164433Z",
+    "sha256": "d91d6565f1f0d96792a81064dddeede3fac977dce189e190250751bdf81d09bc",
+    "retrieved_at": "2026-11-23T16:45:26+00:00"
+   },
+   "cial-financial": {
+    "run": "20261123T164433Z",
+    "sha256": "9f76a5697624508378a9eac92acd02ce08ef4bf1c923f6b13ae564cafb1a4b23",
+    "retrieved_at": "2026-11-23T16:45:27+00:00"
+   },
+   "capgemini-overview": {
+    "run": "20261123T164433Z",
+    "sha256": "ee489cea5b348d111e21c03bb1c5be1c7f484b061b1eca908c6f0b2ee7ee7933",
+    "retrieved_at": "2026-11-23T16:45:29+00:00"
+   },
+   "capgemini-financial": {
+    "run": "20261123T164433Z",
+    "sha256": "8c36a0ac69082c0b8367f4b278b855a0bda26adc6adb9f8f89b6a5ace79a19b7",
+    "retrieved_at": "2026-11-23T16:45:30+00:00"
+   },
+   "reliance-retail-overview": {
+    "run": "20261123T164433Z",
+    "sha256": "bc314e9556dbc72d95e033b1b083b926b089714799c940654c3838a03679aca6",
+    "retrieved_at": "2026-11-23T16:45:32+00:00"
+   },
+   "reliance-retail-financial": {
+    "run": "20261123T164433Z",
+    "sha256": "380c88e7ddb93f329e3b7cf38823423fc3ed1df89cb6e7ce870d9485a1f20e55",
+    "retrieved_at": "2026-11-23T16:45:33+00:00"
+   },
+   "nse-overview": {
+    "run": "20261123T164433Z",
+    "sha256": "bb0ebc87c94477d8084f6b919bbd0d79888870ab5217515802ba9f3c75ae38e1",
+    "retrieved_at": "2026-11-23T16:45:34+00:00"
+   },
+   "nse-financial": {
+    "run": "20261123T164433Z",
+    "sha256": "a0c024dc807c4e74c12a7ac59ed510aedc42d9a924dc2ea40edfbfa40906c362",
+    "retrieved_at": "2026-11-23T16:45:37+00:00"
+   }
+  },
+  "news": {
+   "news-pharmed": {
+    "run": "20261123T175837Z",
+    "sha256": "9f6d7f8d1bf6d68b65973b69ec9248b7b572b3a47ce9219e97f172082d89c136",
+    "retrieved_at": "2026-11-23T17:59:02+00:00"
+   },
+   "news-grouppharma": {
+    "run": "20261123T175837Z",
+    "sha256": "13c8a66e8c857b9f28ece1689e12f362c9db8eca5fcf3f59f87ee3c5d0d1565c",
+    "retrieved_at": "2026-11-23T17:59:04+00:00"
+   },
+   "news-kial": {
+    "run": "20261123T175837Z",
+    "sha256": "a5bcd0e56b94ebd5da67bdb0236d90970c510dd6d0f0a1400ebdbf6a992419d8",
+    "retrieved_at": "2026-11-23T17:59:05+00:00"
+   },
+   "news-axlesindia": {
+    "run": "20261123T175837Z",
+    "sha256": "bcff8219fac40cf3cb4096a0f47bfff34781575a9c95639f71c6d8f82f0c2a68",
+    "retrieved_at": "2026-11-23T17:59:07+00:00"
+   },
+   "news-gkndriveline": {
+    "run": "20261123T175837Z",
+    "sha256": "29127c1c8b0638b678b12fddc324f4abd528bfad9b5f6330ab31df72c1c10329",
+    "retrieved_at": "2026-11-23T17:59:08+00:00"
+   },
+   "news-igx": {
+    "run": "20261123T164603Z",
+    "sha256": "324ea4a59e382eebb8df0ba2efaa6c7d48719ddcd081accd40eca6e3cd8316d0",
+    "retrieved_at": "2026-11-23T16:46:03+00:00"
+   },
+   "news-ncdex": {
+    "run": "20261123T164603Z",
+    "sha256": "03662ad6691ad123d42c43b65b167b3d769b590a6813162e6c8261e952b5c02b",
+    "retrieved_at": "2026-11-23T16:46:05+00:00"
+   },
+   "news-msei": {
+    "run": "20261123T164603Z",
+    "sha256": "e7fe19aa8db108449fe3705359f04d4ffdc474760517ebaa16b8d04f103f0781",
+    "retrieved_at": "2026-11-23T16:46:06+00:00"
+   },
+   "news-hpx": {
+    "run": "20261123T164603Z",
+    "sha256": "aa6e09fbf08a89e7930362024738db8951089e19956285236adab907990393a9",
+    "retrieved_at": "2026-11-23T16:46:08+00:00"
+   },
+   "news-icex": {
+    "run": "20261123T164603Z",
+    "sha256": "556e27e662a8881176650c706ce67e1e0fc29f4f5df65684f366c54be9d6f568",
+    "retrieved_at": "2026-11-23T16:46:10+00:00"
+   },
+   "news-herofincorp": {
+    "run": "20261123T164603Z",
+    "sha256": "2e44de3365205c35a88547129dbe6da749abd36150e346bb8c50ff98c40f4f03",
+    "retrieved_at": "2026-11-23T16:46:11+00:00"
+   },
+   "news-hdfcsec": {
+    "run": "20261123T164603Z",
+    "sha256": "fd4afd44c5f8401f35f90c24b80a452f707826eb8fed1c343fa8d40b86ab14b5",
+    "retrieved_at": "2026-11-23T16:46:13+00:00"
+   },
+   "news-sbigeneral": {
+    "run": "20261123T164603Z",
+    "sha256": "2aa81aa98c6dbb7f76eb38f84692ebb89c84a84f3f2f4d977a81283fa34b48d2",
+    "retrieved_at": "2026-11-23T16:46:14+00:00"
+   },
+   "news-orbis": {
+    "run": "20261123T164603Z",
+    "sha256": "3108f563f1c3e18c0e19e24ac0a06d7fb31712c80c4d17c085315aa305c0d59e",
+    "retrieved_at": "2026-11-23T16:46:16+00:00"
+   },
+   "news-csk": {
+    "run": "20261123T164603Z",
+    "sha256": "d2d3f681365db1ecc8d905f418740b70b9a27e826b514f21271eaee96f7bc0a9",
+    "retrieved_at": "2026-11-23T16:46:17+00:00"
+   },
+   "news-oyo": {
+    "run": "20261123T164603Z",
+    "sha256": "26d50ffc810cfcf9b46260a648a6d097dede1e9ab82032c60da3e15ab2817bb1",
+    "retrieved_at": "2026-11-23T16:46:19+00:00"
+   },
+   "news-pharmeasy": {
+    "run": "20261123T164603Z",
+    "sha256": "f1786ada3ed60fefdb32fcbfb1af400ad7ec0e1e063d0860038c2e8762489aeb",
+    "retrieved_at": "2026-11-23T16:46:20+00:00"
+   },
+   "news-polymatech": {
+    "run": "20261123T164603Z",
+    "sha256": "3f78aef22c1e1ec2d52325a208acc033aa0b5db8d93d01fb53b4e7fd23d86335",
+    "retrieved_at": "2026-11-23T16:46:22+00:00"
+   },
+   "news-haldia": {
+    "run": "20261123T164603Z",
+    "sha256": "0dddc506d0c947d4a933467a16239933f099ef8c8da1189396750f74b4b3ed9a",
+    "retrieved_at": "2026-11-23T16:46:23+00:00"
+   },
+   "news-indiacarbon": {
+    "run": "20261123T164603Z",
+    "sha256": "2f694c8be3bd58ac612d077dbd74886e875dc32ebc71de56a586078f1ca4ba9b",
+    "retrieved_at": "2026-11-23T16:46:25+00:00"
+   },
+   "news-nayara": {
+    "run": "20261123T164603Z",
+    "sha256": "93221c044dfc3562ac7ab7b7b99e0a43e98888984d9bbb2148e77570c8028343",
+    "retrieved_at": "2026-11-23T16:46:26+00:00"
+   },
+   "news-cial": {
+    "run": "20261123T164603Z",
+    "sha256": "18f9b89146ddcb7016df8f3cab837b952ec793805c1b22591724fbd304bb7a12",
+    "retrieved_at": "2026-11-23T16:46:28+00:00"
+   },
+   "news-capgemini": {
+    "run": "20261123T164603Z",
+    "sha256": "340d28415fe8fb1362453cb3462ac625a18d4c63b9648e7aa64af61515252a97",
+    "retrieved_at": "2026-11-23T16:46:29+00:00"
+   },
+   "news-reliance-retail": {
+    "run": "20261123T164603Z",
+    "sha256": "590ce803e512112f049d92254ab0057fb54f7ca1f9d7aab1e361f25db0ab0d7a",
+    "retrieved_at": "2026-11-23T16:46:31+00:00"
+   },
+   "news-nse": {
+    "run": "20261123T164603Z",
+    "sha256": "f9f217a5e9bd955f37d1f7640e933be7ad9c2daf6862bd057cad135fdf1fc621",
+    "retrieved_at": "2026-11-23T16:46:32+00:00"
+   },
+   "news-_market": {
+    "run": "20261123T164603Z",
+    "sha256": "82e6b6bfd9ae1bba72550db85ba422bbc3f5385863aff501e56b2cd831eec9a0",
+    "retrieved_at": "2026-11-23T16:46:34+00:00"
+   }
+  },
+  "yahoo": {
+   "bsesn-1y": {
+    "run": "20261123T165143Z",
+    "sha256": "5e70e11c004b0a0b127ec10d7eb2ff28e6ba70d822232728a8202fbcb9576d69",
+    "retrieved_at": "2026-11-23T16:51:43+00:00"
+   },
+   "bsesn-1d": {
+    "run": "20261123T165143Z",
+    "sha256": "00d511e09e6c6bc8d13e4d06b108486af707b1afd7309d46c029d16806b690a5",
+    "retrieved_at": "2026-11-23T16:51:45+00:00"
+   },
+   "nsei-1y": {
+    "run": "20261123T165143Z",
+    "sha256": "953b5255741e6e706e81d7f7212ba0ed436a19ccecfa461c919c24b9fe6d9a69",
+    "retrieved_at": "2026-11-23T16:51:46+00:00"
+   },
+   "nsei-1d": {
+    "run": "20261123T165143Z",
+    "sha256": "4dd39ee0de070340abd62004aa8d0467ffbe7d4470ce9ff356d4430125221468",
+    "retrieved_at": "2026-11-23T16:51:47+00:00"
+   }
+  },
+  "peer_context": {
+   "alkem-fy26-release": {
+    "run": "20261123T181120Z",
+    "sha256": "89b402d74f56d6b4d3171cf60a7cbdb7611ca4ed689697c612f60b217cfa2dfd",
+    "retrieved_at": "2026-11-23T18:11:20+00:00"
+   },
+   "cial-terminal-tender": {
+    "run": "20261123T180745Z",
+    "sha256": "e0ef3a66b6ad4115e10a709e761c84ebd182a1d7548b1c480c3ff76e0daa8c7d",
+    "retrieved_at": "2026-11-23T18:07:45+00:00"
+   },
+   "autoaxles-annual-2026": {
+    "run": "20261123T180745Z",
+    "sha256": "a521279dbe15adb1d0f7259f5f78f6f2275a2e8de637154e1207219c5b54eea0",
+    "retrieved_at": "2026-11-23T18:07:48+00:00"
+   },
+   "iex-oct-call": {
+    "run": "20261123T180022Z",
+    "sha256": "894f9f996938cea9ed752e52a45b664af7da79e4e305feb4998138ab1102c198",
+    "retrieved_at": "2026-11-23T18:00:22+00:00"
+   },
+   "mcx-coal-release": {
+    "run": "20261123T180022Z",
+    "sha256": "3476cdc924931f1afff83c673bc4beb886336064c0bb8eb5b63751c00110e338",
+    "retrieved_at": "2026-11-23T18:00:24+00:00"
+   },
+   "igx-oct-reporting": {
+    "run": "20261123T180022Z",
+    "sha256": "d1d9350b9006c3c38879ed584d9c994e66f031f3d7ec90418cf7196ff81ee214",
+    "retrieved_at": "2026-11-23T18:00:27+00:00"
+   },
+   "cial-annual-2026": {
+    "run": "20261123T180022Z",
+    "sha256": "7cfd43fb6ec7d96a3f1bd11b41940002fa07823362bdd82c008c66455643b766",
+    "retrieved_at": "2026-11-23T18:00:29+00:00"
+   },
+   "crunchbase-filters": {
+    "run": "20261123T180022Z",
+    "sha256": "c57a72aee77bd080069dd557a312faa3a9f7a361db4af842798ead762cd68e8b",
+    "retrieved_at": "2026-11-23T18:00:33+00:00"
+   }
+  },
+  "portfolio_terms": {
+   "frsb-coupon-2026h2": {
+    "run": "20261123T183201Z",
+    "sha256": "640124068ee8613e8b89e94849494b133114c3da58d154087186acd596d26937",
+    "retrieved_at": "2026-11-23T18:32:01+00:00"
+   },
+   "frsb-scheme": {
+    "run": "20261123T183201Z",
+    "sha256": "f4743858b7b503aba0691b359d703bc6654abb279c3d6de6594dbe7d376752db",
+    "retrieved_at": "2026-11-23T18:32:03+00:00"
+   },
+   "frsb-operations": {
+    "run": "20261123T183201Z",
+    "sha256": "3f9c63a3a81bf2563cc9496509b30509badfd16fe97f79ea762b9978739fa7a5",
+    "retrieved_at": "2026-11-23T18:32:03+00:00"
+   },
+   "goldbees-product": {
+    "run": "20261123T183201Z",
+    "sha256": "98178d1382f97d5c11e033b25fe0234b436256110a92cf649f9e7de77bd82342",
+    "retrieved_at": "2026-11-23T18:32:04+00:00"
+   },
+   "mcx-split": {
+    "run": "20261123T183201Z",
+    "sha256": "79bd7aaf377f842ca9ed85ef09762edfa0a0ef0c28dd6ef79659eaa2e2ee907b",
+    "retrieved_at": "2026-11-23T18:32:05+00:00"
+   },
+   "hindalco-business": {
+    "run": "20261123T182731Z",
+    "sha256": "c83aa2d9aa927903266f60bfd9b735a0697f69b7760f5d73fcfdace2032dead8",
+    "retrieved_at": "2026-11-23T18:27:34+00:00"
+   }
+  },
+  "issuer": {
+   "igx-restated-financials": {
+    "run": "20261123T163845Z",
+    "sha256": "d6fcbfb703f9a261511d0bbbd3a11b1b8e4426a89e6ac650f37c5c16c442ca8a"
+   },
+   "igx-abridged-prospectus": {
+    "run": "20261123T163845Z",
+    "sha256": "1c01ddfcde4e620ddb34ddc9fc1c29d01f18a6d562c11103ceee9a87f8abfa9b"
+   },
+   "igx-drhp": {
+    "run": "20261123T163845Z",
+    "sha256": "7016cee34f4ce8cce762ec6f49fa320507a32c50308d834b58c73b3e2c80b9d3"
+   }
+  },
+  "screener": {
+   "ALKEM-consolidated": {
+    "run": "20261123T175837Z",
+    "sha256": "441f28766c6624454fd35f41be6f43fd0c8971608e6a70b09eefd33edaae1878",
+    "retrieved_at": "2026-11-23T17:58:50+00:00"
+   },
+   "ALKEM-standalone": {
+    "run": "20261123T175837Z",
+    "sha256": "dbd082be2ffd8ebe3fa9314a7894e4418863a21364d41c240a6c59606c1ec82a",
+    "retrieved_at": "2026-11-23T17:58:52+00:00"
+   },
+   "AUTOAXLES-consolidated": {
+    "run": "20261123T175837Z",
+    "sha256": "ba544cb0d57cb485caaa57b5dd7f00861a5a466b1ad224743e3c449f2dedc804",
+    "retrieved_at": "2026-11-23T17:58:53+00:00"
+   },
+   "AUTOAXLES-standalone": {
+    "run": "20261123T175837Z",
+    "sha256": "61ab1a80ac95272d95397e83740ebdb3f994951820dec287862e489b57e2869d",
+    "retrieved_at": "2026-11-23T17:58:54+00:00"
+   },
+   "COLPAL-consolidated": {
+    "run": "20261123T175837Z",
+    "sha256": "566f473fd013e720a40ed45cc208fcc499bfcd370c063127b7915f39eedf8245",
+    "retrieved_at": "2026-11-23T17:58:55+00:00"
+   },
+   "COLPAL-standalone": {
+    "run": "20261123T175837Z",
+    "sha256": "ddf0251c5c4b7bfb6deb11da954d369977f687381c211efefd8d3b026b4c3c60",
+    "retrieved_at": "2026-11-23T17:58:56+00:00"
+   },
+   "GNA-consolidated": {
+    "run": "20261123T175837Z",
+    "sha256": "cdae6eba5f5a095dff575f62ec8642d394545c013f52063da2d3413d6f6b81ce",
+    "retrieved_at": "2026-11-23T17:58:58+00:00"
+   },
+   "GNA-standalone": {
+    "run": "20261123T175837Z",
+    "sha256": "537b1e0b4678a01e9dad08d3669f8b86f96d350b3ccbf48f951dc9e3a26af2b7",
+    "retrieved_at": "2026-11-23T17:58:59+00:00"
+   },
+   "IPCALAB-consolidated": {
+    "run": "20261123T175837Z",
+    "sha256": "f30aefca31a02739ac579b078c6e6f1d8c331a8bf00468da263c35bce115c3bf",
+    "retrieved_at": "2026-11-23T17:59:00+00:00"
+   },
+   "IPCALAB-standalone": {
+    "run": "20261123T175837Z",
+    "sha256": "df91e9d7ea24b4ab2e7dd7d981e70ef304004ad1264b335582ec9443d67a8507",
+    "retrieved_at": "2026-11-23T17:59:01+00:00"
+   },
+   "LTM-consolidated": {
+    "run": "20261123T174054Z",
+    "sha256": "119ac890366982ab30d0cd80abdb1b7a559fdb9faedf9fd3ff1dbf3bf9a4ed82",
+    "retrieved_at": "2026-11-23T17:40:54+00:00"
+   },
+   "LTM-standalone": {
+    "run": "20261123T174054Z",
+    "sha256": "2343ec67cbfddac3e129f9f3ee4b250294ae8ceec980a15c96384a6a4176f82b",
+    "retrieved_at": "2026-11-23T17:40:55+00:00"
+   },
+   "SPLPETRO-consolidated": {
+    "run": "20261123T174054Z",
+    "sha256": "cb6e3ff40e339da9bbce7291bc53b427bf4922ded90f3b3318ea692ff1797213",
+    "retrieved_at": "2026-11-23T17:40:57+00:00"
+   },
+   "SPLPETRO-standalone": {
+    "run": "20261123T174054Z",
+    "sha256": "5344b1646d80121a2f4b1c71c0fd1a0483b3ea826239d63f0580f57a5e536172",
+    "retrieved_at": "2026-11-23T17:40:58+00:00"
+   },
+   "ANGELONE-consolidated": {
+    "run": "20261123T164603Z",
+    "sha256": "b49327fc3c9c81f184c37c36679309140a51f21574ef1b4a8ec235d1c52f934e",
+    "retrieved_at": "2026-11-23T16:46:36+00:00"
+   },
+   "ANGELONE-standalone": {
+    "run": "20261123T164603Z",
+    "sha256": "59d241e5a19e9be77fb8b2a1c0ffcbbcdb4615bacc6fd3027c37741797f9ce5c",
+    "retrieved_at": "2026-11-23T16:46:38+00:00"
+   },
+   "BAJFINANCE-consolidated": {
+    "run": "20261123T164603Z",
+    "sha256": "d7bbe7d89dc95389c1bed814965e805a2fac44e54c993b068d910d6664a57513",
+    "retrieved_at": "2026-11-23T16:46:39+00:00"
+   },
+   "BAJFINANCE-standalone": {
+    "run": "20261123T164603Z",
+    "sha256": "7324a1e6fc66159a3af09bb5aa7d9c79d1f45cd9f042c47d4a38441699d3325e",
+    "retrieved_at": "2026-11-23T16:46:40+00:00"
+   },
+   "BSE-consolidated": {
+    "run": "20261123T164603Z",
+    "sha256": "702e0addf9b7bcc965353b97a1ea78951843a625eaddea1360fe063546a6b736",
+    "retrieved_at": "2026-11-23T16:46:41+00:00"
+   },
+   "BSE-standalone": {
+    "run": "20261123T164603Z",
+    "sha256": "5311e0af3557facac42fe4f51d806b18d99c437b4f72d49ca55a888893d65fcc",
+    "retrieved_at": "2026-11-23T16:46:42+00:00"
+   },
+   "CAMS-consolidated": {
+    "run": "20261123T164603Z",
+    "sha256": "744ebd8744963730c02f18ba41f21076a6f1fc08bbeedcf5e07133aefab6a055",
+    "retrieved_at": "2026-11-23T16:46:43+00:00"
+   },
+   "CAMS-standalone": {
+    "run": "20261123T164603Z",
+    "sha256": "f8d43316be1611a3904eabe7059355ec446d539fc4f57f01a46f7ed5fec4f3e8",
+    "retrieved_at": "2026-11-23T16:46:44+00:00"
+   },
+   "CDSL-consolidated": {
+    "run": "20261123T164603Z",
+    "sha256": "87e8184d7b50b3d14d68e6e4eb2db5eb8bc2795cb84c6001425e4d2575f72d87",
+    "retrieved_at": "2026-11-23T16:46:45+00:00"
+   },
+   "CDSL-standalone": {
+    "run": "20261123T164603Z",
+    "sha256": "269b786767573106cf43b3e40140660d90d01d055ae56e7f7d9a7819363421fc",
+    "retrieved_at": "2026-11-23T16:46:46+00:00"
+   },
+   "CHENNPETRO-consolidated": {
+    "run": "20261123T164603Z",
+    "sha256": "3a5e7e919e1af4bf7c5a88bb9ba310e2a5a04cc2a531918b0bc83d75abdb9b92",
+    "retrieved_at": "2026-11-23T16:46:48+00:00"
+   },
+   "CHENNPETRO-standalone": {
+    "run": "20261123T164603Z",
+    "sha256": "eeb1d1526e1b4e0d04e511104924943df25ffb5ca4157e08d6853f1565261137",
+    "retrieved_at": "2026-11-23T16:46:49+00:00"
+   },
+   "CHOLAFIN-consolidated": {
+    "run": "20261123T164603Z",
+    "sha256": "57b7bca358e255b3a3f3aa4031da7435bd4816f33e571dc5dd35a36fb8876c7e",
+    "retrieved_at": "2026-11-23T16:46:50+00:00"
+   },
+   "CHOLAFIN-standalone": {
+    "run": "20261123T164603Z",
+    "sha256": "bc277f78fd4d11572fd8f4c50d1163b1d07963739b10d13e18051ecf062d086d",
+    "retrieved_at": "2026-11-23T16:46:51+00:00"
+   },
+   "DMART-consolidated": {
+    "run": "20261123T164603Z",
+    "sha256": "dfa065dfd39b2e6d623bb9b1bbee1ff38c59c3c6685a3e87d62c066669f5dce5",
+    "retrieved_at": "2026-11-23T16:46:52+00:00"
+   },
+   "DMART-standalone": {
+    "run": "20261123T164603Z",
+    "sha256": "4a7c6715e0c87acfcc3f37fa5173ca357473b1b9c3f33b431cd8d458116753e5",
+    "retrieved_at": "2026-11-23T16:46:53+00:00"
+   },
+   "EASEMYTRIP-consolidated": {
+    "run": "20261123T164603Z",
+    "sha256": "4a1966ee129483c1e7a8995f457affc62a3a41327a51fa14eccee436a6bd02fd",
+    "retrieved_at": "2026-11-23T16:46:54+00:00"
+   },
+   "EASEMYTRIP-standalone": {
+    "run": "20261123T164603Z",
+    "sha256": "0be035503da396afab9898c4ab52106d8fa7ea2df52deece664c4c3b711209a3",
+    "retrieved_at": "2026-11-23T16:46:55+00:00"
+   },
+   "GMRAIRPORT-consolidated": {
+    "run": "20261123T164603Z",
+    "sha256": "8ab05ff6de6b48107acf6b65318e962c6155772338e3a124fab1edf39d4a4142",
+    "retrieved_at": "2026-11-23T16:46:56+00:00"
+   },
+   "GMRAIRPORT-standalone": {
+    "run": "20261123T164603Z",
+    "sha256": "5fcc261ff5a79f21bd5adc6c7153484972447e205fe333db7798ba4a0f1e4e74",
+    "retrieved_at": "2026-11-23T16:46:58+00:00"
+   },
+   "GOACARBON-consolidated": {
+    "run": "20261123T164603Z",
+    "sha256": "ea3abf3775dcd7b330315241f97944affd4f92d9c8d2f07a217ffdad1cc93883",
+    "retrieved_at": "2026-11-23T16:46:59+00:00"
+   },
+   "GOACARBON-standalone": {
+    "run": "20261123T164603Z",
+    "sha256": "8d6e2b549c5d59e6d30893ec996f2e91728f709d012f2e2b39263b4366df28c3",
+    "retrieved_at": "2026-11-23T16:47:00+00:00"
+   },
+   "GODIGIT-consolidated": {
+    "run": "20261123T164603Z",
+    "sha256": "feab584ae5d1720b1855cc1fbbd4da1528d4390f4627d53800b31874c008366b",
+    "retrieved_at": "2026-11-23T16:47:01+00:00"
+   },
+   "GODIGIT-standalone": {
+    "run": "20261123T164603Z",
+    "sha256": "f3ce925f527ea91964e7b01d1c49eec377c67aab9058327e5b1f1fa784f575b0",
+    "retrieved_at": "2026-11-23T16:47:02+00:00"
+   },
+   "ICICIGI-consolidated": {
+    "run": "20261123T164603Z",
+    "sha256": "3ca5a3989a3a4c07b06ffbd21ef5723db1bf3be9b6c85a56453fbdfdb071486b",
+    "retrieved_at": "2026-11-23T16:47:03+00:00"
+   },
+   "ICICIGI-standalone": {
+    "run": "20261123T164603Z",
+    "sha256": "bacc5c642b43b87f9296d41ccc4783fdacfc0ff2a689fead89a196088670b3f1",
+    "retrieved_at": "2026-11-23T16:47:04+00:00"
+   },
+   "IEX-consolidated": {
+    "run": "20261123T164603Z",
+    "sha256": "0492b81e41b6d2c0fce05a62d12b5aa8d0fd2fdbf7b3c38b9322087ff5320a81",
+    "retrieved_at": "2026-11-23T16:47:05+00:00"
+   },
+   "IEX-standalone": {
+    "run": "20261123T164603Z",
+    "sha256": "90841345926a50daa63aaa2cc435d5d20ec715d1158cb891997fcd9bc8fab86b",
+    "retrieved_at": "2026-11-23T16:47:06+00:00"
+   },
+   "INDHOTEL-consolidated": {
+    "run": "20261123T164603Z",
+    "sha256": "211c5ac377eec24dd768bd572cc526a6d79670b3bf3ed339f75799bb50aa940d",
+    "retrieved_at": "2026-11-23T16:47:08+00:00"
+   },
+   "INDHOTEL-standalone": {
+    "run": "20261123T164603Z",
+    "sha256": "1d860c39f18cbb1630db6ad3481c9ff5ce4ca893f0a9209329ff67cba739fc05",
+    "retrieved_at": "2026-11-23T16:47:09+00:00"
+   },
+   "KAYNES-consolidated": {
+    "run": "20261123T164603Z",
+    "sha256": "c605c2186cef2946342b9449c7f0e073913eb46d4ccf90d4144b3215b2607912",
+    "retrieved_at": "2026-11-23T16:47:10+00:00"
+   },
+   "KAYNES-standalone": {
+    "run": "20261123T164603Z",
+    "sha256": "94bd962ad4ea556645caced38a98b56444a1ec9ccdf60be08ad1bac1bac27640",
+    "retrieved_at": "2026-11-23T16:47:11+00:00"
+   },
+   "LTF-consolidated": {
+    "run": "20261123T164603Z",
+    "sha256": "d73aa6bd40f0f5c4a14ca6250e2ba79c8034f28be0bad8773d5e8d0ac6a8ca6d",
+    "retrieved_at": "2026-11-23T16:47:12+00:00"
+   },
+   "LTF-standalone": {
+    "run": "20261123T164603Z",
+    "sha256": "182b22ea6a0882a53725bf5d65684d5b6a769105a03089a6d586fc1cd0ff91af",
+    "retrieved_at": "2026-11-23T16:47:13+00:00"
+   },
+   "MCX-consolidated": {
+    "run": "20261123T164603Z",
+    "sha256": "031efaf7376f42ad9aa4d24655aedc282117167ae3e18e0fd3648a1455628978",
+    "retrieved_at": "2026-11-23T16:47:16+00:00"
+   },
+   "MCX-standalone": {
+    "run": "20261123T164603Z",
+    "sha256": "a347bc5cee015461f0e5794720e291507ac8201fdcdc85aebaab29e1532d542c",
+    "retrieved_at": "2026-11-23T16:47:17+00:00"
+   },
+   "MEDPLUS-consolidated": {
+    "run": "20261123T164603Z",
+    "sha256": "7778f91d402bfc1916c5a4d5d678927fca6830dd22cb288dabbe541b0da4fbcb",
+    "retrieved_at": "2026-11-23T16:47:19+00:00"
+   },
+   "MEDPLUS-standalone": {
+    "run": "20261123T164603Z",
+    "sha256": "db9056a7055a9bb8f721285c1d28bc0370d0a840e1cb4fce3ce5e81c2722da6e",
+    "retrieved_at": "2026-11-23T16:47:20+00:00"
+   },
+   "MOSCHIP-consolidated": {
+    "run": "20261123T164603Z",
+    "sha256": "6866896838f5425a6e4cc123c9343b616572134d15f243bc5d41b93d27147523",
+    "retrieved_at": "2026-11-23T16:47:21+00:00"
+   },
+   "MOSCHIP-standalone": {
+    "run": "20261123T164603Z",
+    "sha256": "a787c9a8082fe6e030cc03fa914868c5049854042b9b1d2117feed614008d328",
+    "retrieved_at": "2026-11-23T16:47:22+00:00"
+   },
+   "MOTILALOFS-consolidated": {
+    "run": "20261123T164603Z",
+    "sha256": "7789442ffe2e7df1d049d1076738c20d05bff56c4203698845e611b35e24a9f7",
+    "retrieved_at": "2026-11-23T16:47:23+00:00"
+   },
+   "MOTILALOFS-standalone": {
+    "run": "20261123T164603Z",
+    "sha256": "ba6304054a3b1042c51955d5d1053f3b532a14e44f35e0a6544e04db84086e50",
+    "retrieved_at": "2026-11-23T16:47:24+00:00"
+   },
+   "MPHASIS-consolidated": {
+    "run": "20261123T164603Z",
+    "sha256": "34e78320001883e4daa30115608694bbf2506d646bb7e02e9dbb8bbc6a21f2f3",
+    "retrieved_at": "2026-11-23T16:47:25+00:00"
+   },
+   "MPHASIS-standalone": {
+    "run": "20261123T164603Z",
+    "sha256": "6fdb7406dd16469eb0e2146b152759f9428d5aca18264547aaec0d49c1683f9c",
+    "retrieved_at": "2026-11-23T16:47:26+00:00"
+   },
+   "MRPL-consolidated": {
+    "run": "20261123T164603Z",
+    "sha256": "a172758d1785e30dc9ac724f68b0f4c1b10bfeb255f0651b421f5b1d60ef43bf",
+    "retrieved_at": "2026-11-23T16:47:27+00:00"
+   },
+   "MRPL-standalone": {
+    "run": "20261123T164603Z",
+    "sha256": "f9654ddef19afc1484d8967d5758a581b944913091a9d0dd52292f654ce87771",
+    "retrieved_at": "2026-11-23T16:47:28+00:00"
+   },
+   "PCBL-consolidated": {
+    "run": "20261123T164603Z",
+    "sha256": "70f9524c4c19ad44a0076f4d3d68b4a65ccdc44f17c71432ce2d0df7c24b5b08",
+    "retrieved_at": "2026-11-23T16:47:30+00:00"
+   },
+   "PCBL-standalone": {
+    "run": "20261123T164603Z",
+    "sha256": "63f0b02eff1ca4387554945a87a3248adeeaa90837ecf024e432f7ee75fe9e01",
+    "retrieved_at": "2026-11-23T16:47:31+00:00"
+   },
+   "RAIN-consolidated": {
+    "run": "20261123T164603Z",
+    "sha256": "1a2b044724d22890899aa39c5cc254960100f9962e49667009e9904de2fe9fb8",
+    "retrieved_at": "2026-11-23T16:47:32+00:00"
+   },
+   "RAIN-standalone": {
+    "run": "20261123T164603Z",
+    "sha256": "691fbfc9c19a129cf9222d87f2b95a67c99745baf2e79be8855e03168bb31f7a",
+    "retrieved_at": "2026-11-23T16:47:33+00:00"
+   },
+   "RELIANCE-consolidated": {
+    "run": "20261123T164603Z",
+    "sha256": "c4881c0aaa930d9c4fd693e6b34536ec8e998ba53adeefabae73e3961e46efc0",
+    "retrieved_at": "2026-11-23T16:47:34+00:00"
+   },
+   "RELIANCE-standalone": {
+    "run": "20261123T164603Z",
+    "sha256": "72418ba0b2856ecdf14da86ff6e9634adeafe3f0991195876364f207f0dbd165",
+    "retrieved_at": "2026-11-23T16:47:35+00:00"
+   },
+   "TRENT-consolidated": {
+    "run": "20261123T164603Z",
+    "sha256": "83a223e045d657e7d979cfb888e9a404be468f8b8945bfb2012f7f9a00da5455",
+    "retrieved_at": "2026-11-23T16:47:38+00:00"
+   },
+   "TRENT-standalone": {
+    "run": "20261123T164603Z",
+    "sha256": "943a849a6e3fe53821ac60019ec4c6ec68b12ba8a19e41097a5ddc66ae5e314b",
+    "retrieved_at": "2026-11-23T16:47:39+00:00"
+   }
+  },
+  "nse_eod": {
+   "latest_date": "2026-11-23",
+   "trading_days": 67
+  }
+ },
+ "fallbacks": [],
+ "checks_summary": {
+  "pass": 146,
+  "fail": 2,
+  "conflict": 6,
+  "stale": 1
+ },
+ "checks": [
+  {
+   "company": "igx",
+   "check": "balance_identity",
+   "period": "FY2022",
+   "result": "pass",
+   "detail": "assets 518.73 - (equity 65.34 + liabilities 453.39) = 0.00"
+  },
+  {
+   "company": "igx",
+   "check": "income_identity",
+   "period": "FY2022",
+   "result": "pass",
+   "detail": "total income 17.47 - (operations 11.22 + other 6.25 + separate income lines 0) = 0.00"
+  },
+  {
+   "company": "igx",
+   "check": "balance_identity",
+   "period": "FY2023",
+   "result": "pass",
+   "detail": "assets 468.86 - (equity 93.49 + liabilities 375.38) = -0.01"
+  },
+  {
+   "company": "igx",
+   "check": "income_identity",
+   "period": "FY2023",
+   "result": "pass",
+   "detail": "total income 61.98 - (operations 42.7 + other 19.28 + separate income lines 0) = 0.00"
+  },
+  {
+   "company": "igx",
+   "check": "balance_identity",
+   "period": "FY2024",
+   "result": "pass",
+   "detail": "assets 294.58 - (equity 116.66 + liabilities 177.92) = 0.00"
+  },
+  {
+   "company": "igx",
+   "check": "income_identity",
+   "period": "FY2024",
+   "result": "pass",
+   "detail": "total income 54.62 - (operations 34.85 + other 19.77 + separate income lines 0) = 0.00"
+  },
+  {
+   "company": "igx",
+   "check": "balance_identity",
+   "period": "FY2025",
+   "result": "pass",
+   "detail": "assets 307.71 - (equity 147.71 + liabilities 159.99) = 0.01"
+  },
+  {
+   "company": "igx",
+   "check": "income_identity",
+   "period": "FY2025",
+   "result": "pass",
+   "detail": "total income 69.08 - (operations 48.8 + other 20.28 + separate income lines 0) = 0.00"
+  },
+  {
+   "company": "igx",
+   "check": "balance_identity",
+   "period": "FY2026",
+   "result": "pass",
+   "detail": "assets 477.73 - (equity 179.03 + liabilities 298.7) = 0.00"
+  },
+  {
+   "company": "igx",
+   "check": "income_identity",
+   "period": "FY2026",
+   "result": "pass",
+   "detail": "total income 84.84 - (operations 61.01 + other 23.83 + separate income lines 0) = 0.00"
+  },
+  {
+   "company": "igx",
+   "check": "shares_outstanding_consistency",
+   "result": "conflict",
+   "detail": {
+    "shares_fundamentals": "75000000",
+    "shares_details": "74030400",
+    "summary_latest_fy": "74030400"
+   }
+  },
+  {
+   "company": "igx",
+   "check": "ipo_status",
+   "result": "conflict",
+   "detail": "provider shows 'DRHP Filed? No' but the issuer's investor-relations page links a Draft Red Herring Prospectus"
+  },
+  {
+   "company": "ncdex",
+   "check": "balance_identity",
+   "period": "FY2022",
+   "result": "pass",
+   "detail": "assets 931.34 - (equity 526.05 + liabilities 405.29) = 0.00"
+  },
+  {
+   "company": "ncdex",
+   "check": "income_identity",
+   "period": "FY2022",
+   "result": "pass",
+   "detail": "total income 154.37 - (operations 115.33 + other 39.04 + separate income lines 0) = 0.00"
+  },
+  {
+   "company": "ncdex",
+   "check": "balance_identity",
+   "period": "FY2023",
+   "result": "pass",
+   "detail": "assets 875.99 - (equity 493.04 + liabilities 382.95) = 0.00"
+  },
+  {
+   "company": "ncdex",
+   "check": "income_identity",
+   "period": "FY2023",
+   "result": "pass",
+   "detail": "total income 135.57 - (operations 103.93 + other 31.64 + separate income lines 0) = 0.00"
+  },
+  {
+   "company": "ncdex",
+   "check": "balance_identity",
+   "period": "FY2024",
+   "result": "pass",
+   "detail": "assets 838.28 - (equity 475.97 + liabilities 362.31) = 0.00"
+  },
+  {
+   "company": "ncdex",
+   "check": "income_identity",
+   "period": "FY2024",
+   "result": "pass",
+   "detail": "total income 136.06 - (operations 96.4 + other 39.66 + separate income lines 0) = 0.00"
+  },
+  {
+   "company": "ncdex",
+   "check": "balance_identity",
+   "period": "FY2025",
+   "result": "pass",
+   "detail": "assets 1245.91 - (equity 750.6 + liabilities 495.31) = 0.00"
+  },
+  {
+   "company": "ncdex",
+   "check": "income_identity",
+   "period": "FY2025",
+   "result": "pass",
+   "detail": "total income 122.06 - (operations 88.19 + other 33.87 + separate income lines 0) = 0.00"
+  },
+  {
+   "company": "ncdex",
+   "check": "balance_identity",
+   "period": "FY2026",
+   "result": "pass",
+   "detail": "assets 2003.52 - (equity 1507.53 + liabilities 495.99) = 0.00"
+  },
+  {
+   "company": "ncdex",
+   "check": "income_identity",
+   "period": "FY2026",
+   "result": "pass",
+   "detail": "total income 153.37 - (operations 90.44 + other 62.93 + separate income lines 0) = 0.00"
+  },
+  {
+   "company": "ncdex",
+   "check": "shares_outstanding_consistency",
+   "result": "pass",
+   "detail": {
+    "shares_fundamentals": "89694973",
+    "summary_latest_fy": "89694972"
+   }
+  },
+  {
+   "company": "msei",
+   "check": "balance_identity",
+   "period": "FY2022",
+   "result": "pass",
+   "detail": "assets 450.97 - (equity 274.42 + liabilities 176.55) = 0.00"
+  },
+  {
+   "company": "msei",
+   "check": "income_identity",
+   "period": "FY2022",
+   "result": "pass",
+   "detail": "total income 25.06 - (operations 10.06 + other 15 + separate income lines 0) = 0.00"
+  },
+  {
+   "company": "msei",
+   "check": "balance_identity",
+   "period": "FY2023",
+   "result": "pass",
+   "detail": "assets 299.38 - (equity 241.41 + liabilities 57.97) = 0.00"
+  },
+  {
+   "company": "msei",
+   "check": "income_identity",
+   "period": "FY2023",
+   "result": "pass",
+   "detail": "total income 54.65 - (operations 9.21 + other 45.44 + separate income lines 0) = 0.00"
+  },
+  {
+   "company": "msei",
+   "check": "balance_identity",
+   "period": "FY2024",
+   "result": "pass",
+   "detail": "assets 249.18 - (equity 192.79 + liabilities 56.39) = 0.00"
+  },
+  {
+   "company": "msei",
+   "check": "income_identity",
+   "period": "FY2024",
+   "result": "pass",
+   "detail": "total income 21.05 - (operations 7.36 + other 13.69 + separate income lines 0) = 0.00"
+  },
+  {
+   "company": "msei",
+   "check": "balance_identity",
+   "period": "FY2025",
+   "result": "pass",
+   "detail": "assets 443.85 - (equity 396.69 + liabilities 47.16) = 0.00"
+  },
+  {
+   "company": "msei",
+   "check": "income_identity",
+   "period": "FY2025",
+   "result": "pass",
+   "detail": "total income 17.38 - (operations 4.31 + other 13.07 + separate income lines 0) = 0.00"
+  },
+  {
+   "company": "msei",
+   "check": "balance_identity",
+   "period": "FY2026",
+   "result": "pass",
+   "detail": "assets 1434.48 - (equity 1369.29 + liabilities 65.19) = 0.00"
+  },
+  {
+   "company": "msei",
+   "check": "income_identity",
+   "period": "FY2026",
+   "result": "pass",
+   "detail": "total income 59.07 - (operations 3.38 + other 55.69 + separate income lines 0) = 0.00"
+  },
+  {
+   "company": "hpx",
+   "check": "balance_identity",
+   "period": "FY2022",
+   "result": "pass",
+   "detail": "assets 60.27 - (equity 51.66 + liabilities 8.62) = -0.01"
+  },
+  {
+   "company": "hpx",
+   "check": "income_identity",
+   "period": "FY2022",
+   "result": "pass",
+   "detail": "total income 2.33 - (operations 0 + other 2.33 + separate income lines 0) = 0.00"
+  },
+  {
+   "company": "hpx",
+   "check": "balance_identity",
+   "period": "FY2023",
+   "result": "pass",
+   "detail": "assets 145.08 - (equity 41.64 + liabilities 103.44) = 0.00"
+  },
+  {
+   "company": "hpx",
+   "check": "income_identity",
+   "period": "FY2023",
+   "result": "pass",
+   "detail": "total income 17.44 - (operations 15.51 + other 1.93 + separate income lines 0) = 0.00"
+  },
+  {
+   "company": "hpx",
+   "check": "balance_identity",
+   "period": "FY2024",
+   "result": "pass",
+   "detail": "assets 315.47 - (equity 56.57 + liabilities 258.91) = -0.01"
+  },
+  {
+   "company": "hpx",
+   "check": "income_identity",
+   "period": "FY2024",
+   "result": "pass",
+   "detail": "total income 43.63 - (operations 36.46 + other 7.18 + separate income lines 0) = -0.01"
+  },
+  {
+   "company": "hpx",
+   "check": "balance_identity",
+   "period": "FY2025",
+   "result": "pass",
+   "detail": "assets 365.64 - (equity 67.25 + liabilities 298.39) = 0.00"
+  },
+  {
+   "company": "hpx",
+   "check": "income_identity",
+   "period": "FY2025",
+   "result": "pass",
+   "detail": "total income 40.62 - (operations 31.44 + other 9.17 + separate income lines 0) = 0.01"
+  },
+  {
+   "company": "hpx",
+   "check": "balance_identity",
+   "period": "FY2026",
+   "result": "pass",
+   "detail": "assets 215.43 - (equity 71.91 + liabilities 143.52) = 0.00"
+  },
+  {
+   "company": "hpx",
+   "check": "income_identity",
+   "period": "FY2026",
+   "result": "pass",
+   "detail": "total income 47.65 - (operations 38.35 + other 9.3 + separate income lines 0) = 0.00"
+  },
+  {
+   "company": "icex",
+   "check": "income_identity",
+   "period": "FY2024",
+   "result": "pass",
+   "detail": "total income 9.613393 - (operations 0.00609 + other 9.607303 + separate income lines 0) = 0.000000"
+  },
+  {
+   "company": "herofincorp",
+   "check": "income_identity",
+   "period": "FY2025",
+   "result": "pass",
+   "detail": "total income 9903.33 - (operations 9832.73 + other 70.6 + separate income lines 0) = 0.00"
+  },
+  {
+   "company": "herofincorp",
+   "check": "income_identity",
+   "period": "FY2026",
+   "result": "pass",
+   "detail": "total income 9593.41 - (operations 9583.26 + other 10.15 + separate income lines 0) = 0.00"
+  },
+  {
+   "company": "hdfcsec",
+   "check": "balance_identity",
+   "period": "FY2022",
+   "result": "pass",
+   "detail": "assets 7922.54 - (equity 1657.91 + liabilities 6264.62) = 0.01"
+  },
+  {
+   "company": "hdfcsec",
+   "check": "income_identity",
+   "period": "FY2022",
+   "result": "pass",
+   "detail": "total income 1990.31 - (operations 1975.57 + other 14.74 + separate income lines 0) = 0.00"
+  },
+  {
+   "company": "hdfcsec",
+   "check": "balance_identity",
+   "period": "FY2023",
+   "result": "pass",
+   "detail": "assets 8276.54 - (equity 1797.14 + liabilities 6479.4) = 0.00"
+  },
+  {
+   "company": "hdfcsec",
+   "check": "income_identity",
+   "period": "FY2023",
+   "result": "pass",
+   "detail": "total income 1891.63 - (operations 1891.27 + other 0.36 + separate income lines 0) = 0.00"
+  },
+  {
+   "company": "hdfcsec",
+   "check": "balance_identity",
+   "period": "FY2024",
+   "result": "pass",
+   "detail": "assets 14103.07 - (equity 2029.24 + liabilities 12073.83) = 0.00"
+  },
+  {
+   "company": "hdfcsec",
+   "check": "income_identity",
+   "period": "FY2024",
+   "result": "pass",
+   "detail": "total income 2660.73 - (operations 2660.12 + other 0.61 + separate income lines 0) = 0.00"
+  },
+  {
+   "company": "hdfcsec",
+   "check": "balance_identity",
+   "period": "FY2025",
+   "result": "pass",
+   "detail": "assets 14030.66 - (equity 3348.02 + liabilities 10682.64) = 0.00"
+  },
+  {
+   "company": "hdfcsec",
+   "check": "income_identity",
+   "period": "FY2025",
+   "result": "pass",
+   "detail": "total income 3264.55 - (operations 3263.8 + other 0.75 + separate income lines 0) = 0.00"
+  },
+  {
+   "company": "hdfcsec",
+   "check": "balance_identity",
+   "period": "FY2026",
+   "result": "fail",
+   "detail": "assets 21783.83 - (equity 3592.56 + liabilities 18190.33) = 0.94"
+  },
+  {
+   "company": "hdfcsec",
+   "check": "income_identity",
+   "period": "FY2026",
+   "result": "pass",
+   "detail": "total income 3110.22 - (operations 3107.49 + other 2.73 + separate income lines 0) = 0.00"
+  },
+  {
+   "company": "csk",
+   "check": "balance_identity",
+   "period": "FY2022",
+   "result": "pass",
+   "detail": "assets 390.57 - (equity 248.74 + liabilities 141.83) = 0.00"
+  },
+  {
+   "company": "csk",
+   "check": "income_identity",
+   "period": "FY2022",
+   "result": "pass",
+   "detail": "total income 349.15 - (operations 341.05 + other 8.1 + separate income lines 0) = 0.00"
+  },
+  {
+   "company": "csk",
+   "check": "balance_identity",
+   "period": "FY2023",
+   "result": "pass",
+   "detail": "assets 460.66 - (equity 261.53 + liabilities 199.13) = 0.00"
+  },
+  {
+   "company": "csk",
+   "check": "income_identity",
+   "period": "FY2023",
+   "result": "pass",
+   "detail": "total income 325.3 - (operations 305.86 + other 19.44 + separate income lines 0) = 0.00"
+  },
+  {
+   "company": "csk",
+   "check": "balance_identity",
+   "period": "FY2024",
+   "result": "pass",
+   "detail": "assets 839.08 - (equity 528 + liabilities 311.08) = 0.00"
+  },
+  {
+   "company": "csk",
+   "check": "income_identity",
+   "period": "FY2024",
+   "result": "pass",
+   "detail": "total income 723.28 - (operations 695.45 + other 27.83 + separate income lines 0) = 0.00"
+  },
+  {
+   "company": "csk",
+   "check": "balance_identity",
+   "period": "FY2025",
+   "result": "pass",
+   "detail": "assets 1132.42 - (equity 714.58 + liabilities 417.84) = 0.00"
+  },
+  {
+   "company": "csk",
+   "check": "income_identity",
+   "period": "FY2025",
+   "result": "pass",
+   "detail": "total income 704.28 - (operations 673.8 + other 30.49 + separate income lines 0) = -0.01"
+  },
+  {
+   "company": "csk",
+   "check": "balance_identity",
+   "period": "FY2026",
+   "result": "pass",
+   "detail": "assets 1060.2 - (equity 815.05 + liabilities 245.14) = 0.01"
+  },
+  {
+   "company": "csk",
+   "check": "income_identity",
+   "period": "FY2026",
+   "result": "pass",
+   "detail": "total income 711.98 - (operations 697.14 + other 14.84 + separate income lines 0) = 0.00"
+  },
+  {
+   "company": "oyo",
+   "check": "balance_identity",
+   "period": "FY2022",
+   "result": "fail",
+   "detail": "assets 8751.04 - (equity 1443.6 + liabilities 7008.7) = 298.74"
+  },
+  {
+   "company": "oyo",
+   "check": "income_identity",
+   "period": "FY2022",
+   "result": "pass",
+   "detail": "total income 4904.74 - (operations 4781.36 + other 123.38 + separate income lines 0) = 0.00"
+  },
+  {
+   "company": "oyo",
+   "check": "balance_identity",
+   "period": "FY2023",
+   "result": "pass",
+   "detail": "assets 7932.43 - (equity 582.57 + liabilities 7349.86) = 0.00"
+  },
+  {
+   "company": "oyo",
+   "check": "income_identity",
+   "period": "FY2023",
+   "result": "pass",
+   "detail": "total income 5601.7 - (operations 5463.95 + other 137.76 + separate income lines 0) = -0.01"
+  },
+  {
+   "company": "oyo",
+   "check": "balance_identity",
+   "period": "FY2024",
+   "result": "pass",
+   "detail": "assets 6443.47 - (equity 900.73 + liabilities 5542.74) = 0.00"
+  },
+  {
+   "company": "oyo",
+   "check": "income_identity",
+   "period": "FY2024",
+   "result": "pass",
+   "detail": "total income 5541.59 - (operations 5388.79 + other 152.8 + separate income lines 0) = 0.00"
+  },
+  {
+   "company": "oyo",
+   "check": "balance_identity",
+   "period": "FY2025",
+   "result": "pass",
+   "detail": "assets 16695.32 - (equity 3786.62 + liabilities 12908.7) = 0.00"
+  },
+  {
+   "company": "oyo",
+   "check": "income_identity",
+   "period": "FY2025",
+   "result": "pass",
+   "detail": "total income 6325.89 - (operations 6252.83 + other 73.06 + separate income lines 0) = 0.00"
+  },
+  {
+   "company": "oyo",
+   "check": "balance_identity",
+   "period": "FY2026",
+   "result": "pass",
+   "detail": "assets 20019.9 - (equity 5791.17 + liabilities 14228.73) = 0.00"
+  },
+  {
+   "company": "oyo",
+   "check": "income_identity",
+   "period": "FY2026",
+   "result": "pass",
+   "detail": "total income 9757.93 - (operations 9357.98 + other 399.94 + separate income lines 0) = 0.01"
+  },
+  {
+   "company": "oyo",
+   "check": "shares_outstanding_consistency",
+   "result": "conflict",
+   "detail": {
+    "shares_fundamentals": "3750882397",
+    "shares_details": "3743116436",
+    "summary_latest_fy": "15869974978"
+   }
+  },
+  {
+   "company": "pharmeasy",
+   "check": "balance_identity",
+   "period": "FY2022",
+   "result": "pass",
+   "detail": "assets 11381.51 - (equity 7022.48 + liabilities 4359.03) = 0.00"
+  },
+  {
+   "company": "pharmeasy",
+   "check": "income_identity",
+   "period": "FY2022",
+   "result": "pass",
+   "detail": "total income 5781 - (operations 5728.82 + other 52.18 + separate income lines 0) = 0.00"
+  },
+  {
+   "company": "pharmeasy",
+   "check": "balance_identity",
+   "period": "FY2023",
+   "result": "pass",
+   "detail": "assets 8256.42 - (equity 2436.89 + liabilities 5819.53) = 0.00"
+  },
+  {
+   "company": "pharmeasy",
+   "check": "income_identity",
+   "period": "FY2023",
+   "result": "pass",
+   "detail": "total income 6699.77 - (operations 6643.94 + other 55.83 + separate income lines 0) = 0.00"
+  },
+  {
+   "company": "pharmeasy",
+   "check": "balance_identity",
+   "period": "FY2024",
+   "result": "pass",
+   "detail": "assets 8389.66 - (equity 2588.31 + liabilities 5801.35) = 0.00"
+  },
+  {
+   "company": "pharmeasy",
+   "check": "income_identity",
+   "period": "FY2024",
+   "result": "pass",
+   "detail": "total income 5758.94 - (operations 5664.29 + other 94.66 + separate income lines 0) = -0.01"
+  },
+  {
+   "company": "pharmeasy",
+   "check": "balance_identity",
+   "period": "FY2025",
+   "result": "pass",
+   "detail": "assets 6976.58 - (equity 3272.28 + liabilities 3704.3) = 0.00"
+  },
+  {
+   "company": "pharmeasy",
+   "check": "income_identity",
+   "period": "FY2025",
+   "result": "pass",
+   "detail": "total income 5980.03 - (operations 5872.16 + other 107.87 + separate income lines 0) = 0.00"
+  },
+  {
+   "company": "pharmeasy",
+   "check": "balance_identity",
+   "period": "FY2026",
+   "result": "pass",
+   "detail": "assets 6481.07 - (equity 3427.21 + liabilities 3053.86) = 0.00"
+  },
+  {
+   "company": "pharmeasy",
+   "check": "income_identity",
+   "period": "FY2026",
+   "result": "pass",
+   "detail": "total income 6689.29 - (operations 6618.5 + other 70.79 + separate income lines 0) = 0.00"
+  },
+  {
+   "company": "pharmeasy",
+   "check": "shares_outstanding_consistency",
+   "result": "pass",
+   "detail": {
+    "shares_fundamentals": "7030365534",
+    "shares_details": "7025624934",
+    "summary_latest_fy": "7025624934"
+   }
+  },
+  {
+   "company": "polymatech",
+   "check": "income_identity",
+   "period": "FY2025",
+   "result": "pass",
+   "detail": "total income 1912.1313 - (operations 1902.8971 + other 9.2342 + separate income lines 0) = 0.0000"
+  },
+  {
+   "company": "haldia",
+   "check": "quote_sanity",
+   "result": "conflict",
+   "detail": "quote INR 0.10 gives P/E 0.0200; treated as unreliable, valuation withheld"
+  },
+  {
+   "company": "indiacarbon",
+   "check": "income_identity",
+   "period": "FY2025",
+   "result": "pass",
+   "detail": "total income 190.88 - (operations 174.53 + other 16.35 + separate income lines 0) = 0.00"
+  },
+  {
+   "company": "indiacarbon",
+   "check": "income_identity",
+   "period": "FY2026",
+   "result": "pass",
+   "detail": "total income 173.42 - (operations 168.3 + other 5.12 + separate income lines 0) = 0.00"
+  },
+  {
+   "company": "nayara",
+   "check": "balance_identity",
+   "period": "FY2022",
+   "result": "pass",
+   "detail": "assets 81345.4 - (equity 21641.7 + liabilities 59703.7) = 0.0"
+  },
+  {
+   "company": "nayara",
+   "check": "income_identity",
+   "period": "FY2022",
+   "result": "pass",
+   "detail": "total income 120004.8 - (operations 119690.2 + other 314.6 + separate income lines 0) = 0.0"
+  },
+  {
+   "company": "nayara",
+   "check": "balance_identity",
+   "period": "FY2023",
+   "result": "pass",
+   "detail": "assets 84841.4 - (equity 30533.1 + liabilities 54308.3) = 0.0"
+  },
+  {
+   "company": "nayara",
+   "check": "income_identity",
+   "period": "FY2023",
+   "result": "pass",
+   "detail": "total income 138866.3 - (operations 138112.5 + other 753.8 + separate income lines 0) = 0.0"
+  },
+  {
+   "company": "nayara",
+   "check": "balance_identity",
+   "period": "FY2024",
+   "result": "pass",
+   "detail": "assets 87749 - (equity 43491 + liabilities 44258) = 0"
+  },
+  {
+   "company": "nayara",
+   "check": "income_identity",
+   "period": "FY2024",
+   "result": "pass",
+   "detail": "total income 156030.5 - (operations 155091.5 + other 939 + separate income lines 0) = 0.0"
+  },
+  {
+   "company": "nayara",
+   "check": "balance_identity",
+   "period": "FY2025",
+   "result": "pass",
+   "detail": "assets 85447.6 - (equity 50010.2 + liabilities 35437.4) = 0.0"
+  },
+  {
+   "company": "nayara",
+   "check": "income_identity",
+   "period": "FY2025",
+   "result": "pass",
+   "detail": "total income 150324.4 - (operations 149217.4 + other 1107 + separate income lines 0) = 0.0"
+  },
+  {
+   "company": "nayara",
+   "check": "balance_identity",
+   "period": "FY2026",
+   "result": "pass",
+   "detail": "assets 107558.7 - (equity 59129.4 + liabilities 48429.3) = 0.0"
+  },
+  {
+   "company": "nayara",
+   "check": "income_identity",
+   "period": "FY2026",
+   "result": "pass",
+   "detail": "total income 147773.9 - (operations 146601.8 + other 1172.1 + separate income lines 0) = 0.0"
+  },
+  {
+   "company": "cial",
+   "check": "balance_identity",
+   "period": "FY2022",
+   "result": "pass",
+   "detail": "assets 2512.55 - (equity 1346.93 + liabilities 1165.62) = 0.00"
+  },
+  {
+   "company": "cial",
+   "check": "income_identity",
+   "period": "FY2022",
+   "result": "pass",
+   "detail": "total income 524.2 - (operations 502.3 + other 21.9 + separate income lines 0) = 0.0"
+  },
+  {
+   "company": "cial",
+   "check": "balance_identity",
+   "period": "FY2023",
+   "result": "pass",
+   "detail": "assets 3430.87 - (equity 2115.56 + liabilities 1315.31) = 0.00"
+  },
+  {
+   "company": "cial",
+   "check": "income_identity",
+   "period": "FY2023",
+   "result": "pass",
+   "detail": "total income 954.83 - (operations 939.64 + other 15.19 + separate income lines 0) = 0.00"
+  },
+  {
+   "company": "cial",
+   "check": "balance_identity",
+   "period": "FY2024",
+   "result": "pass",
+   "detail": "assets 3573.44 - (equity 2367.24 + liabilities 1206.2) = 0.00"
+  },
+  {
+   "company": "cial",
+   "check": "income_identity",
+   "period": "FY2024",
+   "result": "pass",
+   "detail": "total income 1233.51 - (operations 1158.43 + other 75.08 + separate income lines 0) = 0.00"
+  },
+  {
+   "company": "cial",
+   "check": "balance_identity",
+   "period": "FY2025",
+   "result": "pass",
+   "detail": "assets 3841.99 - (equity 2665.26 + liabilities 1176.73) = 0.00"
+  },
+  {
+   "company": "cial",
+   "check": "income_identity",
+   "period": "FY2025",
+   "result": "pass",
+   "detail": "total income 1402.3 - (operations 1309.95 + other 92.34 + separate income lines 0) = 0.01"
+  },
+  {
+   "company": "cial",
+   "check": "balance_identity",
+   "period": "FY2026",
+   "result": "pass",
+   "detail": "assets 3995.16 - (equity 2954.48 + liabilities 1040.67) = 0.01"
+  },
+  {
+   "company": "cial",
+   "check": "income_identity",
+   "period": "FY2026",
+   "result": "pass",
+   "detail": "total income 1492.22 - (operations 1401.49 + other 90.73 + separate income lines 0) = 0.00"
+  },
+  {
+   "company": "capgemini",
+   "check": "balance_identity",
+   "period": "FY2022",
+   "result": "pass",
+   "detail": "assets 19447.7 - (equity 14851.64 + liabilities 4596.06) = 0.00"
+  },
+  {
+   "company": "capgemini",
+   "check": "income_identity",
+   "period": "FY2022",
+   "result": "pass",
+   "detail": "total income 23065 - (operations 22628.8 + other 436.2 + separate income lines 0) = 0.0"
+  },
+  {
+   "company": "capgemini",
+   "check": "balance_identity",
+   "period": "FY2023",
+   "result": "pass",
+   "detail": "assets 23953.5 - (equity 17324.2 + liabilities 6629.3) = 0.0"
+  },
+  {
+   "company": "capgemini",
+   "check": "income_identity",
+   "period": "FY2023",
+   "result": "pass",
+   "detail": "total income 29066.7 - (operations 28526.5 + other 540.2 + separate income lines 0) = 0.0"
+  },
+  {
+   "company": "capgemini",
+   "check": "balance_identity",
+   "period": "FY2024",
+   "result": "pass",
+   "detail": "assets 25103.8 - (equity 20710.1 + liabilities 4393.7) = 0.0"
+  },
+  {
+   "company": "capgemini",
+   "check": "income_identity",
+   "period": "FY2024",
+   "result": "pass",
+   "detail": "total income 28749.7 - (operations 27786 + other 963.7 + separate income lines 0) = 0.0"
+  },
+  {
+   "company": "capgemini",
+   "check": "balance_identity",
+   "period": "FY2025",
+   "result": "pass",
+   "detail": "assets 24556.5 - (equity 19831.6 + liabilities 4724.9) = 0.0"
+  },
+  {
+   "company": "capgemini",
+   "check": "income_identity",
+   "period": "FY2025",
+   "result": "pass",
+   "detail": "total income 30002.5 - (operations 29068.2 + other 934.3 + separate income lines 0) = 0.0"
+  },
+  {
+   "company": "capgemini",
+   "check": "balance_identity",
+   "period": "FY2026",
+   "result": "pass",
+   "detail": "assets 29160.2 - (equity 24047.1 + liabilities 5113.1) = 0.0"
+  },
+  {
+   "company": "capgemini",
+   "check": "income_identity",
+   "period": "FY2026",
+   "result": "pass",
+   "detail": "total income 34029 - (operations 32618.3 + other 1410.7 + separate income lines 0) = 0.0"
+  },
+  {
+   "company": "reliance-retail",
+   "check": "balance_identity",
+   "period": "FY2022",
+   "result": "pass",
+   "detail": "assets 88730.85 - (equity 30412.04 + liabilities 58318.81) = 0.00"
+  },
+  {
+   "company": "reliance-retail",
+   "check": "balance_identity",
+   "period": "FY2023",
+   "result": "pass",
+   "detail": "assets 128459.84 - (equity 37222.83 + liabilities 91237.01) = 0.00"
+  },
+  {
+   "company": "reliance-retail",
+   "check": "freshness",
+   "result": "stale",
+   "detail": "latest period FY2023? is older than FY2025"
+  },
+  {
+   "company": "pharmed",
+   "check": "income_identity",
+   "period": "FY2025",
+   "result": "pass",
+   "detail": "total income 528.59 - (operations 505.6 + other 22.99 + separate income lines 0) = 0.00"
+  },
+  {
+   "company": "pharmed",
+   "check": "income_identity",
+   "period": "FY2026",
+   "result": "pass",
+   "detail": "total income 612.34 - (operations 592.22 + other 20.12 + separate income lines 0) = 0.00"
+  },
+  {
+   "company": "grouppharma",
+   "check": "income_identity",
+   "period": "FY2025",
+   "result": "pass",
+   "detail": "total income 168.31 - (operations 164.78 + other 2.22 + separate income lines 1.31) = 0.00"
+  },
+  {
+   "company": "grouppharma",
+   "check": "income_identity",
+   "period": "FY2026",
+   "result": "pass",
+   "detail": "total income 184.47 - (operations 181.31 + other 1.82 + separate income lines 1.34) = 0.00"
+  },
+  {
+   "company": "grouppharma",
+   "check": "profit_row_conflict",
+   "period": "FY2026",
+   "result": "conflict",
+   "detail": "Repeated profit labels have different values in the same annual table. Inspect both source rows."
+  },
+  {
+   "company": "kial",
+   "check": "income_identity",
+   "period": "FY2024",
+   "result": "pass",
+   "detail": "total income 101.6228 - (operations 99.2362 + other 2.3866 + separate income lines 0) = 0.0000"
+  },
+  {
+   "company": "kial",
+   "check": "income_identity",
+   "period": "FY2025",
+   "result": "pass",
+   "detail": "total income 195.2214 - (operations 190.9333 + other 4.2881 + separate income lines 0) = 0.0000"
+  },
+  {
+   "company": "axlesindia",
+   "check": "income_identity",
+   "period": "FY2025",
+   "result": "pass",
+   "detail": "total income 846.78 - (operations 841.54 + other 2.11 + separate income lines 3.13) = 0.00"
+  },
+  {
+   "company": "axlesindia",
+   "check": "income_identity",
+   "period": "FY2026",
+   "result": "pass",
+   "detail": "total income 887.85 - (operations 871.19 + other 2.27 + separate income lines 14.39) = 0.00"
+  },
+  {
+   "company": "gkndriveline",
+   "check": "balance_identity",
+   "period": "FY2022",
+   "result": "pass",
+   "detail": "assets 651.7 - (equity 305.53 + liabilities 346.17) = 0.00"
+  },
+  {
+   "company": "gkndriveline",
+   "check": "income_identity",
+   "period": "FY2022",
+   "result": "pass",
+   "detail": "total income 860.72 - (operations 852.83 + other 7.89 + separate income lines 0) = 0.00"
+  },
+  {
+   "company": "gkndriveline",
+   "check": "balance_identity",
+   "period": "FY2023",
+   "result": "pass",
+   "detail": "assets 541.62 - (equity 296.08 + liabilities 245.54) = 0.00"
+  },
+  {
+   "company": "gkndriveline",
+   "check": "income_identity",
+   "period": "FY2023",
+   "result": "pass",
+   "detail": "total income 993.16 - (operations 984.55 + other 8.62 + separate income lines 0) = -0.01"
+  },
+  {
+   "company": "gkndriveline",
+   "check": "balance_identity",
+   "period": "FY2024",
+   "result": "pass",
+   "detail": "assets 660.75 - (equity 300.56 + liabilities 360.19) = 0.00"
+  },
+  {
+   "company": "gkndriveline",
+   "check": "income_identity",
+   "period": "FY2024",
+   "result": "pass",
+   "detail": "total income 1060.08 - (operations 1051.83 + other 8.25 + separate income lines 0) = 0.00"
+  },
+  {
+   "company": "gkndriveline",
+   "check": "balance_identity",
+   "period": "FY2025",
+   "result": "pass",
+   "detail": "assets 625.06 - (equity 332.62 + liabilities 292.44) = 0.00"
+  },
+  {
+   "company": "gkndriveline",
+   "check": "income_identity",
+   "period": "FY2025",
+   "result": "pass",
+   "detail": "total income 1100.17 - (operations 1091.75 + other 8.41 + separate income lines 0) = 0.01"
+  },
+  {
+   "company": "gkndriveline",
+   "check": "balance_identity",
+   "period": "FY2026",
+   "result": "pass",
+   "detail": "assets 677.12 - (equity 412.67 + liabilities 264.44) = 0.01"
+  },
+  {
+   "company": "gkndriveline",
+   "check": "income_identity",
+   "period": "FY2026",
+   "result": "pass",
+   "detail": "total income 1167.46 - (operations 1155.24 + other 12.22 + separate income lines 0) = 0.00"
+  },
+  {
+   "company": "nse",
+   "check": "balance_identity",
+   "period": "FY2022",
+   "result": "pass",
+   "detail": "assets 35607 - (equity 15418.28 + core SGF 4255.12 + liabilities 15933.49) = 0.11"
+  },
+  {
+   "company": "nse",
+   "check": "income_identity",
+   "period": "FY2022",
+   "result": "pass",
+   "detail": "total income 8873.79 - (operations 8313.13 + other 560.66 + separate income lines 0) = 0.00"
+  },
+  {
+   "company": "nse",
+   "check": "balance_identity",
+   "period": "FY2023",
+   "result": "pass",
+   "detail": "assets 36564.35 - (equity 20480.39 + core SGF 5283.61 + liabilities 10800.16) = 0.19"
+  },
+  {
+   "company": "nse",
+   "check": "income_identity",
+   "period": "FY2023",
+   "result": "pass",
+   "detail": "total income 12765.36 - (operations 11856.23 + other 909.13 + separate income lines 0) = 0.00"
+  },
+  {
+   "company": "nse",
+   "check": "balance_identity",
+   "period": "FY2024",
+   "result": "pass",
+   "detail": "assets 65464 - (equity 23973.88 + core SGF 8910.22 + liabilities 32579.67) = 0.23"
+  },
+  {
+   "company": "nse",
+   "check": "income_identity",
+   "period": "FY2024",
+   "result": "pass",
+   "detail": "total income 16433.61 - (operations 14780.01 + other 1653.6 + separate income lines 0) = 0.00"
+  },
+  {
+   "company": "nse",
+   "check": "balance_identity",
+   "period": "FY2025",
+   "result": "pass",
+   "detail": "assets 69466.66 - (equity 30353.33 + core SGF 12075.25 + liabilities 27038.06) = 0.02"
+  },
+  {
+   "company": "nse",
+   "check": "income_identity",
+   "period": "FY2025",
+   "result": "pass",
+   "detail": "total income 19176.83 - (operations 17140.68 + other 2036.15 + separate income lines 0) = 0.00"
+  },
+  {
+   "company": "nse",
+   "check": "balance_identity",
+   "period": "FY2026",
+   "result": "pass",
+   "detail": "assets 87937.44 - (equity 32113.54 + core SGF 13079.15 + liabilities 42744.75) = 0.00"
+  },
+  {
+   "company": "nse",
+   "check": "income_identity",
+   "period": "FY2026",
+   "result": "pass",
+   "detail": "total income 18713.37 - (operations 16601.31 + other 2112.06 + separate income lines 0) = 0.00"
+  },
+  {
+   "company": "nse",
+   "check": "shares_outstanding_consistency",
+   "result": "conflict",
+   "detail": {
+    "shares_fundamentals": "2475000000",
+    "shares_details": "2475000000",
+    "summary_latest_fy": "247.5"
+   }
+  }
+ ],
+ "companies": 25,
+ "duration_s": 18.1
+}

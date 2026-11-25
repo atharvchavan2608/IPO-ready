@@ -1,5 +1,20 @@
 # Native evidence and reproducibility
 
+## V2.1 pre-IPO evidence, 2026-11-25
+
+- [Issuer manifest and selected pages](../../data/captures/issuer/20261125-v21/manifest.json) records the IGX notice, Oravel draft, October addendum and annual exhibit with original-page mapping, and Lemon Tree's annual filing.
+- [Free-research manifest](../../data/captures/free_ipo_research/20261125-v21/manifest.json) retains the three independent product pages reviewed. The [four-question audit](topics/v21-pre-ipo-cases.md) and [executed notebook](../../notebooks/02_pre_ipo_cases.ipynb) show what can be reproduced.
+- [Liquid BeES primary evidence](sources/N26.md) and [method inputs](sources/N27.md) link to the allocation source, receipt and scenario work.
+
+## Portal and expert-method evidence, 2026-11-12
+
+- [Pinned architecture manifest](../architecture/BASELINE_MANIFEST.json): 16 native files from exact GitHub commit; [sync script](../../research/sync_design_baseline.py). Diagram builders were retained, not executed.
+- [Free-source request directories](../../research/unlisted_sources_20261112/): immutable initial failures, native provider HTML, 404 body, issuer status/transcript PDFs and selected broker notes with SHA-256 manifests. See [executed command log and interpretation](topics/unlisted-free-data.md).
+- [Offline reviewed-value adapter](../../archive/portal-exploration-20261123/research/prepare_unlisted_pilot.py), [30 observations](../../archive/portal-exploration-20261123/portal/data/observations.json), [Python projection](../../archive/portal-exploration-20261123/outputs/portal/research-snapshot.json), [browser results](../../archive/portal-exploration-20261123/outputs/portal/browser-check.json) and [software status](../BUILD_STATUS.md).
+- Archive manifests record original paths, retained paths and verified hashes for the [November portal](../../archive/portal-exploration-20261123/manifest.json) and [October demo](../../archive/legacy-20261022/manifest.json).
+
+The expert-note PDFs were read locally with `pypdf`; selected pages saved as text. `pdftoppm -f 1 -singlefile -scale-to 1400 -png` rendered the Canara NSDL cover and it was visually inspected. The stale first extracted issuer/date differs from the visible cover. This is extraction/identity evidence, not validation of the report's investment view.
+
 The Markdown knowledge base is canonical. Native evidence remains in its original format so later agents can verify findings.
 
 | Evidence | Location | Review scope |

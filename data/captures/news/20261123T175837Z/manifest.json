@@ -1,0 +1,77 @@
+{
+  "source": "news",
+  "run_id": "20261123T175837Z",
+  "items": [
+    {
+      "url": "https://news.google.com/rss/search?q=%22Pharmed+Limited%22&hl=en-IN&gl=IN&ceid=IN:en",
+      "retrieved_at": "2026-11-23T17:59:02+00:00",
+      "status": 200,
+      "final_url": "https://news.google.com/rss/search?q=%22Pharmed+Limited%22&hl=en-IN&gl=IN&ceid=IN:en",
+      "content_type": "application/xml; charset=utf-8",
+      "bytes": 17987,
+      "sha256": "9f6d7f8d1bf6d68b65973b69ec9248b7b572b3a47ce9219e97f172082d89c136",
+      "id": "news-pharmed",
+      "company": "pharmed",
+      "query": "\"Pharmed Limited\"",
+      "path": "news-pharmed.xml"
+    },
+    {
+      "url": "https://news.google.com/rss/search?q=%22Group+Pharmaceuticals+Limited%22&hl=en-IN&gl=IN&ceid=IN:en",
+      "retrieved_at": "2026-11-23T17:59:04+00:00",
+      "status": 200,
+      "final_url": "https://news.google.com/rss/search?q=%22Group+Pharmaceuticals+Limited%22&hl=en-IN&gl=IN&ceid=IN:en",
+      "content_type": "application/xml; charset=utf-8",
+      "bytes": 14807,
+      "sha256": "13c8a66e8c857b9f28ece1689e12f362c9db8eca5fcf3f59f87ee3c5d0d1565c",
+      "id": "news-grouppharma",
+      "company": "grouppharma",
+      "query": "\"Group Pharmaceuticals Limited\"",
+      "path": "news-grouppharma.xml"
+    },
+    {
+      "url": "https://news.google.com/rss/search?q=%22Kannur+International+Airport%22&hl=en-IN&gl=IN&ceid=IN:en",
+      "retrieved_at": "2026-11-23T17:59:05+00:00",
+      "status": 200,
+      "final_url": "https://news.google.com/rss/search?q=%22Kannur+International+Airport%22&hl=en-IN&gl=IN&ceid=IN:en",
+      "content_type": "application/xml; charset=utf-8",
+      "bytes": 86703,
+      "sha256": "a5bcd0e56b94ebd5da67bdb0236d90970c510dd6d0f0a1400ebdbf6a992419d8",
+      "id": "news-kial",
+      "company": "kial",
+      "query": "\"Kannur International Airport\"",
+      "path": "news-kial.xml"
+    },
+    {
+      "url": "https://news.google.com/rss/search?q=%22Axles+India+Limited%22&hl=en-IN&gl=IN&ceid=IN:en",
+      "retrieved_at": "2026-11-23T17:59:07+00:00",
+      "status": 200,
+      "final_url": "https://news.google.com/rss/search?q=%22Axles+India+Limited%22&hl=en-IN&gl=IN&ceid=IN:en",
+      "content_type": "application/xml; charset=utf-8",
+      "bytes": 15449,
+      "sha256": "bcff8219fac40cf3cb4096a0f47bfff34781575a9c95639f71c6d8f82f0c2a68",
+      "id": "news-axlesindia",
+      "company": "axlesindia",
+      "query": "\"Axles India Limited\"",
+      "path": "news-axlesindia.xml"
+    },
+    {
+      "url": "https://news.google.com/rss/search?q=%22GKN+Driveline+India%22&hl=en-IN&gl=IN&ceid=IN:en",
+      "retrieved_at": "2026-11-23T17:59:08+00:00",
+      "status": 200,
+      "final_url": "https://news.google.com/rss/search?q=%22GKN+Driveline+India%22&hl=en-IN&gl=IN&ceid=IN:en",
+      "content_type": "application/xml; charset=utf-8",
+      "bytes": 13022,
+      "sha256": "29127c1c8b0638b678b12fddc324f4abd528bfad9b5f6330ab31df72c1c10329",
+      "id": "news-gkndriveline",
+      "company": "gkndriveline",
+      "query": "\"GKN Driveline India\"",
+      "path": "news-gkndriveline.xml"
+    }
+  ],
+  "summary": {
+    "attempted": 5,
+    "ok": 5,
+    "failed": 0
+  },
+  "note": "Google News RSS search: headline, publisher, date and link only"
+}

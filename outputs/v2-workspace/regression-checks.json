@@ -1,0 +1,727 @@
+{
+  "ran_at": "2026-11-24T19:12:37+0530",
+  "base": "http://127.0.0.1:8773/",
+  "results": [
+    {
+      "check": "desktop: home opens Page 1 with default unlisted company",
+      "ok": true,
+      "detail": "Indian Gas Exchange Ltd"
+    },
+    {
+      "check": "desktop: nav marks Page 1 current",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "desktop: KPI grid shows the expected quick ratio state",
+      "ok": true,
+      "detail": "QUICK RATIO | 1.51\u00d7 | inventories treated as nil: issuer states inventory ratios are not applicable and the balance sheet has no inventories line | source \u203a"
+    },
+    {
+      "check": "desktop: quick ratio opens issuer balance sheet and inventory note",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "desktop: inventory shows honest 'Not applicable' state",
+      "ok": true,
+      "detail": "INVENTORY | Not applicable | not expected for exchange | source \u203a"
+    },
+    {
+      "check": "desktop: no horizontal page overflow",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "desktop: the home company links to its reviewed peer coverage",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "desktop: IGX reconciliation cites the employee share trust scope",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "desktop: unlisted discovery excludes the NSE listing-status conflict",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "desktop: KPI opens evidence with source URL and hash",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "desktop: Balance Sheet opens on Page 1",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "desktop: Profit & Loss opens on Page 1",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "desktop: FY2024 issuer cash reconciles with disclosed balances",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "desktop: FY2025 issuer cash reconciles with disclosed balances",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "desktop: FY2026 issuer cash reconciles with disclosed balances",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "desktop: issuer cash evidence opens the original filing",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "desktop: provider and issuer values show their 0.205 crore gap",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "desktop: cash flow fits the page on this width",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "desktop: details show settlement, working capital, cash capex, leases and dividends",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "desktop: older IGX looks partial and keeps missing balances and blank financing separate",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "desktop: Polymatech drawer distinguishes reported and proxy earnings",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "desktop: the Cash Flow deep link restores its period and view",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "desktop: period switch updates KPIs",
+      "ok": true,
+      "detail": "FY2025 (Apr 2024 \u2013 Mar 2025) \u00b7 \u20b9 crore unless stated"
+    },
+    {
+      "check": "desktop: URL carries period",
+      "ok": true,
+      "detail": "http://127.0.0.1:8773/?company=igx&period=FY2025&statement=cash-flow"
+    },
+    {
+      "check": "desktop: liquidity chart renders",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "desktop: discovery opens another unlisted company",
+      "ok": true,
+      "detail": "National Commodity & Derivatives Exchange Ltd"
+    },
+    {
+      "check": "desktop: lender shows NPA gap (expected but not disclosed)",
+      "ok": true,
+      "detail": "NPA | Not disclosed | expected for lender | source \u203a"
+    },
+    {
+      "check": "desktop: agent runs live through the Python API",
+      "ok": true,
+      "detail": "Ran just now via /api/agent/disclosure in 1,547 ms (deterministic tool sequence (no language model call))."
+    },
+    {
+      "check": "desktop: Page 2 direct URL opens",
+      "ok": true,
+      "detail": "HTTP 200, current=compare.html"
+    },
+    {
+      "check": "desktop: IGX opens with standalone operating benchmarks",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "desktop: eight domains have multiple unlisted company choices",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "desktop: displayed IGX value opens raw PDF evidence",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "desktop: candidacy view links the standalone statement",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "desktop: dated plans and reporting link to opened sources",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "desktop: pharmacy coverage explains the unverified issuer basis",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "desktop: new pharmaceuticals company has two listed benchmarks",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "desktop: conflicting issuer profit withholds the comparison",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "desktop: carbon cohort handles a mismatched year-end",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "desktop: annual P/E explains losses in the carbon cohort",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "desktop: semiconductor cohort preserves the choice in the URL",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "desktop: CIAL airport comparison uses the issuer\u2019s consolidated P&L",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "desktop: Axles India links to a compatible automotive benchmark",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "desktop: cricket franchise shows an honest no-candidate state",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "desktop: screener has no horizontal page overflow",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "desktop: default screen shows all three metrics without scrolling",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "desktop: coverage explains gaps and links the NSE exclusion",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "desktop: empty screen offers a recovery step",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "desktop: invalid field gets a readable 400 response",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "desktop: example restores results after an invalid query",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "desktop: result opens the matching company evidence page",
+      "ok": true,
+      "detail": "/index.html?company=polymatech&period=FY2025"
+    },
+    {
+      "check": "desktop: Page 3 direct URL opens",
+      "ok": true,
+      "detail": "HTTP 200, current=portfolio.html"
+    },
+    {
+      "check": "desktop: the allocation API explains why the IGX lot is skipped",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "desktop: the pie and risk legend show the Python risk weights",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "desktop: baseline switch updates the holdings table and pie label",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "desktop: portfolio names all four instruments and records their latest close date",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "desktop: bond has a dated coupon and a weekly risk gap",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "desktop: MCX risk evidence links the confirmed split and NSE close",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "desktop: IGX opens with a dated quote, dealer lot and history gap",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "desktop: methodology gives price and coverage limits",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "desktop: Page 3 fits the viewport",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "desktop: NCDEX selection refreshes the calculated scenario and its baseline",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "desktop: assumptions expose exit haircut, shock and original evidence",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "desktop: excluding unlisted resets that position to zero and matches the baseline",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "desktop: portfolio withholds suspect quote and links matching company",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "desktop: submitting a new amount updates the selected scenario",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "desktop: the growth profile shows one IGX lot and the combined exchange cap",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "desktop: the scenario link restores the controls and growth holdings",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "desktop: invalid amount shows Python validation and keeps the last valid URL",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "desktop: \u20b91.01 remains all cash and plots a single low-risk slice",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "desktop: an allocation outage leaves instrument and company evidence available",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "desktop: calculating again restores the scenario after the endpoint recovers",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "desktop: direct unlisted selection preserves the delisted source label",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "mobile: home opens Page 1 with default unlisted company",
+      "ok": true,
+      "detail": "Indian Gas Exchange Ltd"
+    },
+    {
+      "check": "mobile: nav marks Page 1 current",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "mobile: KPI grid shows the expected quick ratio state",
+      "ok": true,
+      "detail": "QUICK RATIO | 1.51\u00d7 | inventories treated as nil: issuer states inventory ratios are not applicable and the balance sheet has no inventories line | source \u203a"
+    },
+    {
+      "check": "mobile: quick ratio opens issuer balance sheet and inventory note",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "mobile: inventory shows honest 'Not applicable' state",
+      "ok": true,
+      "detail": "INVENTORY | Not applicable | not expected for exchange | source \u203a"
+    },
+    {
+      "check": "mobile: no horizontal page overflow",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "mobile: the home company links to its reviewed peer coverage",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "mobile: IGX reconciliation cites the employee share trust scope",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "mobile: unlisted discovery excludes the NSE listing-status conflict",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "mobile: KPI opens evidence with source URL and hash",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "mobile: Balance Sheet opens on Page 1",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "mobile: Profit & Loss opens on Page 1",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "mobile: FY2024 issuer cash reconciles with disclosed balances",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "mobile: FY2025 issuer cash reconciles with disclosed balances",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "mobile: FY2026 issuer cash reconciles with disclosed balances",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "mobile: issuer cash evidence opens the original filing",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "mobile: provider and issuer values show their 0.205 crore gap",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "mobile: cash flow fits the page on this width",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "mobile: details show settlement, working capital, cash capex, leases and dividends",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "mobile: older IGX looks partial and keeps missing balances and blank financing separate",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "mobile: Polymatech drawer distinguishes reported and proxy earnings",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "mobile: the Cash Flow deep link restores its period and view",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "mobile: period switch updates KPIs",
+      "ok": true,
+      "detail": "FY2025 (Apr 2024 \u2013 Mar 2025) \u00b7 \u20b9 crore unless stated"
+    },
+    {
+      "check": "mobile: URL carries period",
+      "ok": true,
+      "detail": "http://127.0.0.1:8773/?company=igx&period=FY2025&statement=cash-flow"
+    },
+    {
+      "check": "mobile: liquidity chart renders",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "mobile: discovery opens another unlisted company",
+      "ok": true,
+      "detail": "National Commodity & Derivatives Exchange Ltd"
+    },
+    {
+      "check": "mobile: lender shows NPA gap (expected but not disclosed)",
+      "ok": true,
+      "detail": "NPA | Not disclosed | expected for lender | source \u203a"
+    },
+    {
+      "check": "mobile: Page 2 direct URL opens",
+      "ok": true,
+      "detail": "HTTP 200, current=compare.html"
+    },
+    {
+      "check": "mobile: IGX opens with standalone operating benchmarks",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "mobile: eight domains have multiple unlisted company choices",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "mobile: displayed IGX value opens raw PDF evidence",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "mobile: candidacy view links the standalone statement",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "mobile: dated plans and reporting link to opened sources",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "mobile: pharmacy coverage explains the unverified issuer basis",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "mobile: new pharmaceuticals company has two listed benchmarks",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "mobile: conflicting issuer profit withholds the comparison",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "mobile: carbon cohort handles a mismatched year-end",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "mobile: annual P/E explains losses in the carbon cohort",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "mobile: semiconductor cohort preserves the choice in the URL",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "mobile: CIAL airport comparison uses the issuer\u2019s consolidated P&L",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "mobile: Axles India links to a compatible automotive benchmark",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "mobile: cricket franchise shows an honest no-candidate state",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "mobile: screener has no horizontal page overflow",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "mobile: default screen shows all three metrics without scrolling",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "mobile: coverage explains gaps and links the NSE exclusion",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "mobile: empty screen offers a recovery step",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "mobile: invalid field gets a readable 400 response",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "mobile: example restores results after an invalid query",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "mobile: result opens the matching company evidence page",
+      "ok": true,
+      "detail": "/index.html?company=polymatech&period=FY2025"
+    },
+    {
+      "check": "mobile: Page 3 direct URL opens",
+      "ok": true,
+      "detail": "HTTP 200, current=portfolio.html"
+    },
+    {
+      "check": "mobile: the allocation API explains why the IGX lot is skipped",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "mobile: the pie and risk legend show the Python risk weights",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "mobile: baseline switch updates the holdings table and pie label",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "mobile: portfolio names all four instruments and records their latest close date",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "mobile: bond has a dated coupon and a weekly risk gap",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "mobile: MCX risk evidence links the confirmed split and NSE close",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "mobile: IGX opens with a dated quote, dealer lot and history gap",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "mobile: methodology gives price and coverage limits",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "mobile: Page 3 fits the viewport",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "mobile: NCDEX selection refreshes the calculated scenario and its baseline",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "mobile: assumptions expose exit haircut, shock and original evidence",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "mobile: excluding unlisted resets that position to zero and matches the baseline",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "mobile: portfolio withholds suspect quote and links matching company",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "mobile: submitting a new amount updates the selected scenario",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "mobile: the growth profile shows one IGX lot and the combined exchange cap",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "mobile: the scenario link restores the controls and growth holdings",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "mobile: invalid amount shows Python validation and keeps the last valid URL",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "mobile: \u20b91.01 remains all cash and plots a single low-risk slice",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "mobile: an allocation outage leaves instrument and company evidence available",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "mobile: calculating again restores the scenario after the endpoint recovers",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "mobile: direct unlisted selection preserves the delisted source label",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "no console or page errors",
+      "ok": true,
+      "detail": ""
+    }
+  ],
+  "errors": []
+}

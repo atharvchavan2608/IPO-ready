@@ -1,0 +1,10 @@
+{
+  "url": "https://nsearchives.nseindia.com/products/content/sec_bhavdata_full_23112026.csv",
+  "retrieved_at": "2026-11-24T18:13:22+00:00",
+  "run": "20261124T181322862519Z",
+  "status": 200,
+  "content_type": "text/csv",
+  "file": "source.csv",
+  "sha256": "2e0ccd57f1b58cfe02aef71cb80e9a9ef51e64f4e334a5ba1278a63a3010b82a",
+  "bytes": 405464
+}

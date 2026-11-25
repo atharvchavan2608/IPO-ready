@@ -1,0 +1,722 @@
+{
+  "contract_version": "portal-contract-v1",
+  "company": {
+    "id": "igx",
+    "name": "Indian Gas Exchange",
+    "short_name": "IGX",
+    "sector": "Gas market infrastructure",
+    "market": "India",
+    "status": "Pre-IPO candidate",
+    "status_basis": "IEX 30 October 2026 earnings call, filed 5 November: IGX IPO process in progress; not a confirmed listing schedule",
+    "status_source_id": "N06",
+    "status_source_url": "https://nsearchives.nseindia.com/corporate/IEX_05112026110840_IEX_Intimation_EarningCall_Transcript_Q2_Sep26Signed.pdf",
+    "status_source_anchor": "PDF physical page 7, transcript printed page 6, IGX DRHP paragraph"
+  },
+  "observations": [
+    {
+      "id": "igx-fy2026-operating_revenue-wwipl-v1",
+      "company_id": "igx",
+      "metric_id": "operating_revenue",
+      "source_label": "Revenue from operations",
+      "raw_value": "61.01",
+      "state": "reported",
+      "raw_unit": "INR crore",
+      "currency": "INR",
+      "period_start": "2025-04-01",
+      "period_end": "2026-03-31",
+      "basis": "unspecified",
+      "accounting_standard": null,
+      "dimensions": null,
+      "source_id": "N05",
+      "source_url": "https://wwipl.com/unlisted-shares/indian-gas-exchange-share-price/financial",
+      "source_date": null,
+      "retrieved_at": "2026-11-12T11:16:48.125604+00:00",
+      "evidence_path": "research/unlisted_sources_20261112/20261112T111648125604Z/wwipl-igx-financials.html",
+      "evidence_sha256": "42aec0fa4989070aa16a4c734e66eb7a0771f19166051fe1fe8b894add0bed52",
+      "locator": {
+        "table": "Income Statement",
+        "row": "Revenue from operations",
+        "column": "2025-26"
+      },
+      "review_state": "transcription_checked"
+    },
+    {
+      "id": "igx-fy2025-operating_revenue-wwipl-v1",
+      "company_id": "igx",
+      "metric_id": "operating_revenue",
+      "source_label": "Revenue from operations",
+      "raw_value": "48.80",
+      "state": "reported",
+      "raw_unit": "INR crore",
+      "currency": "INR",
+      "period_start": "2024-04-01",
+      "period_end": "2025-03-31",
+      "basis": "unspecified",
+      "accounting_standard": null,
+      "dimensions": null,
+      "source_id": "N05",
+      "source_url": "https://wwipl.com/unlisted-shares/indian-gas-exchange-share-price/financial",
+      "source_date": null,
+      "retrieved_at": "2026-11-12T11:16:48.125604+00:00",
+      "evidence_path": "research/unlisted_sources_20261112/20261112T111648125604Z/wwipl-igx-financials.html",
+      "evidence_sha256": "42aec0fa4989070aa16a4c734e66eb7a0771f19166051fe1fe8b894add0bed52",
+      "locator": {
+        "table": "Income Statement",
+        "row": "Revenue from operations",
+        "column": "2024-25"
+      },
+      "review_state": "transcription_checked"
+    },
+    {
+      "id": "igx-fy2024-operating_revenue-wwipl-v1",
+      "company_id": "igx",
+      "metric_id": "operating_revenue",
+      "source_label": "Revenue from operations",
+      "raw_value": "34.85",
+      "state": "reported",
+      "raw_unit": "INR crore",
+      "currency": "INR",
+      "period_start": "2023-04-01",
+      "period_end": "2024-03-31",
+      "basis": "unspecified",
+      "accounting_standard": null,
+      "dimensions": null,
+      "source_id": "N05",
+      "source_url": "https://wwipl.com/unlisted-shares/indian-gas-exchange-share-price/financial",
+      "source_date": null,
+      "retrieved_at": "2026-11-12T11:16:48.125604+00:00",
+      "evidence_path": "research/unlisted_sources_20261112/20261112T111648125604Z/wwipl-igx-financials.html",
+      "evidence_sha256": "42aec0fa4989070aa16a4c734e66eb7a0771f19166051fe1fe8b894add0bed52",
+      "locator": {
+        "table": "Income Statement",
+        "row": "Revenue from operations",
+        "column": "2023-24"
+      },
+      "review_state": "transcription_checked"
+    },
+    {
+      "id": "igx-fy2026-provider_total_income-wwipl-v1",
+      "company_id": "igx",
+      "metric_id": "provider_total_income",
+      "source_label": "Revenue",
+      "raw_value": "84.84",
+      "state": "reported",
+      "raw_unit": "INR crore",
+      "currency": "INR",
+      "period_start": "2025-04-01",
+      "period_end": "2026-03-31",
+      "basis": "unspecified",
+      "accounting_standard": null,
+      "dimensions": null,
+      "source_id": "N05",
+      "source_url": "https://wwipl.com/unlisted-shares/indian-gas-exchange-share-price/financial",
+      "source_date": null,
+      "retrieved_at": "2026-11-12T11:16:48.125604+00:00",
+      "evidence_path": "research/unlisted_sources_20261112/20261112T111648125604Z/wwipl-igx-financials.html",
+      "evidence_sha256": "42aec0fa4989070aa16a4c734e66eb7a0771f19166051fe1fe8b894add0bed52",
+      "locator": {
+        "table": "Income Statement",
+        "row": "Revenue",
+        "column": "2025-26"
+      },
+      "review_state": "transcription_checked"
+    },
+    {
+      "id": "igx-fy2025-provider_total_income-wwipl-v1",
+      "company_id": "igx",
+      "metric_id": "provider_total_income",
+      "source_label": "Revenue",
+      "raw_value": "69.08",
+      "state": "reported",
+      "raw_unit": "INR crore",
+      "currency": "INR",
+      "period_start": "2024-04-01",
+      "period_end": "2025-03-31",
+      "basis": "unspecified",
+      "accounting_standard": null,
+      "dimensions": null,
+      "source_id": "N05",
+      "source_url": "https://wwipl.com/unlisted-shares/indian-gas-exchange-share-price/financial",
+      "source_date": null,
+      "retrieved_at": "2026-11-12T11:16:48.125604+00:00",
+      "evidence_path": "research/unlisted_sources_20261112/20261112T111648125604Z/wwipl-igx-financials.html",
+      "evidence_sha256": "42aec0fa4989070aa16a4c734e66eb7a0771f19166051fe1fe8b894add0bed52",
+      "locator": {
+        "table": "Income Statement",
+        "row": "Revenue",
+        "column": "2024-25"
+      },
+      "review_state": "transcription_checked"
+    },
+    {
+      "id": "igx-fy2024-provider_total_income-wwipl-v1",
+      "company_id": "igx",
+      "metric_id": "provider_total_income",
+      "source_label": "Revenue",
+      "raw_value": "54.62",
+      "state": "reported",
+      "raw_unit": "INR crore",
+      "currency": "INR",
+      "period_start": "2023-04-01",
+      "period_end": "2024-03-31",
+      "basis": "unspecified",
+      "accounting_standard": null,
+      "dimensions": null,
+      "source_id": "N05",
+      "source_url": "https://wwipl.com/unlisted-shares/indian-gas-exchange-share-price/financial",
+      "source_date": null,
+      "retrieved_at": "2026-11-12T11:16:48.125604+00:00",
+      "evidence_path": "research/unlisted_sources_20261112/20261112T111648125604Z/wwipl-igx-financials.html",
+      "evidence_sha256": "42aec0fa4989070aa16a4c734e66eb7a0771f19166051fe1fe8b894add0bed52",
+      "locator": {
+        "table": "Income Statement",
+        "row": "Revenue",
+        "column": "2023-24"
+      },
+      "review_state": "transcription_checked"
+    },
+    {
+      "id": "igx-fy2026-other_income-wwipl-v1",
+      "company_id": "igx",
+      "metric_id": "other_income",
+      "source_label": "Other income",
+      "raw_value": "23.83",
+      "state": "reported",
+      "raw_unit": "INR crore",
+      "currency": "INR",
+      "period_start": "2025-04-01",
+      "period_end": "2026-03-31",
+      "basis": "unspecified",
+      "accounting_standard": null,
+      "dimensions": null,
+      "source_id": "N05",
+      "source_url": "https://wwipl.com/unlisted-shares/indian-gas-exchange-share-price/financial",
+      "source_date": null,
+      "retrieved_at": "2026-11-12T11:16:48.125604+00:00",
+      "evidence_path": "research/unlisted_sources_20261112/20261112T111648125604Z/wwipl-igx-financials.html",
+      "evidence_sha256": "42aec0fa4989070aa16a4c734e66eb7a0771f19166051fe1fe8b894add0bed52",
+      "locator": {
+        "table": "Income Statement",
+        "row": "Other income",
+        "column": "2025-26"
+      },
+      "review_state": "transcription_checked"
+    },
+    {
+      "id": "igx-fy2025-other_income-wwipl-v1",
+      "company_id": "igx",
+      "metric_id": "other_income",
+      "source_label": "Other income",
+      "raw_value": "20.28",
+      "state": "reported",
+      "raw_unit": "INR crore",
+      "currency": "INR",
+      "period_start": "2024-04-01",
+      "period_end": "2025-03-31",
+      "basis": "unspecified",
+      "accounting_standard": null,
+      "dimensions": null,
+      "source_id": "N05",
+      "source_url": "https://wwipl.com/unlisted-shares/indian-gas-exchange-share-price/financial",
+      "source_date": null,
+      "retrieved_at": "2026-11-12T11:16:48.125604+00:00",
+      "evidence_path": "research/unlisted_sources_20261112/20261112T111648125604Z/wwipl-igx-financials.html",
+      "evidence_sha256": "42aec0fa4989070aa16a4c734e66eb7a0771f19166051fe1fe8b894add0bed52",
+      "locator": {
+        "table": "Income Statement",
+        "row": "Other income",
+        "column": "2024-25"
+      },
+      "review_state": "transcription_checked"
+    },
+    {
+      "id": "igx-fy2024-other_income-wwipl-v1",
+      "company_id": "igx",
+      "metric_id": "other_income",
+      "source_label": "Other income",
+      "raw_value": "19.77",
+      "state": "reported",
+      "raw_unit": "INR crore",
+      "currency": "INR",
+      "period_start": "2023-04-01",
+      "period_end": "2024-03-31",
+      "basis": "unspecified",
+      "accounting_standard": null,
+      "dimensions": null,
+      "source_id": "N05",
+      "source_url": "https://wwipl.com/unlisted-shares/indian-gas-exchange-share-price/financial",
+      "source_date": null,
+      "retrieved_at": "2026-11-12T11:16:48.125604+00:00",
+      "evidence_path": "research/unlisted_sources_20261112/20261112T111648125604Z/wwipl-igx-financials.html",
+      "evidence_sha256": "42aec0fa4989070aa16a4c734e66eb7a0771f19166051fe1fe8b894add0bed52",
+      "locator": {
+        "table": "Income Statement",
+        "row": "Other income",
+        "column": "2023-24"
+      },
+      "review_state": "transcription_checked"
+    },
+    {
+      "id": "igx-fy2026-continuing_profit-wwipl-v1",
+      "company_id": "igx",
+      "metric_id": "continuing_profit",
+      "source_label": "Profit (Loss) for the period from continuing Operations",
+      "raw_value": "42.02",
+      "state": "reported",
+      "raw_unit": "INR crore",
+      "currency": "INR",
+      "period_start": "2025-04-01",
+      "period_end": "2026-03-31",
+      "basis": "unspecified",
+      "accounting_standard": null,
+      "dimensions": null,
+      "source_id": "N05",
+      "source_url": "https://wwipl.com/unlisted-shares/indian-gas-exchange-share-price/financial",
+      "source_date": null,
+      "retrieved_at": "2026-11-12T11:16:48.125604+00:00",
+      "evidence_path": "research/unlisted_sources_20261112/20261112T111648125604Z/wwipl-igx-financials.html",
+      "evidence_sha256": "42aec0fa4989070aa16a4c734e66eb7a0771f19166051fe1fe8b894add0bed52",
+      "locator": {
+        "table": "Income Statement",
+        "row": "Profit (Loss) for the period from continuing Operations",
+        "column": "2025-26"
+      },
+      "review_state": "transcription_checked"
+    },
+    {
+      "id": "igx-fy2025-continuing_profit-wwipl-v1",
+      "company_id": "igx",
+      "metric_id": "continuing_profit",
+      "source_label": "Profit (Loss) for the period from continuing Operations",
+      "raw_value": "30.95",
+      "state": "reported",
+      "raw_unit": "INR crore",
+      "currency": "INR",
+      "period_start": "2024-04-01",
+      "period_end": "2025-03-31",
+      "basis": "unspecified",
+      "accounting_standard": null,
+      "dimensions": null,
+      "source_id": "N05",
+      "source_url": "https://wwipl.com/unlisted-shares/indian-gas-exchange-share-price/financial",
+      "source_date": null,
+      "retrieved_at": "2026-11-12T11:16:48.125604+00:00",
+      "evidence_path": "research/unlisted_sources_20261112/20261112T111648125604Z/wwipl-igx-financials.html",
+      "evidence_sha256": "42aec0fa4989070aa16a4c734e66eb7a0771f19166051fe1fe8b894add0bed52",
+      "locator": {
+        "table": "Income Statement",
+        "row": "Profit (Loss) for the period from continuing Operations",
+        "column": "2024-25"
+      },
+      "review_state": "transcription_checked"
+    },
+    {
+      "id": "igx-fy2024-continuing_profit-wwipl-v1",
+      "company_id": "igx",
+      "metric_id": "continuing_profit",
+      "source_label": "Profit (Loss) for the period from continuing Operations",
+      "raw_value": "23.05",
+      "state": "reported",
+      "raw_unit": "INR crore",
+      "currency": "INR",
+      "period_start": "2023-04-01",
+      "period_end": "2024-03-31",
+      "basis": "unspecified",
+      "accounting_standard": null,
+      "dimensions": null,
+      "source_id": "N05",
+      "source_url": "https://wwipl.com/unlisted-shares/indian-gas-exchange-share-price/financial",
+      "source_date": null,
+      "retrieved_at": "2026-11-12T11:16:48.125604+00:00",
+      "evidence_path": "research/unlisted_sources_20261112/20261112T111648125604Z/wwipl-igx-financials.html",
+      "evidence_sha256": "42aec0fa4989070aa16a4c734e66eb7a0771f19166051fe1fe8b894add0bed52",
+      "locator": {
+        "table": "Income Statement",
+        "row": "Profit (Loss) for the period from continuing Operations",
+        "column": "2023-24"
+      },
+      "review_state": "transcription_checked"
+    },
+    {
+      "id": "igx-fy2026-cfo-wwipl-v1",
+      "company_id": "igx",
+      "metric_id": "cfo",
+      "source_label": "Net cash from/(used in) operating activities",
+      "raw_value": "156.89",
+      "state": "reported",
+      "raw_unit": "INR crore",
+      "currency": "INR",
+      "period_start": "2025-04-01",
+      "period_end": "2026-03-31",
+      "basis": "unspecified",
+      "accounting_standard": null,
+      "dimensions": null,
+      "source_id": "N05",
+      "source_url": "https://wwipl.com/unlisted-shares/indian-gas-exchange-share-price/financial",
+      "source_date": null,
+      "retrieved_at": "2026-11-12T11:16:48.125604+00:00",
+      "evidence_path": "research/unlisted_sources_20261112/20261112T111648125604Z/wwipl-igx-financials.html",
+      "evidence_sha256": "42aec0fa4989070aa16a4c734e66eb7a0771f19166051fe1fe8b894add0bed52",
+      "locator": {
+        "table": "CashFlow Statement",
+        "row": "Net cash from/(used in) operating activities",
+        "column": "2025-26"
+      },
+      "review_state": "transcription_checked"
+    },
+    {
+      "id": "igx-fy2025-cfo-wwipl-v1",
+      "company_id": "igx",
+      "metric_id": "cfo",
+      "source_label": "Net cash from/(used in) operating activities",
+      "raw_value": "3.29",
+      "state": "reported",
+      "raw_unit": "INR crore",
+      "currency": "INR",
+      "period_start": "2024-04-01",
+      "period_end": "2025-03-31",
+      "basis": "unspecified",
+      "accounting_standard": null,
+      "dimensions": null,
+      "source_id": "N05",
+      "source_url": "https://wwipl.com/unlisted-shares/indian-gas-exchange-share-price/financial",
+      "source_date": null,
+      "retrieved_at": "2026-11-12T11:16:48.125604+00:00",
+      "evidence_path": "research/unlisted_sources_20261112/20261112T111648125604Z/wwipl-igx-financials.html",
+      "evidence_sha256": "42aec0fa4989070aa16a4c734e66eb7a0771f19166051fe1fe8b894add0bed52",
+      "locator": {
+        "table": "CashFlow Statement",
+        "row": "Net cash from/(used in) operating activities",
+        "column": "2024-25"
+      },
+      "review_state": "transcription_checked"
+    },
+    {
+      "id": "igx-fy2024-cfo-wwipl-v1",
+      "company_id": "igx",
+      "metric_id": "cfo",
+      "source_label": "Net cash from/(used in) operating activities",
+      "raw_value": "-189.82",
+      "state": "reported",
+      "raw_unit": "INR crore",
+      "currency": "INR",
+      "period_start": "2023-04-01",
+      "period_end": "2024-03-31",
+      "basis": "unspecified",
+      "accounting_standard": null,
+      "dimensions": null,
+      "source_id": "N05",
+      "source_url": "https://wwipl.com/unlisted-shares/indian-gas-exchange-share-price/financial",
+      "source_date": null,
+      "retrieved_at": "2026-11-12T11:16:48.125604+00:00",
+      "evidence_path": "research/unlisted_sources_20261112/20261112T111648125604Z/wwipl-igx-financials.html",
+      "evidence_sha256": "42aec0fa4989070aa16a4c734e66eb7a0771f19166051fe1fe8b894add0bed52",
+      "locator": {
+        "table": "CashFlow Statement",
+        "row": "Net cash from/(used in) operating activities",
+        "column": "2023-24"
+      },
+      "review_state": "transcription_checked"
+    }
+  ],
+  "references": [
+    {
+      "id": "nsdl",
+      "name": "National Securities Depository",
+      "short_name": "NSDL",
+      "role": "Recent IPO reference candidate",
+      "listing_date": "2025-08-06",
+      "source_id": "N04",
+      "source_url": "https://www.msei.in/SX-Content/Listing/Annual-Reports/2025/NSDL-2025.pdf",
+      "source_anchor": "Annual report 2024-25, printed page 61, Update on Listing of Shares of NSDL",
+      "review_basis": "Selected web-extracted annual-report section; primary bytes not retained",
+      "comparison_state": "excluded",
+      "reason": "Depository business differs from an exchange; no reviewed compatible financial dataset in M1"
+    }
+  ],
+  "limitations": [
+    "Secondary provider observations; source table does not specify standalone or consolidated basis.",
+    "Transcription checked against retained HTML; issuer filing reconciliation and accounting review remain pending.",
+    "Annual FY24-FY26 slice reconstructed on 12 November 2026. Later interim disclosures are not included.",
+    "Public availability/source date is unknown; retrieval date is not an historical availability date.",
+    "CFO may include clearing/settlement and client-money movements; cash conversion is descriptive pending review.",
+    "No reviewed market price, share basis, peer cohort or primary-approved earnings: valuation and ranking unavailable.",
+    "NSE is a recent IPO reference, not currently unlisted. Provider category labels can be stale."
+  ],
+  "snapshot_id": "research-744e0dd66c32c834",
+  "calculation_version": "financial-v0.1.0",
+  "input_sha256": "72f6f88c3d13b1851bfac051c702561e893e75ba31e58f7789396feef1158d0c",
+  "code_sha256": "69ef191e926ee831c38cae0fbf1dfa6a886bc6bd2e92e5c7ce11b4ebdc92eaa3",
+  "built_at": "2026-11-12T11:37:33.062760+00:00",
+  "historical_reconstruction": true,
+  "public_availability_date": null,
+  "periods": [
+    {
+      "period_end": "2024-03-31",
+      "label": "FY24",
+      "fact_ids": [
+        "igx-fy2024-operating_revenue-wwipl-v1",
+        "igx-fy2024-provider_total_income-wwipl-v1",
+        "igx-fy2024-other_income-wwipl-v1",
+        "igx-fy2024-continuing_profit-wwipl-v1",
+        "igx-fy2024-cfo-wwipl-v1"
+      ],
+      "metrics": [
+        {
+          "id": "continuing_profit_to_revenue",
+          "value": "66.1406",
+          "unit": "percent",
+          "state": "available",
+          "reason": null,
+          "formula": "continuing_profit / operating_revenue * 100",
+          "formula_version": "financial-v0.1.0",
+          "operand_fact_ids": [
+            "igx-fy2024-continuing_profit-wwipl-v1",
+            "igx-fy2024-operating_revenue-wwipl-v1"
+          ],
+          "period_end": "2024-03-31",
+          "basis": "unspecified",
+          "review_state": "provisional_secondary"
+        },
+        {
+          "id": "cash_conversion",
+          "value": "-8.2351",
+          "unit": "times",
+          "state": "available",
+          "reason": null,
+          "formula": "cfo / continuing_profit * 1",
+          "formula_version": "financial-v0.1.0",
+          "operand_fact_ids": [
+            "igx-fy2024-cfo-wwipl-v1",
+            "igx-fy2024-continuing_profit-wwipl-v1"
+          ],
+          "period_end": "2024-03-31",
+          "basis": "unspecified",
+          "review_state": "provisional_secondary"
+        },
+        {
+          "id": "income_residual",
+          "value": "0.0000",
+          "unit": "INR crore",
+          "state": "available",
+          "reason": null,
+          "formula": "provider total income - operating revenue - other income",
+          "formula_version": "financial-v0.1.0",
+          "operand_fact_ids": [
+            "igx-fy2024-provider_total_income-wwipl-v1",
+            "igx-fy2024-operating_revenue-wwipl-v1",
+            "igx-fy2024-other_income-wwipl-v1"
+          ],
+          "period_end": "2024-03-31",
+          "basis": "unspecified",
+          "review_state": "provisional_secondary"
+        }
+      ]
+    },
+    {
+      "period_end": "2025-03-31",
+      "label": "FY25",
+      "fact_ids": [
+        "igx-fy2025-operating_revenue-wwipl-v1",
+        "igx-fy2025-provider_total_income-wwipl-v1",
+        "igx-fy2025-other_income-wwipl-v1",
+        "igx-fy2025-continuing_profit-wwipl-v1",
+        "igx-fy2025-cfo-wwipl-v1"
+      ],
+      "metrics": [
+        {
+          "id": "continuing_profit_to_revenue",
+          "value": "63.4221",
+          "unit": "percent",
+          "state": "available",
+          "reason": null,
+          "formula": "continuing_profit / operating_revenue * 100",
+          "formula_version": "financial-v0.1.0",
+          "operand_fact_ids": [
+            "igx-fy2025-continuing_profit-wwipl-v1",
+            "igx-fy2025-operating_revenue-wwipl-v1"
+          ],
+          "period_end": "2025-03-31",
+          "basis": "unspecified",
+          "review_state": "provisional_secondary"
+        },
+        {
+          "id": "cash_conversion",
+          "value": "0.1063",
+          "unit": "times",
+          "state": "available",
+          "reason": null,
+          "formula": "cfo / continuing_profit * 1",
+          "formula_version": "financial-v0.1.0",
+          "operand_fact_ids": [
+            "igx-fy2025-cfo-wwipl-v1",
+            "igx-fy2025-continuing_profit-wwipl-v1"
+          ],
+          "period_end": "2025-03-31",
+          "basis": "unspecified",
+          "review_state": "provisional_secondary"
+        },
+        {
+          "id": "income_residual",
+          "value": "0.0000",
+          "unit": "INR crore",
+          "state": "available",
+          "reason": null,
+          "formula": "provider total income - operating revenue - other income",
+          "formula_version": "financial-v0.1.0",
+          "operand_fact_ids": [
+            "igx-fy2025-provider_total_income-wwipl-v1",
+            "igx-fy2025-operating_revenue-wwipl-v1",
+            "igx-fy2025-other_income-wwipl-v1"
+          ],
+          "period_end": "2025-03-31",
+          "basis": "unspecified",
+          "review_state": "provisional_secondary"
+        },
+        {
+          "id": "operating_revenue_yoy",
+          "value": "40.0287",
+          "unit": "percent",
+          "state": "available",
+          "reason": null,
+          "formula": "(current operating revenue / previous operating revenue - 1) * 100",
+          "formula_version": "financial-v0.1.0",
+          "operand_fact_ids": [
+            "igx-fy2025-operating_revenue-wwipl-v1",
+            "igx-fy2024-operating_revenue-wwipl-v1"
+          ],
+          "period_end": "2025-03-31",
+          "basis": "unspecified",
+          "review_state": "provisional_secondary"
+        }
+      ]
+    },
+    {
+      "period_end": "2026-03-31",
+      "label": "FY26",
+      "fact_ids": [
+        "igx-fy2026-operating_revenue-wwipl-v1",
+        "igx-fy2026-provider_total_income-wwipl-v1",
+        "igx-fy2026-other_income-wwipl-v1",
+        "igx-fy2026-continuing_profit-wwipl-v1",
+        "igx-fy2026-cfo-wwipl-v1"
+      ],
+      "metrics": [
+        {
+          "id": "continuing_profit_to_revenue",
+          "value": "68.8740",
+          "unit": "percent",
+          "state": "available",
+          "reason": null,
+          "formula": "continuing_profit / operating_revenue * 100",
+          "formula_version": "financial-v0.1.0",
+          "operand_fact_ids": [
+            "igx-fy2026-continuing_profit-wwipl-v1",
+            "igx-fy2026-operating_revenue-wwipl-v1"
+          ],
+          "period_end": "2026-03-31",
+          "basis": "unspecified",
+          "review_state": "provisional_secondary"
+        },
+        {
+          "id": "cash_conversion",
+          "value": "3.7337",
+          "unit": "times",
+          "state": "available",
+          "reason": null,
+          "formula": "cfo / continuing_profit * 1",
+          "formula_version": "financial-v0.1.0",
+          "operand_fact_ids": [
+            "igx-fy2026-cfo-wwipl-v1",
+            "igx-fy2026-continuing_profit-wwipl-v1"
+          ],
+          "period_end": "2026-03-31",
+          "basis": "unspecified",
+          "review_state": "provisional_secondary"
+        },
+        {
+          "id": "income_residual",
+          "value": "0.0000",
+          "unit": "INR crore",
+          "state": "available",
+          "reason": null,
+          "formula": "provider total income - operating revenue - other income",
+          "formula_version": "financial-v0.1.0",
+          "operand_fact_ids": [
+            "igx-fy2026-provider_total_income-wwipl-v1",
+            "igx-fy2026-operating_revenue-wwipl-v1",
+            "igx-fy2026-other_income-wwipl-v1"
+          ],
+          "period_end": "2026-03-31",
+          "basis": "unspecified",
+          "review_state": "provisional_secondary"
+        },
+        {
+          "id": "operating_revenue_yoy",
+          "value": "25.0205",
+          "unit": "percent",
+          "state": "available",
+          "reason": null,
+          "formula": "(current operating revenue / previous operating revenue - 1) * 100",
+          "formula_version": "financial-v0.1.0",
+          "operand_fact_ids": [
+            "igx-fy2026-operating_revenue-wwipl-v1",
+            "igx-fy2025-operating_revenue-wwipl-v1"
+          ],
+          "period_end": "2026-03-31",
+          "basis": "unspecified",
+          "review_state": "provisional_secondary"
+        }
+      ]
+    }
+  ],
+  "summary_metrics": [
+    {
+      "id": "operating_revenue_cagr",
+      "value": "32.3120",
+      "unit": "percent",
+      "state": "available",
+      "reason": null,
+      "formula": "(last / first) ** (1 / elapsed fiscal years) - 1",
+      "formula_version": "financial-v0.1.0",
+      "operand_fact_ids": [
+        "igx-fy2026-operating_revenue-wwipl-v1",
+        "igx-fy2024-operating_revenue-wwipl-v1"
+      ],
+      "period_end": "2026-03-31",
+      "basis": "unspecified",
+      "review_state": "provisional_secondary"
+    }
+  ],
+  "coverage": {
+    "issuer_count": 1,
+    "annual_periods": 3,
+    "observations": 15,
+    "primary_reviewed": 0,
+    "basis": "unspecified",
+    "valuation_state": "unavailable",
+    "ranking_state": "unavailable"
+  },
+  "export_context": {
+    "selected_period": "2026-03-31",
+    "display_unit": "INR million",
+    "scenario": {
+      "snapshot_id": "research-744e0dd66c32c834",
+      "formula_version": "financial-v0.1.0",
+      "inputs": {
+        "company_id": "igx",
+        "period_end": "2026-03-31",
+        "growth_pct": "10",
+        "profit_pct": "50"
+      },
+      "base_fact_id": "igx-fy2026-operating_revenue-wwipl-v1",
+      "hypothetical_operating_revenue": "67.1110",
+      "hypothetical_continuing_profit": "33.5555",
+      "unit": "INR crore",
+      "formula": "base operating revenue * (1 + growth_pct / 100) * profit_pct / 100",
+      "review_state": "provisional_secondary",
+      "basis": "unspecified",
+      "interpretation": "One-year assumption sensitivity; not a forecast or valuation"
+    }
+  }
+}

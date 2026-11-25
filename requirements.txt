@@ -1,0 +1,8 @@
+# IPO-Ready prototype (Python 3.12)
+requests>=2.31
+beautifulsoup4>=4.12
+lxml>=5.0
+pypdf>=4.0
+Flask>=3.0
+# browser checks only (scripts/check_site.py); uses installed Microsoft Edge or `python -m playwright install chromium`
+playwright>=1.40

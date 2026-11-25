@@ -1,0 +1,3283 @@
+{
+ "id": "orbis",
+ "name": "Orbis Financial Corporation Ltd",
+ "short": "Orbis",
+ "hierarchy": [
+  "Financials",
+  "Capital Markets",
+  "Market Infrastructure Services",
+  "Custody & Clearing"
+ ],
+ "model": "broker",
+ "listed_peers": [
+  "CDSL",
+  "CAMS"
+ ],
+ "status_note": null,
+ "market_status": null,
+ "quote": {
+  "price_inr": "299.00",
+  "state": "reported",
+  "change_raw": "+ 0.00 %",
+  "kind": "unlisted dealer quote (indicative, not an exchange trade)",
+  "as_of": "2026-11-23T16:45:03+00:00",
+  "high_52w": "460.00 (24/11/25)",
+  "low_52w": "299.00 (21/11/26)",
+  "ev": "ev1"
+ },
+ "profile": {
+  "provider_sector": "Financial Service",
+  "isin": "INE155K01013",
+  "cin": "U67120HR2005PLC036952",
+  "registration_date": "28/11/2005",
+  "face_value": "10",
+  "lot_size": "100",
+  "drhp_filed": "No",
+  "depository": "nsdl",
+  "rofr": "No",
+  "description": null,
+  "share_details_as_of": "March 31, 2026",
+  "ev": "ev2"
+ },
+ "periods": [
+  "FY2022",
+  "FY2023",
+  "FY2024",
+  "FY2025",
+  "FY2026"
+ ],
+ "basis": "unknown",
+ "raw_units": [],
+ "layout": "five-year summary",
+ "fields": {
+  "total_income": {
+   "label": "Total income",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2023": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "revenue_ops": {
+   "label": "Revenue from operations",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2023": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "other_income": {
+   "label": "Other income",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2023": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "other_gains": {
+   "label": "Other gains / losses",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2023": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "job_work_revenue": {
+   "label": "Revenue from job work",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2023": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "total_expenses": {
+   "label": "Total expenses",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2023": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "finance_cost": {
+   "label": "Finance cost",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2023": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "depreciation": {
+   "label": "Depreciation",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2023": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "pbt": {
+   "label": "Profit before tax",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2023": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "tax": {
+   "label": "Tax",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2023": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "pat": {
+   "label": "Profit after tax",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2023": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "total_assets": {
+   "label": "Total assets",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2023": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "total_equity": {
+   "label": "Total equity",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2023": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "total_liabilities": {
+   "label": "Total liabilities",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2023": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "current_assets": {
+   "label": "Current assets",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2023": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "current_liabilities": {
+   "label": "Current liabilities",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2023": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "inventories": {
+   "label": "Inventories",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2023": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "cash": {
+   "label": "Cash & equivalents",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2023": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "loans": {
+   "label": "Loans",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2023": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "cfo": {
+   "label": "Cash from operations",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2023": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "cfi": {
+   "label": "Cash from investing",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2023": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "cff": {
+   "label": "Cash from financing",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2023": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "ebitda": {
+   "label": "EBITDA",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2023": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "eps": {
+   "label": "EPS (provider)",
+   "unit": "INR",
+   "by_period": {
+    "FY2022": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2023": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "shares_outstanding": {
+   "label": "Shares outstanding",
+   "unit": "shares",
+   "by_period": {
+    "FY2022": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2023": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  }
+ },
+ "cash_flow": {
+  "unit": "INR crore",
+  "by_period": {
+   "FY2022": {
+    "basis": "unknown",
+    "origin": "provider",
+    "lines": {
+     "opening": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "cfo": {
+      "value": null,
+      "state": "not_in_source"
+     },
+     "cfi": {
+      "value": null,
+      "state": "not_in_source"
+     },
+     "cff": {
+      "value": null,
+      "state": "not_in_source"
+     },
+     "other_effects": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "net_change": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "closing": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "before_working_capital": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "receivables": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "other_assets": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "payables_and_liabilities": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "tax_paid": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "capex": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "net_investment_purchases": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "debt_principal": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "lease_principal": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "lease_interest": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "overdraft_interest": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "share_proceeds": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "dividends": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "current_accounts": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "settlement_accounts": {
+      "state": "not_in_source",
+      "value": null
+     }
+    },
+    "reconciliation": {
+     "state": "partial"
+    },
+    "provider_comparison": null
+   },
+   "FY2023": {
+    "basis": "unknown",
+    "origin": "provider",
+    "lines": {
+     "opening": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "cfo": {
+      "value": null,
+      "state": "not_in_source"
+     },
+     "cfi": {
+      "value": null,
+      "state": "not_in_source"
+     },
+     "cff": {
+      "value": null,
+      "state": "not_in_source"
+     },
+     "other_effects": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "net_change": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "closing": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "before_working_capital": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "receivables": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "other_assets": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "payables_and_liabilities": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "tax_paid": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "capex": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "net_investment_purchases": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "debt_principal": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "lease_principal": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "lease_interest": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "overdraft_interest": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "share_proceeds": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "dividends": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "current_accounts": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "settlement_accounts": {
+      "state": "not_in_source",
+      "value": null
+     }
+    },
+    "reconciliation": {
+     "state": "partial"
+    },
+    "provider_comparison": null
+   },
+   "FY2024": {
+    "basis": "unknown",
+    "origin": "provider",
+    "lines": {
+     "opening": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "cfo": {
+      "value": null,
+      "state": "not_in_source"
+     },
+     "cfi": {
+      "value": null,
+      "state": "not_in_source"
+     },
+     "cff": {
+      "value": null,
+      "state": "not_in_source"
+     },
+     "other_effects": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "net_change": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "closing": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "before_working_capital": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "receivables": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "other_assets": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "payables_and_liabilities": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "tax_paid": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "capex": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "net_investment_purchases": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "debt_principal": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "lease_principal": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "lease_interest": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "overdraft_interest": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "share_proceeds": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "dividends": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "current_accounts": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "settlement_accounts": {
+      "state": "not_in_source",
+      "value": null
+     }
+    },
+    "reconciliation": {
+     "state": "partial"
+    },
+    "provider_comparison": null
+   },
+   "FY2025": {
+    "basis": "unknown",
+    "origin": "provider",
+    "lines": {
+     "opening": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "cfo": {
+      "value": null,
+      "state": "not_in_source"
+     },
+     "cfi": {
+      "value": null,
+      "state": "not_in_source"
+     },
+     "cff": {
+      "value": null,
+      "state": "not_in_source"
+     },
+     "other_effects": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "net_change": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "closing": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "before_working_capital": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "receivables": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "other_assets": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "payables_and_liabilities": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "tax_paid": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "capex": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "net_investment_purchases": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "debt_principal": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "lease_principal": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "lease_interest": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "overdraft_interest": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "share_proceeds": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "dividends": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "current_accounts": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "settlement_accounts": {
+      "state": "not_in_source",
+      "value": null
+     }
+    },
+    "reconciliation": {
+     "state": "partial"
+    },
+    "provider_comparison": null
+   },
+   "FY2026": {
+    "basis": "unknown",
+    "origin": "provider",
+    "lines": {
+     "opening": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "cfo": {
+      "value": null,
+      "state": "not_in_source"
+     },
+     "cfi": {
+      "value": null,
+      "state": "not_in_source"
+     },
+     "cff": {
+      "value": null,
+      "state": "not_in_source"
+     },
+     "other_effects": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "net_change": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "closing": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "before_working_capital": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "receivables": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "other_assets": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "payables_and_liabilities": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "tax_paid": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "capex": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "net_investment_purchases": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "debt_principal": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "lease_principal": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "lease_interest": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "overdraft_interest": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "share_proceeds": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "dividends": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "current_accounts": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "settlement_accounts": {
+      "state": "not_in_source",
+      "value": null
+     }
+    },
+    "reconciliation": {
+     "state": "partial"
+    },
+    "provider_comparison": null
+   }
+  }
+ },
+ "documents": [],
+ "reconciliation": null,
+ "agent": {
+  "inventories": {
+   "company": "orbis",
+   "field": "inventories",
+   "status": "not_found_no_documents",
+   "summary": "No issuer documents retained for Orbis; the provider does not report inventories. Expectation: not_expected.",
+   "how_to_verify": "Not verifiable from retained evidence.",
+   "expectation": {
+    "level": "not_expected",
+    "reason": "A broker or custodian holds client and own financial assets, not goods."
+   },
+   "evidence": [],
+   "evidence_total": 0,
+   "next_checks": [
+    "Audited annual report: balance sheet 'Inventories' line and note on valuation",
+    "MCA AOC-4 financial statement filing (paid access)",
+    "DRHP 'Restated financial information' if the company files for an IPO"
+   ],
+   "trace": [
+    {
+     "step": 1,
+     "tool": "provider_lookup",
+     "input": {
+      "company": "orbis",
+      "field": "inventories"
+     },
+     "output": {
+      "found": false,
+      "periods": [],
+      "detail": "no matching line in the provider's parsed statements"
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 2,
+     "tool": "applicability_rule",
+     "input": {
+      "field": "inventories",
+      "business_model": "broker"
+     },
+     "output": {
+      "expectation": "not_expected",
+      "reason": "A broker or custodian holds client and own financial assets, not goods."
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 3,
+     "tool": "statement_line_check",
+     "input": {
+      "document": null
+     },
+     "output": {
+      "skipped": true,
+      "why": "no retained issuer balance sheet for this company"
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 4,
+     "tool": "document_search",
+     "input": {
+      "documents": [],
+      "patterns": [
+       "\\binventor(?:y|ies)\\b"
+      ]
+     },
+     "output": {
+      "documents_searched": [],
+      "pages_with_word_matches": 0,
+      "pages_with_naive_substring": 0,
+      "note": "naive substring 'inventor' also matches unrelated words (e.g. 'COMPANY' contains 'NPA'); word-boundary patterns used"
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 5,
+     "tool": "classify_passages",
+     "input": {
+      "passages": 0
+     },
+     "output": {
+      "by_kind": {}
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 6,
+     "tool": "verdict",
+     "input": {
+      "signals": {
+       "provider": false,
+       "numeric": 0,
+       "explicit_na": 0,
+       "line_check": null,
+       "expectation": "not_expected"
+      }
+     },
+     "output": {
+      "status": "not_found_no_documents",
+      "summary": "No issuer documents retained for Orbis; the provider does not report inventories. Expectation: not_expected.",
+      "how_to_verify": "Not verifiable from retained evidence."
+     },
+     "ms": 0.0
+    }
+   ],
+   "executed": "deterministic tool sequence (no language model call)"
+  },
+  "npa": {
+   "company": "orbis",
+   "field": "npa",
+   "status": "inapplicable",
+   "summary": "Not applicable by business model: NPA is a lender asset-quality measure; this business has no loan book to classify.",
+   "how_to_verify": "No mentions to review; the business-model rule decides.",
+   "expectation": {
+    "level": "not_applicable",
+    "reason": "NPA is a lender asset-quality measure; this business has no loan book to classify."
+   },
+   "evidence": [],
+   "evidence_total": 0,
+   "next_checks": [
+    "Annual report notes: 'Stage 3 assets', 'Gross NPA', 'Net NPA' (RBI disclosure for NBFCs)"
+   ],
+   "trace": [
+    {
+     "step": 1,
+     "tool": "provider_lookup",
+     "input": {
+      "company": "orbis",
+      "field": "gross_npa"
+     },
+     "output": {
+      "found": false,
+      "periods": [],
+      "detail": "no matching line in the provider's parsed statements"
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 2,
+     "tool": "applicability_rule",
+     "input": {
+      "field": "npa",
+      "business_model": "broker"
+     },
+     "output": {
+      "expectation": "not_applicable",
+      "reason": "NPA is a lender asset-quality measure; this business has no loan book to classify."
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 3,
+     "tool": "statement_line_check",
+     "input": {
+      "document": null
+     },
+     "output": {
+      "skipped": true,
+      "why": "no retained issuer balance sheet for this company"
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 4,
+     "tool": "document_search",
+     "input": {
+      "documents": [],
+      "patterns": [
+       "\\bG?N?NPAs?\\b",
+       "\\bnon[- ]performing (?:assets?|loans?)\\b",
+       "\\bstage\\s*(?:3|III)\\s+(?:assets|loans)\\b"
+      ]
+     },
+     "output": {
+      "documents_searched": [],
+      "pages_with_word_matches": 0,
+      "pages_with_naive_substring": 0,
+      "note": "naive substring 'npa' also matches unrelated words (e.g. 'COMPANY' contains 'NPA'); word-boundary patterns used"
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 5,
+     "tool": "classify_passages",
+     "input": {
+      "passages": 0
+     },
+     "output": {
+      "by_kind": {}
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 6,
+     "tool": "verdict",
+     "input": {
+      "signals": {
+       "provider": false,
+       "numeric": 0,
+       "explicit_na": 0,
+       "line_check": null,
+       "expectation": "not_applicable"
+      }
+     },
+     "output": {
+      "status": "inapplicable",
+      "summary": "Not applicable by business model: NPA is a lender asset-quality measure; this business has no loan book to classify.",
+      "how_to_verify": "No mentions to review; the business-model rule decides."
+     },
+     "ms": 0.0
+    }
+   ],
+   "executed": "deterministic tool sequence (no language model call)"
+  }
+ },
+ "metrics": {
+  "FY2022": {
+   "revenue_growth": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "(current / previous) - 1",
+    "inputs": {
+     "current": null,
+     "previous": null
+    },
+    "unit": "%",
+    "ev": []
+   },
+   "pat_margin": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "PAT / total income x 100",
+    "inputs": {
+     "pat": null,
+     "total_income": null
+    },
+    "unit": "%",
+    "ev": []
+   },
+   "net_profit_ratio": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "PAT / revenue from operations x 100",
+    "inputs": {
+     "pat": null,
+     "revenue_ops": null
+    },
+    "unit": "%",
+    "ev": []
+   },
+   "other_income_share": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "other income / total income x 100",
+    "inputs": {
+     "other_income": null,
+     "total_income": null
+    },
+    "unit": "%",
+    "ev": []
+   },
+   "current_ratio": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "current assets / current liabilities",
+    "inputs": {
+     "current_assets": null,
+     "current_liabilities": null
+    },
+    "unit": "x",
+    "ev": []
+   },
+   "quick_ratio": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "(current assets - inventories) / current liabilities",
+    "inputs": {
+     "current_assets": null,
+     "inventories": null,
+     "current_liabilities": null
+    },
+    "note": "inventories not disclosed in the available source; quick ratio withheld",
+    "unit": "x",
+    "ev": []
+   },
+   "roe": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "PAT / average of opening and closing equity x 100",
+    "inputs": {
+     "pat": null,
+     "average_equity": null
+    },
+    "unit": "%",
+    "ev": []
+   },
+   "roce": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "(PBT + finance cost) / (total assets - current liabilities) x 100",
+    "inputs": {
+     "ebit": null,
+     "capital_employed": null
+    },
+    "unit": "%",
+    "ev": []
+   },
+   "cfo_to_pat": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "cash from operations / PAT",
+    "inputs": {
+     "cfo": null,
+     "pat": null
+    },
+    "unit": "x",
+    "ev": []
+   }
+  },
+  "FY2023": {
+   "revenue_growth": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "(current / previous) - 1",
+    "inputs": {
+     "current": null,
+     "previous": null
+    },
+    "unit": "%",
+    "ev": []
+   },
+   "pat_margin": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "PAT / total income x 100",
+    "inputs": {
+     "pat": null,
+     "total_income": null
+    },
+    "unit": "%",
+    "ev": []
+   },
+   "net_profit_ratio": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "PAT / revenue from operations x 100",
+    "inputs": {
+     "pat": null,
+     "revenue_ops": null
+    },
+    "unit": "%",
+    "ev": []
+   },
+   "other_income_share": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "other income / total income x 100",
+    "inputs": {
+     "other_income": null,
+     "total_income": null
+    },
+    "unit": "%",
+    "ev": []
+   },
+   "current_ratio": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "current assets / current liabilities",
+    "inputs": {
+     "current_assets": null,
+     "current_liabilities": null
+    },
+    "unit": "x",
+    "ev": []
+   },
+   "quick_ratio": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "(current assets - inventories) / current liabilities",
+    "inputs": {
+     "current_assets": null,
+     "inventories": null,
+     "current_liabilities": null
+    },
+    "note": "inventories not disclosed in the available source; quick ratio withheld",
+    "unit": "x",
+    "ev": []
+   },
+   "roe": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "PAT / average of opening and closing equity x 100",
+    "inputs": {
+     "pat": null,
+     "average_equity": null
+    },
+    "unit": "%",
+    "ev": []
+   },
+   "roce": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "(PBT + finance cost) / (total assets - current liabilities) x 100",
+    "inputs": {
+     "ebit": null,
+     "capital_employed": null
+    },
+    "unit": "%",
+    "ev": []
+   },
+   "cfo_to_pat": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "cash from operations / PAT",
+    "inputs": {
+     "cfo": null,
+     "pat": null
+    },
+    "unit": "x",
+    "ev": []
+   }
+  },
+  "FY2024": {
+   "revenue_growth": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "(current / previous) - 1",
+    "inputs": {
+     "current": null,
+     "previous": null
+    },
+    "unit": "%",
+    "ev": []
+   },
+   "pat_margin": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "PAT / total income x 100",
+    "inputs": {
+     "pat": null,
+     "total_income": null
+    },
+    "unit": "%",
+    "ev": []
+   },
+   "net_profit_ratio": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "PAT / revenue from operations x 100",
+    "inputs": {
+     "pat": null,
+     "revenue_ops": null
+    },
+    "unit": "%",
+    "ev": []
+   },
+   "other_income_share": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "other income / total income x 100",
+    "inputs": {
+     "other_income": null,
+     "total_income": null
+    },
+    "unit": "%",
+    "ev": []
+   },
+   "current_ratio": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "current assets / current liabilities",
+    "inputs": {
+     "current_assets": null,
+     "current_liabilities": null
+    },
+    "unit": "x",
+    "ev": []
+   },
+   "quick_ratio": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "(current assets - inventories) / current liabilities",
+    "inputs": {
+     "current_assets": null,
+     "inventories": null,
+     "current_liabilities": null
+    },
+    "note": "inventories not disclosed in the available source; quick ratio withheld",
+    "unit": "x",
+    "ev": []
+   },
+   "roe": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "PAT / average of opening and closing equity x 100",
+    "inputs": {
+     "pat": null,
+     "average_equity": null
+    },
+    "unit": "%",
+    "ev": []
+   },
+   "roce": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "(PBT + finance cost) / (total assets - current liabilities) x 100",
+    "inputs": {
+     "ebit": null,
+     "capital_employed": null
+    },
+    "unit": "%",
+    "ev": []
+   },
+   "cfo_to_pat": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "cash from operations / PAT",
+    "inputs": {
+     "cfo": null,
+     "pat": null
+    },
+    "unit": "x",
+    "ev": []
+   }
+  },
+  "FY2025": {
+   "revenue_growth": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "(current / previous) - 1",
+    "inputs": {
+     "current": null,
+     "previous": null
+    },
+    "unit": "%",
+    "ev": []
+   },
+   "pat_margin": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "PAT / total income x 100",
+    "inputs": {
+     "pat": null,
+     "total_income": null
+    },
+    "unit": "%",
+    "ev": []
+   },
+   "net_profit_ratio": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "PAT / revenue from operations x 100",
+    "inputs": {
+     "pat": null,
+     "revenue_ops": null
+    },
+    "unit": "%",
+    "ev": []
+   },
+   "other_income_share": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "other income / total income x 100",
+    "inputs": {
+     "other_income": null,
+     "total_income": null
+    },
+    "unit": "%",
+    "ev": []
+   },
+   "current_ratio": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "current assets / current liabilities",
+    "inputs": {
+     "current_assets": null,
+     "current_liabilities": null
+    },
+    "unit": "x",
+    "ev": []
+   },
+   "quick_ratio": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "(current assets - inventories) / current liabilities",
+    "inputs": {
+     "current_assets": null,
+     "inventories": null,
+     "current_liabilities": null
+    },
+    "note": "inventories not disclosed in the available source; quick ratio withheld",
+    "unit": "x",
+    "ev": []
+   },
+   "roe": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "PAT / average of opening and closing equity x 100",
+    "inputs": {
+     "pat": null,
+     "average_equity": null
+    },
+    "unit": "%",
+    "ev": []
+   },
+   "roce": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "(PBT + finance cost) / (total assets - current liabilities) x 100",
+    "inputs": {
+     "ebit": null,
+     "capital_employed": null
+    },
+    "unit": "%",
+    "ev": []
+   },
+   "cfo_to_pat": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "cash from operations / PAT",
+    "inputs": {
+     "cfo": null,
+     "pat": null
+    },
+    "unit": "x",
+    "ev": []
+   }
+  },
+  "FY2026": {
+   "revenue_growth": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "(current / previous) - 1",
+    "inputs": {
+     "current": null,
+     "previous": null
+    },
+    "unit": "%",
+    "ev": []
+   },
+   "pat_margin": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "PAT / total income x 100",
+    "inputs": {
+     "pat": null,
+     "total_income": null
+    },
+    "unit": "%",
+    "ev": []
+   },
+   "net_profit_ratio": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "PAT / revenue from operations x 100",
+    "inputs": {
+     "pat": null,
+     "revenue_ops": null
+    },
+    "unit": "%",
+    "ev": []
+   },
+   "other_income_share": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "other income / total income x 100",
+    "inputs": {
+     "other_income": null,
+     "total_income": null
+    },
+    "unit": "%",
+    "ev": []
+   },
+   "current_ratio": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "current assets / current liabilities",
+    "inputs": {
+     "current_assets": null,
+     "current_liabilities": null
+    },
+    "unit": "x",
+    "ev": []
+   },
+   "quick_ratio": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "(current assets - inventories) / current liabilities",
+    "inputs": {
+     "current_assets": null,
+     "inventories": null,
+     "current_liabilities": null
+    },
+    "note": "inventories not disclosed in the available source; quick ratio withheld",
+    "unit": "x",
+    "ev": []
+   },
+   "roe": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "PAT / average of opening and closing equity x 100",
+    "inputs": {
+     "pat": null,
+     "average_equity": null
+    },
+    "unit": "%",
+    "ev": []
+   },
+   "roce": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "(PBT + finance cost) / (total assets - current liabilities) x 100",
+    "inputs": {
+     "ebit": null,
+     "capital_employed": null
+    },
+    "unit": "%",
+    "ev": []
+   },
+   "cfo_to_pat": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "cash from operations / PAT",
+    "inputs": {
+     "cfo": null,
+     "pat": null
+    },
+    "unit": "x",
+    "ev": []
+   }
+  }
+ },
+ "valuation": {
+  "period": "FY2026",
+  "shares_used": "126018360",
+  "shares_source": "shares_details",
+  "market_cap": {
+   "value": "3767.9490",
+   "state": "ok",
+   "formula": "price (INR) x shares outstanding / 1e7",
+   "inputs": {
+    "price_inr": "299.00",
+    "shares": "126018360"
+   },
+   "unit": "INR crore"
+  },
+  "eps": {
+   "value": null,
+   "state": "missing_input",
+   "formula": "PAT (INR crore) x 1e7 / shares outstanding",
+   "inputs": {
+    "pat_cr": null,
+    "shares": "126018360"
+   },
+   "unit": "INR"
+  },
+  "pe": {
+   "value": null,
+   "state": "missing_input",
+   "formula": "price / EPS",
+   "inputs": {
+    "price_inr": "299.00",
+    "eps": null
+   },
+   "unit": "x"
+  },
+  "pb": {
+   "value": null,
+   "state": "missing_input",
+   "formula": "market cap / total equity",
+   "inputs": {
+    "market_cap": "3767.948964",
+    "total_equity": null
+   },
+   "unit": "x"
+  },
+  "ps": {
+   "value": null,
+   "state": "missing_input",
+   "formula": "market cap / total income",
+   "inputs": {
+    "market_cap": "3767.948964",
+    "total_income": null
+   },
+   "unit": "x"
+  },
+  "provider": {
+   "pe": "17.97",
+   "mcap": "3,767.95 Crore",
+   "eps": "16.64"
+  },
+  "note": "Valued at an indicative unlisted dealer quote against the latest fiscal-year PAT; not a traded market price."
+ },
+ "coverage_gaps": [
+  {
+   "field": "inventories",
+   "state": "not_in_source",
+   "label": "Inventories"
+  },
+  {
+   "field": "cash",
+   "state": "not_in_source",
+   "label": "Cash & equivalents"
+  },
+  {
+   "field": "eps",
+   "state": "not_in_source",
+   "label": "EPS (provider)"
+  },
+  {
+   "field": "shares_outstanding",
+   "state": "not_in_source",
+   "label": "Shares outstanding"
+  },
+  {
+   "field": "current_assets",
+   "state": "not_in_source",
+   "label": "Current assets"
+  }
+ ],
+ "checks": [],
+ "provider_ratios": {
+  "Equity and Liabilities": {
+   "FY2026": {
+    "raw_text": "5,127.45",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "4,544.25",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "4,984.71",
+    "state": "reported"
+   },
+   "FY2023": {
+    "raw_text": "5,040.19",
+    "state": "reported"
+   },
+   "FY2022": {
+    "raw_text": "3,923.80",
+    "state": "reported"
+   }
+  },
+  "Total equity": {
+   "FY2026": {
+    "raw_text": "1,100.67",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "899.60",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "688.23",
+    "state": "reported"
+   },
+   "FY2023": {
+    "raw_text": "429.00",
+    "state": "reported"
+   },
+   "FY2022": {
+    "raw_text": "223.01",
+    "state": "reported"
+   }
+  },
+  "Total liabilities": {
+   "FY2026": {
+    "raw_text": "4,026.78",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "3,644.65",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "4,296.48",
+    "state": "reported"
+   },
+   "FY2023": {
+    "raw_text": "4,611.19",
+    "state": "reported"
+   },
+   "FY2022": {
+    "raw_text": "3,700.79",
+    "state": "reported"
+   }
+  },
+  "Non - Current Liabilities": {
+   "FY2026": {
+    "raw_text": "10.06",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "10.50",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "11.02",
+    "state": "reported"
+   },
+   "FY2023": {
+    "raw_text": "14.01",
+    "state": "reported"
+   },
+   "FY2022": {
+    "raw_text": "1.38",
+    "state": "reported"
+   }
+  },
+  "Current Liabilities": {
+   "FY2026": {
+    "raw_text": "4,016.72",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "3,634.15",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "4,285.46",
+    "state": "reported"
+   },
+   "FY2023": {
+    "raw_text": "4,597.18",
+    "state": "reported"
+   },
+   "FY2022": {
+    "raw_text": "3,699.41",
+    "state": "reported"
+   }
+  },
+  "Assets": {
+   "FY2026": {
+    "raw_text": "5,127.45",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "4,544.25",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "4,984.71",
+    "state": "reported"
+   },
+   "FY2023": {
+    "raw_text": "5,040.20",
+    "state": "reported"
+   },
+   "FY2022": {
+    "raw_text": "3,923.81",
+    "state": "reported"
+   }
+  },
+  "Non-Current Assets": {
+   "FY2026": {
+    "raw_text": "178.58",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "99.82",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "104.71",
+    "state": "reported"
+   },
+   "FY2023": {
+    "raw_text": "382.14",
+    "state": "reported"
+   },
+   "FY2022": {
+    "raw_text": "710.06",
+    "state": "reported"
+   }
+  },
+  "Current Assets": {
+   "FY2026": {
+    "raw_text": "4,948.87",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "4,444.43",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "4,880.00",
+    "state": "reported"
+   },
+   "FY2023": {
+    "raw_text": "4,658.06",
+    "state": "reported"
+   },
+   "FY2022": {
+    "raw_text": "3,213.75",
+    "state": "reported"
+   }
+  },
+  "Net cash from/(used in) operating activities": {
+   "FY2026": {
+    "raw_text": "181.85",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "-108.93",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "22.80",
+    "state": "reported"
+   },
+   "FY2023": {
+    "raw_text": "-181.80",
+    "state": "reported"
+   },
+   "FY2022": {
+    "raw_text": "-440.92",
+    "state": "reported"
+   }
+  },
+  "Net cash from/(used in) investing activities": {
+   "FY2026": {
+    "raw_text": "-15.34",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "2.23",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "65.71",
+    "state": "reported"
+   },
+   "FY2023": {
+    "raw_text": "-76.94",
+    "state": "reported"
+   },
+   "FY2022": {
+    "raw_text": "768.14",
+    "state": "reported"
+   }
+  },
+  "Net cash from/(used) in financing activities": {
+   "FY2026": {
+    "raw_text": "-106.24",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "-107.19",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "27.68",
+    "state": "reported"
+   },
+   "FY2023": {
+    "raw_text": "67.54",
+    "state": "reported"
+   },
+   "FY2022": {
+    "raw_text": "-10.71",
+    "state": "reported"
+   }
+  },
+  "Net increase /(decrease) in cash and cash equivalents": {
+   "FY2026": {
+    "raw_text": "60.27",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "-213.89",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "116.19",
+    "state": "reported"
+   },
+   "FY2023": {
+    "raw_text": "-191.20",
+    "state": "reported"
+   },
+   "FY2022": {
+    "raw_text": "316.51",
+    "state": "reported"
+   }
+  },
+  "Cash and cash equivalents at the beginning of the year": {
+   "FY2026": {
+    "raw_text": "385.87",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "599.76",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "483.57",
+    "state": "reported"
+   },
+   "FY2023": {
+    "raw_text": "674.78",
+    "state": "reported"
+   },
+   "FY2022": {
+    "raw_text": "358.28",
+    "state": "reported"
+   }
+  },
+  "Cash and cash equivalents at the end of the year": {
+   "FY2026": {
+    "raw_text": "446.14",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "385.87",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "599.76",
+    "state": "reported"
+   },
+   "FY2023": {
+    "raw_text": "483.57",
+    "state": "reported"
+   },
+   "FY2022": {
+    "raw_text": "674.78",
+    "state": "reported"
+   }
+  },
+  "EBITDA Margin": {
+   "FY2026": {
+    "raw_text": "76.42%",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "67.70%",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "59.26%",
+    "state": "reported"
+   },
+   "FY2023": {
+    "raw_text": "55.44%",
+    "state": "reported"
+   },
+   "FY2022": {
+    "raw_text": "50.68%",
+    "state": "reported"
+   }
+  },
+  "EBIT Margin": {
+   "FY2026": {
+    "raw_text": "75.07%",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "66.68%",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "58.42%",
+    "state": "reported"
+   },
+   "FY2023": {
+    "raw_text": "54.78%",
+    "state": "reported"
+   },
+   "FY2022": {
+    "raw_text": "49.99%",
+    "state": "reported"
+   }
+  },
+  "Return on Equity (ROE)": {
+   "FY2026": {
+    "raw_text": "19.05%",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "22.75%",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "20.53%",
+    "state": "reported"
+   },
+   "FY2023": {
+    "raw_text": "20.88%",
+    "state": "reported"
+   },
+   "FY2022": {
+    "raw_text": "21.44%",
+    "state": "reported"
+   }
+  },
+  "Return on Capital Employed (ROCE)": {
+   "FY2026": {
+    "raw_text": "33.52%",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "41.04%",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "36.04%",
+    "state": "reported"
+   },
+   "FY2023": {
+    "raw_text": "37.07%",
+    "state": "reported"
+   },
+   "FY2022": {
+    "raw_text": "42.56%",
+    "state": "reported"
+   }
+  },
+  "Assets Turnover Ratio": {
+   "FY2026": {
+    "raw_text": "0.10",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "0.12",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "0.09",
+    "state": "reported"
+   },
+   "FY2023": {
+    "raw_text": "0.06",
+    "state": "reported"
+   },
+   "FY2022": {
+    "raw_text": "0.05",
+    "state": "reported"
+   }
+  },
+  "Return on Assets": {
+   "FY2026": {
+    "raw_text": "4.09%",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "4.50%",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "2.83%",
+    "state": "reported"
+   },
+   "FY2023": {
+    "raw_text": "1.78%",
+    "state": "reported"
+   },
+   "FY2022": {
+    "raw_text": "1.22%",
+    "state": "reported"
+   }
+  },
+  "Net Profit Margin": {
+   "FY2026": {
+    "raw_text": "42.28%",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "36.53%",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "32.75%",
+    "state": "reported"
+   },
+   "FY2023": {
+    "raw_text": "29.88%",
+    "state": "reported"
+   },
+   "FY2022": {
+    "raw_text": "25.03%",
+    "state": "reported"
+   }
+  },
+  "Interest Coverage Ratio": {
+   "FY2026": {
+    "raw_text": "4.25",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "3.79",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "3.89",
+    "state": "reported"
+   },
+   "FY2023": {
+    "raw_text": "3.88",
+    "state": "reported"
+   },
+   "FY2022": {
+    "raw_text": "3.15",
+    "state": "reported"
+   }
+  },
+  "Revenue Growth Rate (CAGR)": {
+   "FY2026": {
+    "raw_text": "-11.48%",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "29.86%",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "43.92%",
+    "state": "reported"
+   },
+   "FY2023": {
+    "raw_text": "56.93%",
+    "state": "reported"
+   },
+   "FY2022": {
+    "raw_text": "335.32%",
+    "state": "reported"
+   }
+  },
+  "Revenue": {
+   "FY2026": {
+    "raw_text": "495.94",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "560.23",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "431.42",
+    "state": "reported"
+   },
+   "FY2023": {
+    "raw_text": "299.77",
+    "state": "reported"
+   },
+   "FY2022": {
+    "raw_text": "191.02",
+    "state": "reported"
+   }
+  },
+  "Revenue from operations": {
+   "FY2026": {
+    "raw_text": "487.92",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "556.16",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "424.24",
+    "state": "reported"
+   },
+   "FY2023": {
+    "raw_text": "296.67",
+    "state": "reported"
+   },
+   "FY2022": {
+    "raw_text": "154.18",
+    "state": "reported"
+   }
+  },
+  "Other income": {
+   "FY2026": {
+    "raw_text": "8.02",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "4.07",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "7.18",
+    "state": "reported"
+   },
+   "FY2023": {
+    "raw_text": "3.10",
+    "state": "reported"
+   },
+   "FY2022": {
+    "raw_text": "36.84",
+    "state": "reported"
+   }
+  },
+  "Expenses": {
+   "FY2026": {
+    "raw_text": "211.21",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "285.25",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "244.23",
+    "state": "reported"
+   },
+   "FY2023": {
+    "raw_text": "177.88",
+    "state": "reported"
+   },
+   "FY2022": {
+    "raw_text": "125.81",
+    "state": "reported"
+   }
+  },
+  "Finance cost": {
+   "FY2026": {
+    "raw_text": "87.56",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "98.56",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "64.84",
+    "state": "reported"
+   },
+   "FY2023": {
+    "raw_text": "42.32",
+    "state": "reported"
+   },
+   "FY2022": {
+    "raw_text": "30.28",
+    "state": "reported"
+   }
+  },
+  "Employee benefit Expense": {
+   "FY2026": {
+    "raw_text": "81.16",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "88.84",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "79.23",
+    "state": "reported"
+   },
+   "FY2023": {
+    "raw_text": "40.15",
+    "state": "reported"
+   },
+   "FY2022": {
+    "raw_text": "22.25",
+    "state": "reported"
+   }
+  },
+  "Depreciation and Amortisation expense": {
+   "FY2026": {
+    "raw_text": "6.73",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "5.76",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "3.64",
+    "state": "reported"
+   },
+   "FY2023": {
+    "raw_text": "1.99",
+    "state": "reported"
+   },
+   "FY2022": {
+    "raw_text": "1.31",
+    "state": "reported"
+   }
+  },
+  "Other expenses": {
+   "FY2026": {
+    "raw_text": "35.76",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "92.09",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "96.52",
+    "state": "reported"
+   },
+   "FY2023": {
+    "raw_text": "93.41",
+    "state": "reported"
+   },
+   "FY2022": {
+    "raw_text": "71.95",
+    "state": "reported"
+   }
+  },
+  "Profit before tax": {
+   "FY2026": {
+    "raw_text": "284.73",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "274.98",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "187.19",
+    "state": "reported"
+   },
+   "FY2023": {
+    "raw_text": "121.89",
+    "state": "reported"
+   },
+   "FY2022": {
+    "raw_text": "65.21",
+    "state": "reported"
+   }
+  },
+  "Tax Expense": {
+   "FY2026": {
+    "raw_text": "75.03",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "70.35",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "45.91",
+    "state": "reported"
+   },
+   "FY2023": {
+    "raw_text": "32.32",
+    "state": "reported"
+   },
+   "FY2022": {
+    "raw_text": "17.39",
+    "state": "reported"
+   }
+  },
+  "Current tax": {
+   "FY2026": {
+    "raw_text": "75.21",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "71.13",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "48.64",
+    "state": "reported"
+   },
+   "FY2023": {
+    "raw_text": "31.89",
+    "state": "reported"
+   },
+   "FY2022": {
+    "raw_text": "19.42",
+    "state": "reported"
+   }
+  },
+  "Previous year tax": {
+   "FY2026": {
+    "raw_text": "2.98",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "",
+    "state": "blank"
+   },
+   "FY2024": {
+    "raw_text": "",
+    "state": "blank"
+   },
+   "FY2023": {
+    "raw_text": "-2.95",
+    "state": "reported"
+   },
+   "FY2022": {
+    "raw_text": "-0.38",
+    "state": "reported"
+   }
+  },
+  "Deferred tax": {
+   "FY2026": {
+    "raw_text": "-3.16",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "-0.78",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "-2.73",
+    "state": "reported"
+   },
+   "FY2023": {
+    "raw_text": "3.38",
+    "state": "reported"
+   },
+   "FY2022": {
+    "raw_text": "-1.65",
+    "state": "reported"
+   }
+  },
+  "Profit (Loss) for the period from continuing Operations": {
+   "FY2026": {
+    "raw_text": "209.70",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "204.63",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "141.28",
+    "state": "reported"
+   },
+   "FY2023": {
+    "raw_text": "89.57",
+    "state": "reported"
+   },
+   "FY2022": {
+    "raw_text": "47.82",
+    "state": "reported"
+   }
+  },
+  "Total Expense": {
+   "FY2026": {
+    "raw_text": "211.21",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "285.25",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "244.23",
+    "state": "reported"
+   },
+   "FY2023": {
+    "raw_text": "177.88",
+    "state": "reported"
+   },
+   "FY2022": {
+    "raw_text": "125.81",
+    "state": "reported"
+   }
+  },
+  "Operating Expenses": {
+   "FY2026": {
+    "raw_text": "123.65",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "186.69",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "179.39",
+    "state": "reported"
+   },
+   "FY2023": {
+    "raw_text": "135.55",
+    "state": "reported"
+   },
+   "FY2022": {
+    "raw_text": "95.51",
+    "state": "reported"
+   }
+  },
+  "Employee Expenses": {
+   "FY2026": {
+    "raw_text": "81.16",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "88.84",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "79.23",
+    "state": "reported"
+   },
+   "FY2023": {
+    "raw_text": "40.15",
+    "state": "reported"
+   },
+   "FY2022": {
+    "raw_text": "22.25",
+    "state": "reported"
+   }
+  },
+  "Operating Income (EBIT)": {
+   "FY2026": {
+    "raw_text": "372.29",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "373.54",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "252.03",
+    "state": "reported"
+   },
+   "FY2023": {
+    "raw_text": "164.21",
+    "state": "reported"
+   },
+   "FY2022": {
+    "raw_text": "95.49",
+    "state": "reported"
+   }
+  },
+  "Interest Expenses": {
+   "FY2026": {
+    "raw_text": "87.56",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "98.56",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "64.84",
+    "state": "reported"
+   },
+   "FY2023": {
+    "raw_text": "42.32",
+    "state": "reported"
+   },
+   "FY2022": {
+    "raw_text": "30.28",
+    "state": "reported"
+   }
+  },
+  "Expenses from other activities": {
+   "FY2026": {
+    "raw_text": "35.76",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "92.09",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "96.52",
+    "state": "reported"
+   },
+   "FY2023": {
+    "raw_text": "93.41",
+    "state": "reported"
+   },
+   "FY2022": {
+    "raw_text": "71.95",
+    "state": "reported"
+   }
+  },
+  "EBITDA": {
+   "FY2026": {
+    "raw_text": "379.02",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "379.30",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "255.67",
+    "state": "reported"
+   },
+   "FY2023": {
+    "raw_text": "166.20",
+    "state": "reported"
+   },
+   "FY2022": {
+    "raw_text": "96.80",
+    "state": "reported"
+   }
+  },
+  "Net Worth": {
+   "FY2026": {
+    "raw_text": "1,100.67",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "899.60",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "688.23",
+    "state": "reported"
+   },
+   "FY2023": {
+    "raw_text": "429.00",
+    "state": "reported"
+   },
+   "FY2022": {
+    "raw_text": "223.01",
+    "state": "reported"
+   }
+  },
+  "Taxes": {
+   "FY2026": {
+    "raw_text": "75.03",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "70.35",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "45.91",
+    "state": "reported"
+   },
+   "FY2023": {
+    "raw_text": "32.32",
+    "state": "reported"
+   },
+   "FY2022": {
+    "raw_text": "17.39",
+    "state": "reported"
+   }
+  },
+  "Outstanding Shares": {
+   "FY2026": {
+    "raw_text": "125,425,760.00",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "124,221,260.00",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "121,730,160.00",
+    "state": "reported"
+   },
+   "FY2023": {
+    "raw_text": "113,633,004.00",
+    "state": "reported"
+   },
+   "FY2022": {
+    "raw_text": "94,314,771.00",
+    "state": "reported"
+   }
+  },
+  "Earnings Per Share (EPS)": {
+   "FY2026": {
+    "raw_text": "16.72",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "16.47",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "11.61",
+    "state": "reported"
+   },
+   "FY2023": {
+    "raw_text": "7.88",
+    "state": "reported"
+   },
+   "FY2022": {
+    "raw_text": "5.07",
+    "state": "reported"
+   }
+  },
+  "Total Assets": {
+   "FY2026": {
+    "raw_text": "5,127.45",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "4,544.25",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "4,984.71",
+    "state": "reported"
+   },
+   "FY2023": {
+    "raw_text": "5,040.20",
+    "state": "reported"
+   },
+   "FY2022": {
+    "raw_text": "3,923.81",
+    "state": "reported"
+   }
+  },
+  "Total Liabilites": {
+   "FY2026": {
+    "raw_text": "4,026.78",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "3,644.65",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "4,296.48",
+    "state": "reported"
+   },
+   "FY2023": {
+    "raw_text": "4,611.19",
+    "state": "reported"
+   },
+   "FY2022": {
+    "raw_text": "3,700.79",
+    "state": "reported"
+   }
+  }
+ },
+ "evidence": {
+  "ev1": {
+   "source": "WWIPL company overview",
+   "url": "https://wwipl.com/unlisted-shares/orbis-financial-corporation-share-price",
+   "retrieved_at": "2026-11-23T16:45:03+00:00",
+   "sha256": "2fac9c09aa3f967f73de1d47e2881e80cefcf3d42d408e0b049ea9c62e6923ee",
+   "capture_run": "20261123T164433Z",
+   "file": "orbis-overview.html",
+   "raw_label": "Last Traded Price",
+   "raw_text": "299.00"
+  },
+  "ev2": {
+   "source": "WWIPL company overview",
+   "url": "https://wwipl.com/unlisted-shares/orbis-financial-corporation-share-price",
+   "retrieved_at": "2026-11-23T16:45:03+00:00",
+   "sha256": "2fac9c09aa3f967f73de1d47e2881e80cefcf3d42d408e0b049ea9c62e6923ee",
+   "capture_run": "20261123T164433Z",
+   "file": "orbis-overview.html",
+   "raw_label": "Company fundamentals block"
+  }
+ },
+ "news": {
+  "query": "\"Orbis Financial\"",
+  "retrieved_at": "2026-11-23T16:46:16+00:00",
+  "items": [
+   {
+    "title": "Anand Rathi Financial Services Re-Pledges 24 Lakh Shares with Yes Bank from Orbis Financial",
+    "publisher": "scanx.trade",
+    "date": "2026-05-11",
+    "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQZWVtQnBQaU5UaW5DQmxzTndkdGhiaks2TzlhQnFHLXJ4R1l1N3RXQkhCWXRpNm5GVXFoV0RXNm1pVGc0VzhLWVN4Y1E2MHFQeEppUEY2SHdQRXBTRVI3Y1BBWERzVUxwWWFaTHJYcEtSNW5CVmY1MjU1eTVBTHRRZDlxOUhQbjl0bVNfcndfbm1vRzNMaXIzZVVvZVZFU1o2bndmNGpENTBHM0o3SUlkWlhRdFJTdF8xdV9fb0dST2ppNXp1WU1fNk5JNlV3cnZkSWh0eHZTTDdwX2N6c1NXcjZKaTFVQkYwbnN4RVFZaUw5SjZaOTEtcTNxeU9aek9xWXNoekowbjVkenBhT0E?oc=5"
+   },
+   {
+    "title": "Orbis Financial Annual Report Analysis FY 2025",
+    "publisher": "UnlistedZone",
+    "date": "2025-09-10",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbGxKazZPYlVZY1AtcWRHRElYZENORlM4cm5QTzd5NE1ucExjY3FlTVlEYklINWtYcmM3TTJZOUNSeDFUek9XNHJIb1FYX3Z6dmlxSlJFMDdoblItV0sxZUxrX2ZUYWlPdzFlZHVCcWJPdk9QcTFDTDZVQjBjMmJWSWlHQWhtbm9xRWk4Q2VzNFhId09oN3BaWFJtQkNBdHZXLW9nRVNGME84M29aTFR0R09Lb1UyUkxNTGxrOGJHcWRLN1doUTkw?oc=5"
+   },
+   {
+    "title": "Orbis Financial: A High-Growth, Zero-Debt Powerhouse",
+    "publisher": "UnlistedZone",
+    "date": "2025-07-08",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdS12QWhoY3dwc05mTnNuekt6MFJnVUZzXy1pcjVsUVpQYVBtZ1lLQVgyRDhObUtOMGVlTFlYcDk4UE15aFBKYl91a1pHaTE4dENvdFM3VVVfYk1VMmFxVEQ1TEo2OTJTSHo3dzhRY3B1QXpCeUg1ZGFEa2tQa0NkRXlEWFBueGhyWXlJU2JuaE5mWFFzSFhaa3BhY1dqLWFnanhlcEQ5WmViMUxpUnhaOGNwUjYzczBSa21MeUxiWWIxQQ?oc=5"
+   },
+   {
+    "title": "SEBI Imposes Rs50 Lakh Penalty on 3 FPIs for Violating Short-term Investment Limits",
+    "publisher": "Moneylife",
+    "date": "2025-02-25",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMTlOZnZUTVdBWkRiNTZQejhNWWUzbXczc2txYjFmYmVYRFpoRUhUOVVqR1BsM0g4bDc4Wlkta1ZiU214MGRoS05oemRWQmlodTN5Y2x0VFJhdjVQUFBXZGFqeERzRE5VLXNrZzl3anF5ZmxScHNkbDRzcG5ndFQ0ZFdPak5va3NheEwyV3JTYlhsQTBudkZsOHQwNlVlczdhSkdydzd0SHVtdGFYQ0VNRDlkT2k5a29vUGhQQnI2QWVVUDJG?oc=5"
+   },
+   {
+    "title": "Sebi slaps Rs 50 lakh fine on three foreign portfolio investors for flouting market norms",
+    "publisher": "ETLegalWorld.com",
+    "date": "2025-02-25",
+    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOYTBGSlBaclJhOEtBTWhMc1U5eGs3TndlaTR2UVJmQlN2LXdWXzBxTE5KT1JnSlBTVG44THBCYkQ1cS1hbnBDb0drUmwzbTRCOFVDX2JudWM5THN5Tm16aFdlU1luMTFUUTBUcFNQWU9iejVmM0xBX1hvNDN3b2I5SDJhVWMzT1dtNlZpNDh4ZkhfdnVHZ3p0bUtoclJiNUw0T0VpenlheTZCeXVXZjAxMmFqbWRMUXJkZXpjWVpFNUExSXZ1YmZCTGZsTldqbHpEd2x2VVM2ZWpmdXBrOG9DV0xQQnVERzZERFV3TnpkUdIB8wFBVV95cUxOVEFoc0c3bEtHU3pKc0dPNjJFaGlEcElwd0xUU3Y1cmk3WFRDeDBDcnQ0OU9kTUNqMTgyOFdHaFhicTRNamVsM1RzeFFyOUVHY1MzczNxaW1lbzBXNEhieWVNa1dpdXVma1Rmc1JNanJwb2lpTi1Ca29KQzBGcnl0c2tKYm1ENXAwejhDeXBFZWlZNWFoWnhZTkJ1OGpuUTZIWWhSYTh3RG5JajRPQjdZaW42OHRjVm9IN3huemtkSVZ4YkF0UHAzTnVtQ3ZJVXRrNG1QVU96QU9kOW4zWjdGYXlzamxGdUZkV0xjbGtRbjV5blk?oc=5"
+   },
+   {
+    "title": "Orbis Financial Corp settles custodian rules violation case with Sebi; pays Rs 1.6 cr",
+    "publisher": "ETLegalWorld.com",
+    "date": "2024-10-16",
+    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOemtuWFo3dFZ0ckRWRUVONlpDTmg0ZENwcl9GSkNzT3RBTktlZHBIU3Q2dnhSUkhsTENEVi10MW9HVHJJNTY4YjJSUjNvQVZLTmZQVVJQTW5zTFBmbVBfcEdvYjdBeUZKRUtCRFVxVk41TU53THh1dWtsRzVNUkJBN3NQYXFSQWh2am80c2ktOC1LaE5aZ3NxbERGZ1MweXEyLVhsTm4tMnB1NUFta19pQXNOU3hwTDgxTjN1VGJ3S1NHcTJ3a3k5Z1JScFNNaWlCWTdnWHloazdJLWhZRlJCN2dzM0xQdC030gHsAUFVX3lxTE44YXRPYkZMeXhtRXdacmliN0JIOTZPZ2JMNU1ZVWdBZTV3UFBvemEyc1FUbm9BelFuREJnNk1qZGkyb0M5WFFVRm9VS3Eta2ttcjVRVzRoX0RfZXpYNnphVkE2R2JmY1o3Um5NYTVXYVhlNHFsQTlITkJWbko4c2ZrOHUyN1JyS1E0TjJSdlQ2YVBUSzNxMHdmVllscTNxQjFHSjFPOUo5Y3ZoUHJ0NnRtVHV2SHVVTTlhZkRxbWZ3LWlybWdTWlZ6SWxuMmJEdEdPU1kxLXF0R05hOFBZM0F0UC0wSGlzOHFXc1Jr?oc=5"
+   },
+   {
+    "title": "Orbis Financial Corporation Pays Rs1.59 Crore To Settle Custodian Inspection Case with SEBI",
+    "publisher": "Moneylife",
+    "date": "2024-10-16",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOcW5wOHJRNmNJTjgxcnJmazhfX2hETkdFMlhBX1hFcUZZSzZPNU04Nl9IczhVcDdlM0xJQ2R0QThRQ0Z2Y05rTnJBVFR6eENjb0syMjNvdEZJa3p1eG9LR0tvYmUtRjZXQ2poaHVVQjVEYjBfOW1FYWVjRjBBdGJFdTVhRy03Y2ktSzZQb1U2bjUtZUdjUzNhaWdKU05YYjNsTEZwNXVZcnhJaS1FOFl5ZEFCVlRMQ1hsNjhPMTRha3dpcDY0N0Q1UGwyMDczcTg?oc=5"
+   },
+   {
+    "title": "Unveiling Orbis Financial Corporation Limited",
+    "publisher": "LinkedIn",
+    "date": "2024-03-05",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbEtYTlRzWDgtUVBqNVRFeW9NT2xYaGVRVXJIdzNrNUZWZVJIZzhNTEtCcTVzU0hRamdvVXNFc1VCQllfTVFlcUZLZDBnU1NFTjZmUi1kSkhuak5wUEExcWRaOTdhSXNlaGhvZWRVZFQ4Z0l0R3Y1ZHpxMW1sczI4TFBkR0Rtb0JFWlhQd3lPS01hMFp5eG4zR2psUlBPLWc4?oc=5"
+   }
+  ],
+  "source": {
+   "name": "Google News RSS search",
+   "url": "https://news.google.com/rss/search?q=%22Orbis+Financial%22&hl=en-IN&gl=IN&ceid=IN:en",
+   "sha256": "3108f563f1c3e18c0e19e24ac0a06d7fb31712c80c4d17c085315aa305c0d59e",
+   "run": "20261123T164603Z"
+  }
+ },
+ "peer_reviewed": true,
+ "discovery": [
+  {
+   "id": "ncdex",
+   "short": "NCDEX",
+   "name": "National Commodity & Derivatives Exchange Ltd",
+   "reasons": [
+    "same industry: Capital Markets",
+    "provider reports DRHP filed (IPO research lead)",
+    "in the news 2026-11-11"
+   ],
+   "score": 4,
+   "price_inr": 253.0,
+   "latest_period": "FY2026"
+  },
+  {
+   "id": "oyo",
+   "short": "OYO",
+   "name": "Oravel Stays Ltd (OYO)",
+   "reasons": [
+    "provider reports DRHP filed (IPO research lead)",
+    "in the news 2026-11-23"
+   ],
+   "score": 3,
+   "price_inr": 20.45,
+   "latest_period": "FY2026"
+  },
+  {
+   "id": "pharmeasy",
+   "short": "PharmEasy",
+   "name": "API Holdings Ltd (PharmEasy)",
+   "reasons": [
+    "provider reports DRHP filed (IPO research lead)",
+    "in the news 2026-10-28"
+   ],
+   "score": 3,
+   "price_inr": 6.15,
+   "latest_period": "FY2026"
+  },
+  {
+   "id": "hdfcsec",
+   "short": "HDFC Securities",
+   "name": "HDFC Securities Ltd",
+   "reasons": [
+    "same industry: Capital Markets",
+    "in the news 2026-11-20"
+   ],
+   "score": 2,
+   "price_inr": 8000.0,
+   "latest_period": "FY2026"
+  },
+  {
+   "id": "hpx",
+   "short": "HPX",
+   "name": "Hindustan Power Exchange Ltd",
+   "reasons": [
+    "same industry: Capital Markets",
+    "in the news 2026-11-10"
+   ],
+   "score": 2,
+   "price_inr": 22.8,
+   "latest_period": "FY2026"
+  },
+  {
+   "id": "igx",
+   "short": "IGX",
+   "name": "Indian Gas Exchange Ltd",
+   "reasons": [
+    "same industry: Capital Markets",
+    "in the news 2026-11-16"
+   ],
+   "score": 2,
+   "price_inr": 488.0,
+   "latest_period": "FY2026"
+  }
+ ],
+ "fallbacks": []
+}

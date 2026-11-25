@@ -1,0 +1,42 @@
+[
+  {
+    "id": "wwipl-nse-financials",
+    "url": "https://wwipl.com/unlisted-shares/nse-india-unlisted-shares-price/financial",
+    "retrieved_at": "2026-11-12T11:11:08.947979+00:00",
+    "source_date": null,
+    "timeout_seconds": 12,
+    "evidence_type": "HTTP access experiment",
+    "status": null,
+    "error": "<urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>"
+  },
+  {
+    "id": "unlistedzone-nse",
+    "url": "https://unlistedzone.com/shares/nse-india-limited-unlisted-shares",
+    "retrieved_at": "2026-11-12T11:11:11.082318+00:00",
+    "source_date": null,
+    "timeout_seconds": 12,
+    "evidence_type": "HTTP access experiment",
+    "status": null,
+    "error": "<urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>"
+  },
+  {
+    "id": "nse-financials-index",
+    "url": "https://www.nseindia.com/static/investor-relations/financials",
+    "retrieved_at": "2026-11-12T11:11:13.136220+00:00",
+    "source_date": null,
+    "timeout_seconds": 12,
+    "evidence_type": "HTTP access experiment",
+    "status": null,
+    "error": "<urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>"
+  },
+  {
+    "id": "nsdl-reports-index",
+    "url": "https://nsdl.com/annual-reports",
+    "retrieved_at": "2026-11-12T11:11:15.187326+00:00",
+    "source_date": null,
+    "timeout_seconds": 12,
+    "evidence_type": "HTTP access experiment",
+    "status": null,
+    "error": "<urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>"
+  }
+]

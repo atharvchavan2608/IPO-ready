@@ -1,0 +1,2687 @@
+{
+ "id": "sbigeneral",
+ "name": "SBI General Insurance Co Ltd",
+ "short": "SBI General",
+ "hierarchy": [
+  "Financials",
+  "Insurance",
+  "General Insurance",
+  "Multi-line General Insurance"
+ ],
+ "model": "insurer",
+ "listed_peers": [
+  "ICICIGI",
+  "GODIGIT"
+ ],
+ "status_note": null,
+ "market_status": null,
+ "quote": {
+  "price_inr": "650.00",
+  "state": "reported",
+  "change_raw": "+ 0.00 %",
+  "kind": "unlisted dealer quote (indicative, not an exchange trade)",
+  "as_of": "2026-11-23T16:45:00+00:00",
+  "high_52w": "650.00 (10/07/26)",
+  "low_52w": "650.00 (10/07/26)",
+  "ev": "ev1"
+ },
+ "profile": {
+  "provider_sector": "General Insurance",
+  "isin": "INE01MM01017",
+  "cin": "U66000MH2009PLC190546",
+  "registration_date": "20/02/2009",
+  "face_value": "10",
+  "lot_size": "1000",
+  "drhp_filed": "No",
+  "depository": "nsdl",
+  "rofr": "Yes",
+  "description": null,
+  "share_details_as_of": "March 31, 2025",
+  "ev": "ev2"
+ },
+ "periods": [
+  "FY2024",
+  "FY2024?",
+  "FY2025",
+  "FY2025?"
+ ],
+ "basis": "standalone",
+ "raw_units": [
+  "INR lakh"
+ ],
+ "layout": "five-year summary",
+ "fields": {
+  "total_income": {
+   "label": "Total income",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2024?": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025?": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "revenue_ops": {
+   "label": "Revenue from operations",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2024?": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025?": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "other_income": {
+   "label": "Other income",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2024?": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025?": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "other_gains": {
+   "label": "Other gains / losses",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2024?": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025?": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "job_work_revenue": {
+   "label": "Revenue from job work",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2024?": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025?": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "total_expenses": {
+   "label": "Total expenses",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2024?": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025?": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "finance_cost": {
+   "label": "Finance cost",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2024?": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025?": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "depreciation": {
+   "label": "Depreciation",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2024?": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025?": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "pbt": {
+   "label": "Profit before tax",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2024": {
+     "value": "318.84",
+     "state": "reported",
+     "ev": "ev3"
+    },
+    "FY2024?": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": "675.92",
+     "state": "reported",
+     "ev": "ev4"
+    },
+    "FY2025?": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "tax": {
+   "label": "Tax",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2024?": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025?": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "pat": {
+   "label": "Profit after tax",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2024": {
+     "value": "239.84",
+     "state": "reported",
+     "ev": "ev5"
+    },
+    "FY2024?": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": "508.76",
+     "state": "reported",
+     "ev": "ev6"
+    },
+    "FY2025?": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "total_assets": {
+   "label": "Total assets",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2024?": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025?": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "total_equity": {
+   "label": "Total equity",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2024?": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025?": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "total_liabilities": {
+   "label": "Total liabilities",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2024?": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025?": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "current_assets": {
+   "label": "Current assets",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2024": {
+     "value": "3366.07",
+     "state": "derived",
+     "ev": "ev7"
+    },
+    "FY2024?": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": "5358.78",
+     "state": "derived",
+     "ev": "ev8"
+    },
+    "FY2025?": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "current_liabilities": {
+   "label": "Current liabilities",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2024": {
+     "value": "9262.23",
+     "state": "reported",
+     "ev": "ev9"
+    },
+    "FY2024?": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": "13238.73",
+     "state": "reported",
+     "ev": "ev10"
+    },
+    "FY2025?": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "inventories": {
+   "label": "Inventories",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2024?": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025?": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "cash": {
+   "label": "Cash & equivalents",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2024?": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025?": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "loans": {
+   "label": "Loans",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2024?": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025?": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "cfo": {
+   "label": "Cash from operations",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2024": {
+     "value": "2005.07",
+     "state": "reported",
+     "ev": "ev11"
+    },
+    "FY2024?": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": "2835.81",
+     "state": "reported",
+     "ev": "ev12"
+    },
+    "FY2025?": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "cfi": {
+   "label": "Cash from investing",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2024": {
+     "value": "-3156.01",
+     "state": "reported",
+     "ev": "ev13"
+    },
+    "FY2024?": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": "-3171.07",
+     "state": "reported",
+     "ev": "ev14"
+    },
+    "FY2025?": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "cff": {
+   "label": "Cash from financing",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2024": {
+     "value": "1538.48",
+     "state": "reported",
+     "ev": "ev15"
+    },
+    "FY2024?": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": "-37.22",
+     "state": "reported",
+     "ev": "ev16"
+    },
+    "FY2025?": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "ebitda": {
+   "label": "EBITDA",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2024?": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025?": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "eps": {
+   "label": "EPS (provider)",
+   "unit": "INR per share",
+   "by_period": {
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2024?": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025?": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "shares_outstanding": {
+   "label": "Shares outstanding",
+   "unit": "shares",
+   "by_period": {
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2024?": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025?": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "pat_pre_associate": {
+   "label": "Profit after tax before associate contribution",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2024?": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025?": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "pat_owners": {
+   "label": "Profit attributable to owners",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2024?": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025?": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "associate_profit": {
+   "label": "Share of associate profit",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2024?": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025?": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "eps_basic": {
+   "label": "Reported basic EPS",
+   "unit": "INR per share",
+   "by_period": {
+    "FY2024": {
+     "value": "10.83",
+     "state": "reported",
+     "ev": "ev17"
+    },
+    "FY2024?": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": "22.75",
+     "state": "reported",
+     "ev": "ev18"
+    },
+    "FY2025?": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "eps_diluted": {
+   "label": "Reported diluted EPS",
+   "unit": "INR per share",
+   "by_period": {
+    "FY2024": {
+     "value": "10.82",
+     "state": "reported",
+     "ev": "ev19"
+    },
+    "FY2024?": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": "22.75",
+     "state": "reported",
+     "ev": "ev20"
+    },
+    "FY2025?": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  }
+ },
+ "cash_flow": {
+  "unit": "INR crore",
+  "by_period": {
+   "FY2024": {
+    "basis": "standalone",
+    "origin": "provider",
+    "lines": {
+     "opening": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "cfo": {
+      "value": "2005.07",
+      "state": "reported",
+      "ev": "ev11"
+     },
+     "cfi": {
+      "value": "-3156.01",
+      "state": "reported",
+      "ev": "ev13"
+     },
+     "cff": {
+      "value": "1538.48",
+      "state": "reported",
+      "ev": "ev15"
+     },
+     "other_effects": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "net_change": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "closing": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "before_working_capital": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "receivables": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "other_assets": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "payables_and_liabilities": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "tax_paid": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "capex": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "net_investment_purchases": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "debt_principal": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "lease_principal": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "lease_interest": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "overdraft_interest": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "share_proceeds": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "dividends": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "current_accounts": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "settlement_accounts": {
+      "state": "not_in_source",
+      "value": null
+     }
+    },
+    "reconciliation": {
+     "state": "partial"
+    },
+    "provider_comparison": null
+   },
+   "FY2024?": {
+    "basis": "standalone",
+    "origin": "provider",
+    "lines": {
+     "opening": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "cfo": {
+      "value": null,
+      "state": "not_in_source"
+     },
+     "cfi": {
+      "value": null,
+      "state": "not_in_source"
+     },
+     "cff": {
+      "value": null,
+      "state": "not_in_source"
+     },
+     "other_effects": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "net_change": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "closing": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "before_working_capital": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "receivables": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "other_assets": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "payables_and_liabilities": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "tax_paid": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "capex": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "net_investment_purchases": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "debt_principal": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "lease_principal": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "lease_interest": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "overdraft_interest": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "share_proceeds": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "dividends": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "current_accounts": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "settlement_accounts": {
+      "state": "not_in_source",
+      "value": null
+     }
+    },
+    "reconciliation": {
+     "state": "partial"
+    },
+    "provider_comparison": null
+   },
+   "FY2025": {
+    "basis": "standalone",
+    "origin": "provider",
+    "lines": {
+     "opening": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "cfo": {
+      "value": "2835.81",
+      "state": "reported",
+      "ev": "ev12"
+     },
+     "cfi": {
+      "value": "-3171.07",
+      "state": "reported",
+      "ev": "ev14"
+     },
+     "cff": {
+      "value": "-37.22",
+      "state": "reported",
+      "ev": "ev16"
+     },
+     "other_effects": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "net_change": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "closing": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "before_working_capital": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "receivables": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "other_assets": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "payables_and_liabilities": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "tax_paid": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "capex": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "net_investment_purchases": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "debt_principal": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "lease_principal": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "lease_interest": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "overdraft_interest": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "share_proceeds": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "dividends": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "current_accounts": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "settlement_accounts": {
+      "state": "not_in_source",
+      "value": null
+     }
+    },
+    "reconciliation": {
+     "state": "partial"
+    },
+    "provider_comparison": null
+   },
+   "FY2025?": {
+    "basis": "standalone",
+    "origin": "provider",
+    "lines": {
+     "opening": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "cfo": {
+      "value": null,
+      "state": "not_in_source"
+     },
+     "cfi": {
+      "value": null,
+      "state": "not_in_source"
+     },
+     "cff": {
+      "value": null,
+      "state": "not_in_source"
+     },
+     "other_effects": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "net_change": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "closing": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "before_working_capital": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "receivables": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "other_assets": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "payables_and_liabilities": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "tax_paid": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "capex": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "net_investment_purchases": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "debt_principal": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "lease_principal": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "lease_interest": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "overdraft_interest": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "share_proceeds": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "dividends": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "current_accounts": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "settlement_accounts": {
+      "state": "not_in_source",
+      "value": null
+     }
+    },
+    "reconciliation": {
+     "state": "partial"
+    },
+    "provider_comparison": null
+   }
+  }
+ },
+ "documents": [],
+ "reconciliation": null,
+ "agent": {
+  "inventories": {
+   "company": "sbigeneral",
+   "field": "inventories",
+   "status": "not_found_no_documents",
+   "summary": "No issuer documents retained for SBI General; the provider does not report inventories. Expectation: not_expected.",
+   "how_to_verify": "Not verifiable from retained evidence.",
+   "expectation": {
+    "level": "not_expected",
+    "reason": "An insurer's assets are investments and premium receivables."
+   },
+   "evidence": [],
+   "evidence_total": 0,
+   "next_checks": [
+    "Audited annual report: balance sheet 'Inventories' line and note on valuation",
+    "MCA AOC-4 financial statement filing (paid access)",
+    "DRHP 'Restated financial information' if the company files for an IPO"
+   ],
+   "trace": [
+    {
+     "step": 1,
+     "tool": "provider_lookup",
+     "input": {
+      "company": "sbigeneral",
+      "field": "inventories"
+     },
+     "output": {
+      "found": false,
+      "periods": [],
+      "detail": "no matching line in the provider's parsed statements"
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 2,
+     "tool": "applicability_rule",
+     "input": {
+      "field": "inventories",
+      "business_model": "insurer"
+     },
+     "output": {
+      "expectation": "not_expected",
+      "reason": "An insurer's assets are investments and premium receivables."
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 3,
+     "tool": "statement_line_check",
+     "input": {
+      "document": null
+     },
+     "output": {
+      "skipped": true,
+      "why": "no retained issuer balance sheet for this company"
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 4,
+     "tool": "document_search",
+     "input": {
+      "documents": [],
+      "patterns": [
+       "\\binventor(?:y|ies)\\b"
+      ]
+     },
+     "output": {
+      "documents_searched": [],
+      "pages_with_word_matches": 0,
+      "pages_with_naive_substring": 0,
+      "note": "naive substring 'inventor' also matches unrelated words (e.g. 'COMPANY' contains 'NPA'); word-boundary patterns used"
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 5,
+     "tool": "classify_passages",
+     "input": {
+      "passages": 0
+     },
+     "output": {
+      "by_kind": {}
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 6,
+     "tool": "verdict",
+     "input": {
+      "signals": {
+       "provider": false,
+       "numeric": 0,
+       "explicit_na": 0,
+       "line_check": null,
+       "expectation": "not_expected"
+      }
+     },
+     "output": {
+      "status": "not_found_no_documents",
+      "summary": "No issuer documents retained for SBI General; the provider does not report inventories. Expectation: not_expected.",
+      "how_to_verify": "Not verifiable from retained evidence."
+     },
+     "ms": 0.0
+    }
+   ],
+   "executed": "deterministic tool sequence (no language model call)"
+  },
+  "npa": {
+   "company": "sbigeneral",
+   "field": "npa",
+   "status": "inapplicable",
+   "summary": "Not applicable by business model: NPA is a lender asset-quality measure; this business has no loan book to classify.",
+   "how_to_verify": "No mentions to review; the business-model rule decides.",
+   "expectation": {
+    "level": "not_applicable",
+    "reason": "NPA is a lender asset-quality measure; this business has no loan book to classify."
+   },
+   "evidence": [],
+   "evidence_total": 0,
+   "next_checks": [
+    "Annual report notes: 'Stage 3 assets', 'Gross NPA', 'Net NPA' (RBI disclosure for NBFCs)"
+   ],
+   "trace": [
+    {
+     "step": 1,
+     "tool": "provider_lookup",
+     "input": {
+      "company": "sbigeneral",
+      "field": "gross_npa"
+     },
+     "output": {
+      "found": false,
+      "periods": [],
+      "detail": "no matching line in the provider's parsed statements"
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 2,
+     "tool": "applicability_rule",
+     "input": {
+      "field": "npa",
+      "business_model": "insurer"
+     },
+     "output": {
+      "expectation": "not_applicable",
+      "reason": "NPA is a lender asset-quality measure; this business has no loan book to classify."
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 3,
+     "tool": "statement_line_check",
+     "input": {
+      "document": null
+     },
+     "output": {
+      "skipped": true,
+      "why": "no retained issuer balance sheet for this company"
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 4,
+     "tool": "document_search",
+     "input": {
+      "documents": [],
+      "patterns": [
+       "\\bG?N?NPAs?\\b",
+       "\\bnon[- ]performing (?:assets?|loans?)\\b",
+       "\\bstage\\s*(?:3|III)\\s+(?:assets|loans)\\b"
+      ]
+     },
+     "output": {
+      "documents_searched": [],
+      "pages_with_word_matches": 0,
+      "pages_with_naive_substring": 0,
+      "note": "naive substring 'npa' also matches unrelated words (e.g. 'COMPANY' contains 'NPA'); word-boundary patterns used"
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 5,
+     "tool": "classify_passages",
+     "input": {
+      "passages": 0
+     },
+     "output": {
+      "by_kind": {}
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 6,
+     "tool": "verdict",
+     "input": {
+      "signals": {
+       "provider": false,
+       "numeric": 0,
+       "explicit_na": 0,
+       "line_check": null,
+       "expectation": "not_applicable"
+      }
+     },
+     "output": {
+      "status": "inapplicable",
+      "summary": "Not applicable by business model: NPA is a lender asset-quality measure; this business has no loan book to classify.",
+      "how_to_verify": "No mentions to review; the business-model rule decides."
+     },
+     "ms": 0.0
+    }
+   ],
+   "executed": "deterministic tool sequence (no language model call)"
+  }
+ },
+ "metrics": {
+  "FY2024": {
+   "revenue_growth": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "(current / previous) - 1",
+    "inputs": {
+     "current": null,
+     "previous": null
+    },
+    "unit": "%",
+    "ev": []
+   },
+   "pat_margin": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "PAT / total income x 100",
+    "inputs": {
+     "pat": "239.84",
+     "total_income": null
+    },
+    "unit": "%",
+    "ev": [
+     "ev5"
+    ]
+   },
+   "net_profit_ratio": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "PAT / revenue from operations x 100",
+    "inputs": {
+     "pat": "239.84",
+     "revenue_ops": null
+    },
+    "unit": "%",
+    "ev": [
+     "ev5"
+    ]
+   },
+   "other_income_share": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "other income / total income x 100",
+    "inputs": {
+     "other_income": null,
+     "total_income": null
+    },
+    "unit": "%",
+    "ev": []
+   },
+   "current_ratio": {
+    "value": null,
+    "state": "inapplicable",
+    "formula": "current assets / current liabilities",
+    "inputs": {},
+    "note": "lenders and insurers present the balance sheet by liquidity without a current / non-current split",
+    "unit": "x",
+    "ev": []
+   },
+   "quick_ratio": {
+    "value": null,
+    "state": "inapplicable",
+    "formula": "current assets / current liabilities",
+    "inputs": {},
+    "note": "lenders and insurers present the balance sheet by liquidity without a current / non-current split",
+    "unit": "x",
+    "ev": []
+   },
+   "roe": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "PAT / average of opening and closing equity x 100",
+    "inputs": {
+     "pat": "239.84",
+     "average_equity": null
+    },
+    "unit": "%",
+    "ev": [
+     "ev5"
+    ]
+   },
+   "roce": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "(PBT + finance cost) / (total assets - current liabilities) x 100",
+    "inputs": {
+     "ebit": null,
+     "capital_employed": null
+    },
+    "unit": "%",
+    "ev": [
+     "ev3",
+     "ev9"
+    ]
+   },
+   "cfo_to_pat": {
+    "value": "8.3600",
+    "state": "ok",
+    "formula": "cash from operations / PAT",
+    "inputs": {
+     "cfo": "2005.07",
+     "pat": "239.84"
+    },
+    "unit": "x",
+    "ev": [
+     "ev11",
+     "ev5"
+    ]
+   }
+  },
+  "FY2024?": {
+   "revenue_growth": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "(current / previous) - 1",
+    "inputs": {
+     "current": null,
+     "previous": null
+    },
+    "unit": "%",
+    "ev": []
+   },
+   "pat_margin": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "PAT / total income x 100",
+    "inputs": {
+     "pat": null,
+     "total_income": null
+    },
+    "unit": "%",
+    "ev": []
+   },
+   "net_profit_ratio": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "PAT / revenue from operations x 100",
+    "inputs": {
+     "pat": null,
+     "revenue_ops": null
+    },
+    "unit": "%",
+    "ev": []
+   },
+   "other_income_share": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "other income / total income x 100",
+    "inputs": {
+     "other_income": null,
+     "total_income": null
+    },
+    "unit": "%",
+    "ev": []
+   },
+   "current_ratio": {
+    "value": null,
+    "state": "inapplicable",
+    "formula": "current assets / current liabilities",
+    "inputs": {},
+    "note": "lenders and insurers present the balance sheet by liquidity without a current / non-current split",
+    "unit": "x",
+    "ev": []
+   },
+   "quick_ratio": {
+    "value": null,
+    "state": "inapplicable",
+    "formula": "current assets / current liabilities",
+    "inputs": {},
+    "note": "lenders and insurers present the balance sheet by liquidity without a current / non-current split",
+    "unit": "x",
+    "ev": []
+   },
+   "roe": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "PAT / average of opening and closing equity x 100",
+    "inputs": {
+     "pat": null,
+     "average_equity": null
+    },
+    "unit": "%",
+    "ev": []
+   },
+   "roce": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "(PBT + finance cost) / (total assets - current liabilities) x 100",
+    "inputs": {
+     "ebit": null,
+     "capital_employed": null
+    },
+    "unit": "%",
+    "ev": []
+   },
+   "cfo_to_pat": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "cash from operations / PAT",
+    "inputs": {
+     "cfo": null,
+     "pat": null
+    },
+    "unit": "x",
+    "ev": []
+   }
+  },
+  "FY2025": {
+   "revenue_growth": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "(current / previous) - 1",
+    "inputs": {
+     "current": null,
+     "previous": null
+    },
+    "unit": "%",
+    "ev": []
+   },
+   "pat_margin": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "PAT / total income x 100",
+    "inputs": {
+     "pat": "508.76",
+     "total_income": null
+    },
+    "unit": "%",
+    "ev": [
+     "ev6"
+    ]
+   },
+   "net_profit_ratio": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "PAT / revenue from operations x 100",
+    "inputs": {
+     "pat": "508.76",
+     "revenue_ops": null
+    },
+    "unit": "%",
+    "ev": [
+     "ev6"
+    ]
+   },
+   "other_income_share": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "other income / total income x 100",
+    "inputs": {
+     "other_income": null,
+     "total_income": null
+    },
+    "unit": "%",
+    "ev": []
+   },
+   "current_ratio": {
+    "value": null,
+    "state": "inapplicable",
+    "formula": "current assets / current liabilities",
+    "inputs": {},
+    "note": "lenders and insurers present the balance sheet by liquidity without a current / non-current split",
+    "unit": "x",
+    "ev": []
+   },
+   "quick_ratio": {
+    "value": null,
+    "state": "inapplicable",
+    "formula": "current assets / current liabilities",
+    "inputs": {},
+    "note": "lenders and insurers present the balance sheet by liquidity without a current / non-current split",
+    "unit": "x",
+    "ev": []
+   },
+   "roe": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "PAT / average of opening and closing equity x 100",
+    "inputs": {
+     "pat": "508.76",
+     "average_equity": null
+    },
+    "unit": "%",
+    "ev": [
+     "ev6"
+    ]
+   },
+   "roce": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "(PBT + finance cost) / (total assets - current liabilities) x 100",
+    "inputs": {
+     "ebit": null,
+     "capital_employed": null
+    },
+    "unit": "%",
+    "ev": [
+     "ev4",
+     "ev10"
+    ]
+   },
+   "cfo_to_pat": {
+    "value": "5.5740",
+    "state": "ok",
+    "formula": "cash from operations / PAT",
+    "inputs": {
+     "cfo": "2835.81",
+     "pat": "508.76"
+    },
+    "unit": "x",
+    "ev": [
+     "ev12",
+     "ev6"
+    ]
+   }
+  },
+  "FY2025?": {
+   "revenue_growth": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "(current / previous) - 1",
+    "inputs": {
+     "current": null,
+     "previous": null
+    },
+    "unit": "%",
+    "ev": []
+   },
+   "pat_margin": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "PAT / total income x 100",
+    "inputs": {
+     "pat": null,
+     "total_income": null
+    },
+    "unit": "%",
+    "ev": []
+   },
+   "net_profit_ratio": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "PAT / revenue from operations x 100",
+    "inputs": {
+     "pat": null,
+     "revenue_ops": null
+    },
+    "unit": "%",
+    "ev": []
+   },
+   "other_income_share": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "other income / total income x 100",
+    "inputs": {
+     "other_income": null,
+     "total_income": null
+    },
+    "unit": "%",
+    "ev": []
+   },
+   "current_ratio": {
+    "value": null,
+    "state": "inapplicable",
+    "formula": "current assets / current liabilities",
+    "inputs": {},
+    "note": "lenders and insurers present the balance sheet by liquidity without a current / non-current split",
+    "unit": "x",
+    "ev": []
+   },
+   "quick_ratio": {
+    "value": null,
+    "state": "inapplicable",
+    "formula": "current assets / current liabilities",
+    "inputs": {},
+    "note": "lenders and insurers present the balance sheet by liquidity without a current / non-current split",
+    "unit": "x",
+    "ev": []
+   },
+   "roe": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "PAT / average of opening and closing equity x 100",
+    "inputs": {
+     "pat": null,
+     "average_equity": null
+    },
+    "unit": "%",
+    "ev": []
+   },
+   "roce": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "(PBT + finance cost) / (total assets - current liabilities) x 100",
+    "inputs": {
+     "ebit": null,
+     "capital_employed": null
+    },
+    "unit": "%",
+    "ev": []
+   },
+   "cfo_to_pat": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "cash from operations / PAT",
+    "inputs": {
+     "cfo": null,
+     "pat": null
+    },
+    "unit": "x",
+    "ev": []
+   }
+  }
+ },
+ "valuation": {
+  "period": "FY2025?",
+  "shares_used": "224306907",
+  "shares_source": "shares_details",
+  "market_cap": {
+   "value": "14579.9490",
+   "state": "ok",
+   "formula": "price (INR) x shares outstanding / 1e7",
+   "inputs": {
+    "price_inr": "650.00",
+    "shares": "224306907"
+   },
+   "unit": "INR crore"
+  },
+  "eps": {
+   "value": null,
+   "state": "missing_input",
+   "formula": "PAT (INR crore) x 1e7 / shares outstanding",
+   "inputs": {
+    "pat_cr": null,
+    "shares": "224306907"
+   },
+   "unit": "INR"
+  },
+  "eps_reported_basic": null,
+  "eps_reported_diluted": null,
+  "pe": {
+   "value": null,
+   "state": "missing_input",
+   "formula": "price / EPS",
+   "inputs": {
+    "price_inr": "650.00",
+    "eps": null
+   },
+   "unit": "x",
+   "eps_basis": "pat_share_proxy",
+   "ev": [
+    "ev1"
+   ],
+   "note": "Uses a calculated proxy of annual PAT divided by shares outstanding."
+  },
+  "pe_reported": {
+   "value": null,
+   "state": "missing_input",
+   "formula": "price / EPS",
+   "inputs": {
+    "price_inr": "650.00",
+    "eps": null
+   },
+   "unit": "x",
+   "eps_basis": "reported_basic",
+   "ev": [
+    "ev1"
+   ]
+  },
+  "pe_proxy": {
+   "value": null,
+   "state": "missing_input",
+   "formula": "price / EPS",
+   "inputs": {
+    "price_inr": "650.00",
+    "eps": null
+   },
+   "unit": "x",
+   "eps_basis": "pat_share_proxy",
+   "ev": [
+    "ev1"
+   ]
+  },
+  "pb": {
+   "value": null,
+   "state": "missing_input",
+   "formula": "market cap / total equity",
+   "inputs": {
+    "market_cap": "14579.948955",
+    "total_equity": null
+   },
+   "unit": "x"
+  },
+  "ps": {
+   "value": null,
+   "state": "missing_input",
+   "formula": "market cap / operating revenue",
+   "inputs": {
+    "market_cap": "14579.948955",
+    "operating_revenue": null
+   },
+   "unit": "x"
+  },
+  "provider": {
+   "pe": "28.66",
+   "mcap": "14,579.95 Crore",
+   "eps": "22.68"
+  },
+  "note": "Valued at an indicative unlisted dealer quote against the latest fiscal-year PAT; not a traded market price."
+ },
+ "coverage_gaps": [
+  {
+   "field": "inventories",
+   "state": "not_in_source",
+   "label": "Inventories"
+  },
+  {
+   "field": "cash",
+   "state": "not_in_source",
+   "label": "Cash & equivalents"
+  },
+  {
+   "field": "eps",
+   "state": "not_in_source",
+   "label": "EPS (provider)"
+  },
+  {
+   "field": "shares_outstanding",
+   "state": "not_in_source",
+   "label": "Shares outstanding"
+  }
+ ],
+ "checks": [],
+ "provider_ratios": {
+  "Gross premium growth rate": {
+   "FY2025?": {
+    "raw_text": "10.64%",
+    "state": "reported"
+   },
+   "FY2024?": {
+    "raw_text": "15.93%",
+    "state": "reported"
+   }
+  },
+  "Gross Direct Premium to Net Worth ratio": {
+   "FY2025?": {
+    "raw_text": "2.97",
+    "state": "reported"
+   },
+   "FY2024?": {
+    "raw_text": "3.03",
+    "state": "reported"
+   }
+  },
+  "Growth rate of Net Worth (%)": {
+   "FY2025?": {
+    "raw_text": "2.78%",
+    "state": "reported"
+   },
+   "FY2024?": {
+    "raw_text": "35.45%",
+    "state": "reported"
+   }
+  },
+  "Net Retention ratio (%)": {
+   "FY2025?": {
+    "raw_text": "65.42%",
+    "state": "reported"
+   },
+   "FY2024?": {
+    "raw_text": "66.76%",
+    "state": "reported"
+   }
+  },
+  "Net Commission ratio (%)": {
+   "FY2025?": {
+    "raw_text": "11.77%",
+    "state": "reported"
+   },
+   "FY2024?": {
+    "raw_text": "8.48%",
+    "state": "reported"
+   }
+  },
+  "Expenses of Management to Gross Direct Premium ratio (%)": {
+   "FY2025?": {
+    "raw_text": "26.08%",
+    "state": "reported"
+   },
+   "FY2024?": {
+    "raw_text": "22.42%",
+    "state": "reported"
+   }
+  },
+  "Expenses of Management to net written Premium": {
+   "FY2025?": {
+    "raw_text": "39.16%",
+    "state": "reported"
+   },
+   "FY2024?": {
+    "raw_text": "33.12%",
+    "state": "reported"
+   }
+  },
+  "Net incurred Claims to Net Earned Premium (%)": {
+   "FY2025?": {
+    "raw_text": "82.41%",
+    "state": "reported"
+   },
+   "FY2024?": {
+    "raw_text": "85.90%",
+    "state": "reported"
+   }
+  },
+  "Claims Paid to Claims Provision (%)": {
+   "FY2025?": {
+    "raw_text": "58.88%",
+    "state": "reported"
+   },
+   "FY2024?": {
+    "raw_text": "67.00",
+    "state": "reported"
+   }
+  },
+  "Combined ratio (%)": {
+   "FY2025?": {
+    "raw_text": "109.81%",
+    "state": "reported"
+   },
+   "FY2024?": {
+    "raw_text": "108.23%",
+    "state": "reported"
+   }
+  },
+  "Investment Income Ratio": {
+   "FY2025?": {
+    "raw_text": "8.66%",
+    "state": "reported"
+   },
+   "FY2024?": {
+    "raw_text": "7.96%",
+    "state": "reported"
+   }
+  },
+  "Technical Reserves to Net Premium ratio": {
+   "FY2025?": {
+    "raw_text": "1.58",
+    "state": "reported"
+   },
+   "FY2024?": {
+    "raw_text": "1.43",
+    "state": "reported"
+   }
+  },
+  "Underwriting balance ratio": {
+   "FY2025?": {
+    "raw_text": "-0.11",
+    "state": "reported"
+   },
+   "FY2024?": {
+    "raw_text": "0.18",
+    "state": "reported"
+   }
+  },
+  "Operating profit ratio (%)": {
+   "FY2025?": {
+    "raw_text": "1.47%",
+    "state": "reported"
+   },
+   "FY2024?": {
+    "raw_text": "-0.98%",
+    "state": "reported"
+   }
+  },
+  "Liquid Assets to Liabilities ratio": {
+   "FY2025?": {
+    "raw_text": "0.12",
+    "state": "reported"
+   },
+   "FY2024?": {
+    "raw_text": "0.18",
+    "state": "reported"
+   }
+  },
+  "Net Earnings ratio (%)": {
+   "FY2025?": {
+    "raw_text": "5.50%",
+    "state": "reported"
+   },
+   "FY2024?": {
+    "raw_text": "2.82%",
+    "state": "reported"
+   }
+  },
+  "Return on Net worth (%)": {
+   "FY2025?": {
+    "raw_text": "10.88%",
+    "state": "reported"
+   },
+   "FY2024?": {
+    "raw_text": "5.79%",
+    "state": "reported"
+   }
+  },
+  "Solvency Margin (Times)": {
+   "FY2025?": {
+    "raw_text": "2.03",
+    "state": "reported"
+   },
+   "FY2024?": {
+    "raw_text": "2.25",
+    "state": "reported"
+   }
+  }
+ },
+ "evidence": {
+  "ev1": {
+   "source": "WWIPL company overview",
+   "url": "https://wwipl.com/unlisted-shares/sbi-general-insurance-share-price",
+   "retrieved_at": "2026-11-23T16:45:00+00:00",
+   "sha256": "75c5cfe1f4b3385f6b00a26ae9e098618591f3ed1e947ffeee2d7f5555ee3129",
+   "capture_run": "20261123T164433Z",
+   "file": "sbigeneral-overview.html",
+   "raw_label": "Last Traded Price",
+   "raw_text": "650.00"
+  },
+  "ev2": {
+   "source": "WWIPL company overview",
+   "url": "https://wwipl.com/unlisted-shares/sbi-general-insurance-share-price",
+   "retrieved_at": "2026-11-23T16:45:00+00:00",
+   "sha256": "75c5cfe1f4b3385f6b00a26ae9e098618591f3ed1e947ffeee2d7f5555ee3129",
+   "capture_run": "20261123T164433Z",
+   "file": "sbigeneral-overview.html",
+   "raw_label": "Company fundamentals block"
+  },
+  "ev3": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/sbi-general-insurance-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:02+00:00",
+   "sha256": "6912b04e398b059fffd285026c59b2b0c32f98779e17b09e87705ab4cb87d7f6",
+   "capture_run": "20261123T164433Z",
+   "file": "sbigeneral-financial.html",
+   "raw_label": "Profit/(Loss) Before Tax",
+   "raw_text": "31,884",
+   "raw_unit": "INR lakh",
+   "period": "FY2024",
+   "period_label": "31-03-2024",
+   "basis": "standalone",
+   "anchor": {
+    "file": "sbigeneral-financial.html",
+    "table_index": 2,
+    "row_index": 26,
+    "heading": "SBI General Insurance Company Ltd Standalone Profit & Loss Statement (Rs in Lakhs)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev4": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/sbi-general-insurance-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:02+00:00",
+   "sha256": "6912b04e398b059fffd285026c59b2b0c32f98779e17b09e87705ab4cb87d7f6",
+   "capture_run": "20261123T164433Z",
+   "file": "sbigeneral-financial.html",
+   "raw_label": "Profit/(Loss) Before Tax",
+   "raw_text": "67,592",
+   "raw_unit": "INR lakh",
+   "period": "FY2025",
+   "period_label": "31-03-2025",
+   "basis": "standalone",
+   "anchor": {
+    "file": "sbigeneral-financial.html",
+    "table_index": 2,
+    "row_index": 26,
+    "heading": "SBI General Insurance Company Ltd Standalone Profit & Loss Statement (Rs in Lakhs)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev5": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/sbi-general-insurance-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:02+00:00",
+   "sha256": "6912b04e398b059fffd285026c59b2b0c32f98779e17b09e87705ab4cb87d7f6",
+   "capture_run": "20261123T164433Z",
+   "file": "sbigeneral-financial.html",
+   "raw_label": "Profit/(Loss) After Tax",
+   "raw_text": "23,984",
+   "raw_unit": "INR lakh",
+   "period": "FY2024",
+   "period_label": "31-03-2024",
+   "basis": "standalone",
+   "anchor": {
+    "file": "sbigeneral-financial.html",
+    "table_index": 2,
+    "row_index": 30,
+    "heading": "SBI General Insurance Company Ltd Standalone Profit & Loss Statement (Rs in Lakhs)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev6": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/sbi-general-insurance-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:02+00:00",
+   "sha256": "6912b04e398b059fffd285026c59b2b0c32f98779e17b09e87705ab4cb87d7f6",
+   "capture_run": "20261123T164433Z",
+   "file": "sbigeneral-financial.html",
+   "raw_label": "Profit/(Loss) After Tax",
+   "raw_text": "50,876",
+   "raw_unit": "INR lakh",
+   "period": "FY2025",
+   "period_label": "31-03-2025",
+   "basis": "standalone",
+   "anchor": {
+    "file": "sbigeneral-financial.html",
+    "table_index": 2,
+    "row_index": 30,
+    "heading": "SBI General Insurance Company Ltd Standalone Profit & Loss Statement (Rs in Lakhs)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev7": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/sbi-general-insurance-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:02+00:00",
+   "sha256": "6912b04e398b059fffd285026c59b2b0c32f98779e17b09e87705ab4cb87d7f6",
+   "capture_run": "20261123T164433Z",
+   "file": "sbigeneral-financial.html",
+   "raw_label": "Sum of 6 lines under 'current assets'",
+   "raw_text": null,
+   "raw_unit": "INR lakh",
+   "period": "FY2024",
+   "period_label": null,
+   "basis": "standalone",
+   "anchor": {
+    "file": "sbigeneral-financial.html",
+    "table_index": 1,
+    "row_index": 14,
+    "heading": "SBI General Insurance Company Ltd Standalone Balance Sheet (Rs in Lakhs)"
+   },
+   "statement": "balance_sheet",
+   "derived": true,
+   "components": [
+    {
+     "label": "Cash and Bank Balances",
+     "value": "170.37"
+    },
+    {
+     "label": "Advances and Other Assets",
+     "value": "1447.14"
+    },
+    {
+     "label": "Current Liabilities",
+     "value": "9262.23"
+    },
+    {
+     "label": "Provisions",
+     "value": "5425.49"
+    },
+    {
+     "label": "Net Current Assets",
+     "value": "-13070.21"
+    },
+    {
+     "label": "Contingent Liabilities",
+     "value": "131.05"
+    }
+   ]
+  },
+  "ev8": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/sbi-general-insurance-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:02+00:00",
+   "sha256": "6912b04e398b059fffd285026c59b2b0c32f98779e17b09e87705ab4cb87d7f6",
+   "capture_run": "20261123T164433Z",
+   "file": "sbigeneral-financial.html",
+   "raw_label": "Sum of 6 lines under 'current assets'",
+   "raw_text": null,
+   "raw_unit": "INR lakh",
+   "period": "FY2025",
+   "period_label": null,
+   "basis": "standalone",
+   "anchor": {
+    "file": "sbigeneral-financial.html",
+    "table_index": 1,
+    "row_index": 14,
+    "heading": "SBI General Insurance Company Ltd Standalone Balance Sheet (Rs in Lakhs)"
+   },
+   "statement": "balance_sheet",
+   "derived": true,
+   "components": [
+    {
+     "label": "Cash and Bank Balances",
+     "value": "342.29"
+    },
+    {
+     "label": "Advances and Other Assets",
+     "value": "2184.91"
+    },
+    {
+     "label": "Current Liabilities",
+     "value": "13238.73"
+    },
+    {
+     "label": "Provisions",
+     "value": "5939.66"
+    },
+    {
+     "label": "Net Current Assets",
+     "value": "-16651.19"
+    },
+    {
+     "label": "Contingent Liabilities",
+     "value": "304.38"
+    }
+   ]
+  },
+  "ev9": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/sbi-general-insurance-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:02+00:00",
+   "sha256": "6912b04e398b059fffd285026c59b2b0c32f98779e17b09e87705ab4cb87d7f6",
+   "capture_run": "20261123T164433Z",
+   "file": "sbigeneral-financial.html",
+   "raw_label": "Current Liabilities",
+   "raw_text": "9,26,223",
+   "raw_unit": "INR lakh",
+   "period": "FY2024",
+   "period_label": "31-03-2024",
+   "basis": "standalone",
+   "anchor": {
+    "file": "sbigeneral-financial.html",
+    "table_index": 1,
+    "row_index": 17,
+    "heading": "SBI General Insurance Company Ltd Standalone Balance Sheet (Rs in Lakhs)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev10": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/sbi-general-insurance-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:02+00:00",
+   "sha256": "6912b04e398b059fffd285026c59b2b0c32f98779e17b09e87705ab4cb87d7f6",
+   "capture_run": "20261123T164433Z",
+   "file": "sbigeneral-financial.html",
+   "raw_label": "Current Liabilities",
+   "raw_text": "13,23,873",
+   "raw_unit": "INR lakh",
+   "period": "FY2025",
+   "period_label": "31-03-2025",
+   "basis": "standalone",
+   "anchor": {
+    "file": "sbigeneral-financial.html",
+    "table_index": 1,
+    "row_index": 17,
+    "heading": "SBI General Insurance Company Ltd Standalone Balance Sheet (Rs in Lakhs)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev11": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/sbi-general-insurance-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:02+00:00",
+   "sha256": "6912b04e398b059fffd285026c59b2b0c32f98779e17b09e87705ab4cb87d7f6",
+   "capture_run": "20261123T164433Z",
+   "file": "sbigeneral-financial.html",
+   "raw_label": "Net cash flow from operating activities",
+   "raw_text": "2,00,507",
+   "raw_unit": "INR lakh",
+   "period": "FY2024",
+   "period_label": "31-03-2024",
+   "basis": "standalone",
+   "anchor": {
+    "file": "sbigeneral-financial.html",
+    "table_index": 3,
+    "row_index": 14,
+    "heading": "SBI General Insurance Company Ltd Standalone Cash Flow Statement (Rs in Lakhs)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev12": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/sbi-general-insurance-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:02+00:00",
+   "sha256": "6912b04e398b059fffd285026c59b2b0c32f98779e17b09e87705ab4cb87d7f6",
+   "capture_run": "20261123T164433Z",
+   "file": "sbigeneral-financial.html",
+   "raw_label": "Net cash flow from operating activities",
+   "raw_text": "283,581",
+   "raw_unit": "INR lakh",
+   "period": "FY2025",
+   "period_label": "31-03-2025",
+   "basis": "standalone",
+   "anchor": {
+    "file": "sbigeneral-financial.html",
+    "table_index": 3,
+    "row_index": 14,
+    "heading": "SBI General Insurance Company Ltd Standalone Cash Flow Statement (Rs in Lakhs)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev13": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/sbi-general-insurance-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:02+00:00",
+   "sha256": "6912b04e398b059fffd285026c59b2b0c32f98779e17b09e87705ab4cb87d7f6",
+   "capture_run": "20261123T164433Z",
+   "file": "sbigeneral-financial.html",
+   "raw_label": "Net cash flow from investing activities",
+   "raw_text": "-3,15,601",
+   "raw_unit": "INR lakh",
+   "period": "FY2024",
+   "period_label": "31-03-2024",
+   "basis": "standalone",
+   "anchor": {
+    "file": "sbigeneral-financial.html",
+    "table_index": 3,
+    "row_index": 24,
+    "heading": "SBI General Insurance Company Ltd Standalone Cash Flow Statement (Rs in Lakhs)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev14": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/sbi-general-insurance-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:02+00:00",
+   "sha256": "6912b04e398b059fffd285026c59b2b0c32f98779e17b09e87705ab4cb87d7f6",
+   "capture_run": "20261123T164433Z",
+   "file": "sbigeneral-financial.html",
+   "raw_label": "Net cash flow from investing activities",
+   "raw_text": "-317,107",
+   "raw_unit": "INR lakh",
+   "period": "FY2025",
+   "period_label": "31-03-2025",
+   "basis": "standalone",
+   "anchor": {
+    "file": "sbigeneral-financial.html",
+    "table_index": 3,
+    "row_index": 24,
+    "heading": "SBI General Insurance Company Ltd Standalone Cash Flow Statement (Rs in Lakhs)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev15": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/sbi-general-insurance-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:02+00:00",
+   "sha256": "6912b04e398b059fffd285026c59b2b0c32f98779e17b09e87705ab4cb87d7f6",
+   "capture_run": "20261123T164433Z",
+   "file": "sbigeneral-financial.html",
+   "raw_label": "Net cash flow from financing activities",
+   "raw_text": "1,53,848",
+   "raw_unit": "INR lakh",
+   "period": "FY2024",
+   "period_label": "31-03-2024",
+   "basis": "standalone",
+   "anchor": {
+    "file": "sbigeneral-financial.html",
+    "table_index": 3,
+    "row_index": 29,
+    "heading": "SBI General Insurance Company Ltd Standalone Cash Flow Statement (Rs in Lakhs)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev16": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/sbi-general-insurance-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:02+00:00",
+   "sha256": "6912b04e398b059fffd285026c59b2b0c32f98779e17b09e87705ab4cb87d7f6",
+   "capture_run": "20261123T164433Z",
+   "file": "sbigeneral-financial.html",
+   "raw_label": "Net cash flow from financing activities",
+   "raw_text": "-3,722",
+   "raw_unit": "INR lakh",
+   "period": "FY2025",
+   "period_label": "31-03-2025",
+   "basis": "standalone",
+   "anchor": {
+    "file": "sbigeneral-financial.html",
+    "table_index": 3,
+    "row_index": 29,
+    "heading": "SBI General Insurance Company Ltd Standalone Cash Flow Statement (Rs in Lakhs)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev17": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/sbi-general-insurance-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:02+00:00",
+   "sha256": "6912b04e398b059fffd285026c59b2b0c32f98779e17b09e87705ab4cb87d7f6",
+   "capture_run": "20261123T164433Z",
+   "file": "sbigeneral-financial.html",
+   "raw_label": "Basic Earnings per share",
+   "raw_text": "10.83",
+   "raw_unit": "INR per share",
+   "period": "FY2024",
+   "period_label": "31-03-2024",
+   "basis": "standalone",
+   "anchor": {
+    "file": "sbigeneral-financial.html",
+    "table_index": 2,
+    "row_index": 35,
+    "heading": "SBI General Insurance Company Ltd Standalone Profit & Loss Statement (Rs in Lakhs)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev18": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/sbi-general-insurance-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:02+00:00",
+   "sha256": "6912b04e398b059fffd285026c59b2b0c32f98779e17b09e87705ab4cb87d7f6",
+   "capture_run": "20261123T164433Z",
+   "file": "sbigeneral-financial.html",
+   "raw_label": "Basic Earnings per share",
+   "raw_text": "22.75",
+   "raw_unit": "INR per share",
+   "period": "FY2025",
+   "period_label": "31-03-2025",
+   "basis": "standalone",
+   "anchor": {
+    "file": "sbigeneral-financial.html",
+    "table_index": 2,
+    "row_index": 35,
+    "heading": "SBI General Insurance Company Ltd Standalone Profit & Loss Statement (Rs in Lakhs)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev19": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/sbi-general-insurance-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:02+00:00",
+   "sha256": "6912b04e398b059fffd285026c59b2b0c32f98779e17b09e87705ab4cb87d7f6",
+   "capture_run": "20261123T164433Z",
+   "file": "sbigeneral-financial.html",
+   "raw_label": "Diluted Earnings per share",
+   "raw_text": "10.82",
+   "raw_unit": "INR per share",
+   "period": "FY2024",
+   "period_label": "31-03-2024",
+   "basis": "standalone",
+   "anchor": {
+    "file": "sbigeneral-financial.html",
+    "table_index": 2,
+    "row_index": 36,
+    "heading": "SBI General Insurance Company Ltd Standalone Profit & Loss Statement (Rs in Lakhs)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev20": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/sbi-general-insurance-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:02+00:00",
+   "sha256": "6912b04e398b059fffd285026c59b2b0c32f98779e17b09e87705ab4cb87d7f6",
+   "capture_run": "20261123T164433Z",
+   "file": "sbigeneral-financial.html",
+   "raw_label": "Diluted Earnings per share",
+   "raw_text": "22.75",
+   "raw_unit": "INR per share",
+   "period": "FY2025",
+   "period_label": "31-03-2025",
+   "basis": "standalone",
+   "anchor": {
+    "file": "sbigeneral-financial.html",
+    "table_index": 2,
+    "row_index": 36,
+    "heading": "SBI General Insurance Company Ltd Standalone Profit & Loss Statement (Rs in Lakhs)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  }
+ },
+ "news": {
+  "query": "\"SBI General Insurance\"",
+  "retrieved_at": "2026-11-23T16:46:14+00:00",
+  "items": [
+   {
+    "title": "Bank, insurer ordered to pay Rs 10.20 lakh for delaying claim after parents’ fatal accident",
+    "publisher": "The Financial Express",
+    "date": "2026-11-22",
+    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNYlpiUl85VFVkZmdlY1JBSHdQSERadGJRQXBMZ2RfMU5RNGljS3QzMFpBVEwzSXBKdi0tRnJuUGlHNHZJUXAwY1ZEVDdXVkt6YTBYX1c1VlJyRUlyZUpYWGNKeWJGc3A2anlVd25KSGNVbkZyeUxTUXJkUDB3dzBEM1dwSHJ0U1dfUXhJY05DWjhFOElSREpMVXZ5ZDJvN1lkakhIVm15ekNVcDczcW5MT0dQZ1RHanlFZjBCZkpNUVNMel9Pb3ZSbjNNc3hWQURUZkFBcEhPVGJKWE3SAeIBQVVfeXFMT05ybXpWbkdYWFpnajhUUlhFNGRtSVNIY3pYdzM3bVotdlltWjNDaF9nVElGbkVmaDNodmZhQmNSak5ndDNfR2d3RDlHMTZxMFI1UDJkajQ2MG5VZkc5bE5RUnhpZmVqUXYxd3doc0Z4U2dwazk5VG5JcXV5OVJwUUtiRXBsVGZTUnFlWl95Q3Nxc3cxSmIzWVFjMjkwbUcteUFES25SUi1sZi1PRnljcno5NWlQU1AtWDJwSmstc0l1bGNVRHp3RFV5NTRGRko3UEpqcFhUbFlhV0dEZGFBcUpFZw?oc=5"
+   },
+   {
+    "title": "SBI General Insurance Carries Strong Growth Momentum into Q1 FY27, with GDPI up by 10.9%",
+    "publisher": "TheWire.in",
+    "date": "2026-09-01",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcVJlMHQ4cmt6RlRuemNLbFJuWlN3bk9zNVpxZHc1dVBEcTJLb1NEbGI0eHVGNDJGODBBU2xTNDdRbDhSODFqUEd2MjBraUdYUkctNUlxQWdpamhGWVk5VFJoVHVQYXVYejlHempHNEZ6OXJVQks5U1JsNFhVcnlEMWtDMlFWLVJHUXhWM3RCOW1EYXVleUdQLUpDMTFPNjFBQk1GNWpmSnpvS20ybHE1VjNTWWdPUXJlWlhLSGlfUHR5bkHSAcgBQVVfeXFMTV9YVXBETW1PM2tIU3NLeFdXeEZyajJDYmF5N2JoY0pMbkk4S0EwZjk4WXkxTG9DSzFyNmNackNKemxEaUZsOG5FRk5IN2ZCdG5YZEJ5TnRQbUxMSWlNN0J3LUZUUW56Vm5UeDhtck1nMjB2dmhJTUtrWkJERTBmWXZvMkFBZEJ0UE1VS3pLYVpudjlNQlczWU45VGZFeFBwSjJJY3A2T2syZzcwcUdfek9qQjZmOGN3cWJaNkNkazlTUzNMRElZSTc?oc=5"
+   },
+   {
+    "title": "SBI General Insurance Launches New Motor Insurance Film Featuring Pankaj Tripathi",
+    "publisher": "ANI News",
+    "date": "2026-08-03",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNQzNlSWdVQ3J2M05kdWlHV3NKT1hINVJHalRWVEdibFJIUTd2cExKS1Nrb2lPVjhWQmk5NGZuNS1jdXBXbXd0bkJPbkNXNmZvaUVIb0FDZTRsZTVvdGZINUh0YlVkY21DU0NZdExsblh5MlN3aHBUakhvX0NLX0ZfTUJzYk5kRVpBMkJ5VFhNZHpRVlp2ODJ6UER2U2w2dUROLVdvc1o2YTVWcUVTSGp2TW9NTDFNUnFTbUlfcm9zQzNRZXlJV3EtZmV0MDk?oc=5"
+   },
+   {
+    "title": "SBI General Insurance extends ‘Chuniye Bharosa, Apno Sa’ campaign to motor insurance with Pankaj Tripath..",
+    "publisher": "ET BrandEquity",
+    "date": "2026-07-29",
+    "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQYXZpanRPem52bUZ4UnZKdXA0WnZUc2FXZjlhMkxQS3pFWHNFZ1dsVEdEZVJQaVNKUlVQeEdHVDhaMFZWS2hrOUJVb05heDJZMTBoeTY4Wnl3Z3JZdFhTc1FhZ0tEV2Z6XzU0VWdsRm9Ma2dDbzE4TkJXelRDMHpmWDNxRlJWMjRsbThmRWhNbkVYWjNZS2ZuOTZIRVdJcDZSX3Y5VEo2SmdodjRTWWpucklpSnM4ajRqSjExRzZQRlhKVnZrTFU3bk1rdFk0Y2FjTHhZV0p0WXdnUERrdzBtUmh6Yk1FOXhkb1QtR2phMTVsWHBFMEpNRHYzNUJ0OTdXYW5RSnhLVG9hVjJBMDV2Q1c0S3pHN0dNMmQzR9IBogJBVV95cUxONTFHRXhBV1hhNlBMaEZlV1NncjNrWkh3OG9WeXZpSjBhSlgyb3lCZFNmd1Bib0E4bjl2VVJkOW9wZzh6QXFZcjFHeF9OeFlUSEhwdW9WM05zXzByQzZSclhOSXhVNUFCYXg1eF9rTWtrUG1uQ2tsZ1A2Qzlsa3pDSEI3U0pvLVFtSTB6cUpfRlR5VG9fWTNmV1dWX2RCX2ZuMWhpc3BhdXFIbEFoYXd5ZTZtWWFmRzlVX2xRbVYteVB3RklqYV9OeUc5QnpBaHB1M3FESldqX2lVVFRQNThLMm53TzUyRHhRN3lUdk93ZEdaRmNMM05HZE42Q3ktV0ZSTDNKN0RrTDRneWMwaGpsUjNTanpJMkhVTWQwM2ZkbTBMZw?oc=5"
+   },
+   {
+    "title": "SBI General Insurance to list after AMC’s IPO: SBI chairman CS Setty",
+    "publisher": "Moneycontrol.com",
+    "date": "2026-06-09",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNlBBVnBqUEpCMXRremw3alBkVy10NFBHUkMyNWpYQ1owMHgxSmFwZTBLZC1vRlE4cmhObDRJNEJ4OXNUMHlRSHhtcjZYMmlLclo1T3RUMXBTOTFMOHJpX2VHMTlOVEJKdi1WNHQzbE1UNk9nX0tsOHg2bWlwYlJQa3p0QWdUY1pjbUlLVl9OR2doTTk1NkEtTzhuTG1CNWdwV253eV9Ya2FfejhIS2NPTDE3VE1QcDZYb0pYNmlmRnJCSTdt0gHKAUFVX3lxTE44UDZxUjd4ZE5Nc2MwT0lvMmtPV3ExNTJmNTQyXzU2c0sxcmNHY3JaRkhzTk1iYzJEY3lzWVM1b3FkMFk1cEFIX19melBXNVlscDZQbDZtODNJSEU2S3cycVB1X3R3d25uQk9uOVR0WS1WZEplTjRqUHFYTmhpWWR3cWtiZkZlVkttNWZabjZ5aXZqOGtpNUQ0ZXg3SHhmWHZxclN2b3BTUnF3ek9nN1RheXBrYjBxMmxUS1dzNklXdW92TDczSkZmQ1E?oc=5"
+   },
+   {
+    "title": "SBI to list SBI General Insurance following ₹13,000 crore AMC IPO in 2026",
+    "publisher": "Sahi",
+    "date": "2026-06-09",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQ0sxRVRyS0tTNmxudHJYUVZYbF9icUZyTzVITTBWOEpkalhqMklVd0REWlRrMjlncVRPMm41dVNJM2luRjlLSDNQVjEtZkNsbWV3b2w1eFlPUk9WSTgwSmdCQ01ZcUIwOEtOekVTMGJUVWI3dEIwdG9JT2JhajhCdTJHQWRDN1lzNWpPRHdPekVBbVFpWjB3LVYzaVZBQXBaU1NWY0JXTXl4S201UmUyWQ?oc=5"
+   },
+   {
+    "title": "SBI General profit hits INR553 crores as share reaches 7.17%",
+    "publisher": "Insurance Asia",
+    "date": "2026-04-30",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPajFjcm5UR3d0dHhWRUZVV29HOS15d19RdExKNFAwcVJ6WkJubzBuTjF2TGFaQmR0YVVydDUwa21XenBwNlYyRFBOeFZNaWNYbTIwcU1Td01fUWFraFVmU2M4SHRic2dIclB6Ul83dTRWM2ZlOUhoZmxibk03VVNkS3RVam5DUUptaXMxZERFZGxZdlZLaEpwSVl0QS0?oc=5"
+   },
+   {
+    "title": "SBI General FY26: Growth Strong, Profitability Weak",
+    "publisher": "UnlistedZone",
+    "date": "2026-04-29",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdi1PUWlOT1ZZOGdvU3hSb3FPR2FnYTdIV1BnUW9zRFd0aE10SnZpY0JZZUZOWG9uTDBlVUUxcjBKRTllOVZ3YXN6R25sb19kRGFMU2tZVnFOa2J2MG5zQWdyUFRtWUlFSVR4NlQ1aUtaQTNwUktIcDJmTU4yLU5sdmN5NE85bXZYTWNnaG1KRWk?oc=5"
+   }
+  ],
+  "source": {
+   "name": "Google News RSS search",
+   "url": "https://news.google.com/rss/search?q=%22SBI+General+Insurance%22&hl=en-IN&gl=IN&ceid=IN:en",
+   "sha256": "2aa81aa98c6dbb7f76eb38f84692ebb89c84a84f3f2f4d977a81283fa34b48d2",
+   "run": "20261123T164603Z"
+  }
+ },
+ "peer_reviewed": true,
+ "discovery": [
+  {
+   "id": "ncdex",
+   "short": "NCDEX",
+   "name": "National Commodity & Derivatives Exchange Ltd",
+   "reasons": [
+    "provider reports DRHP filed (IPO research lead)",
+    "in the news 2026-11-11"
+   ],
+   "score": 3,
+   "price_inr": 253.0,
+   "latest_period": "FY2026"
+  },
+  {
+   "id": "oyo",
+   "short": "OYO",
+   "name": "Oravel Stays Ltd (OYO)",
+   "reasons": [
+    "provider reports DRHP filed (IPO research lead)",
+    "in the news 2026-11-23"
+   ],
+   "score": 3,
+   "price_inr": 20.45,
+   "latest_period": "FY2026"
+  },
+  {
+   "id": "pharmeasy",
+   "short": "PharmEasy",
+   "name": "API Holdings Ltd (PharmEasy)",
+   "reasons": [
+    "provider reports DRHP filed (IPO research lead)",
+    "in the news 2026-10-28"
+   ],
+   "score": 3,
+   "price_inr": 6.15,
+   "latest_period": "FY2026"
+  },
+  {
+   "id": "axlesindia",
+   "short": "Axles India",
+   "name": "Axles India Ltd",
+   "reasons": [
+    "in the news 2026-11-20"
+   ],
+   "score": 1,
+   "price_inr": 525.0,
+   "latest_period": "FY2026"
+  },
+  {
+   "id": "cial",
+   "short": "CIAL",
+   "name": "Cochin International Airport Ltd",
+   "reasons": [
+    "in the news 2026-11-21"
+   ],
+   "score": 1,
+   "price_inr": 440.0,
+   "latest_period": "FY2026"
+  },
+  {
+   "id": "csk",
+   "short": "CSK",
+   "name": "Chennai Super Kings Cricket Ltd",
+   "reasons": [
+    "in the news 2026-11-20"
+   ],
+   "score": 1,
+   "price_inr": 245.0,
+   "latest_period": "FY2026"
+  }
+ ],
+ "fallbacks": []
+}

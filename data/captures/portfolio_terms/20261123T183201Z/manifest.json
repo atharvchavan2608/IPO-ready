@@ -1,0 +1,66 @@
+{
+  "source": "portfolio_terms",
+  "run_id": "20261123T183201Z",
+  "items": [
+    {
+      "url": "https://www.rbi.org.in/scripts/FS_PressRelease.aspx?prid=63065",
+      "retrieved_at": "2026-11-23T18:32:01+00:00",
+      "status": 200,
+      "final_url": "https://www.rbi.org.in/scripts/FS_PressRelease.aspx?prid=63065",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 120349,
+      "sha256": "640124068ee8613e8b89e94849494b133114c3da58d154087186acd596d26937",
+      "id": "frsb-coupon-2026h2",
+      "path": "frsb-coupon-2026h2.html"
+    },
+    {
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=50009",
+      "retrieved_at": "2026-11-23T18:32:03+00:00",
+      "status": 200,
+      "final_url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=50009",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 116707,
+      "sha256": "f4743858b7b503aba0691b359d703bc6654abb279c3d6de6594dbe7d376752db",
+      "id": "frsb-scheme",
+      "path": "frsb-scheme.html"
+    },
+    {
+      "url": "https://www.rbi.org.in/scripts/FS_Notification.aspx?Id=13365",
+      "retrieved_at": "2026-11-23T18:32:03+00:00",
+      "status": 200,
+      "final_url": "https://www.rbi.org.in/scripts/FS_Notification.aspx?Id=13365",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 228481,
+      "sha256": "3f9c63a3a81bf2563cc9496509b30509badfd16fe97f79ea762b9978739fa7a5",
+      "id": "frsb-operations",
+      "path": "frsb-operations.html"
+    },
+    {
+      "url": "https://mf.nipponindiaim.com/FundsAndPerformance/ProductNotes/NipponIndia-ETF-Gold-BeES-Oct-2026.pdf",
+      "retrieved_at": "2026-11-23T18:32:04+00:00",
+      "status": 200,
+      "final_url": "https://mf.nipponindiaim.com/FundsAndPerformance/ProductNotes/NipponIndia-ETF-Gold-BeES-Oct-2026.pdf",
+      "content_type": "application/pdf",
+      "bytes": 696968,
+      "sha256": "98178d1382f97d5c11e033b25fe0234b436256110a92cf649f9e7de77bd82342",
+      "id": "goldbees-product",
+      "path": "goldbees-product.pdf"
+    },
+    {
+      "url": "https://nsearchives.nseindia.com/content/circulars/CML72042.pdf",
+      "retrieved_at": "2026-11-23T18:32:05+00:00",
+      "status": 200,
+      "final_url": "https://nsearchives.nseindia.com/content/circulars/CML72042.pdf",
+      "content_type": "application/pdf",
+      "bytes": 165915,
+      "sha256": "79bd7aaf377f842ca9ed85ef09762edfa0a0ef0c28dd6ef79659eaa2e2ee907b",
+      "id": "mcx-split",
+      "path": "mcx-split.pdf"
+    }
+  ],
+  "summary": {
+    "attempted": 5,
+    "ok": 5,
+    "failed": 0
+  }
+}

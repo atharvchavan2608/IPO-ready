@@ -1,0 +1,53 @@
+[
+  {
+    "id": "wwipl-nse-financials",
+    "url": "https://wwipl.com/unlisted-shares/nse-india-unlisted-shares-price/financial",
+    "retrieved_at": "2026-11-12T11:11:29.759444+00:00",
+    "source_date": null,
+    "timeout_seconds": 12,
+    "evidence_type": "HTTP access experiment",
+    "status": 200,
+    "final_url": "https://wwipl.com/unlisted-shares/nse-india-unlisted-shares-price/financial",
+    "content_type": "text/html; charset=UTF-8",
+    "path": "wwipl-nse-financials.html",
+    "bytes": 262675,
+    "sha256": "a0c024dc807c4e74c12a7ac59ed510aedc42d9a924dc2ea40edfbfa40906c362"
+  },
+  {
+    "id": "unlistedzone-nse",
+    "url": "https://unlistedzone.com/shares/nse-india-limited-unlisted-shares",
+    "retrieved_at": "2026-11-12T11:11:32.553950+00:00",
+    "source_date": null,
+    "timeout_seconds": 12,
+    "evidence_type": "HTTP error body, not financial evidence",
+    "status": 404,
+    "error": "HTTP Error 404: Not Found",
+    "path": "unlistedzone-nse.error",
+    "bytes": 16361,
+    "sha256": "50070f545bdcc2bf4fd4a3616d8de8a5c76d883a27d2b8e89d0dcec7d102f879"
+  },
+  {
+    "id": "nse-financials-index",
+    "url": "https://www.nseindia.com/static/investor-relations/financials",
+    "retrieved_at": "2026-11-12T11:11:33.350594+00:00",
+    "source_date": null,
+    "timeout_seconds": 12,
+    "evidence_type": "HTTP access experiment",
+    "status": 200,
+    "final_url": "https://www.nseindia.com/static/investor-relations/financials",
+    "content_type": "text/html; charset=utf-8",
+    "path": "nse-financials-index.html",
+    "bytes": 392143,
+    "sha256": "a6648e1bb3f00204212d8727ff0afbbd68f7c89a75dbbe4f42d5f4fc23825d60"
+  },
+  {
+    "id": "nsdl-reports-index",
+    "url": "https://nsdl.com/annual-reports",
+    "retrieved_at": "2026-11-12T11:11:34.106386+00:00",
+    "source_date": null,
+    "timeout_seconds": 12,
+    "evidence_type": "HTTP access experiment",
+    "status": null,
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1000)>"
+  }
+]

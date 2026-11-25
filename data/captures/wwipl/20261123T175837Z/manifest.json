@@ -1,0 +1,142 @@
+{
+  "source": "wwipl",
+  "run_id": "20261123T175837Z",
+  "items": [
+    {
+      "url": "https://wwipl.com/unlisted-shares/pharmed-limited-unlisted-share-price",
+      "retrieved_at": "2026-11-23T17:58:37+00:00",
+      "status": 200,
+      "final_url": "https://wwipl.com/unlisted-shares/pharmed-limited-unlisted-share-price",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 129437,
+      "sha256": "387505f82f84703ec581300e2cfd4715b6ecc1ab1ff08623d1fe1190cf720375",
+      "id": "pharmed-overview",
+      "company": "pharmed",
+      "kind": "overview",
+      "path": "pharmed-overview.html"
+    },
+    {
+      "url": "https://wwipl.com/unlisted-shares/pharmed-limited-unlisted-share-price/financial",
+      "retrieved_at": "2026-11-23T17:58:39+00:00",
+      "status": 200,
+      "final_url": "https://wwipl.com/unlisted-shares/pharmed-limited-unlisted-share-price/financial",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 339845,
+      "sha256": "8dc9fc0cb7e8b4aa78829fcd0e643da45897f395ba0873ef5f6cd53d0e66d6be",
+      "id": "pharmed-financial",
+      "company": "pharmed",
+      "kind": "financial",
+      "path": "pharmed-financial.html"
+    },
+    {
+      "url": "https://wwipl.com/unlisted-shares/group-pharmaceuticals-share-price",
+      "retrieved_at": "2026-11-23T17:58:40+00:00",
+      "status": 200,
+      "final_url": "https://wwipl.com/unlisted-shares/group-pharmaceuticals-share-price",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 127935,
+      "sha256": "c7e77e1e248a5986938119c04666da7c8e1695ec35d9fc6bb57d081659fd6d8d",
+      "id": "grouppharma-overview",
+      "company": "grouppharma",
+      "kind": "overview",
+      "path": "grouppharma-overview.html"
+    },
+    {
+      "url": "https://wwipl.com/unlisted-shares/group-pharmaceuticals-share-price/financial",
+      "retrieved_at": "2026-11-23T17:58:41+00:00",
+      "status": 200,
+      "final_url": "https://wwipl.com/unlisted-shares/group-pharmaceuticals-share-price/financial",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 315747,
+      "sha256": "ade814946a27af8329576ce19e91ccdcc0066882602afb7c4865ae481d78bda3",
+      "id": "grouppharma-financial",
+      "company": "grouppharma",
+      "kind": "financial",
+      "path": "grouppharma-financial.html"
+    },
+    {
+      "url": "https://wwipl.com/unlisted-shares/kannur-international-airport-share-price",
+      "retrieved_at": "2026-11-23T17:58:42+00:00",
+      "status": 200,
+      "final_url": "https://wwipl.com/unlisted-shares/kannur-international-airport-share-price",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 117263,
+      "sha256": "80d40fc86ac82e4ae20f4251d6a13bfec5d70e439d0a4b1909cc021922611883",
+      "id": "kial-overview",
+      "company": "kial",
+      "kind": "overview",
+      "path": "kial-overview.html"
+    },
+    {
+      "url": "https://wwipl.com/unlisted-shares/kannur-international-airport-share-price/financial",
+      "retrieved_at": "2026-11-23T17:58:43+00:00",
+      "status": 200,
+      "final_url": "https://wwipl.com/unlisted-shares/kannur-international-airport-share-price/financial",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 268052,
+      "sha256": "c2f03142f8b9ab5264f23969c9273009c87d306ce74a9e66e4afdd96a1a7a431",
+      "id": "kial-financial",
+      "company": "kial",
+      "kind": "financial",
+      "path": "kial-financial.html"
+    },
+    {
+      "url": "https://wwipl.com/unlisted-shares/axles-india-unlisted-share-price",
+      "retrieved_at": "2026-11-23T17:58:44+00:00",
+      "status": 200,
+      "final_url": "https://wwipl.com/unlisted-shares/axles-india-unlisted-share-price",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 121694,
+      "sha256": "c81467c6fa78421882dabd5c4411a55d831d51710a177e3ea79bcd781114c9ee",
+      "id": "axlesindia-overview",
+      "company": "axlesindia",
+      "kind": "overview",
+      "path": "axlesindia-overview.html"
+    },
+    {
+      "url": "https://wwipl.com/unlisted-shares/axles-india-unlisted-share-price/financial",
+      "retrieved_at": "2026-11-23T17:58:46+00:00",
+      "status": 200,
+      "final_url": "https://wwipl.com/unlisted-shares/axles-india-unlisted-share-price/financial",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 334217,
+      "sha256": "c15b319c08dc800a8192469b611104ee04f1ae680def85cf777ee1ad6568135d",
+      "id": "axlesindia-financial",
+      "company": "axlesindia",
+      "kind": "financial",
+      "path": "axlesindia-financial.html"
+    },
+    {
+      "url": "https://wwipl.com/unlisted-shares/gkn-driveline-india-share-price",
+      "retrieved_at": "2026-11-23T17:58:48+00:00",
+      "status": 200,
+      "final_url": "https://wwipl.com/unlisted-shares/gkn-driveline-india-share-price",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 116401,
+      "sha256": "9c20837384c9019a989db8a51bbb64ea24735daf26ce2e091091a7f7db4cb9f1",
+      "id": "gkndriveline-overview",
+      "company": "gkndriveline",
+      "kind": "overview",
+      "path": "gkndriveline-overview.html"
+    },
+    {
+      "url": "https://wwipl.com/unlisted-shares/gkn-driveline-india-share-price/financial",
+      "retrieved_at": "2026-11-23T17:58:49+00:00",
+      "status": 200,
+      "final_url": "https://wwipl.com/unlisted-shares/gkn-driveline-india-share-price/financial",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 230252,
+      "sha256": "4f65597ceb2f7433d54d57152d531600e7d68a9d9163dcadee4a419c11f8ef79",
+      "id": "gkndriveline-financial",
+      "company": "gkndriveline",
+      "kind": "financial",
+      "path": "gkndriveline-financial.html"
+    }
+  ],
+  "summary": {
+    "attempted": 10,
+    "ok": 10,
+    "failed": 0
+  },
+  "robots_note": "wwipl.com/robots.txt (2026-11-23) does not disallow /unlisted-shares/"
+}

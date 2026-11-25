@@ -1,0 +1,2479 @@
+{
+ "id": "axlesindia",
+ "name": "Axles India Ltd",
+ "short": "Axles India",
+ "hierarchy": [
+  "Industrials",
+  "Automotive Components",
+  "Driveline",
+  "Commercial Vehicle Axles"
+ ],
+ "model": "manufacturer",
+ "listed_peers": [
+  "AUTOAXLES",
+  "GNA"
+ ],
+ "status_note": null,
+ "market_status": null,
+ "quote": {
+  "price_inr": "525.00",
+  "state": "reported",
+  "change_raw": "+ 0.00 %",
+  "kind": "unlisted dealer quote (indicative, not an exchange trade)",
+  "as_of": "2026-11-23T17:58:44+00:00",
+  "high_52w": "600.00 (31/12/25)",
+  "low_52w": "430.00 (28/03/26)",
+  "ev": "ev1"
+ },
+ "profile": {
+  "provider_sector": "Auto Ancillaries",
+  "isin": "INE701C01011",
+  "cin": "U27209TN1981PLC008630",
+  "registration_date": "18/02/1981",
+  "face_value": "10",
+  "lot_size": "100",
+  "drhp_filed": "No",
+  "depository": "nsdl",
+  "rofr": "No",
+  "description": null,
+  "share_details_as_of": "March 31, 2026",
+  "ev": "ev2"
+ },
+ "periods": [
+  "FY2025",
+  "FY2026"
+ ],
+ "basis": "standalone",
+ "raw_units": [
+  "INR crore"
+ ],
+ "layout": "detailed statements",
+ "fields": {
+  "total_income": {
+   "label": "Total income",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": "846.78",
+     "state": "reported",
+     "ev": "ev3"
+    },
+    "FY2026": {
+     "value": "887.85",
+     "state": "reported",
+     "ev": "ev4"
+    }
+   }
+  },
+  "revenue_ops": {
+   "label": "Revenue from operations",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": "841.54",
+     "state": "reported",
+     "ev": "ev5"
+    },
+    "FY2026": {
+     "value": "871.19",
+     "state": "reported",
+     "ev": "ev6"
+    }
+   }
+  },
+  "other_income": {
+   "label": "Other income",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": "2.11",
+     "state": "reported",
+     "ev": "ev7"
+    },
+    "FY2026": {
+     "value": "2.27",
+     "state": "reported",
+     "ev": "ev8"
+    }
+   }
+  },
+  "other_gains": {
+   "label": "Other gains / losses",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": "3.13",
+     "state": "reported",
+     "ev": "ev9"
+    },
+    "FY2026": {
+     "value": "14.39",
+     "state": "reported",
+     "ev": "ev10"
+    }
+   }
+  },
+  "job_work_revenue": {
+   "label": "Revenue from job work",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "total_expenses": {
+   "label": "Total expenses",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": "753.63",
+     "state": "reported",
+     "ev": "ev11"
+    },
+    "FY2026": {
+     "value": "791.27",
+     "state": "reported",
+     "ev": "ev12"
+    }
+   }
+  },
+  "finance_cost": {
+   "label": "Finance cost",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": "0.87",
+     "state": "reported",
+     "ev": "ev13"
+    },
+    "FY2026": {
+     "value": "1",
+     "state": "reported",
+     "ev": "ev14"
+    }
+   }
+  },
+  "depreciation": {
+   "label": "Depreciation",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": "11.54",
+     "state": "reported",
+     "ev": "ev15"
+    },
+    "FY2026": {
+     "value": "13.12",
+     "state": "reported",
+     "ev": "ev16"
+    }
+   }
+  },
+  "pbt": {
+   "label": "Profit before tax",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": "93.15",
+     "state": "reported",
+     "ev": "ev17"
+    },
+    "FY2026": {
+     "value": "96.58",
+     "state": "reported",
+     "ev": "ev18"
+    }
+   }
+  },
+  "tax": {
+   "label": "Tax",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "pat": {
+   "label": "Profit after tax",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": "68.7",
+     "state": "reported",
+     "ev": "ev19"
+    },
+    "FY2026": {
+     "value": "73.24",
+     "state": "reported",
+     "ev": "ev20"
+    }
+   }
+  },
+  "total_assets": {
+   "label": "Total assets",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": "518.76",
+     "state": "reported",
+     "ev": "ev21"
+    },
+    "FY2026": {
+     "value": "543.03",
+     "state": "reported",
+     "ev": "ev22"
+    }
+   }
+  },
+  "total_equity": {
+   "label": "Total equity",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": "307.61",
+     "state": "derived",
+     "ev": "ev23"
+    },
+    "FY2026": {
+     "value": "369.49",
+     "state": "derived",
+     "ev": "ev24"
+    }
+   }
+  },
+  "total_liabilities": {
+   "label": "Total liabilities",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "current_assets": {
+   "label": "Current assets",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": "411.70",
+     "state": "derived",
+     "ev": "ev25"
+    },
+    "FY2026": {
+     "value": "440.93",
+     "state": "derived",
+     "ev": "ev26"
+    }
+   }
+  },
+  "current_liabilities": {
+   "label": "Current liabilities",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": "73.43",
+     "state": "derived",
+     "ev": "ev27"
+    },
+    "FY2026": {
+     "value": "40.53",
+     "state": "derived",
+     "ev": "ev28"
+    }
+   }
+  },
+  "inventories": {
+   "label": "Inventories",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": "178.54",
+     "state": "reported",
+     "ev": "ev29"
+    },
+    "FY2026": {
+     "value": "151.25",
+     "state": "reported",
+     "ev": "ev30"
+    }
+   }
+  },
+  "cash": {
+   "label": "Cash & equivalents",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": "29.49",
+     "state": "reported",
+     "ev": "ev31"
+    },
+    "FY2026": {
+     "value": "76.06",
+     "state": "reported",
+     "ev": "ev32"
+    }
+   }
+  },
+  "loans": {
+   "label": "Loans",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": "0.63",
+     "state": "reported",
+     "ev": "ev33"
+    },
+    "FY2026": {
+     "value": "0.58",
+     "state": "reported",
+     "ev": "ev34"
+    }
+   }
+  },
+  "cfo": {
+   "label": "Cash from operations",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": "118.04",
+     "state": "reported",
+     "ev": "ev35"
+    },
+    "FY2026": {
+     "value": "98.81",
+     "state": "reported",
+     "ev": "ev36"
+    }
+   }
+  },
+  "cfi": {
+   "label": "Cash from investing",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": "-29.84",
+     "state": "reported",
+     "ev": "ev37"
+    },
+    "FY2026": {
+     "value": "-1.49",
+     "state": "reported",
+     "ev": "ev38"
+    }
+   }
+  },
+  "cff": {
+   "label": "Cash from financing",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": "-68.99",
+     "state": "reported",
+     "ev": "ev39"
+    },
+    "FY2026": {
+     "value": "-50.75",
+     "state": "reported",
+     "ev": "ev40"
+    }
+   }
+  },
+  "ebitda": {
+   "label": "EBITDA",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "eps": {
+   "label": "EPS (provider)",
+   "unit": "INR",
+   "by_period": {
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "shares_outstanding": {
+   "label": "Shares outstanding",
+   "unit": "shares",
+   "by_period": {
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  }
+ },
+ "cash_flow": {
+  "unit": "INR crore",
+  "by_period": {
+   "FY2025": {
+    "basis": "standalone",
+    "origin": "provider",
+    "lines": {
+     "opening": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "cfo": {
+      "value": "118.04",
+      "state": "reported",
+      "ev": "ev35"
+     },
+     "cfi": {
+      "value": "-29.84",
+      "state": "reported",
+      "ev": "ev37"
+     },
+     "cff": {
+      "value": "-68.99",
+      "state": "reported",
+      "ev": "ev39"
+     },
+     "other_effects": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "net_change": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "closing": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "before_working_capital": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "receivables": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "other_assets": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "payables_and_liabilities": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "tax_paid": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "capex": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "net_investment_purchases": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "debt_principal": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "lease_principal": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "lease_interest": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "overdraft_interest": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "share_proceeds": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "dividends": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "current_accounts": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "settlement_accounts": {
+      "state": "not_in_source",
+      "value": null
+     }
+    },
+    "reconciliation": {
+     "state": "partial"
+    },
+    "provider_comparison": null
+   },
+   "FY2026": {
+    "basis": "standalone",
+    "origin": "provider",
+    "lines": {
+     "opening": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "cfo": {
+      "value": "98.81",
+      "state": "reported",
+      "ev": "ev36"
+     },
+     "cfi": {
+      "value": "-1.49",
+      "state": "reported",
+      "ev": "ev38"
+     },
+     "cff": {
+      "value": "-50.75",
+      "state": "reported",
+      "ev": "ev40"
+     },
+     "other_effects": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "net_change": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "closing": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "before_working_capital": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "receivables": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "other_assets": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "payables_and_liabilities": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "tax_paid": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "capex": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "net_investment_purchases": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "debt_principal": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "lease_principal": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "lease_interest": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "overdraft_interest": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "share_proceeds": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "dividends": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "current_accounts": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "settlement_accounts": {
+      "state": "not_in_source",
+      "value": null
+     }
+    },
+    "reconciliation": {
+     "state": "partial"
+    },
+    "provider_comparison": null
+   }
+  }
+ },
+ "documents": [],
+ "reconciliation": null,
+ "agent": {
+  "inventories": {
+   "company": "axlesindia",
+   "field": "inventories",
+   "status": "found_in_provider",
+   "summary": "Inventories reported by the provider for FY2025, FY2026.",
+   "how_to_verify": "Open the provider row from the evidence drawer; reconcile with the issuer's annual report before relying on it.",
+   "expectation": {
+    "level": "expected",
+    "reason": "Manufacturers carry raw material, work-in-progress and finished goods."
+   },
+   "evidence": [],
+   "evidence_total": 0,
+   "next_checks": [
+    "Audited annual report: balance sheet 'Inventories' line and note on valuation"
+   ],
+   "trace": [
+    {
+     "step": 1,
+     "tool": "provider_lookup",
+     "input": {
+      "company": "axlesindia",
+      "field": "inventories"
+     },
+     "output": {
+      "found": true,
+      "periods": [
+       "FY2025",
+       "FY2026"
+      ],
+      "detail": "line present in provider statements"
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 2,
+     "tool": "applicability_rule",
+     "input": {
+      "field": "inventories",
+      "business_model": "manufacturer"
+     },
+     "output": {
+      "expectation": "expected",
+      "reason": "Manufacturers carry raw material, work-in-progress and finished goods."
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 3,
+     "tool": "statement_line_check",
+     "input": {
+      "document": null
+     },
+     "output": {
+      "skipped": true,
+      "why": "no retained issuer balance sheet for this company"
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 4,
+     "tool": "document_search",
+     "input": {
+      "documents": [],
+      "patterns": [
+       "\\binventor(?:y|ies)\\b"
+      ]
+     },
+     "output": {
+      "documents_searched": [],
+      "pages_with_word_matches": 0,
+      "pages_with_naive_substring": 0,
+      "note": "naive substring 'inventor' also matches unrelated words (e.g. 'COMPANY' contains 'NPA'); word-boundary patterns used"
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 5,
+     "tool": "classify_passages",
+     "input": {
+      "passages": 0
+     },
+     "output": {
+      "by_kind": {}
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 6,
+     "tool": "verdict",
+     "input": {
+      "signals": {
+       "provider": true,
+       "numeric": 0,
+       "explicit_na": 0,
+       "line_check": null,
+       "expectation": "expected"
+      }
+     },
+     "output": {
+      "status": "found_in_provider",
+      "summary": "Inventories reported by the provider for FY2025, FY2026.",
+      "how_to_verify": "Open the provider row from the evidence drawer; reconcile with the issuer's annual report before relying on it."
+     },
+     "ms": 0.0
+    }
+   ],
+   "executed": "deterministic tool sequence (no language model call)"
+  },
+  "npa": {
+   "company": "axlesindia",
+   "field": "npa",
+   "status": "inapplicable",
+   "summary": "Not applicable by business model: NPA is a lender asset-quality measure; this business has no loan book to classify.",
+   "how_to_verify": "No mentions to review; the business-model rule decides.",
+   "expectation": {
+    "level": "not_applicable",
+    "reason": "NPA is a lender asset-quality measure; this business has no loan book to classify."
+   },
+   "evidence": [],
+   "evidence_total": 0,
+   "next_checks": [
+    "Annual report notes: 'Stage 3 assets', 'Gross NPA', 'Net NPA' (RBI disclosure for NBFCs)"
+   ],
+   "trace": [
+    {
+     "step": 1,
+     "tool": "provider_lookup",
+     "input": {
+      "company": "axlesindia",
+      "field": "gross_npa"
+     },
+     "output": {
+      "found": false,
+      "periods": [],
+      "detail": "no matching line in the provider's parsed statements"
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 2,
+     "tool": "applicability_rule",
+     "input": {
+      "field": "npa",
+      "business_model": "manufacturer"
+     },
+     "output": {
+      "expectation": "not_applicable",
+      "reason": "NPA is a lender asset-quality measure; this business has no loan book to classify."
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 3,
+     "tool": "statement_line_check",
+     "input": {
+      "document": null
+     },
+     "output": {
+      "skipped": true,
+      "why": "no retained issuer balance sheet for this company"
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 4,
+     "tool": "document_search",
+     "input": {
+      "documents": [],
+      "patterns": [
+       "\\bG?N?NPAs?\\b",
+       "\\bnon[- ]performing (?:assets?|loans?)\\b",
+       "\\bstage\\s*(?:3|III)\\s+(?:assets|loans)\\b"
+      ]
+     },
+     "output": {
+      "documents_searched": [],
+      "pages_with_word_matches": 0,
+      "pages_with_naive_substring": 0,
+      "note": "naive substring 'npa' also matches unrelated words (e.g. 'COMPANY' contains 'NPA'); word-boundary patterns used"
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 5,
+     "tool": "classify_passages",
+     "input": {
+      "passages": 0
+     },
+     "output": {
+      "by_kind": {}
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 6,
+     "tool": "verdict",
+     "input": {
+      "signals": {
+       "provider": false,
+       "numeric": 0,
+       "explicit_na": 0,
+       "line_check": null,
+       "expectation": "not_applicable"
+      }
+     },
+     "output": {
+      "status": "inapplicable",
+      "summary": "Not applicable by business model: NPA is a lender asset-quality measure; this business has no loan book to classify.",
+      "how_to_verify": "No mentions to review; the business-model rule decides."
+     },
+     "ms": 0.0
+    }
+   ],
+   "executed": "deterministic tool sequence (no language model call)"
+  }
+ },
+ "metrics": {
+  "FY2025": {
+   "revenue_growth": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "(current / previous) - 1",
+    "inputs": {
+     "current": "841.54",
+     "previous": null
+    },
+    "unit": "%",
+    "ev": [
+     "ev5"
+    ]
+   },
+   "pat_margin": {
+    "value": "8.1131",
+    "state": "ok",
+    "formula": "PAT / total income x 100",
+    "inputs": {
+     "pat": "68.7",
+     "total_income": "846.78"
+    },
+    "unit": "%",
+    "ev": [
+     "ev19",
+     "ev3"
+    ]
+   },
+   "net_profit_ratio": {
+    "value": "8.1636",
+    "state": "ok",
+    "formula": "PAT / revenue from operations x 100",
+    "inputs": {
+     "pat": "68.7",
+     "revenue_ops": "841.54"
+    },
+    "unit": "%",
+    "ev": [
+     "ev19",
+     "ev5"
+    ]
+   },
+   "other_income_share": {
+    "value": "0.2492",
+    "state": "ok",
+    "formula": "other income / total income x 100",
+    "inputs": {
+     "other_income": "2.11",
+     "total_income": "846.78"
+    },
+    "unit": "%",
+    "ev": [
+     "ev7",
+     "ev3"
+    ]
+   },
+   "current_ratio": {
+    "value": "5.6067",
+    "state": "ok",
+    "formula": "current assets / current liabilities",
+    "inputs": {
+     "current_assets": "411.70",
+     "current_liabilities": "73.43"
+    },
+    "unit": "x",
+    "ev": [
+     "ev25",
+     "ev27"
+    ]
+   },
+   "quick_ratio": {
+    "value": "3.1753",
+    "state": "ok",
+    "formula": "(current assets - inventories) / current liabilities",
+    "inputs": {
+     "current_assets": "411.70",
+     "inventories": "178.54",
+     "current_liabilities": "73.43"
+    },
+    "unit": "x",
+    "ev": [
+     "ev25",
+     "ev27",
+     "ev29"
+    ]
+   },
+   "roe": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "PAT / average of opening and closing equity x 100",
+    "inputs": {
+     "pat": "68.7",
+     "average_equity": null
+    },
+    "unit": "%",
+    "ev": [
+     "ev19",
+     "ev23"
+    ]
+   },
+   "roce": {
+    "value": "21.1124",
+    "state": "ok",
+    "formula": "(PBT + finance cost) / (total assets - current liabilities) x 100",
+    "inputs": {
+     "ebit": "94.02",
+     "capital_employed": "445.33"
+    },
+    "unit": "%",
+    "ev": [
+     "ev17",
+     "ev13",
+     "ev21",
+     "ev27"
+    ]
+   },
+   "cfo_to_pat": {
+    "value": "1.7182",
+    "state": "ok",
+    "formula": "cash from operations / PAT",
+    "inputs": {
+     "cfo": "118.04",
+     "pat": "68.7"
+    },
+    "unit": "x",
+    "ev": [
+     "ev35",
+     "ev19"
+    ]
+   }
+  },
+  "FY2026": {
+   "revenue_growth": {
+    "value": "3.5233",
+    "state": "ok",
+    "formula": "(current / previous) - 1",
+    "inputs": {
+     "current": "871.19",
+     "previous": "841.54"
+    },
+    "unit": "%",
+    "ev": [
+     "ev6",
+     "ev5"
+    ]
+   },
+   "pat_margin": {
+    "value": "8.2491",
+    "state": "ok",
+    "formula": "PAT / total income x 100",
+    "inputs": {
+     "pat": "73.24",
+     "total_income": "887.85"
+    },
+    "unit": "%",
+    "ev": [
+     "ev20",
+     "ev4"
+    ]
+   },
+   "net_profit_ratio": {
+    "value": "8.4069",
+    "state": "ok",
+    "formula": "PAT / revenue from operations x 100",
+    "inputs": {
+     "pat": "73.24",
+     "revenue_ops": "871.19"
+    },
+    "unit": "%",
+    "ev": [
+     "ev20",
+     "ev6"
+    ]
+   },
+   "other_income_share": {
+    "value": "0.2557",
+    "state": "ok",
+    "formula": "other income / total income x 100",
+    "inputs": {
+     "other_income": "2.27",
+     "total_income": "887.85"
+    },
+    "unit": "%",
+    "ev": [
+     "ev8",
+     "ev4"
+    ]
+   },
+   "current_ratio": {
+    "value": "10.8791",
+    "state": "ok",
+    "formula": "current assets / current liabilities",
+    "inputs": {
+     "current_assets": "440.93",
+     "current_liabilities": "40.53"
+    },
+    "unit": "x",
+    "ev": [
+     "ev26",
+     "ev28"
+    ]
+   },
+   "quick_ratio": {
+    "value": "7.1473",
+    "state": "ok",
+    "formula": "(current assets - inventories) / current liabilities",
+    "inputs": {
+     "current_assets": "440.93",
+     "inventories": "151.25",
+     "current_liabilities": "40.53"
+    },
+    "unit": "x",
+    "ev": [
+     "ev26",
+     "ev28",
+     "ev30"
+    ]
+   },
+   "roe": {
+    "value": "21.6334",
+    "state": "ok",
+    "formula": "PAT / average of opening and closing equity x 100",
+    "inputs": {
+     "pat": "73.24",
+     "average_equity": "338.55"
+    },
+    "unit": "%",
+    "ev": [
+     "ev20",
+     "ev24",
+     "ev23"
+    ]
+   },
+   "roce": {
+    "value": "19.4189",
+    "state": "ok",
+    "formula": "(PBT + finance cost) / (total assets - current liabilities) x 100",
+    "inputs": {
+     "ebit": "97.58",
+     "capital_employed": "502.50"
+    },
+    "unit": "%",
+    "ev": [
+     "ev18",
+     "ev14",
+     "ev22",
+     "ev28"
+    ]
+   },
+   "cfo_to_pat": {
+    "value": "1.3491",
+    "state": "ok",
+    "formula": "cash from operations / PAT",
+    "inputs": {
+     "cfo": "98.81",
+     "pat": "73.24"
+    },
+    "unit": "x",
+    "ev": [
+     "ev36",
+     "ev20"
+    ]
+   }
+  }
+ },
+ "valuation": {
+  "period": "FY2026",
+  "shares_used": "25490646",
+  "shares_source": "shares_details",
+  "market_cap": {
+   "value": "1338.2589",
+   "state": "ok",
+   "formula": "price (INR) x shares outstanding / 1e7",
+   "inputs": {
+    "price_inr": "525.00",
+    "shares": "25490646"
+   },
+   "unit": "INR crore"
+  },
+  "eps": {
+   "value": "28.7321",
+   "state": "ok",
+   "formula": "PAT (INR crore) x 1e7 / shares outstanding",
+   "inputs": {
+    "pat_cr": "73.24",
+    "shares": "25490646"
+   },
+   "unit": "INR"
+  },
+  "pe": {
+   "value": "18.2722",
+   "state": "ok",
+   "formula": "price / EPS",
+   "inputs": {
+    "price_inr": "525.00",
+    "eps": "28.7321"
+   },
+   "unit": "x"
+  },
+  "pb": {
+   "value": "3.6219",
+   "state": "ok",
+   "formula": "market cap / total equity",
+   "inputs": {
+    "market_cap": "1338.258915",
+    "total_equity": "369.49"
+   },
+   "unit": "x"
+  },
+  "ps": {
+   "value": "1.5073",
+   "state": "ok",
+   "formula": "market cap / total income",
+   "inputs": {
+    "market_cap": "1338.258915",
+    "total_income": "887.85"
+   },
+   "unit": "x"
+  },
+  "provider": {
+   "pe": "18.27",
+   "mcap": "1,338.26 Crore",
+   "eps": "28.73"
+  },
+  "note": "Valued at an indicative unlisted dealer quote against the latest fiscal-year PAT; not a traded market price."
+ },
+ "coverage_gaps": [
+  {
+   "field": "eps",
+   "state": "not_in_source",
+   "label": "EPS (provider)"
+  },
+  {
+   "field": "shares_outstanding",
+   "state": "not_in_source",
+   "label": "Shares outstanding"
+  }
+ ],
+ "checks": [
+  {
+   "check": "income_identity",
+   "period": "FY2025",
+   "result": "pass",
+   "detail": "total income 846.78 - (operations 841.54 + other 2.11 + separate income lines 3.13) = 0.00"
+  },
+  {
+   "check": "income_identity",
+   "period": "FY2026",
+   "result": "pass",
+   "detail": "total income 887.85 - (operations 871.19 + other 2.27 + separate income lines 14.39) = 0.00"
+  }
+ ],
+ "provider_ratios": {
+  "Current ratio": {
+   "FY2026": {
+    "raw_text": "2.79",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "2.15",
+    "state": "reported"
+   }
+  },
+  "Debt equity ratio": {
+   "FY2026": {
+    "raw_text": "0.03",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "0.16",
+    "state": "reported"
+   }
+  },
+  "Debt service coverage ratio": {
+   "FY2026": {
+    "raw_text": "9.98",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "1.58",
+    "state": "reported"
+   }
+  },
+  "Return on equity ratio": {
+   "FY2026": {
+    "raw_text": "22%",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "24%",
+    "state": "reported"
+   }
+  },
+  "Inventory turnover ratio": {
+   "FY2026": {
+    "raw_text": "3.17",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "4.71",
+    "state": "reported"
+   }
+  },
+  "Trade receivables ratio": {
+   "FY2026": {
+    "raw_text": "4.47",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "4.41",
+    "state": "reported"
+   }
+  },
+  "Trade payables turnover ratio": {
+   "FY2026": {
+    "raw_text": "4.20",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "3.93",
+    "state": "reported"
+   }
+  },
+  "Net capital turnover ratio": {
+   "FY2026": {
+    "raw_text": "3.08",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "3.82",
+    "state": "reported"
+   }
+  },
+  "Net profit ratio": {
+   "FY2026": {
+    "raw_text": "8%",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "8%",
+    "state": "reported"
+   }
+  },
+  "Return on capital employed": {
+   "FY2026": {
+    "raw_text": "26%",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "26%",
+    "state": "reported"
+   }
+  },
+  "Return on Investments": {
+   "FY2026": {
+    "raw_text": "18%",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "18%",
+    "state": "reported"
+   }
+  }
+ },
+ "evidence": {
+  "ev1": {
+   "source": "WWIPL company overview",
+   "url": "https://wwipl.com/unlisted-shares/axles-india-unlisted-share-price",
+   "retrieved_at": "2026-11-23T17:58:44+00:00",
+   "sha256": "c81467c6fa78421882dabd5c4411a55d831d51710a177e3ea79bcd781114c9ee",
+   "capture_run": "20261123T175837Z",
+   "file": "axlesindia-overview.html",
+   "raw_label": "Last Traded Price",
+   "raw_text": "525.00"
+  },
+  "ev2": {
+   "source": "WWIPL company overview",
+   "url": "https://wwipl.com/unlisted-shares/axles-india-unlisted-share-price",
+   "retrieved_at": "2026-11-23T17:58:44+00:00",
+   "sha256": "c81467c6fa78421882dabd5c4411a55d831d51710a177e3ea79bcd781114c9ee",
+   "capture_run": "20261123T175837Z",
+   "file": "axlesindia-overview.html",
+   "raw_label": "Company fundamentals block"
+  },
+  "ev3": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/axles-india-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:46+00:00",
+   "sha256": "c15b319c08dc800a8192469b611104ee04f1ae680def85cf777ee1ad6568135d",
+   "capture_run": "20261123T175837Z",
+   "file": "axlesindia-financial.html",
+   "raw_label": "Total Income",
+   "raw_text": "846.78",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "31-03-2025",
+   "basis": "standalone",
+   "anchor": {
+    "file": "axlesindia-financial.html",
+    "table_index": 2,
+    "row_index": 5,
+    "heading": "Axles India Limited Standalone Profit & Loss Statement (Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev4": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/axles-india-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:46+00:00",
+   "sha256": "c15b319c08dc800a8192469b611104ee04f1ae680def85cf777ee1ad6568135d",
+   "capture_run": "20261123T175837Z",
+   "file": "axlesindia-financial.html",
+   "raw_label": "Total Income",
+   "raw_text": "887.85",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "31-03-2026",
+   "basis": "standalone",
+   "anchor": {
+    "file": "axlesindia-financial.html",
+    "table_index": 2,
+    "row_index": 5,
+    "heading": "Axles India Limited Standalone Profit & Loss Statement (Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev5": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/axles-india-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:46+00:00",
+   "sha256": "c15b319c08dc800a8192469b611104ee04f1ae680def85cf777ee1ad6568135d",
+   "capture_run": "20261123T175837Z",
+   "file": "axlesindia-financial.html",
+   "raw_label": "Revenue from Operations",
+   "raw_text": "841.54",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "31-03-2025",
+   "basis": "standalone",
+   "anchor": {
+    "file": "axlesindia-financial.html",
+    "table_index": 2,
+    "row_index": 2,
+    "heading": "Axles India Limited Standalone Profit & Loss Statement (Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev6": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/axles-india-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:46+00:00",
+   "sha256": "c15b319c08dc800a8192469b611104ee04f1ae680def85cf777ee1ad6568135d",
+   "capture_run": "20261123T175837Z",
+   "file": "axlesindia-financial.html",
+   "raw_label": "Revenue from Operations",
+   "raw_text": "871.19",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "31-03-2026",
+   "basis": "standalone",
+   "anchor": {
+    "file": "axlesindia-financial.html",
+    "table_index": 2,
+    "row_index": 2,
+    "heading": "Axles India Limited Standalone Profit & Loss Statement (Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev7": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/axles-india-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:46+00:00",
+   "sha256": "c15b319c08dc800a8192469b611104ee04f1ae680def85cf777ee1ad6568135d",
+   "capture_run": "20261123T175837Z",
+   "file": "axlesindia-financial.html",
+   "raw_label": "Other Income",
+   "raw_text": "2.11",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "31-03-2025",
+   "basis": "standalone",
+   "anchor": {
+    "file": "axlesindia-financial.html",
+    "table_index": 2,
+    "row_index": 3,
+    "heading": "Axles India Limited Standalone Profit & Loss Statement (Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev8": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/axles-india-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:46+00:00",
+   "sha256": "c15b319c08dc800a8192469b611104ee04f1ae680def85cf777ee1ad6568135d",
+   "capture_run": "20261123T175837Z",
+   "file": "axlesindia-financial.html",
+   "raw_label": "Other Income",
+   "raw_text": "2.27",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "31-03-2026",
+   "basis": "standalone",
+   "anchor": {
+    "file": "axlesindia-financial.html",
+    "table_index": 2,
+    "row_index": 3,
+    "heading": "Axles India Limited Standalone Profit & Loss Statement (Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev9": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/axles-india-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:46+00:00",
+   "sha256": "c15b319c08dc800a8192469b611104ee04f1ae680def85cf777ee1ad6568135d",
+   "capture_run": "20261123T175837Z",
+   "file": "axlesindia-financial.html",
+   "raw_label": "Other gains/(losses)",
+   "raw_text": "3.13",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "31-03-2025",
+   "basis": "standalone",
+   "anchor": {
+    "file": "axlesindia-financial.html",
+    "table_index": 2,
+    "row_index": 4,
+    "heading": "Axles India Limited Standalone Profit & Loss Statement (Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev10": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/axles-india-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:46+00:00",
+   "sha256": "c15b319c08dc800a8192469b611104ee04f1ae680def85cf777ee1ad6568135d",
+   "capture_run": "20261123T175837Z",
+   "file": "axlesindia-financial.html",
+   "raw_label": "Other gains/(losses)",
+   "raw_text": "14.39",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "31-03-2026",
+   "basis": "standalone",
+   "anchor": {
+    "file": "axlesindia-financial.html",
+    "table_index": 2,
+    "row_index": 4,
+    "heading": "Axles India Limited Standalone Profit & Loss Statement (Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev11": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/axles-india-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:46+00:00",
+   "sha256": "c15b319c08dc800a8192469b611104ee04f1ae680def85cf777ee1ad6568135d",
+   "capture_run": "20261123T175837Z",
+   "file": "axlesindia-financial.html",
+   "raw_label": "Total Expenses",
+   "raw_text": "753.63",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "31-03-2025",
+   "basis": "standalone",
+   "anchor": {
+    "file": "axlesindia-financial.html",
+    "table_index": 2,
+    "row_index": 13,
+    "heading": "Axles India Limited Standalone Profit & Loss Statement (Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev12": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/axles-india-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:46+00:00",
+   "sha256": "c15b319c08dc800a8192469b611104ee04f1ae680def85cf777ee1ad6568135d",
+   "capture_run": "20261123T175837Z",
+   "file": "axlesindia-financial.html",
+   "raw_label": "Total Expenses",
+   "raw_text": "791.27",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "31-03-2026",
+   "basis": "standalone",
+   "anchor": {
+    "file": "axlesindia-financial.html",
+    "table_index": 2,
+    "row_index": 13,
+    "heading": "Axles India Limited Standalone Profit & Loss Statement (Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev13": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/axles-india-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:46+00:00",
+   "sha256": "c15b319c08dc800a8192469b611104ee04f1ae680def85cf777ee1ad6568135d",
+   "capture_run": "20261123T175837Z",
+   "file": "axlesindia-financial.html",
+   "raw_label": "Finance costs",
+   "raw_text": "0.87",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "31-03-2025",
+   "basis": "standalone",
+   "anchor": {
+    "file": "axlesindia-financial.html",
+    "table_index": 2,
+    "row_index": 12,
+    "heading": "Axles India Limited Standalone Profit & Loss Statement (Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev14": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/axles-india-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:46+00:00",
+   "sha256": "c15b319c08dc800a8192469b611104ee04f1ae680def85cf777ee1ad6568135d",
+   "capture_run": "20261123T175837Z",
+   "file": "axlesindia-financial.html",
+   "raw_label": "Finance costs",
+   "raw_text": "1.00",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "31-03-2026",
+   "basis": "standalone",
+   "anchor": {
+    "file": "axlesindia-financial.html",
+    "table_index": 2,
+    "row_index": 12,
+    "heading": "Axles India Limited Standalone Profit & Loss Statement (Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev15": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/axles-india-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:46+00:00",
+   "sha256": "c15b319c08dc800a8192469b611104ee04f1ae680def85cf777ee1ad6568135d",
+   "capture_run": "20261123T175837Z",
+   "file": "axlesindia-financial.html",
+   "raw_label": "Depreciation & amortization expense",
+   "raw_text": "11.54",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "31-03-2025",
+   "basis": "standalone",
+   "anchor": {
+    "file": "axlesindia-financial.html",
+    "table_index": 2,
+    "row_index": 10,
+    "heading": "Axles India Limited Standalone Profit & Loss Statement (Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev16": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/axles-india-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:46+00:00",
+   "sha256": "c15b319c08dc800a8192469b611104ee04f1ae680def85cf777ee1ad6568135d",
+   "capture_run": "20261123T175837Z",
+   "file": "axlesindia-financial.html",
+   "raw_label": "Depreciation & amortization expense",
+   "raw_text": "13.12",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "31-03-2026",
+   "basis": "standalone",
+   "anchor": {
+    "file": "axlesindia-financial.html",
+    "table_index": 2,
+    "row_index": 10,
+    "heading": "Axles India Limited Standalone Profit & Loss Statement (Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev17": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/axles-india-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:46+00:00",
+   "sha256": "c15b319c08dc800a8192469b611104ee04f1ae680def85cf777ee1ad6568135d",
+   "capture_run": "20261123T175837Z",
+   "file": "axlesindia-financial.html",
+   "raw_label": "Profit Before Tax",
+   "raw_text": "93.15",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "31-03-2025",
+   "basis": "standalone",
+   "anchor": {
+    "file": "axlesindia-financial.html",
+    "table_index": 2,
+    "row_index": 14,
+    "heading": "Axles India Limited Standalone Profit & Loss Statement (Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev18": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/axles-india-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:46+00:00",
+   "sha256": "c15b319c08dc800a8192469b611104ee04f1ae680def85cf777ee1ad6568135d",
+   "capture_run": "20261123T175837Z",
+   "file": "axlesindia-financial.html",
+   "raw_label": "Profit Before Tax",
+   "raw_text": "96.58",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "31-03-2026",
+   "basis": "standalone",
+   "anchor": {
+    "file": "axlesindia-financial.html",
+    "table_index": 2,
+    "row_index": 14,
+    "heading": "Axles India Limited Standalone Profit & Loss Statement (Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev19": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/axles-india-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:46+00:00",
+   "sha256": "c15b319c08dc800a8192469b611104ee04f1ae680def85cf777ee1ad6568135d",
+   "capture_run": "20261123T175837Z",
+   "file": "axlesindia-financial.html",
+   "raw_label": "Profit/(Loss) for the period",
+   "raw_text": "68.70",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "31-03-2025",
+   "basis": "standalone",
+   "anchor": {
+    "file": "axlesindia-financial.html",
+    "table_index": 2,
+    "row_index": 17,
+    "heading": "Axles India Limited Standalone Profit & Loss Statement (Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev20": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/axles-india-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:46+00:00",
+   "sha256": "c15b319c08dc800a8192469b611104ee04f1ae680def85cf777ee1ad6568135d",
+   "capture_run": "20261123T175837Z",
+   "file": "axlesindia-financial.html",
+   "raw_label": "Profit/(Loss) for the period",
+   "raw_text": "73.24",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "31-03-2026",
+   "basis": "standalone",
+   "anchor": {
+    "file": "axlesindia-financial.html",
+    "table_index": 2,
+    "row_index": 17,
+    "heading": "Axles India Limited Standalone Profit & Loss Statement (Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev21": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/axles-india-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:46+00:00",
+   "sha256": "c15b319c08dc800a8192469b611104ee04f1ae680def85cf777ee1ad6568135d",
+   "capture_run": "20261123T175837Z",
+   "file": "axlesindia-financial.html",
+   "raw_label": "Total Assets",
+   "raw_text": "518.76",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "31-03-2025",
+   "basis": "standalone",
+   "anchor": {
+    "file": "axlesindia-financial.html",
+    "table_index": 1,
+    "row_index": 16,
+    "heading": "Axles India Limited Standalone Balance Sheet (Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev22": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/axles-india-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:46+00:00",
+   "sha256": "c15b319c08dc800a8192469b611104ee04f1ae680def85cf777ee1ad6568135d",
+   "capture_run": "20261123T175837Z",
+   "file": "axlesindia-financial.html",
+   "raw_label": "Total Assets",
+   "raw_text": "543.03",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "31-03-2026",
+   "basis": "standalone",
+   "anchor": {
+    "file": "axlesindia-financial.html",
+    "table_index": 1,
+    "row_index": 16,
+    "heading": "Axles India Limited Standalone Balance Sheet (Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev23": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/axles-india-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:46+00:00",
+   "sha256": "c15b319c08dc800a8192469b611104ee04f1ae680def85cf777ee1ad6568135d",
+   "capture_run": "20261123T175837Z",
+   "file": "axlesindia-financial.html",
+   "raw_label": "Sum of 2 lines under 'equity'",
+   "raw_text": null,
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": null,
+   "basis": "standalone",
+   "anchor": {
+    "file": "axlesindia-financial.html",
+    "table_index": 1,
+    "row_index": 18,
+    "heading": "Axles India Limited Standalone Balance Sheet (Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": true,
+   "components": [
+    {
+     "label": "Equity Share Capital",
+     "value": "25.49"
+    },
+    {
+     "label": "Reserves And Surplus",
+     "value": "282.12"
+    }
+   ]
+  },
+  "ev24": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/axles-india-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:46+00:00",
+   "sha256": "c15b319c08dc800a8192469b611104ee04f1ae680def85cf777ee1ad6568135d",
+   "capture_run": "20261123T175837Z",
+   "file": "axlesindia-financial.html",
+   "raw_label": "Sum of 2 lines under 'equity'",
+   "raw_text": null,
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": null,
+   "basis": "standalone",
+   "anchor": {
+    "file": "axlesindia-financial.html",
+    "table_index": 1,
+    "row_index": 18,
+    "heading": "Axles India Limited Standalone Balance Sheet (Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": true,
+   "components": [
+    {
+     "label": "Equity Share Capital",
+     "value": "25.49"
+    },
+    {
+     "label": "Reserves And Surplus",
+     "value": "344"
+    }
+   ]
+  },
+  "ev25": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/axles-india-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:46+00:00",
+   "sha256": "c15b319c08dc800a8192469b611104ee04f1ae680def85cf777ee1ad6568135d",
+   "capture_run": "20261123T175837Z",
+   "file": "axlesindia-financial.html",
+   "raw_label": "Sum of 6 lines under 'current assets'",
+   "raw_text": null,
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": null,
+   "basis": "standalone",
+   "anchor": {
+    "file": "axlesindia-financial.html",
+    "table_index": 1,
+    "row_index": 10,
+    "heading": "Axles India Limited Standalone Balance Sheet (Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": true,
+   "components": [
+    {
+     "label": "Inventories",
+     "value": "178.54"
+    },
+    {
+     "label": "Trade Receivables",
+     "value": "190.7"
+    },
+    {
+     "label": "Cash And Cash Equivalents",
+     "value": "29.49"
+    },
+    {
+     "label": "Bank Balances Other Than (Ii) Above",
+     "value": "0.28"
+    },
+    {
+     "label": "Loans",
+     "value": "0.63"
+    },
+    {
+     "label": "Other Current Asset",
+     "value": "12.06"
+    }
+   ]
+  },
+  "ev26": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/axles-india-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:46+00:00",
+   "sha256": "c15b319c08dc800a8192469b611104ee04f1ae680def85cf777ee1ad6568135d",
+   "capture_run": "20261123T175837Z",
+   "file": "axlesindia-financial.html",
+   "raw_label": "Sum of 6 lines under 'current assets'",
+   "raw_text": null,
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": null,
+   "basis": "standalone",
+   "anchor": {
+    "file": "axlesindia-financial.html",
+    "table_index": 1,
+    "row_index": 10,
+    "heading": "Axles India Limited Standalone Balance Sheet (Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": true,
+   "components": [
+    {
+     "label": "Inventories",
+     "value": "151.25"
+    },
+    {
+     "label": "Trade Receivables",
+     "value": "198.8"
+    },
+    {
+     "label": "Cash And Cash Equivalents",
+     "value": "76.06"
+    },
+    {
+     "label": "Bank Balances Other Than (Ii) Above",
+     "value": "0.25"
+    },
+    {
+     "label": "Loans",
+     "value": "0.58"
+    },
+    {
+     "label": "Other Current Asset",
+     "value": "13.99"
+    }
+   ]
+  },
+  "ev27": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/axles-india-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:46+00:00",
+   "sha256": "c15b319c08dc800a8192469b611104ee04f1ae680def85cf777ee1ad6568135d",
+   "capture_run": "20261123T175837Z",
+   "file": "axlesindia-financial.html",
+   "raw_label": "Sum of 6 lines under 'current liabilities'",
+   "raw_text": null,
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": null,
+   "basis": "standalone",
+   "anchor": {
+    "file": "axlesindia-financial.html",
+    "table_index": 1,
+    "row_index": 25,
+    "heading": "Axles India Limited Standalone Balance Sheet (Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": true,
+   "components": [
+    {
+     "label": "Borrowings",
+     "value": "41.59"
+    },
+    {
+     "label": "Other Financial Liabilities",
+     "value": "8.41"
+    },
+    {
+     "label": "Provisions",
+     "value": "10.45"
+    },
+    {
+     "label": "Employee Benefit Obligations",
+     "value": "5.69"
+    },
+    {
+     "label": "Current Tax Liabilities (Net",
+     "value": "0.78"
+    },
+    {
+     "label": "Other Current Liabilities",
+     "value": "6.51"
+    }
+   ]
+  },
+  "ev28": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/axles-india-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:46+00:00",
+   "sha256": "c15b319c08dc800a8192469b611104ee04f1ae680def85cf777ee1ad6568135d",
+   "capture_run": "20261123T175837Z",
+   "file": "axlesindia-financial.html",
+   "raw_label": "Sum of 6 lines under 'current liabilities'",
+   "raw_text": null,
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": null,
+   "basis": "standalone",
+   "anchor": {
+    "file": "axlesindia-financial.html",
+    "table_index": 1,
+    "row_index": 25,
+    "heading": "Axles India Limited Standalone Balance Sheet (Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": true,
+   "components": [
+    {
+     "label": "Borrowings",
+     "value": "7.76"
+    },
+    {
+     "label": "Other Financial Liabilities",
+     "value": "5.66"
+    },
+    {
+     "label": "Provisions",
+     "value": "14.16"
+    },
+    {
+     "label": "Employee Benefit Obligations",
+     "value": "6.28"
+    },
+    {
+     "label": "Current Tax Liabilities (Net",
+     "value": "0.01"
+    },
+    {
+     "label": "Other Current Liabilities",
+     "value": "6.66"
+    }
+   ]
+  },
+  "ev29": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/axles-india-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:46+00:00",
+   "sha256": "c15b319c08dc800a8192469b611104ee04f1ae680def85cf777ee1ad6568135d",
+   "capture_run": "20261123T175837Z",
+   "file": "axlesindia-financial.html",
+   "raw_label": "Inventories",
+   "raw_text": "178.54",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "31-03-2025",
+   "basis": "standalone",
+   "anchor": {
+    "file": "axlesindia-financial.html",
+    "table_index": 1,
+    "row_index": 10,
+    "heading": "Axles India Limited Standalone Balance Sheet (Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev30": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/axles-india-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:46+00:00",
+   "sha256": "c15b319c08dc800a8192469b611104ee04f1ae680def85cf777ee1ad6568135d",
+   "capture_run": "20261123T175837Z",
+   "file": "axlesindia-financial.html",
+   "raw_label": "Inventories",
+   "raw_text": "151.25",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "31-03-2026",
+   "basis": "standalone",
+   "anchor": {
+    "file": "axlesindia-financial.html",
+    "table_index": 1,
+    "row_index": 10,
+    "heading": "Axles India Limited Standalone Balance Sheet (Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev31": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/axles-india-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:46+00:00",
+   "sha256": "c15b319c08dc800a8192469b611104ee04f1ae680def85cf777ee1ad6568135d",
+   "capture_run": "20261123T175837Z",
+   "file": "axlesindia-financial.html",
+   "raw_label": "Cash And Cash Equivalents",
+   "raw_text": "29.49",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "31-03-2025",
+   "basis": "standalone",
+   "anchor": {
+    "file": "axlesindia-financial.html",
+    "table_index": 1,
+    "row_index": 12,
+    "heading": "Axles India Limited Standalone Balance Sheet (Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev32": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/axles-india-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:46+00:00",
+   "sha256": "c15b319c08dc800a8192469b611104ee04f1ae680def85cf777ee1ad6568135d",
+   "capture_run": "20261123T175837Z",
+   "file": "axlesindia-financial.html",
+   "raw_label": "Cash And Cash Equivalents",
+   "raw_text": "76.06",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "31-03-2026",
+   "basis": "standalone",
+   "anchor": {
+    "file": "axlesindia-financial.html",
+    "table_index": 1,
+    "row_index": 12,
+    "heading": "Axles India Limited Standalone Balance Sheet (Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev33": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/axles-india-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:46+00:00",
+   "sha256": "c15b319c08dc800a8192469b611104ee04f1ae680def85cf777ee1ad6568135d",
+   "capture_run": "20261123T175837Z",
+   "file": "axlesindia-financial.html",
+   "raw_label": "Loans",
+   "raw_text": "0.63",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "31-03-2025",
+   "basis": "standalone",
+   "anchor": {
+    "file": "axlesindia-financial.html",
+    "table_index": 1,
+    "row_index": 14,
+    "heading": "Axles India Limited Standalone Balance Sheet (Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev34": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/axles-india-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:46+00:00",
+   "sha256": "c15b319c08dc800a8192469b611104ee04f1ae680def85cf777ee1ad6568135d",
+   "capture_run": "20261123T175837Z",
+   "file": "axlesindia-financial.html",
+   "raw_label": "Loans",
+   "raw_text": "0.58",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "31-03-2026",
+   "basis": "standalone",
+   "anchor": {
+    "file": "axlesindia-financial.html",
+    "table_index": 1,
+    "row_index": 14,
+    "heading": "Axles India Limited Standalone Balance Sheet (Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev35": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/axles-india-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:46+00:00",
+   "sha256": "c15b319c08dc800a8192469b611104ee04f1ae680def85cf777ee1ad6568135d",
+   "capture_run": "20261123T175837Z",
+   "file": "axlesindia-financial.html",
+   "raw_label": "Net cash inflow from operating activities",
+   "raw_text": "118.04",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "31-03-2025",
+   "basis": "standalone",
+   "anchor": {
+    "file": "axlesindia-financial.html",
+    "table_index": 3,
+    "row_index": 23,
+    "heading": "Axles India Limited Standalone Cash Flow Statement (Rs in Crores)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev36": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/axles-india-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:46+00:00",
+   "sha256": "c15b319c08dc800a8192469b611104ee04f1ae680def85cf777ee1ad6568135d",
+   "capture_run": "20261123T175837Z",
+   "file": "axlesindia-financial.html",
+   "raw_label": "Net cash inflow from operating activities",
+   "raw_text": "98.81",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "31-03-2026",
+   "basis": "standalone",
+   "anchor": {
+    "file": "axlesindia-financial.html",
+    "table_index": 3,
+    "row_index": 23,
+    "heading": "Axles India Limited Standalone Cash Flow Statement (Rs in Crores)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev37": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/axles-india-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:46+00:00",
+   "sha256": "c15b319c08dc800a8192469b611104ee04f1ae680def85cf777ee1ad6568135d",
+   "capture_run": "20261123T175837Z",
+   "file": "axlesindia-financial.html",
+   "raw_label": "Net cash outflow from investing activities",
+   "raw_text": "-29.84",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "31-03-2025",
+   "basis": "standalone",
+   "anchor": {
+    "file": "axlesindia-financial.html",
+    "table_index": 3,
+    "row_index": 29,
+    "heading": "Axles India Limited Standalone Cash Flow Statement (Rs in Crores)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev38": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/axles-india-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:46+00:00",
+   "sha256": "c15b319c08dc800a8192469b611104ee04f1ae680def85cf777ee1ad6568135d",
+   "capture_run": "20261123T175837Z",
+   "file": "axlesindia-financial.html",
+   "raw_label": "Net cash outflow from investing activities",
+   "raw_text": "-1.49",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "31-03-2026",
+   "basis": "standalone",
+   "anchor": {
+    "file": "axlesindia-financial.html",
+    "table_index": 3,
+    "row_index": 29,
+    "heading": "Axles India Limited Standalone Cash Flow Statement (Rs in Crores)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev39": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/axles-india-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:46+00:00",
+   "sha256": "c15b319c08dc800a8192469b611104ee04f1ae680def85cf777ee1ad6568135d",
+   "capture_run": "20261123T175837Z",
+   "file": "axlesindia-financial.html",
+   "raw_label": "Net cash outflow from financing activities",
+   "raw_text": "-68.99",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "31-03-2025",
+   "basis": "standalone",
+   "anchor": {
+    "file": "axlesindia-financial.html",
+    "table_index": 3,
+    "row_index": 36,
+    "heading": "Axles India Limited Standalone Cash Flow Statement (Rs in Crores)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev40": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/axles-india-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:46+00:00",
+   "sha256": "c15b319c08dc800a8192469b611104ee04f1ae680def85cf777ee1ad6568135d",
+   "capture_run": "20261123T175837Z",
+   "file": "axlesindia-financial.html",
+   "raw_label": "Net cash outflow from financing activities",
+   "raw_text": "-50.75",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "31-03-2026",
+   "basis": "standalone",
+   "anchor": {
+    "file": "axlesindia-financial.html",
+    "table_index": 3,
+    "row_index": 36,
+    "heading": "Axles India Limited Standalone Cash Flow Statement (Rs in Crores)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  }
+ },
+ "news": {
+  "query": "\"Axles India Limited\"",
+  "retrieved_at": "2026-11-23T17:59:07+00:00",
+  "items": [
+   {
+    "title": "Wheels India (NSEI:WHEELS) - Stock Analysis",
+    "publisher": "Simply Wall St",
+    "date": "2026-11-20",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4tZEhjLXM5NnozbmN1M0ZpLWxvb19yWm1pdFpEZWxDUmRZSG1DVG1QbEpkbjVoclNBVUJKRzVmalFFVXBVcXhHU2hvdzNuSEFWUzI1MU5VWlNELThqTEF0MkZDU0wtX3VfdlBKTlh5cmRSa3NpTmM3bnU1YnBfeUU?oc=5"
+   },
+   {
+    "title": "Tsf Investments Share Price Target 2026, 2027, 2030, 2040, 2050",
+    "publisher": "Share Price Target",
+    "date": "2026-01-13",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1lU2xDSGNXaTVIbHZzdlhFdFRpNG5Qc1ZtNkJfUmRMcWd2YWtHcDRfUV9TbV9hdEtnWWVkUUIzTjhfVVRrQmw1UHJPcFRKOWJUNS1fcTNINEVyNk0wUUlHbUh2T2NkSEdFSHdCbkFpTXhFbXc?oc=5"
+   },
+   {
+    "title": "AXLES INDIA LIMITED FINANCIAL RESULTS ANALYSIS (FY22–FY25)",
+    "publisher": "UnlistedZone",
+    "date": "2025-08-04",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZ25kVk51UzRlWWhFSjYtT0xkVjRlczRBcnd6aTU5bnlOOXZVdzJ5cWY0bHNsckRfQXN0VDZSbG1Dd0d5ekUtZzZVYnlBU3FfRTdETV8yXzRSQS1vUUdIOF83b0FRWW00YlRDUEdkejRhSXlUQk5VV0xBS1NCNkNDNVNfNWZqZ1E?oc=5"
+   },
+   {
+    "title": "EPFO to conduct Nidhi Aapke Nikat 2.0",
+    "publisher": "The Hindu",
+    "date": "2025-07-25",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPLWloVlF0UTl4SDIyNV9tVDdMLVFtS2Rjck1Jc2J5cHVieTJYcWxFMkFQXzVIR09vV242eXBYUWMyQktTZk9Ca2FvMkJyZ0tfaEQ4RUlLdzJpX3NpRjB6YVZVdm1QVm82YUwzWndnTENMZmdlVU9DOFpZRW9WdEVnT0U5N3ltM1hEaTNhYVJ6M19rV3lNeF9kUXE1bFNidXFsVzB3dGp5R3Jfd9IBsAFBVV95cUxNUE5aTlFkZmFNbUc0WkcxTDJIcmg2aHZQY2JoejFmcTNhdnVWNEMxZkowa3FGdVhMUG5uUkc2R0d0N2dHcnF2SGpEd00xVVIySDA4NGEweEtsbVBybUVzR1VtcF9fUlJ0MEhuazdpOEtiV0l0V28xQm5meFZHUW1OVDF0S0xjODkySXlScGNwdi0tVkw4SE12bFd5X0lCTGUtQ21sN1d1VUROaXlCQnJWdw?oc=5"
+   },
+   {
+    "title": "Wheels India to acquire 7.64 lakh equity shares of Axles India from Forge 2000 for ₹23 crore",
+    "publisher": "BusinessLine",
+    "date": "2025-06-25",
+    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNNWNfdUJzZkFBZ3lYZF9fcmRWSFVhbTdtek01ZnBfWncxUzUtWF9qRk0wYW1lcjVTNVVBeWxpLXdRRF9MVU55Z1FoTUpQblo5aXVGSXVxNFlFNEZkVDVKeVJHYjRHYVhqOXhvYjY1Z0N5WGlmZmJWMjNjVDVpWHhhZ09Xdk5ldHkyZHdocEtmbF83UlZNMEtNbi1Xb0dFZ2dpd2gtc3R5UTRSb0VRRWl6MVlUTGZSZ1paQldZbGlZY2pqYlhhTGx4Z2hEcmlNbzdaRXIxN2hHTTd4Rl9wVkxiWnVmMnc4eUxvRHB2bjh30gH0AUFVX3lxTE9vWDFTQjJzN1hXLVpiZDZzdXJIMHgyeE9jdk5FRWVkSzJlYzZqOVFkSHh6MkdhQ0lHMEhrY3dYRWJmUTRnNXpOZEtYb0VWNDdfdEN0T1JmSTU4TnBKSDhOZlVYeUdEbmhUMTFtNF9LR2J5bW5UcFFEQkUyMUJEYWVLd3ZNR3VTOFhCY1BtR3F4WkpQNWl0bWJBMFNsMmQtaGZrNTI5WHZyOF94Qkp1QURyRkF6LUpjWmUwQmN3em95VHUxdFNRblcycnBKaExFdHEwZ3NOVWtwekRMTklFMGo1Wk5Bd0Y1T0I3eUlaWnZSSFBGYmU?oc=5"
+   },
+   {
+    "title": "Sundaram Finance Holdings to Acquire 24.16% Stake in Axles India for ₹182.68 Crore",
+    "publisher": "Autocar Professional",
+    "date": "2025-04-10",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZm9BVFh1dXoxSWdXMWRpSkx2Ri1QT2xBVTlvMlJfbnhIbThaNkRGWElSenRQRVE3QmpLbmFqRzVJRDZwc3F3QlZ3SkZvQUlHSE9fdFYwZFJXWXBsMTRQY3dUR0ZXczQzYXc0c0VNeTVheFNBRHRPWjVzYjJlZVpudVZvWUxfajZqUlZjNm5yN2Y3UTFIRjgxV0laU0JxUWJSaHJvLWdFaHdaQy1QX3hTWjZ5akFtWUpWQlp0aEZPRWZmRkXSAcsBQVVfeXFMTVFyc2pVdVBUSGtPYWh0LW54bWtySmZlU09jNXhFVW1pMjdlUm5UNnZjWDRZajJFUTdsZTktSnFfRzJwbWx5UjI2RTd2aExjbTRERXp2QzBFTDVUQnBEcmlfSkxKLWNIV2lpbE9KTlFDb2pzcEstZzRYQmVMczNSblhmWWhqYjlBdjBsdVZ6b0Iwa2NVS0s0WVlrOHY3dWc4b3BDYmN4Zi12ei1HcVdzMzE1N1lQekJPVFNseDNHYlB6UGxFd0Zmd0t2QkE?oc=5"
+   },
+   {
+    "title": "Enterprise Growth Awards 2025",
+    "publisher": "Deloitte",
+    "date": "2025-03-11",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQU1lYZWtBd0I3NXZVZk9aWW1WcEgyU25xUnViX3lJN29iREEyMHFhTHh3aWRQMkZnN2JBOFpIZjZJNkRtbjdEcTN4UDkyOXdXZThVLXdPcGF3OVNxdjdhYnU3YUhtZVV0bGczbDVBS2lGc3VLWjhLVWhMdEhxRl96VDlKakRzSzVyNjlpWlRGNjZWNVVqMDc4b1JseG5jWTQ5MkFtbHNn?oc=5"
+   },
+   {
+    "title": "Axles India Limited Unlisted Share Price — Buy Sell with UnlistedZone",
+    "publisher": "UnlistedZone",
+    "date": "2024-01-11",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBjZjJnTS1pQ0NJQjFoX2NvQTlva3JadHVmOEhhcVJUbjZXeXRubDJJQTRNenJuZ3EyTTZSNFFNT2tEczd5akdlQWstelpfWXNzWF9mSVFYRDlpWE1xaHhEQlJOcmlSUXh6ZENlQ25nT2dfYktpWXc?oc=5"
+   }
+  ],
+  "source": {
+   "name": "Google News RSS search",
+   "url": "https://news.google.com/rss/search?q=%22Axles+India+Limited%22&hl=en-IN&gl=IN&ceid=IN:en",
+   "sha256": "bcff8219fac40cf3cb4096a0f47bfff34781575a9c95639f71c6d8f82f0c2a68",
+   "run": "20261123T175837Z"
+  }
+ },
+ "peer_reviewed": true,
+ "discovery": [
+  {
+   "id": "gkndriveline",
+   "short": "GKN Driveline",
+   "name": "GKN Driveline (India) Ltd",
+   "reasons": [
+    "same business: Driveline",
+    "in the news 2026-10-07"
+   ],
+   "score": 4,
+   "price_inr": 1980.0,
+   "latest_period": "FY2026"
+  },
+  {
+   "id": "ncdex",
+   "short": "NCDEX",
+   "name": "National Commodity & Derivatives Exchange Ltd",
+   "reasons": [
+    "provider reports DRHP filed (IPO research lead)",
+    "in the news 2026-11-11"
+   ],
+   "score": 3,
+   "price_inr": 253.0,
+   "latest_period": "FY2026"
+  },
+  {
+   "id": "oyo",
+   "short": "OYO",
+   "name": "Oravel Stays Ltd (OYO)",
+   "reasons": [
+    "provider reports DRHP filed (IPO research lead)",
+    "in the news 2026-11-23"
+   ],
+   "score": 3,
+   "price_inr": 20.45,
+   "latest_period": "FY2026"
+  },
+  {
+   "id": "pharmeasy",
+   "short": "PharmEasy",
+   "name": "API Holdings Ltd (PharmEasy)",
+   "reasons": [
+    "provider reports DRHP filed (IPO research lead)",
+    "in the news 2026-10-28"
+   ],
+   "score": 3,
+   "price_inr": 6.15,
+   "latest_period": "FY2026"
+  },
+  {
+   "id": "cial",
+   "short": "CIAL",
+   "name": "Cochin International Airport Ltd",
+   "reasons": [
+    "in the news 2026-11-21"
+   ],
+   "score": 1,
+   "price_inr": 440.0,
+   "latest_period": "FY2026"
+  },
+  {
+   "id": "csk",
+   "short": "CSK",
+   "name": "Chennai Super Kings Cricket Ltd",
+   "reasons": [
+    "in the news 2026-11-20"
+   ],
+   "score": 1,
+   "price_inr": 245.0,
+   "latest_period": "FY2026"
+  }
+ ],
+ "fallbacks": []
+}

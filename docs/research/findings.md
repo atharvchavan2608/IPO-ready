@@ -1,5 +1,13 @@
 # Research findings
 
+## November exploration findings, 2026-11-12
+
+The [free-data portal pilot](topics/unlisted-free-data.md) informed the archived exploration. N01-N10 document the architecture, provider/status access and expert-method research. Free HTML supported a bounded provisional prototype. Unspecified reporting basis and stale company classification required independent review. The executed NSE status correction shows why identity and offering timelines need separate evidence from financial tables.
+
+The [expert-analysis note](topics/expert-analysis-pipeline.md) proposes a claim/evidence layer for business drivers, strengths, weaknesses and conditional valuation judgments. It is informed by the Chittorgarh review index and selected Canara/ICICI notes; no individual Davda article or expert predictive performance has been evaluated. The exploration used deterministic calculations and exposed its secondary-source limitations. [Research status](STATUS.md) records how to use these findings in the fresh build.
+
+The sections below preserve earlier findings and scope history.
+
 As of 2026-10-22. These are working conclusions, not frozen product requirements. Source IDs resolve through [the register](sources/INDEX.md).
 
 ## Latest update: global pre-IPO planning

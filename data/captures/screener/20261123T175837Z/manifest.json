@@ -1,0 +1,142 @@
+{
+  "source": "screener",
+  "run_id": "20261123T175837Z",
+  "items": [
+    {
+      "url": "https://www.screener.in/company/ALKEM/consolidated/",
+      "retrieved_at": "2026-11-23T17:58:50+00:00",
+      "status": 200,
+      "final_url": "https://www.screener.in/company/ALKEM/consolidated/",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 262428,
+      "sha256": "441f28766c6624454fd35f41be6f43fd0c8971608e6a70b09eefd33edaae1878",
+      "id": "ALKEM-consolidated",
+      "symbol": "ALKEM",
+      "basis": "consolidated",
+      "path": "ALKEM-consolidated.html"
+    },
+    {
+      "url": "https://www.screener.in/company/ALKEM/",
+      "retrieved_at": "2026-11-23T17:58:52+00:00",
+      "status": 200,
+      "final_url": "https://www.screener.in/company/ALKEM/",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 261319,
+      "sha256": "dbd082be2ffd8ebe3fa9314a7894e4418863a21364d41c240a6c59606c1ec82a",
+      "id": "ALKEM-standalone",
+      "symbol": "ALKEM",
+      "basis": "standalone",
+      "path": "ALKEM-standalone.html"
+    },
+    {
+      "url": "https://www.screener.in/company/AUTOAXLES/consolidated/",
+      "retrieved_at": "2026-11-23T17:58:53+00:00",
+      "status": 200,
+      "final_url": "https://www.screener.in/company/AUTOAXLES/consolidated/",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 223025,
+      "sha256": "ba544cb0d57cb485caaa57b5dd7f00861a5a466b1ad224743e3c449f2dedc804",
+      "id": "AUTOAXLES-consolidated",
+      "symbol": "AUTOAXLES",
+      "basis": "consolidated",
+      "path": "AUTOAXLES-consolidated.html"
+    },
+    {
+      "url": "https://www.screener.in/company/AUTOAXLES/",
+      "retrieved_at": "2026-11-23T17:58:54+00:00",
+      "status": 200,
+      "final_url": "https://www.screener.in/company/AUTOAXLES/",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 226586,
+      "sha256": "61ab1a80ac95272d95397e83740ebdb3f994951820dec287862e489b57e2869d",
+      "id": "AUTOAXLES-standalone",
+      "symbol": "AUTOAXLES",
+      "basis": "standalone",
+      "path": "AUTOAXLES-standalone.html"
+    },
+    {
+      "url": "https://www.screener.in/company/COLPAL/consolidated/",
+      "retrieved_at": "2026-11-23T17:58:55+00:00",
+      "status": 200,
+      "final_url": "https://www.screener.in/company/COLPAL/consolidated/",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 157986,
+      "sha256": "566f473fd013e720a40ed45cc208fcc499bfcd370c063127b7915f39eedf8245",
+      "id": "COLPAL-consolidated",
+      "symbol": "COLPAL",
+      "basis": "consolidated",
+      "path": "COLPAL-consolidated.html"
+    },
+    {
+      "url": "https://www.screener.in/company/COLPAL/",
+      "retrieved_at": "2026-11-23T17:58:56+00:00",
+      "status": 200,
+      "final_url": "https://www.screener.in/company/COLPAL/",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 226733,
+      "sha256": "ddf0251c5c4b7bfb6deb11da954d369977f687381c211efefd8d3b026b4c3c60",
+      "id": "COLPAL-standalone",
+      "symbol": "COLPAL",
+      "basis": "standalone",
+      "path": "COLPAL-standalone.html"
+    },
+    {
+      "url": "https://www.screener.in/company/GNA/consolidated/",
+      "retrieved_at": "2026-11-23T17:58:58+00:00",
+      "status": 200,
+      "final_url": "https://www.screener.in/company/GNA/consolidated/",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 193792,
+      "sha256": "cdae6eba5f5a095dff575f62ec8642d394545c013f52063da2d3413d6f6b81ce",
+      "id": "GNA-consolidated",
+      "symbol": "GNA",
+      "basis": "consolidated",
+      "path": "GNA-consolidated.html"
+    },
+    {
+      "url": "https://www.screener.in/company/GNA/",
+      "retrieved_at": "2026-11-23T17:58:59+00:00",
+      "status": 200,
+      "final_url": "https://www.screener.in/company/GNA/",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 193512,
+      "sha256": "537b1e0b4678a01e9dad08d3669f8b86f96d350b3ccbf48f951dc9e3a26af2b7",
+      "id": "GNA-standalone",
+      "symbol": "GNA",
+      "basis": "standalone",
+      "path": "GNA-standalone.html"
+    },
+    {
+      "url": "https://www.screener.in/company/IPCALAB/consolidated/",
+      "retrieved_at": "2026-11-23T17:59:00+00:00",
+      "status": 200,
+      "final_url": "https://www.screener.in/company/IPCALAB/consolidated/",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 239678,
+      "sha256": "f30aefca31a02739ac579b078c6e6f1d8c331a8bf00468da263c35bce115c3bf",
+      "id": "IPCALAB-consolidated",
+      "symbol": "IPCALAB",
+      "basis": "consolidated",
+      "path": "IPCALAB-consolidated.html"
+    },
+    {
+      "url": "https://www.screener.in/company/IPCALAB/",
+      "retrieved_at": "2026-11-23T17:59:01+00:00",
+      "status": 200,
+      "final_url": "https://www.screener.in/company/IPCALAB/",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 238466,
+      "sha256": "df91e9d7ea24b4ab2e7dd7d981e70ef304004ad1264b335582ec9443d67a8507",
+      "id": "IPCALAB-standalone",
+      "symbol": "IPCALAB",
+      "basis": "standalone",
+      "path": "IPCALAB-standalone.html"
+    }
+  ],
+  "summary": {
+    "attempted": 10,
+    "ok": 10,
+    "failed": 0
+  },
+  "robots_note": "screener.in/robots.txt (2026-11-23) does not disallow /company/<symbol>/"
+}

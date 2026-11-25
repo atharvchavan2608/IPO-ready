@@ -2,6 +2,8 @@
 
 Use one stable ID per reviewable record. A paper, its code and its dataset may warrant separate records because review depth differs. IDs R/P/T/D/A/B are preserved from Excel; X identifies the XBRL strand; U identifies the US/global-scope feasibility strand added on 2026-10-22.
 
+N identifies the portal, free-provider, company-status and expert-method strand added on 2026-11-12. N01-N10 supplement the 64 earlier records; no stable IDs were renumbered.
+
 ## Record fields
 
 - ID, title, type, publisher/authors, publication/version date and checked-on date.

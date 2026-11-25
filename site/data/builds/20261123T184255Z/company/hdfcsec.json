@@ -1,0 +1,4239 @@
+{
+ "id": "hdfcsec",
+ "name": "HDFC Securities Ltd",
+ "short": "HDFC Securities",
+ "hierarchy": [
+  "Financials",
+  "Capital Markets",
+  "Broking & Distribution",
+  "Retail Broking"
+ ],
+ "model": "broker",
+ "listed_peers": [
+  "ANGELONE",
+  "MOTILALOFS"
+ ],
+ "status_note": null,
+ "market_status": null,
+ "quote": {
+  "price_inr": "8000.00",
+  "state": "reported",
+  "change_raw": "+ 0.00 %",
+  "kind": "unlisted dealer quote (indicative, not an exchange trade)",
+  "as_of": "2026-11-23T16:44:51+00:00",
+  "high_52w": "9,100.00 (09/01/26)",
+  "low_52w": "7,350.00 (26/10/26)",
+  "ev": "ev1"
+ },
+ "profile": {
+  "provider_sector": "Financial Service",
+  "isin": "INE700G01014",
+  "cin": "U67120MH2000PLC152193",
+  "registration_date": "17/04/2000",
+  "face_value": "10",
+  "lot_size": "10",
+  "drhp_filed": "No",
+  "depository": "nsdl",
+  "rofr": "No",
+  "description": null,
+  "share_details_as_of": "March 31, 2026",
+  "ev": "ev2"
+ },
+ "periods": [
+  "FY2022",
+  "FY2023",
+  "FY2024",
+  "FY2025",
+  "FY2026"
+ ],
+ "basis": "unspecified",
+ "raw_units": [
+  "INR crore"
+ ],
+ "layout": "five-year summary",
+ "fields": {
+  "total_income": {
+   "label": "Total income",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": "1990.31",
+     "state": "reported",
+     "ev": "ev3"
+    },
+    "FY2023": {
+     "value": "1891.63",
+     "state": "reported",
+     "ev": "ev4"
+    },
+    "FY2024": {
+     "value": "2660.73",
+     "state": "reported",
+     "ev": "ev5"
+    },
+    "FY2025": {
+     "value": "3264.55",
+     "state": "reported",
+     "ev": "ev6"
+    },
+    "FY2026": {
+     "value": "3110.22",
+     "state": "reported",
+     "ev": "ev7"
+    }
+   }
+  },
+  "revenue_ops": {
+   "label": "Revenue from operations",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": "1975.57",
+     "state": "reported",
+     "ev": "ev8"
+    },
+    "FY2023": {
+     "value": "1891.27",
+     "state": "reported",
+     "ev": "ev9"
+    },
+    "FY2024": {
+     "value": "2660.12",
+     "state": "reported",
+     "ev": "ev10"
+    },
+    "FY2025": {
+     "value": "3263.8",
+     "state": "reported",
+     "ev": "ev11"
+    },
+    "FY2026": {
+     "value": "3107.49",
+     "state": "reported",
+     "ev": "ev12"
+    }
+   }
+  },
+  "other_income": {
+   "label": "Other income",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": "14.74",
+     "state": "reported",
+     "ev": "ev13"
+    },
+    "FY2023": {
+     "value": "0.36",
+     "state": "reported",
+     "ev": "ev14"
+    },
+    "FY2024": {
+     "value": "0.61",
+     "state": "reported",
+     "ev": "ev15"
+    },
+    "FY2025": {
+     "value": "0.75",
+     "state": "reported",
+     "ev": "ev16"
+    },
+    "FY2026": {
+     "value": "2.73",
+     "state": "reported",
+     "ev": "ev17"
+    }
+   }
+  },
+  "other_gains": {
+   "label": "Other gains / losses",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2023": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "job_work_revenue": {
+   "label": "Revenue from job work",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2023": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "total_expenses": {
+   "label": "Total expenses",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": "670",
+     "state": "reported",
+     "ev": "ev18"
+    },
+    "FY2023": {
+     "value": "849.73",
+     "state": "reported",
+     "ev": "ev19"
+    },
+    "FY2024": {
+     "value": "1389.3",
+     "state": "reported",
+     "ev": "ev20"
+    },
+    "FY2025": {
+     "value": "1768.96",
+     "state": "reported",
+     "ev": "ev21"
+    },
+    "FY2026": {
+     "value": "1876.53",
+     "state": "reported",
+     "ev": "ev22"
+    }
+   }
+  },
+  "finance_cost": {
+   "label": "Finance cost",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": "156.34",
+     "state": "reported",
+     "ev": "ev23"
+    },
+    "FY2023": {
+     "value": "295.88",
+     "state": "reported",
+     "ev": "ev24"
+    },
+    "FY2024": {
+     "value": "600.5",
+     "state": "reported",
+     "ev": "ev25"
+    },
+    "FY2025": {
+     "value": "785.45",
+     "state": "reported",
+     "ev": "ev26"
+    },
+    "FY2026": {
+     "value": "817.48",
+     "state": "reported",
+     "ev": "ev27"
+    }
+   }
+  },
+  "depreciation": {
+   "label": "Depreciation",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": "42.3",
+     "state": "reported",
+     "ev": "ev28"
+    },
+    "FY2023": {
+     "value": "57.45",
+     "state": "reported",
+     "ev": "ev29"
+    },
+    "FY2024": {
+     "value": "63.92",
+     "state": "reported",
+     "ev": "ev30"
+    },
+    "FY2025": {
+     "value": "69.62",
+     "state": "reported",
+     "ev": "ev31"
+    },
+    "FY2026": {
+     "value": "82.87",
+     "state": "reported",
+     "ev": "ev32"
+    }
+   }
+  },
+  "pbt": {
+   "label": "Profit before tax",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": "1320.31",
+     "state": "reported",
+     "ev": "ev33"
+    },
+    "FY2023": {
+     "value": "1041.9",
+     "state": "reported",
+     "ev": "ev34"
+    },
+    "FY2024": {
+     "value": "1271.43",
+     "state": "reported",
+     "ev": "ev35"
+    },
+    "FY2025": {
+     "value": "1495.59",
+     "state": "reported",
+     "ev": "ev36"
+    },
+    "FY2026": {
+     "value": "1233.69",
+     "state": "reported",
+     "ev": "ev37"
+    }
+   }
+  },
+  "tax": {
+   "label": "Tax",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": "335.97",
+     "state": "reported",
+     "ev": "ev38"
+    },
+    "FY2023": {
+     "value": "264.68",
+     "state": "reported",
+     "ev": "ev39"
+    },
+    "FY2024": {
+     "value": "320.54",
+     "state": "reported",
+     "ev": "ev40"
+    },
+    "FY2025": {
+     "value": "371.13",
+     "state": "reported",
+     "ev": "ev41"
+    },
+    "FY2026": {
+     "value": "307.11",
+     "state": "reported",
+     "ev": "ev42"
+    }
+   }
+  },
+  "pat": {
+   "label": "Profit after tax",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": "984.34",
+     "state": "reported",
+     "ev": "ev43"
+    },
+    "FY2023": {
+     "value": "777.22",
+     "state": "reported",
+     "ev": "ev44"
+    },
+    "FY2024": {
+     "value": "950.89",
+     "state": "reported",
+     "ev": "ev45"
+    },
+    "FY2025": {
+     "value": "1124.46",
+     "state": "reported",
+     "ev": "ev46"
+    },
+    "FY2026": {
+     "value": "926.58",
+     "state": "reported",
+     "ev": "ev47"
+    }
+   }
+  },
+  "total_assets": {
+   "label": "Total assets",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": "7922.54",
+     "state": "reported",
+     "ev": "ev48"
+    },
+    "FY2023": {
+     "value": "8276.54",
+     "state": "reported",
+     "ev": "ev49"
+    },
+    "FY2024": {
+     "value": "14103.07",
+     "state": "reported",
+     "ev": "ev50"
+    },
+    "FY2025": {
+     "value": "14030.66",
+     "state": "reported",
+     "ev": "ev51"
+    },
+    "FY2026": {
+     "value": "21783.83",
+     "state": "reported",
+     "ev": "ev52"
+    }
+   }
+  },
+  "total_equity": {
+   "label": "Total equity",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": "1657.91",
+     "state": "reported",
+     "ev": "ev53"
+    },
+    "FY2023": {
+     "value": "1797.14",
+     "state": "reported",
+     "ev": "ev54"
+    },
+    "FY2024": {
+     "value": "2029.24",
+     "state": "reported",
+     "ev": "ev55"
+    },
+    "FY2025": {
+     "value": "3348.02",
+     "state": "reported",
+     "ev": "ev56"
+    },
+    "FY2026": {
+     "value": "3592.56",
+     "state": "reported",
+     "ev": "ev57"
+    }
+   }
+  },
+  "total_liabilities": {
+   "label": "Total liabilities",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": "6264.62",
+     "state": "reported",
+     "ev": "ev58"
+    },
+    "FY2023": {
+     "value": "6479.4",
+     "state": "reported",
+     "ev": "ev59"
+    },
+    "FY2024": {
+     "value": "12073.83",
+     "state": "reported",
+     "ev": "ev60"
+    },
+    "FY2025": {
+     "value": "10682.64",
+     "state": "reported",
+     "ev": "ev61"
+    },
+    "FY2026": {
+     "value": "18190.33",
+     "state": "reported",
+     "ev": "ev62"
+    }
+   }
+  },
+  "current_assets": {
+   "label": "Current assets",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2023": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "current_liabilities": {
+   "label": "Current liabilities",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2023": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "inventories": {
+   "label": "Inventories",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2023": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "cash": {
+   "label": "Cash & equivalents",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2023": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "loans": {
+   "label": "Loans",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2023": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "cfo": {
+   "label": "Cash from operations",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": "-861.85",
+     "state": "reported",
+     "ev": "ev63"
+    },
+    "FY2023": {
+     "value": "369.65",
+     "state": "reported",
+     "ev": "ev64"
+    },
+    "FY2024": {
+     "value": "-2746.97",
+     "state": "reported",
+     "ev": "ev65"
+    },
+    "FY2025": {
+     "value": "2380.96",
+     "state": "reported",
+     "ev": "ev66"
+    },
+    "FY2026": {
+     "value": "-3041.43",
+     "state": "reported",
+     "ev": "ev67"
+    }
+   }
+  },
+  "cfi": {
+   "label": "Cash from investing",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": "-57.82",
+     "state": "reported",
+     "ev": "ev68"
+    },
+    "FY2023": {
+     "value": "-973.4",
+     "state": "reported",
+     "ev": "ev69"
+    },
+    "FY2024": {
+     "value": "207.04",
+     "state": "reported",
+     "ev": "ev70"
+    },
+    "FY2025": {
+     "value": "-138.13",
+     "state": "reported",
+     "ev": "ev71"
+    },
+    "FY2026": {
+     "value": "-1674.65",
+     "state": "reported",
+     "ev": "ev72"
+    }
+   }
+  },
+  "cff": {
+   "label": "Cash from financing",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": "1589.05",
+     "state": "reported",
+     "ev": "ev73"
+    },
+    "FY2023": {
+     "value": "-322.07",
+     "state": "reported",
+     "ev": "ev74"
+    },
+    "FY2024": {
+     "value": "2945.94",
+     "state": "reported",
+     "ev": "ev75"
+    },
+    "FY2025": {
+     "value": "-2209.96",
+     "state": "reported",
+     "ev": "ev76"
+    },
+    "FY2026": {
+     "value": "5679.15",
+     "state": "reported",
+     "ev": "ev77"
+    }
+   }
+  },
+  "ebitda": {
+   "label": "EBITDA",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": "1518.95",
+     "state": "reported",
+     "ev": "ev78"
+    },
+    "FY2023": {
+     "value": "1395.23",
+     "state": "reported",
+     "ev": "ev79"
+    },
+    "FY2024": {
+     "value": "1935.85",
+     "state": "reported",
+     "ev": "ev80"
+    },
+    "FY2025": {
+     "value": "2350.66",
+     "state": "reported",
+     "ev": "ev81"
+    },
+    "FY2026": {
+     "value": "2134.04",
+     "state": "reported",
+     "ev": "ev82"
+    }
+   }
+  },
+  "eps": {
+   "label": "EPS (provider)",
+   "unit": "INR",
+   "by_period": {
+    "FY2022": {
+     "value": "621.86",
+     "state": "reported",
+     "ev": "ev83"
+    },
+    "FY2023": {
+     "value": "488.98",
+     "state": "reported",
+     "ev": "ev84"
+    },
+    "FY2024": {
+     "value": "595.48",
+     "state": "reported",
+     "ev": "ev85"
+    },
+    "FY2025": {
+     "value": "632.72",
+     "state": "reported",
+     "ev": "ev86"
+    },
+    "FY2026": {
+     "value": "518.39",
+     "state": "reported",
+     "ev": "ev87"
+    }
+   }
+  },
+  "shares_outstanding": {
+   "label": "Shares outstanding",
+   "unit": "shares",
+   "by_period": {
+    "FY2022": {
+     "value": "15828975",
+     "state": "reported",
+     "ev": "ev88"
+    },
+    "FY2023": {
+     "value": "15894600",
+     "state": "reported",
+     "ev": "ev89"
+    },
+    "FY2024": {
+     "value": "15968420",
+     "state": "reported",
+     "ev": "ev90"
+    },
+    "FY2025": {
+     "value": "17771969",
+     "state": "reported",
+     "ev": "ev91"
+    },
+    "FY2026": {
+     "value": "17874109",
+     "state": "reported",
+     "ev": "ev92"
+    }
+   }
+  }
+ },
+ "documents": [],
+ "reconciliation": null,
+ "agent": {
+  "inventories": {
+   "company": "hdfcsec",
+   "field": "inventories",
+   "status": "not_found_no_documents",
+   "summary": "No issuer documents retained for HDFC Securities; the provider does not report inventories. Expectation: not_expected.",
+   "how_to_verify": "Not verifiable from retained evidence.",
+   "expectation": {
+    "level": "not_expected",
+    "reason": "A broker or custodian holds client and own financial assets, not goods."
+   },
+   "evidence": [],
+   "evidence_total": 0,
+   "next_checks": [
+    "Audited annual report: balance sheet 'Inventories' line and note on valuation",
+    "MCA AOC-4 financial statement filing (paid access)",
+    "DRHP 'Restated financial information' if the company files for an IPO"
+   ],
+   "trace": [
+    {
+     "step": 1,
+     "tool": "provider_lookup",
+     "input": {
+      "company": "hdfcsec",
+      "field": "inventories"
+     },
+     "output": {
+      "found": false,
+      "periods": [],
+      "detail": "no matching line in the provider's parsed statements"
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 2,
+     "tool": "applicability_rule",
+     "input": {
+      "field": "inventories",
+      "business_model": "broker"
+     },
+     "output": {
+      "expectation": "not_expected",
+      "reason": "A broker or custodian holds client and own financial assets, not goods."
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 3,
+     "tool": "statement_line_check",
+     "input": {
+      "document": null
+     },
+     "output": {
+      "skipped": true,
+      "why": "no retained issuer balance sheet for this company"
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 4,
+     "tool": "document_search",
+     "input": {
+      "documents": [],
+      "patterns": [
+       "\\binventor(?:y|ies)\\b"
+      ]
+     },
+     "output": {
+      "documents_searched": [],
+      "pages_with_word_matches": 0,
+      "pages_with_naive_substring": 0,
+      "note": "naive substring 'inventor' also matches unrelated words (e.g. 'COMPANY' contains 'NPA'); word-boundary patterns used"
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 5,
+     "tool": "classify_passages",
+     "input": {
+      "passages": 0
+     },
+     "output": {
+      "by_kind": {}
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 6,
+     "tool": "verdict",
+     "input": {
+      "signals": {
+       "provider": false,
+       "numeric": 0,
+       "explicit_na": 0,
+       "line_check": null,
+       "expectation": "not_expected"
+      }
+     },
+     "output": {
+      "status": "not_found_no_documents",
+      "summary": "No issuer documents retained for HDFC Securities; the provider does not report inventories. Expectation: not_expected.",
+      "how_to_verify": "Not verifiable from retained evidence."
+     },
+     "ms": 0.0
+    }
+   ],
+   "executed": "deterministic tool sequence (no language model call)"
+  },
+  "npa": {
+   "company": "hdfcsec",
+   "field": "npa",
+   "status": "inapplicable",
+   "summary": "Not applicable by business model: NPA is a lender asset-quality measure; this business has no loan book to classify.",
+   "how_to_verify": "No mentions to review; the business-model rule decides.",
+   "expectation": {
+    "level": "not_applicable",
+    "reason": "NPA is a lender asset-quality measure; this business has no loan book to classify."
+   },
+   "evidence": [],
+   "evidence_total": 0,
+   "next_checks": [
+    "Annual report notes: 'Stage 3 assets', 'Gross NPA', 'Net NPA' (RBI disclosure for NBFCs)"
+   ],
+   "trace": [
+    {
+     "step": 1,
+     "tool": "provider_lookup",
+     "input": {
+      "company": "hdfcsec",
+      "field": "gross_npa"
+     },
+     "output": {
+      "found": false,
+      "periods": [],
+      "detail": "no matching line in the provider's parsed statements"
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 2,
+     "tool": "applicability_rule",
+     "input": {
+      "field": "npa",
+      "business_model": "broker"
+     },
+     "output": {
+      "expectation": "not_applicable",
+      "reason": "NPA is a lender asset-quality measure; this business has no loan book to classify."
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 3,
+     "tool": "statement_line_check",
+     "input": {
+      "document": null
+     },
+     "output": {
+      "skipped": true,
+      "why": "no retained issuer balance sheet for this company"
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 4,
+     "tool": "document_search",
+     "input": {
+      "documents": [],
+      "patterns": [
+       "\\bG?N?NPAs?\\b",
+       "\\bnon[- ]performing (?:assets?|loans?)\\b",
+       "\\bstage\\s*(?:3|III)\\s+(?:assets|loans)\\b"
+      ]
+     },
+     "output": {
+      "documents_searched": [],
+      "pages_with_word_matches": 0,
+      "pages_with_naive_substring": 0,
+      "note": "naive substring 'npa' also matches unrelated words (e.g. 'COMPANY' contains 'NPA'); word-boundary patterns used"
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 5,
+     "tool": "classify_passages",
+     "input": {
+      "passages": 0
+     },
+     "output": {
+      "by_kind": {}
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 6,
+     "tool": "verdict",
+     "input": {
+      "signals": {
+       "provider": false,
+       "numeric": 0,
+       "explicit_na": 0,
+       "line_check": null,
+       "expectation": "not_applicable"
+      }
+     },
+     "output": {
+      "status": "inapplicable",
+      "summary": "Not applicable by business model: NPA is a lender asset-quality measure; this business has no loan book to classify.",
+      "how_to_verify": "No mentions to review; the business-model rule decides."
+     },
+     "ms": 0.0
+    }
+   ],
+   "executed": "deterministic tool sequence (no language model call)"
+  }
+ },
+ "metrics": {
+  "FY2022": {
+   "revenue_growth": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "(current / previous) - 1",
+    "inputs": {
+     "current": "1975.57",
+     "previous": null
+    },
+    "unit": "%",
+    "ev": [
+     "ev8"
+    ]
+   },
+   "pat_margin": {
+    "value": "49.4566",
+    "state": "ok",
+    "formula": "PAT / total income x 100",
+    "inputs": {
+     "pat": "984.34",
+     "total_income": "1990.31"
+    },
+    "unit": "%",
+    "ev": [
+     "ev43",
+     "ev3"
+    ]
+   },
+   "net_profit_ratio": {
+    "value": "49.8256",
+    "state": "ok",
+    "formula": "PAT / revenue from operations x 100",
+    "inputs": {
+     "pat": "984.34",
+     "revenue_ops": "1975.57"
+    },
+    "unit": "%",
+    "ev": [
+     "ev43",
+     "ev8"
+    ]
+   },
+   "other_income_share": {
+    "value": "0.7406",
+    "state": "ok",
+    "formula": "other income / total income x 100",
+    "inputs": {
+     "other_income": "14.74",
+     "total_income": "1990.31"
+    },
+    "unit": "%",
+    "ev": [
+     "ev13",
+     "ev3"
+    ]
+   },
+   "current_ratio": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "current assets / current liabilities",
+    "inputs": {
+     "current_assets": null,
+     "current_liabilities": null
+    },
+    "unit": "x",
+    "ev": []
+   },
+   "quick_ratio": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "(current assets - inventories) / current liabilities",
+    "inputs": {
+     "current_assets": null,
+     "inventories": null,
+     "current_liabilities": null
+    },
+    "note": "inventories not disclosed in the available source; quick ratio withheld",
+    "unit": "x",
+    "ev": []
+   },
+   "roe": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "PAT / average of opening and closing equity x 100",
+    "inputs": {
+     "pat": "984.34",
+     "average_equity": null
+    },
+    "unit": "%",
+    "ev": [
+     "ev43",
+     "ev53"
+    ]
+   },
+   "roce": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "(PBT + finance cost) / (total assets - current liabilities) x 100",
+    "inputs": {
+     "ebit": "1476.65",
+     "capital_employed": null
+    },
+    "unit": "%",
+    "ev": [
+     "ev33",
+     "ev23",
+     "ev48"
+    ]
+   },
+   "cfo_to_pat": {
+    "value": "-0.8756",
+    "state": "ok",
+    "formula": "cash from operations / PAT",
+    "inputs": {
+     "cfo": "-861.85",
+     "pat": "984.34"
+    },
+    "unit": "x",
+    "ev": [
+     "ev63",
+     "ev43"
+    ],
+    "note": "exchange/broker CFO includes member settlement and margin flows; swings are not earnings quality by themselves"
+   }
+  },
+  "FY2023": {
+   "revenue_growth": {
+    "value": "-4.2671",
+    "state": "ok",
+    "formula": "(current / previous) - 1",
+    "inputs": {
+     "current": "1891.27",
+     "previous": "1975.57"
+    },
+    "unit": "%",
+    "ev": [
+     "ev9",
+     "ev8"
+    ]
+   },
+   "pat_margin": {
+    "value": "41.0873",
+    "state": "ok",
+    "formula": "PAT / total income x 100",
+    "inputs": {
+     "pat": "777.22",
+     "total_income": "1891.63"
+    },
+    "unit": "%",
+    "ev": [
+     "ev44",
+     "ev4"
+    ]
+   },
+   "net_profit_ratio": {
+    "value": "41.0951",
+    "state": "ok",
+    "formula": "PAT / revenue from operations x 100",
+    "inputs": {
+     "pat": "777.22",
+     "revenue_ops": "1891.27"
+    },
+    "unit": "%",
+    "ev": [
+     "ev44",
+     "ev9"
+    ]
+   },
+   "other_income_share": {
+    "value": "0.0190",
+    "state": "ok",
+    "formula": "other income / total income x 100",
+    "inputs": {
+     "other_income": "0.36",
+     "total_income": "1891.63"
+    },
+    "unit": "%",
+    "ev": [
+     "ev14",
+     "ev4"
+    ]
+   },
+   "current_ratio": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "current assets / current liabilities",
+    "inputs": {
+     "current_assets": null,
+     "current_liabilities": null
+    },
+    "unit": "x",
+    "ev": []
+   },
+   "quick_ratio": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "(current assets - inventories) / current liabilities",
+    "inputs": {
+     "current_assets": null,
+     "inventories": null,
+     "current_liabilities": null
+    },
+    "note": "inventories not disclosed in the available source; quick ratio withheld",
+    "unit": "x",
+    "ev": []
+   },
+   "roe": {
+    "value": "44.9904",
+    "state": "ok",
+    "formula": "PAT / average of opening and closing equity x 100",
+    "inputs": {
+     "pat": "777.22",
+     "average_equity": "1727.525"
+    },
+    "unit": "%",
+    "ev": [
+     "ev44",
+     "ev54",
+     "ev53"
+    ]
+   },
+   "roce": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "(PBT + finance cost) / (total assets - current liabilities) x 100",
+    "inputs": {
+     "ebit": "1337.78",
+     "capital_employed": null
+    },
+    "unit": "%",
+    "ev": [
+     "ev34",
+     "ev24",
+     "ev49"
+    ]
+   },
+   "cfo_to_pat": {
+    "value": "0.4756",
+    "state": "ok",
+    "formula": "cash from operations / PAT",
+    "inputs": {
+     "cfo": "369.65",
+     "pat": "777.22"
+    },
+    "unit": "x",
+    "ev": [
+     "ev64",
+     "ev44"
+    ],
+    "note": "exchange/broker CFO includes member settlement and margin flows; swings are not earnings quality by themselves"
+   }
+  },
+  "FY2024": {
+   "revenue_growth": {
+    "value": "40.6526",
+    "state": "ok",
+    "formula": "(current / previous) - 1",
+    "inputs": {
+     "current": "2660.12",
+     "previous": "1891.27"
+    },
+    "unit": "%",
+    "ev": [
+     "ev10",
+     "ev9"
+    ]
+   },
+   "pat_margin": {
+    "value": "35.7379",
+    "state": "ok",
+    "formula": "PAT / total income x 100",
+    "inputs": {
+     "pat": "950.89",
+     "total_income": "2660.73"
+    },
+    "unit": "%",
+    "ev": [
+     "ev45",
+     "ev5"
+    ]
+   },
+   "net_profit_ratio": {
+    "value": "35.7461",
+    "state": "ok",
+    "formula": "PAT / revenue from operations x 100",
+    "inputs": {
+     "pat": "950.89",
+     "revenue_ops": "2660.12"
+    },
+    "unit": "%",
+    "ev": [
+     "ev45",
+     "ev10"
+    ]
+   },
+   "other_income_share": {
+    "value": "0.0229",
+    "state": "ok",
+    "formula": "other income / total income x 100",
+    "inputs": {
+     "other_income": "0.61",
+     "total_income": "2660.73"
+    },
+    "unit": "%",
+    "ev": [
+     "ev15",
+     "ev5"
+    ]
+   },
+   "current_ratio": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "current assets / current liabilities",
+    "inputs": {
+     "current_assets": null,
+     "current_liabilities": null
+    },
+    "unit": "x",
+    "ev": []
+   },
+   "quick_ratio": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "(current assets - inventories) / current liabilities",
+    "inputs": {
+     "current_assets": null,
+     "inventories": null,
+     "current_liabilities": null
+    },
+    "note": "inventories not disclosed in the available source; quick ratio withheld",
+    "unit": "x",
+    "ev": []
+   },
+   "roe": {
+    "value": "49.7018",
+    "state": "ok",
+    "formula": "PAT / average of opening and closing equity x 100",
+    "inputs": {
+     "pat": "950.89",
+     "average_equity": "1913.19"
+    },
+    "unit": "%",
+    "ev": [
+     "ev45",
+     "ev55",
+     "ev54"
+    ]
+   },
+   "roce": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "(PBT + finance cost) / (total assets - current liabilities) x 100",
+    "inputs": {
+     "ebit": "1871.93",
+     "capital_employed": null
+    },
+    "unit": "%",
+    "ev": [
+     "ev35",
+     "ev25",
+     "ev50"
+    ]
+   },
+   "cfo_to_pat": {
+    "value": "-2.8888",
+    "state": "ok",
+    "formula": "cash from operations / PAT",
+    "inputs": {
+     "cfo": "-2746.97",
+     "pat": "950.89"
+    },
+    "unit": "x",
+    "ev": [
+     "ev65",
+     "ev45"
+    ],
+    "note": "exchange/broker CFO includes member settlement and margin flows; swings are not earnings quality by themselves"
+   }
+  },
+  "FY2025": {
+   "revenue_growth": {
+    "value": "22.6937",
+    "state": "ok",
+    "formula": "(current / previous) - 1",
+    "inputs": {
+     "current": "3263.8",
+     "previous": "2660.12"
+    },
+    "unit": "%",
+    "ev": [
+     "ev11",
+     "ev10"
+    ]
+   },
+   "pat_margin": {
+    "value": "34.4446",
+    "state": "ok",
+    "formula": "PAT / total income x 100",
+    "inputs": {
+     "pat": "1124.46",
+     "total_income": "3264.55"
+    },
+    "unit": "%",
+    "ev": [
+     "ev46",
+     "ev6"
+    ]
+   },
+   "net_profit_ratio": {
+    "value": "34.4525",
+    "state": "ok",
+    "formula": "PAT / revenue from operations x 100",
+    "inputs": {
+     "pat": "1124.46",
+     "revenue_ops": "3263.8"
+    },
+    "unit": "%",
+    "ev": [
+     "ev46",
+     "ev11"
+    ]
+   },
+   "other_income_share": {
+    "value": "0.0230",
+    "state": "ok",
+    "formula": "other income / total income x 100",
+    "inputs": {
+     "other_income": "0.75",
+     "total_income": "3264.55"
+    },
+    "unit": "%",
+    "ev": [
+     "ev16",
+     "ev6"
+    ]
+   },
+   "current_ratio": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "current assets / current liabilities",
+    "inputs": {
+     "current_assets": null,
+     "current_liabilities": null
+    },
+    "unit": "x",
+    "ev": []
+   },
+   "quick_ratio": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "(current assets - inventories) / current liabilities",
+    "inputs": {
+     "current_assets": null,
+     "inventories": null,
+     "current_liabilities": null
+    },
+    "note": "inventories not disclosed in the available source; quick ratio withheld",
+    "unit": "x",
+    "ev": []
+   },
+   "roe": {
+    "value": "41.8228",
+    "state": "ok",
+    "formula": "PAT / average of opening and closing equity x 100",
+    "inputs": {
+     "pat": "1124.46",
+     "average_equity": "2688.63"
+    },
+    "unit": "%",
+    "ev": [
+     "ev46",
+     "ev56",
+     "ev55"
+    ]
+   },
+   "roce": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "(PBT + finance cost) / (total assets - current liabilities) x 100",
+    "inputs": {
+     "ebit": "2281.04",
+     "capital_employed": null
+    },
+    "unit": "%",
+    "ev": [
+     "ev36",
+     "ev26",
+     "ev51"
+    ]
+   },
+   "cfo_to_pat": {
+    "value": "2.1174",
+    "state": "ok",
+    "formula": "cash from operations / PAT",
+    "inputs": {
+     "cfo": "2380.96",
+     "pat": "1124.46"
+    },
+    "unit": "x",
+    "ev": [
+     "ev66",
+     "ev46"
+    ],
+    "note": "exchange/broker CFO includes member settlement and margin flows; swings are not earnings quality by themselves"
+   }
+  },
+  "FY2026": {
+   "revenue_growth": {
+    "value": "-4.7892",
+    "state": "ok",
+    "formula": "(current / previous) - 1",
+    "inputs": {
+     "current": "3107.49",
+     "previous": "3263.8"
+    },
+    "unit": "%",
+    "ev": [
+     "ev12",
+     "ev11"
+    ]
+   },
+   "pat_margin": {
+    "value": "29.7915",
+    "state": "ok",
+    "formula": "PAT / total income x 100",
+    "inputs": {
+     "pat": "926.58",
+     "total_income": "3110.22"
+    },
+    "unit": "%",
+    "ev": [
+     "ev47",
+     "ev7"
+    ]
+   },
+   "net_profit_ratio": {
+    "value": "29.8176",
+    "state": "ok",
+    "formula": "PAT / revenue from operations x 100",
+    "inputs": {
+     "pat": "926.58",
+     "revenue_ops": "3107.49"
+    },
+    "unit": "%",
+    "ev": [
+     "ev47",
+     "ev12"
+    ]
+   },
+   "other_income_share": {
+    "value": "0.0878",
+    "state": "ok",
+    "formula": "other income / total income x 100",
+    "inputs": {
+     "other_income": "2.73",
+     "total_income": "3110.22"
+    },
+    "unit": "%",
+    "ev": [
+     "ev17",
+     "ev7"
+    ]
+   },
+   "current_ratio": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "current assets / current liabilities",
+    "inputs": {
+     "current_assets": null,
+     "current_liabilities": null
+    },
+    "unit": "x",
+    "ev": []
+   },
+   "quick_ratio": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "(current assets - inventories) / current liabilities",
+    "inputs": {
+     "current_assets": null,
+     "inventories": null,
+     "current_liabilities": null
+    },
+    "note": "inventories not disclosed in the available source; quick ratio withheld",
+    "unit": "x",
+    "ev": []
+   },
+   "roe": {
+    "value": "26.7004",
+    "state": "ok",
+    "formula": "PAT / average of opening and closing equity x 100",
+    "inputs": {
+     "pat": "926.58",
+     "average_equity": "3470.29"
+    },
+    "unit": "%",
+    "ev": [
+     "ev47",
+     "ev57",
+     "ev56"
+    ]
+   },
+   "roce": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "(PBT + finance cost) / (total assets - current liabilities) x 100",
+    "inputs": {
+     "ebit": "2051.17",
+     "capital_employed": null
+    },
+    "unit": "%",
+    "ev": [
+     "ev37",
+     "ev27",
+     "ev52"
+    ]
+   },
+   "cfo_to_pat": {
+    "value": "-3.2824",
+    "state": "ok",
+    "formula": "cash from operations / PAT",
+    "inputs": {
+     "cfo": "-3041.43",
+     "pat": "926.58"
+    },
+    "unit": "x",
+    "ev": [
+     "ev67",
+     "ev47"
+    ],
+    "note": "exchange/broker CFO includes member settlement and margin flows; swings are not earnings quality by themselves"
+   }
+  }
+ },
+ "valuation": {
+  "period": "FY2026",
+  "shares_used": "17874109",
+  "shares_source": "shares_details",
+  "market_cap": {
+   "value": "14299.2872",
+   "state": "ok",
+   "formula": "price (INR) x shares outstanding / 1e7",
+   "inputs": {
+    "price_inr": "8000.00",
+    "shares": "17874109"
+   },
+   "unit": "INR crore"
+  },
+  "eps": {
+   "value": "518.3923",
+   "state": "ok",
+   "formula": "PAT (INR crore) x 1e7 / shares outstanding",
+   "inputs": {
+    "pat_cr": "926.58",
+    "shares": "17874109"
+   },
+   "unit": "INR"
+  },
+  "pe": {
+   "value": "15.4323",
+   "state": "ok",
+   "formula": "price / EPS",
+   "inputs": {
+    "price_inr": "8000.00",
+    "eps": "518.3923"
+   },
+   "unit": "x"
+  },
+  "pb": {
+   "value": "3.9803",
+   "state": "ok",
+   "formula": "market cap / total equity",
+   "inputs": {
+    "market_cap": "14299.2872",
+    "total_equity": "3592.56"
+   },
+   "unit": "x"
+  },
+  "ps": {
+   "value": "4.5975",
+   "state": "ok",
+   "formula": "market cap / total income",
+   "inputs": {
+    "market_cap": "14299.2872",
+    "total_income": "3110.22"
+   },
+   "unit": "x"
+  },
+  "provider": {
+   "pe": "15.43",
+   "mcap": "14,299.29 Crore",
+   "eps": "518.39"
+  },
+  "note": "Valued at an indicative unlisted dealer quote against the latest fiscal-year PAT; not a traded market price."
+ },
+ "coverage_gaps": [
+  {
+   "field": "inventories",
+   "state": "not_in_source",
+   "label": "Inventories"
+  },
+  {
+   "field": "cash",
+   "state": "not_in_source",
+   "label": "Cash & equivalents"
+  },
+  {
+   "field": "current_assets",
+   "state": "not_in_source",
+   "label": "Current assets"
+  }
+ ],
+ "checks": [
+  {
+   "check": "balance_identity",
+   "period": "FY2022",
+   "result": "pass",
+   "detail": "assets 7922.54 - (equity 1657.91 + liabilities 6264.62) = 0.01"
+  },
+  {
+   "check": "income_identity",
+   "period": "FY2022",
+   "result": "pass",
+   "detail": "total income 1990.31 - (operations 1975.57 + other 14.74 + separate income lines 0) = 0.00"
+  },
+  {
+   "check": "balance_identity",
+   "period": "FY2023",
+   "result": "pass",
+   "detail": "assets 8276.54 - (equity 1797.14 + liabilities 6479.4) = 0.00"
+  },
+  {
+   "check": "income_identity",
+   "period": "FY2023",
+   "result": "pass",
+   "detail": "total income 1891.63 - (operations 1891.27 + other 0.36 + separate income lines 0) = 0.00"
+  },
+  {
+   "check": "balance_identity",
+   "period": "FY2024",
+   "result": "pass",
+   "detail": "assets 14103.07 - (equity 2029.24 + liabilities 12073.83) = 0.00"
+  },
+  {
+   "check": "income_identity",
+   "period": "FY2024",
+   "result": "pass",
+   "detail": "total income 2660.73 - (operations 2660.12 + other 0.61 + separate income lines 0) = 0.00"
+  },
+  {
+   "check": "balance_identity",
+   "period": "FY2025",
+   "result": "pass",
+   "detail": "assets 14030.66 - (equity 3348.02 + liabilities 10682.64) = 0.00"
+  },
+  {
+   "check": "income_identity",
+   "period": "FY2025",
+   "result": "pass",
+   "detail": "total income 3264.55 - (operations 3263.8 + other 0.75 + separate income lines 0) = 0.00"
+  },
+  {
+   "check": "balance_identity",
+   "period": "FY2026",
+   "result": "fail",
+   "detail": "assets 21783.83 - (equity 3592.56 + liabilities 18190.33) = 0.94"
+  },
+  {
+   "check": "income_identity",
+   "period": "FY2026",
+   "result": "pass",
+   "detail": "total income 3110.22 - (operations 3107.49 + other 2.73 + separate income lines 0) = 0.00"
+  }
+ ],
+ "provider_ratios": {
+  "EBITDA Margin": {
+   "FY2026": {
+    "raw_text": "68.61%",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "72.01%",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "72.76%",
+    "state": "reported"
+   },
+   "FY2023": {
+    "raw_text": "73.76%",
+    "state": "reported"
+   },
+   "FY2022": {
+    "raw_text": "76.32%",
+    "state": "reported"
+   }
+  },
+  "EBIT Margin": {
+   "FY2026": {
+    "raw_text": "65.95%",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "69.87%",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "70.35%",
+    "state": "reported"
+   },
+   "FY2023": {
+    "raw_text": "70.72%",
+    "state": "reported"
+   },
+   "FY2022": {
+    "raw_text": "74.19%",
+    "state": "reported"
+   }
+  },
+  "Return on Equity (ROE)": {
+   "FY2026": {
+    "raw_text": "25.79%",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "33.59%",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "46.86%",
+    "state": "reported"
+   },
+   "FY2023": {
+    "raw_text": "43.25%",
+    "state": "reported"
+   },
+   "FY2022": {
+    "raw_text": "59.37%",
+    "state": "reported"
+   }
+  },
+  "Return on Capital Employed (ROCE)": {
+   "FY2026": {
+    "raw_text": "55.20%",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "66.22%",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "88.88%",
+    "state": "reported"
+   },
+   "FY2023": {
+    "raw_text": "72.27%",
+    "state": "reported"
+   },
+   "FY2022": {
+    "raw_text": "81.64%",
+    "state": "reported"
+   }
+  },
+  "Assets Turnover Ratio": {
+   "FY2026": {
+    "raw_text": "0.14",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "0.23",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "0.19",
+    "state": "reported"
+   },
+   "FY2023": {
+    "raw_text": "0.23",
+    "state": "reported"
+   },
+   "FY2022": {
+    "raw_text": "0.25",
+    "state": "reported"
+   }
+  },
+  "Return on Assets": {
+   "FY2026": {
+    "raw_text": "4.25%",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "8.01%",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "6.74%",
+    "state": "reported"
+   },
+   "FY2023": {
+    "raw_text": "9.39%",
+    "state": "reported"
+   },
+   "FY2022": {
+    "raw_text": "12.42%",
+    "state": "reported"
+   }
+  },
+  "Net Profit Margin": {
+   "FY2026": {
+    "raw_text": "29.79%",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "34.44%",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "35.74%",
+    "state": "reported"
+   },
+   "FY2023": {
+    "raw_text": "41.09%",
+    "state": "reported"
+   },
+   "FY2022": {
+    "raw_text": "49.46%",
+    "state": "reported"
+   }
+  },
+  "Interest Coverage Ratio": {
+   "FY2026": {
+    "raw_text": "2.51",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "2.90",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "3.12",
+    "state": "reported"
+   },
+   "FY2023": {
+    "raw_text": "4.52",
+    "state": "reported"
+   },
+   "FY2022": {
+    "raw_text": "9.45",
+    "state": "reported"
+   }
+  },
+  "Revenue Growth Rate (CAGR)": {
+   "FY2026": {
+    "raw_text": "-4.73%",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "22.69%",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "40.66%",
+    "state": "reported"
+   },
+   "FY2023": {
+    "raw_text": "-4.96%",
+    "state": "reported"
+   },
+   "FY2022": {
+    "raw_text": "42.22%",
+    "state": "reported"
+   }
+  },
+  "EPS Growth Rate (CAGR)": {
+   "FY2026": {
+    "raw_text": "-18.07%",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "6.25%",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "21.78%",
+    "state": "reported"
+   },
+   "FY2023": {
+    "raw_text": "-21.37%",
+    "state": "reported"
+   },
+   "FY2022": {
+    "raw_text": "39.26%",
+    "state": "reported"
+   }
+  }
+ },
+ "evidence": {
+  "ev1": {
+   "source": "WWIPL company overview",
+   "url": "https://wwipl.com/unlisted-shares/hdfc-securities-share-price-today",
+   "retrieved_at": "2026-11-23T16:44:51+00:00",
+   "sha256": "c1a74828bc12064c1b007002de89741e922dfc9a93451e200c8b9217b9271c59",
+   "capture_run": "20261123T164433Z",
+   "file": "hdfcsec-overview.html",
+   "raw_label": "Last Traded Price",
+   "raw_text": "8,000.00"
+  },
+  "ev2": {
+   "source": "WWIPL company overview",
+   "url": "https://wwipl.com/unlisted-shares/hdfc-securities-share-price-today",
+   "retrieved_at": "2026-11-23T16:44:51+00:00",
+   "sha256": "c1a74828bc12064c1b007002de89741e922dfc9a93451e200c8b9217b9271c59",
+   "capture_run": "20261123T164433Z",
+   "file": "hdfcsec-overview.html",
+   "raw_label": "Company fundamentals block"
+  },
+  "ev3": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/hdfc-securities-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:56+00:00",
+   "sha256": "c9fd7d7f8e0dc5a176db12fc7016e000ed6fa26fc506e705ea8bd6e8d3de2368",
+   "capture_run": "20261123T164433Z",
+   "file": "hdfcsec-financial.html",
+   "raw_label": "Revenue",
+   "raw_text": "1,990.31",
+   "raw_unit": "INR crore",
+   "period": "FY2022",
+   "period_label": "2021-22",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "hdfcsec-financial.html",
+    "table_index": 4,
+    "row_index": 1,
+    "heading": "HDFC Securities Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev4": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/hdfc-securities-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:56+00:00",
+   "sha256": "c9fd7d7f8e0dc5a176db12fc7016e000ed6fa26fc506e705ea8bd6e8d3de2368",
+   "capture_run": "20261123T164433Z",
+   "file": "hdfcsec-financial.html",
+   "raw_label": "Revenue",
+   "raw_text": "1,891.63",
+   "raw_unit": "INR crore",
+   "period": "FY2023",
+   "period_label": "2022-23",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "hdfcsec-financial.html",
+    "table_index": 4,
+    "row_index": 1,
+    "heading": "HDFC Securities Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev5": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/hdfc-securities-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:56+00:00",
+   "sha256": "c9fd7d7f8e0dc5a176db12fc7016e000ed6fa26fc506e705ea8bd6e8d3de2368",
+   "capture_run": "20261123T164433Z",
+   "file": "hdfcsec-financial.html",
+   "raw_label": "Revenue",
+   "raw_text": "2,660.73",
+   "raw_unit": "INR crore",
+   "period": "FY2024",
+   "period_label": "2023-24",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "hdfcsec-financial.html",
+    "table_index": 4,
+    "row_index": 1,
+    "heading": "HDFC Securities Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev6": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/hdfc-securities-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:56+00:00",
+   "sha256": "c9fd7d7f8e0dc5a176db12fc7016e000ed6fa26fc506e705ea8bd6e8d3de2368",
+   "capture_run": "20261123T164433Z",
+   "file": "hdfcsec-financial.html",
+   "raw_label": "Revenue",
+   "raw_text": "3,264.55",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "2024-25",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "hdfcsec-financial.html",
+    "table_index": 4,
+    "row_index": 1,
+    "heading": "HDFC Securities Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev7": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/hdfc-securities-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:56+00:00",
+   "sha256": "c9fd7d7f8e0dc5a176db12fc7016e000ed6fa26fc506e705ea8bd6e8d3de2368",
+   "capture_run": "20261123T164433Z",
+   "file": "hdfcsec-financial.html",
+   "raw_label": "Revenue",
+   "raw_text": "3,110.22",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "2025-26",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "hdfcsec-financial.html",
+    "table_index": 4,
+    "row_index": 1,
+    "heading": "HDFC Securities Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev8": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/hdfc-securities-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:56+00:00",
+   "sha256": "c9fd7d7f8e0dc5a176db12fc7016e000ed6fa26fc506e705ea8bd6e8d3de2368",
+   "capture_run": "20261123T164433Z",
+   "file": "hdfcsec-financial.html",
+   "raw_label": "Revenue from operations",
+   "raw_text": "1,975.57",
+   "raw_unit": "INR crore",
+   "period": "FY2022",
+   "period_label": "2021-22",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "hdfcsec-financial.html",
+    "table_index": 4,
+    "row_index": 2,
+    "heading": "HDFC Securities Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev9": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/hdfc-securities-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:56+00:00",
+   "sha256": "c9fd7d7f8e0dc5a176db12fc7016e000ed6fa26fc506e705ea8bd6e8d3de2368",
+   "capture_run": "20261123T164433Z",
+   "file": "hdfcsec-financial.html",
+   "raw_label": "Revenue from operations",
+   "raw_text": "1,891.27",
+   "raw_unit": "INR crore",
+   "period": "FY2023",
+   "period_label": "2022-23",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "hdfcsec-financial.html",
+    "table_index": 4,
+    "row_index": 2,
+    "heading": "HDFC Securities Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev10": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/hdfc-securities-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:56+00:00",
+   "sha256": "c9fd7d7f8e0dc5a176db12fc7016e000ed6fa26fc506e705ea8bd6e8d3de2368",
+   "capture_run": "20261123T164433Z",
+   "file": "hdfcsec-financial.html",
+   "raw_label": "Revenue from operations",
+   "raw_text": "2,660.12",
+   "raw_unit": "INR crore",
+   "period": "FY2024",
+   "period_label": "2023-24",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "hdfcsec-financial.html",
+    "table_index": 4,
+    "row_index": 2,
+    "heading": "HDFC Securities Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev11": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/hdfc-securities-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:56+00:00",
+   "sha256": "c9fd7d7f8e0dc5a176db12fc7016e000ed6fa26fc506e705ea8bd6e8d3de2368",
+   "capture_run": "20261123T164433Z",
+   "file": "hdfcsec-financial.html",
+   "raw_label": "Revenue from operations",
+   "raw_text": "3,263.80",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "2024-25",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "hdfcsec-financial.html",
+    "table_index": 4,
+    "row_index": 2,
+    "heading": "HDFC Securities Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev12": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/hdfc-securities-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:56+00:00",
+   "sha256": "c9fd7d7f8e0dc5a176db12fc7016e000ed6fa26fc506e705ea8bd6e8d3de2368",
+   "capture_run": "20261123T164433Z",
+   "file": "hdfcsec-financial.html",
+   "raw_label": "Revenue from operations",
+   "raw_text": "3,107.49",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "2025-26",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "hdfcsec-financial.html",
+    "table_index": 4,
+    "row_index": 2,
+    "heading": "HDFC Securities Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev13": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/hdfc-securities-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:56+00:00",
+   "sha256": "c9fd7d7f8e0dc5a176db12fc7016e000ed6fa26fc506e705ea8bd6e8d3de2368",
+   "capture_run": "20261123T164433Z",
+   "file": "hdfcsec-financial.html",
+   "raw_label": "Other income",
+   "raw_text": "14.74",
+   "raw_unit": "INR crore",
+   "period": "FY2022",
+   "period_label": "2021-22",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "hdfcsec-financial.html",
+    "table_index": 4,
+    "row_index": 3,
+    "heading": "HDFC Securities Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev14": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/hdfc-securities-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:56+00:00",
+   "sha256": "c9fd7d7f8e0dc5a176db12fc7016e000ed6fa26fc506e705ea8bd6e8d3de2368",
+   "capture_run": "20261123T164433Z",
+   "file": "hdfcsec-financial.html",
+   "raw_label": "Other income",
+   "raw_text": "0.36",
+   "raw_unit": "INR crore",
+   "period": "FY2023",
+   "period_label": "2022-23",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "hdfcsec-financial.html",
+    "table_index": 4,
+    "row_index": 3,
+    "heading": "HDFC Securities Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev15": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/hdfc-securities-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:56+00:00",
+   "sha256": "c9fd7d7f8e0dc5a176db12fc7016e000ed6fa26fc506e705ea8bd6e8d3de2368",
+   "capture_run": "20261123T164433Z",
+   "file": "hdfcsec-financial.html",
+   "raw_label": "Other income",
+   "raw_text": "0.61",
+   "raw_unit": "INR crore",
+   "period": "FY2024",
+   "period_label": "2023-24",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "hdfcsec-financial.html",
+    "table_index": 4,
+    "row_index": 3,
+    "heading": "HDFC Securities Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev16": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/hdfc-securities-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:56+00:00",
+   "sha256": "c9fd7d7f8e0dc5a176db12fc7016e000ed6fa26fc506e705ea8bd6e8d3de2368",
+   "capture_run": "20261123T164433Z",
+   "file": "hdfcsec-financial.html",
+   "raw_label": "Other income",
+   "raw_text": "0.75",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "2024-25",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "hdfcsec-financial.html",
+    "table_index": 4,
+    "row_index": 3,
+    "heading": "HDFC Securities Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev17": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/hdfc-securities-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:56+00:00",
+   "sha256": "c9fd7d7f8e0dc5a176db12fc7016e000ed6fa26fc506e705ea8bd6e8d3de2368",
+   "capture_run": "20261123T164433Z",
+   "file": "hdfcsec-financial.html",
+   "raw_label": "Other income",
+   "raw_text": "2.73",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "2025-26",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "hdfcsec-financial.html",
+    "table_index": 4,
+    "row_index": 3,
+    "heading": "HDFC Securities Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev18": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/hdfc-securities-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:56+00:00",
+   "sha256": "c9fd7d7f8e0dc5a176db12fc7016e000ed6fa26fc506e705ea8bd6e8d3de2368",
+   "capture_run": "20261123T164433Z",
+   "file": "hdfcsec-financial.html",
+   "raw_label": "Expenses",
+   "raw_text": "670.00",
+   "raw_unit": "INR crore",
+   "period": "FY2022",
+   "period_label": "2021-22",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "hdfcsec-financial.html",
+    "table_index": 4,
+    "row_index": 4,
+    "heading": "HDFC Securities Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev19": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/hdfc-securities-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:56+00:00",
+   "sha256": "c9fd7d7f8e0dc5a176db12fc7016e000ed6fa26fc506e705ea8bd6e8d3de2368",
+   "capture_run": "20261123T164433Z",
+   "file": "hdfcsec-financial.html",
+   "raw_label": "Expenses",
+   "raw_text": "849.73",
+   "raw_unit": "INR crore",
+   "period": "FY2023",
+   "period_label": "2022-23",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "hdfcsec-financial.html",
+    "table_index": 4,
+    "row_index": 4,
+    "heading": "HDFC Securities Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev20": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/hdfc-securities-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:56+00:00",
+   "sha256": "c9fd7d7f8e0dc5a176db12fc7016e000ed6fa26fc506e705ea8bd6e8d3de2368",
+   "capture_run": "20261123T164433Z",
+   "file": "hdfcsec-financial.html",
+   "raw_label": "Expenses",
+   "raw_text": "1,389.30",
+   "raw_unit": "INR crore",
+   "period": "FY2024",
+   "period_label": "2023-24",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "hdfcsec-financial.html",
+    "table_index": 4,
+    "row_index": 4,
+    "heading": "HDFC Securities Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev21": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/hdfc-securities-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:56+00:00",
+   "sha256": "c9fd7d7f8e0dc5a176db12fc7016e000ed6fa26fc506e705ea8bd6e8d3de2368",
+   "capture_run": "20261123T164433Z",
+   "file": "hdfcsec-financial.html",
+   "raw_label": "Expenses",
+   "raw_text": "1,768.96",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "2024-25",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "hdfcsec-financial.html",
+    "table_index": 4,
+    "row_index": 4,
+    "heading": "HDFC Securities Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev22": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/hdfc-securities-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:56+00:00",
+   "sha256": "c9fd7d7f8e0dc5a176db12fc7016e000ed6fa26fc506e705ea8bd6e8d3de2368",
+   "capture_run": "20261123T164433Z",
+   "file": "hdfcsec-financial.html",
+   "raw_label": "Expenses",
+   "raw_text": "1,876.53",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "2025-26",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "hdfcsec-financial.html",
+    "table_index": 4,
+    "row_index": 4,
+    "heading": "HDFC Securities Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev23": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/hdfc-securities-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:56+00:00",
+   "sha256": "c9fd7d7f8e0dc5a176db12fc7016e000ed6fa26fc506e705ea8bd6e8d3de2368",
+   "capture_run": "20261123T164433Z",
+   "file": "hdfcsec-financial.html",
+   "raw_label": "Finance cost",
+   "raw_text": "156.34",
+   "raw_unit": "INR crore",
+   "period": "FY2022",
+   "period_label": "2021-22",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "hdfcsec-financial.html",
+    "table_index": 4,
+    "row_index": 5,
+    "heading": "HDFC Securities Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev24": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/hdfc-securities-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:56+00:00",
+   "sha256": "c9fd7d7f8e0dc5a176db12fc7016e000ed6fa26fc506e705ea8bd6e8d3de2368",
+   "capture_run": "20261123T164433Z",
+   "file": "hdfcsec-financial.html",
+   "raw_label": "Finance cost",
+   "raw_text": "295.88",
+   "raw_unit": "INR crore",
+   "period": "FY2023",
+   "period_label": "2022-23",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "hdfcsec-financial.html",
+    "table_index": 4,
+    "row_index": 5,
+    "heading": "HDFC Securities Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev25": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/hdfc-securities-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:56+00:00",
+   "sha256": "c9fd7d7f8e0dc5a176db12fc7016e000ed6fa26fc506e705ea8bd6e8d3de2368",
+   "capture_run": "20261123T164433Z",
+   "file": "hdfcsec-financial.html",
+   "raw_label": "Finance cost",
+   "raw_text": "600.50",
+   "raw_unit": "INR crore",
+   "period": "FY2024",
+   "period_label": "2023-24",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "hdfcsec-financial.html",
+    "table_index": 4,
+    "row_index": 5,
+    "heading": "HDFC Securities Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev26": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/hdfc-securities-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:56+00:00",
+   "sha256": "c9fd7d7f8e0dc5a176db12fc7016e000ed6fa26fc506e705ea8bd6e8d3de2368",
+   "capture_run": "20261123T164433Z",
+   "file": "hdfcsec-financial.html",
+   "raw_label": "Finance cost",
+   "raw_text": "785.45",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "2024-25",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "hdfcsec-financial.html",
+    "table_index": 4,
+    "row_index": 5,
+    "heading": "HDFC Securities Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev27": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/hdfc-securities-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:56+00:00",
+   "sha256": "c9fd7d7f8e0dc5a176db12fc7016e000ed6fa26fc506e705ea8bd6e8d3de2368",
+   "capture_run": "20261123T164433Z",
+   "file": "hdfcsec-financial.html",
+   "raw_label": "Finance cost",
+   "raw_text": "817.48",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "2025-26",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "hdfcsec-financial.html",
+    "table_index": 4,
+    "row_index": 5,
+    "heading": "HDFC Securities Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev28": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/hdfc-securities-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:56+00:00",
+   "sha256": "c9fd7d7f8e0dc5a176db12fc7016e000ed6fa26fc506e705ea8bd6e8d3de2368",
+   "capture_run": "20261123T164433Z",
+   "file": "hdfcsec-financial.html",
+   "raw_label": "Depreciation and Amortisation expense",
+   "raw_text": "42.30",
+   "raw_unit": "INR crore",
+   "period": "FY2022",
+   "period_label": "2021-22",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "hdfcsec-financial.html",
+    "table_index": 4,
+    "row_index": 7,
+    "heading": "HDFC Securities Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev29": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/hdfc-securities-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:56+00:00",
+   "sha256": "c9fd7d7f8e0dc5a176db12fc7016e000ed6fa26fc506e705ea8bd6e8d3de2368",
+   "capture_run": "20261123T164433Z",
+   "file": "hdfcsec-financial.html",
+   "raw_label": "Depreciation and Amortisation expense",
+   "raw_text": "57.45",
+   "raw_unit": "INR crore",
+   "period": "FY2023",
+   "period_label": "2022-23",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "hdfcsec-financial.html",
+    "table_index": 4,
+    "row_index": 7,
+    "heading": "HDFC Securities Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev30": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/hdfc-securities-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:56+00:00",
+   "sha256": "c9fd7d7f8e0dc5a176db12fc7016e000ed6fa26fc506e705ea8bd6e8d3de2368",
+   "capture_run": "20261123T164433Z",
+   "file": "hdfcsec-financial.html",
+   "raw_label": "Depreciation and Amortisation expense",
+   "raw_text": "63.92",
+   "raw_unit": "INR crore",
+   "period": "FY2024",
+   "period_label": "2023-24",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "hdfcsec-financial.html",
+    "table_index": 4,
+    "row_index": 7,
+    "heading": "HDFC Securities Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev31": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/hdfc-securities-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:56+00:00",
+   "sha256": "c9fd7d7f8e0dc5a176db12fc7016e000ed6fa26fc506e705ea8bd6e8d3de2368",
+   "capture_run": "20261123T164433Z",
+   "file": "hdfcsec-financial.html",
+   "raw_label": "Depreciation and Amortisation expense",
+   "raw_text": "69.62",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "2024-25",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "hdfcsec-financial.html",
+    "table_index": 4,
+    "row_index": 7,
+    "heading": "HDFC Securities Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev32": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/hdfc-securities-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:56+00:00",
+   "sha256": "c9fd7d7f8e0dc5a176db12fc7016e000ed6fa26fc506e705ea8bd6e8d3de2368",
+   "capture_run": "20261123T164433Z",
+   "file": "hdfcsec-financial.html",
+   "raw_label": "Depreciation and Amortisation expense",
+   "raw_text": "82.87",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "2025-26",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "hdfcsec-financial.html",
+    "table_index": 4,
+    "row_index": 7,
+    "heading": "HDFC Securities Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev33": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/hdfc-securities-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:56+00:00",
+   "sha256": "c9fd7d7f8e0dc5a176db12fc7016e000ed6fa26fc506e705ea8bd6e8d3de2368",
+   "capture_run": "20261123T164433Z",
+   "file": "hdfcsec-financial.html",
+   "raw_label": "Profit before tax",
+   "raw_text": "1,320.31",
+   "raw_unit": "INR crore",
+   "period": "FY2022",
+   "period_label": "2021-22",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "hdfcsec-financial.html",
+    "table_index": 4,
+    "row_index": 9,
+    "heading": "HDFC Securities Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev34": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/hdfc-securities-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:56+00:00",
+   "sha256": "c9fd7d7f8e0dc5a176db12fc7016e000ed6fa26fc506e705ea8bd6e8d3de2368",
+   "capture_run": "20261123T164433Z",
+   "file": "hdfcsec-financial.html",
+   "raw_label": "Profit before tax",
+   "raw_text": "1,041.90",
+   "raw_unit": "INR crore",
+   "period": "FY2023",
+   "period_label": "2022-23",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "hdfcsec-financial.html",
+    "table_index": 4,
+    "row_index": 9,
+    "heading": "HDFC Securities Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev35": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/hdfc-securities-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:56+00:00",
+   "sha256": "c9fd7d7f8e0dc5a176db12fc7016e000ed6fa26fc506e705ea8bd6e8d3de2368",
+   "capture_run": "20261123T164433Z",
+   "file": "hdfcsec-financial.html",
+   "raw_label": "Profit before tax",
+   "raw_text": "1,271.43",
+   "raw_unit": "INR crore",
+   "period": "FY2024",
+   "period_label": "2023-24",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "hdfcsec-financial.html",
+    "table_index": 4,
+    "row_index": 9,
+    "heading": "HDFC Securities Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev36": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/hdfc-securities-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:56+00:00",
+   "sha256": "c9fd7d7f8e0dc5a176db12fc7016e000ed6fa26fc506e705ea8bd6e8d3de2368",
+   "capture_run": "20261123T164433Z",
+   "file": "hdfcsec-financial.html",
+   "raw_label": "Profit before tax",
+   "raw_text": "1,495.59",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "2024-25",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "hdfcsec-financial.html",
+    "table_index": 4,
+    "row_index": 9,
+    "heading": "HDFC Securities Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev37": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/hdfc-securities-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:56+00:00",
+   "sha256": "c9fd7d7f8e0dc5a176db12fc7016e000ed6fa26fc506e705ea8bd6e8d3de2368",
+   "capture_run": "20261123T164433Z",
+   "file": "hdfcsec-financial.html",
+   "raw_label": "Profit before tax",
+   "raw_text": "1,233.69",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "2025-26",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "hdfcsec-financial.html",
+    "table_index": 4,
+    "row_index": 9,
+    "heading": "HDFC Securities Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev38": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/hdfc-securities-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:56+00:00",
+   "sha256": "c9fd7d7f8e0dc5a176db12fc7016e000ed6fa26fc506e705ea8bd6e8d3de2368",
+   "capture_run": "20261123T164433Z",
+   "file": "hdfcsec-financial.html",
+   "raw_label": "Tax Expense",
+   "raw_text": "335.97",
+   "raw_unit": "INR crore",
+   "period": "FY2022",
+   "period_label": "2021-22",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "hdfcsec-financial.html",
+    "table_index": 4,
+    "row_index": 10,
+    "heading": "HDFC Securities Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev39": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/hdfc-securities-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:56+00:00",
+   "sha256": "c9fd7d7f8e0dc5a176db12fc7016e000ed6fa26fc506e705ea8bd6e8d3de2368",
+   "capture_run": "20261123T164433Z",
+   "file": "hdfcsec-financial.html",
+   "raw_label": "Tax Expense",
+   "raw_text": "264.68",
+   "raw_unit": "INR crore",
+   "period": "FY2023",
+   "period_label": "2022-23",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "hdfcsec-financial.html",
+    "table_index": 4,
+    "row_index": 10,
+    "heading": "HDFC Securities Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev40": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/hdfc-securities-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:56+00:00",
+   "sha256": "c9fd7d7f8e0dc5a176db12fc7016e000ed6fa26fc506e705ea8bd6e8d3de2368",
+   "capture_run": "20261123T164433Z",
+   "file": "hdfcsec-financial.html",
+   "raw_label": "Tax Expense",
+   "raw_text": "320.54",
+   "raw_unit": "INR crore",
+   "period": "FY2024",
+   "period_label": "2023-24",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "hdfcsec-financial.html",
+    "table_index": 4,
+    "row_index": 10,
+    "heading": "HDFC Securities Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev41": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/hdfc-securities-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:56+00:00",
+   "sha256": "c9fd7d7f8e0dc5a176db12fc7016e000ed6fa26fc506e705ea8bd6e8d3de2368",
+   "capture_run": "20261123T164433Z",
+   "file": "hdfcsec-financial.html",
+   "raw_label": "Tax Expense",
+   "raw_text": "371.13",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "2024-25",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "hdfcsec-financial.html",
+    "table_index": 4,
+    "row_index": 10,
+    "heading": "HDFC Securities Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev42": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/hdfc-securities-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:56+00:00",
+   "sha256": "c9fd7d7f8e0dc5a176db12fc7016e000ed6fa26fc506e705ea8bd6e8d3de2368",
+   "capture_run": "20261123T164433Z",
+   "file": "hdfcsec-financial.html",
+   "raw_label": "Tax Expense",
+   "raw_text": "307.11",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "2025-26",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "hdfcsec-financial.html",
+    "table_index": 4,
+    "row_index": 10,
+    "heading": "HDFC Securities Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev43": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/hdfc-securities-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:56+00:00",
+   "sha256": "c9fd7d7f8e0dc5a176db12fc7016e000ed6fa26fc506e705ea8bd6e8d3de2368",
+   "capture_run": "20261123T164433Z",
+   "file": "hdfcsec-financial.html",
+   "raw_label": "Profit (Loss) for the period from continuing Operations",
+   "raw_text": "984.34",
+   "raw_unit": "INR crore",
+   "period": "FY2022",
+   "period_label": "2021-22",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "hdfcsec-financial.html",
+    "table_index": 4,
+    "row_index": 13,
+    "heading": "HDFC Securities Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev44": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/hdfc-securities-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:56+00:00",
+   "sha256": "c9fd7d7f8e0dc5a176db12fc7016e000ed6fa26fc506e705ea8bd6e8d3de2368",
+   "capture_run": "20261123T164433Z",
+   "file": "hdfcsec-financial.html",
+   "raw_label": "Profit (Loss) for the period from continuing Operations",
+   "raw_text": "777.22",
+   "raw_unit": "INR crore",
+   "period": "FY2023",
+   "period_label": "2022-23",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "hdfcsec-financial.html",
+    "table_index": 4,
+    "row_index": 13,
+    "heading": "HDFC Securities Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev45": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/hdfc-securities-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:56+00:00",
+   "sha256": "c9fd7d7f8e0dc5a176db12fc7016e000ed6fa26fc506e705ea8bd6e8d3de2368",
+   "capture_run": "20261123T164433Z",
+   "file": "hdfcsec-financial.html",
+   "raw_label": "Profit (Loss) for the period from continuing Operations",
+   "raw_text": "950.89",
+   "raw_unit": "INR crore",
+   "period": "FY2024",
+   "period_label": "2023-24",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "hdfcsec-financial.html",
+    "table_index": 4,
+    "row_index": 13,
+    "heading": "HDFC Securities Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev46": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/hdfc-securities-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:56+00:00",
+   "sha256": "c9fd7d7f8e0dc5a176db12fc7016e000ed6fa26fc506e705ea8bd6e8d3de2368",
+   "capture_run": "20261123T164433Z",
+   "file": "hdfcsec-financial.html",
+   "raw_label": "Profit (Loss) for the period from continuing Operations",
+   "raw_text": "1,124.46",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "2024-25",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "hdfcsec-financial.html",
+    "table_index": 4,
+    "row_index": 13,
+    "heading": "HDFC Securities Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev47": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/hdfc-securities-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:56+00:00",
+   "sha256": "c9fd7d7f8e0dc5a176db12fc7016e000ed6fa26fc506e705ea8bd6e8d3de2368",
+   "capture_run": "20261123T164433Z",
+   "file": "hdfcsec-financial.html",
+   "raw_label": "Profit (Loss) for the period from continuing Operations",
+   "raw_text": "926.58",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "2025-26",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "hdfcsec-financial.html",
+    "table_index": 4,
+    "row_index": 13,
+    "heading": "HDFC Securities Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev48": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/hdfc-securities-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:56+00:00",
+   "sha256": "c9fd7d7f8e0dc5a176db12fc7016e000ed6fa26fc506e705ea8bd6e8d3de2368",
+   "capture_run": "20261123T164433Z",
+   "file": "hdfcsec-financial.html",
+   "raw_label": "ASSETS",
+   "raw_text": "7,922.54",
+   "raw_unit": "INR crore",
+   "period": "FY2022",
+   "period_label": "2021-22",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "hdfcsec-financial.html",
+    "table_index": 1,
+    "row_index": 6,
+    "heading": "HDFC Securities Limited Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev49": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/hdfc-securities-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:56+00:00",
+   "sha256": "c9fd7d7f8e0dc5a176db12fc7016e000ed6fa26fc506e705ea8bd6e8d3de2368",
+   "capture_run": "20261123T164433Z",
+   "file": "hdfcsec-financial.html",
+   "raw_label": "ASSETS",
+   "raw_text": "8,276.54",
+   "raw_unit": "INR crore",
+   "period": "FY2023",
+   "period_label": "2022-23",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "hdfcsec-financial.html",
+    "table_index": 1,
+    "row_index": 6,
+    "heading": "HDFC Securities Limited Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev50": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/hdfc-securities-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:56+00:00",
+   "sha256": "c9fd7d7f8e0dc5a176db12fc7016e000ed6fa26fc506e705ea8bd6e8d3de2368",
+   "capture_run": "20261123T164433Z",
+   "file": "hdfcsec-financial.html",
+   "raw_label": "ASSETS",
+   "raw_text": "14,103.07",
+   "raw_unit": "INR crore",
+   "period": "FY2024",
+   "period_label": "2023-24",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "hdfcsec-financial.html",
+    "table_index": 1,
+    "row_index": 6,
+    "heading": "HDFC Securities Limited Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev51": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/hdfc-securities-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:56+00:00",
+   "sha256": "c9fd7d7f8e0dc5a176db12fc7016e000ed6fa26fc506e705ea8bd6e8d3de2368",
+   "capture_run": "20261123T164433Z",
+   "file": "hdfcsec-financial.html",
+   "raw_label": "ASSETS",
+   "raw_text": "14,030.66",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "2024-25",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "hdfcsec-financial.html",
+    "table_index": 1,
+    "row_index": 6,
+    "heading": "HDFC Securities Limited Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev52": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/hdfc-securities-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:56+00:00",
+   "sha256": "c9fd7d7f8e0dc5a176db12fc7016e000ed6fa26fc506e705ea8bd6e8d3de2368",
+   "capture_run": "20261123T164433Z",
+   "file": "hdfcsec-financial.html",
+   "raw_label": "ASSETS",
+   "raw_text": "21,783.83",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "2025-26",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "hdfcsec-financial.html",
+    "table_index": 1,
+    "row_index": 6,
+    "heading": "HDFC Securities Limited Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev53": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/hdfc-securities-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:56+00:00",
+   "sha256": "c9fd7d7f8e0dc5a176db12fc7016e000ed6fa26fc506e705ea8bd6e8d3de2368",
+   "capture_run": "20261123T164433Z",
+   "file": "hdfcsec-financial.html",
+   "raw_label": "Total equity",
+   "raw_text": "1,657.91",
+   "raw_unit": "INR crore",
+   "period": "FY2022",
+   "period_label": "2021-22",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "hdfcsec-financial.html",
+    "table_index": 1,
+    "row_index": 2,
+    "heading": "HDFC Securities Limited Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev54": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/hdfc-securities-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:56+00:00",
+   "sha256": "c9fd7d7f8e0dc5a176db12fc7016e000ed6fa26fc506e705ea8bd6e8d3de2368",
+   "capture_run": "20261123T164433Z",
+   "file": "hdfcsec-financial.html",
+   "raw_label": "Total equity",
+   "raw_text": "1,797.14",
+   "raw_unit": "INR crore",
+   "period": "FY2023",
+   "period_label": "2022-23",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "hdfcsec-financial.html",
+    "table_index": 1,
+    "row_index": 2,
+    "heading": "HDFC Securities Limited Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev55": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/hdfc-securities-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:56+00:00",
+   "sha256": "c9fd7d7f8e0dc5a176db12fc7016e000ed6fa26fc506e705ea8bd6e8d3de2368",
+   "capture_run": "20261123T164433Z",
+   "file": "hdfcsec-financial.html",
+   "raw_label": "Total equity",
+   "raw_text": "2,029.24",
+   "raw_unit": "INR crore",
+   "period": "FY2024",
+   "period_label": "2023-24",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "hdfcsec-financial.html",
+    "table_index": 1,
+    "row_index": 2,
+    "heading": "HDFC Securities Limited Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev56": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/hdfc-securities-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:56+00:00",
+   "sha256": "c9fd7d7f8e0dc5a176db12fc7016e000ed6fa26fc506e705ea8bd6e8d3de2368",
+   "capture_run": "20261123T164433Z",
+   "file": "hdfcsec-financial.html",
+   "raw_label": "Total equity",
+   "raw_text": "3,348.02",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "2024-25",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "hdfcsec-financial.html",
+    "table_index": 1,
+    "row_index": 2,
+    "heading": "HDFC Securities Limited Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev57": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/hdfc-securities-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:56+00:00",
+   "sha256": "c9fd7d7f8e0dc5a176db12fc7016e000ed6fa26fc506e705ea8bd6e8d3de2368",
+   "capture_run": "20261123T164433Z",
+   "file": "hdfcsec-financial.html",
+   "raw_label": "Total equity",
+   "raw_text": "3,592.56",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "2025-26",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "hdfcsec-financial.html",
+    "table_index": 1,
+    "row_index": 2,
+    "heading": "HDFC Securities Limited Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev58": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/hdfc-securities-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:56+00:00",
+   "sha256": "c9fd7d7f8e0dc5a176db12fc7016e000ed6fa26fc506e705ea8bd6e8d3de2368",
+   "capture_run": "20261123T164433Z",
+   "file": "hdfcsec-financial.html",
+   "raw_label": "Total liabilities",
+   "raw_text": "6,264.62",
+   "raw_unit": "INR crore",
+   "period": "FY2022",
+   "period_label": "2021-22",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "hdfcsec-financial.html",
+    "table_index": 1,
+    "row_index": 3,
+    "heading": "HDFC Securities Limited Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev59": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/hdfc-securities-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:56+00:00",
+   "sha256": "c9fd7d7f8e0dc5a176db12fc7016e000ed6fa26fc506e705ea8bd6e8d3de2368",
+   "capture_run": "20261123T164433Z",
+   "file": "hdfcsec-financial.html",
+   "raw_label": "Total liabilities",
+   "raw_text": "6,479.40",
+   "raw_unit": "INR crore",
+   "period": "FY2023",
+   "period_label": "2022-23",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "hdfcsec-financial.html",
+    "table_index": 1,
+    "row_index": 3,
+    "heading": "HDFC Securities Limited Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev60": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/hdfc-securities-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:56+00:00",
+   "sha256": "c9fd7d7f8e0dc5a176db12fc7016e000ed6fa26fc506e705ea8bd6e8d3de2368",
+   "capture_run": "20261123T164433Z",
+   "file": "hdfcsec-financial.html",
+   "raw_label": "Total liabilities",
+   "raw_text": "12,073.83",
+   "raw_unit": "INR crore",
+   "period": "FY2024",
+   "period_label": "2023-24",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "hdfcsec-financial.html",
+    "table_index": 1,
+    "row_index": 3,
+    "heading": "HDFC Securities Limited Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev61": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/hdfc-securities-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:56+00:00",
+   "sha256": "c9fd7d7f8e0dc5a176db12fc7016e000ed6fa26fc506e705ea8bd6e8d3de2368",
+   "capture_run": "20261123T164433Z",
+   "file": "hdfcsec-financial.html",
+   "raw_label": "Total liabilities",
+   "raw_text": "10,682.64",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "2024-25",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "hdfcsec-financial.html",
+    "table_index": 1,
+    "row_index": 3,
+    "heading": "HDFC Securities Limited Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev62": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/hdfc-securities-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:56+00:00",
+   "sha256": "c9fd7d7f8e0dc5a176db12fc7016e000ed6fa26fc506e705ea8bd6e8d3de2368",
+   "capture_run": "20261123T164433Z",
+   "file": "hdfcsec-financial.html",
+   "raw_label": "Total liabilities",
+   "raw_text": "18,190.33",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "2025-26",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "hdfcsec-financial.html",
+    "table_index": 1,
+    "row_index": 3,
+    "heading": "HDFC Securities Limited Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev63": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/hdfc-securities-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:56+00:00",
+   "sha256": "c9fd7d7f8e0dc5a176db12fc7016e000ed6fa26fc506e705ea8bd6e8d3de2368",
+   "capture_run": "20261123T164433Z",
+   "file": "hdfcsec-financial.html",
+   "raw_label": "Net cash from/(used in) operating activities",
+   "raw_text": "-861.85",
+   "raw_unit": "INR crore",
+   "period": "FY2022",
+   "period_label": "2021-22",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "hdfcsec-financial.html",
+    "table_index": 2,
+    "row_index": 1,
+    "heading": "HDFC Securities Limited CashFlow Statement(Rs in Crores)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev64": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/hdfc-securities-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:56+00:00",
+   "sha256": "c9fd7d7f8e0dc5a176db12fc7016e000ed6fa26fc506e705ea8bd6e8d3de2368",
+   "capture_run": "20261123T164433Z",
+   "file": "hdfcsec-financial.html",
+   "raw_label": "Net cash from/(used in) operating activities",
+   "raw_text": "369.65",
+   "raw_unit": "INR crore",
+   "period": "FY2023",
+   "period_label": "2022-23",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "hdfcsec-financial.html",
+    "table_index": 2,
+    "row_index": 1,
+    "heading": "HDFC Securities Limited CashFlow Statement(Rs in Crores)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev65": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/hdfc-securities-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:56+00:00",
+   "sha256": "c9fd7d7f8e0dc5a176db12fc7016e000ed6fa26fc506e705ea8bd6e8d3de2368",
+   "capture_run": "20261123T164433Z",
+   "file": "hdfcsec-financial.html",
+   "raw_label": "Net cash from/(used in) operating activities",
+   "raw_text": "-2,746.97",
+   "raw_unit": "INR crore",
+   "period": "FY2024",
+   "period_label": "2023-24",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "hdfcsec-financial.html",
+    "table_index": 2,
+    "row_index": 1,
+    "heading": "HDFC Securities Limited CashFlow Statement(Rs in Crores)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev66": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/hdfc-securities-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:56+00:00",
+   "sha256": "c9fd7d7f8e0dc5a176db12fc7016e000ed6fa26fc506e705ea8bd6e8d3de2368",
+   "capture_run": "20261123T164433Z",
+   "file": "hdfcsec-financial.html",
+   "raw_label": "Net cash from/(used in) operating activities",
+   "raw_text": "2,380.96",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "2024-25",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "hdfcsec-financial.html",
+    "table_index": 2,
+    "row_index": 1,
+    "heading": "HDFC Securities Limited CashFlow Statement(Rs in Crores)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev67": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/hdfc-securities-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:56+00:00",
+   "sha256": "c9fd7d7f8e0dc5a176db12fc7016e000ed6fa26fc506e705ea8bd6e8d3de2368",
+   "capture_run": "20261123T164433Z",
+   "file": "hdfcsec-financial.html",
+   "raw_label": "Net cash from/(used in) operating activities",
+   "raw_text": "-3,041.43",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "2025-26",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "hdfcsec-financial.html",
+    "table_index": 2,
+    "row_index": 1,
+    "heading": "HDFC Securities Limited CashFlow Statement(Rs in Crores)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev68": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/hdfc-securities-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:56+00:00",
+   "sha256": "c9fd7d7f8e0dc5a176db12fc7016e000ed6fa26fc506e705ea8bd6e8d3de2368",
+   "capture_run": "20261123T164433Z",
+   "file": "hdfcsec-financial.html",
+   "raw_label": "Net cash from/(used in) investing activities",
+   "raw_text": "-57.82",
+   "raw_unit": "INR crore",
+   "period": "FY2022",
+   "period_label": "2021-22",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "hdfcsec-financial.html",
+    "table_index": 2,
+    "row_index": 2,
+    "heading": "HDFC Securities Limited CashFlow Statement(Rs in Crores)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev69": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/hdfc-securities-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:56+00:00",
+   "sha256": "c9fd7d7f8e0dc5a176db12fc7016e000ed6fa26fc506e705ea8bd6e8d3de2368",
+   "capture_run": "20261123T164433Z",
+   "file": "hdfcsec-financial.html",
+   "raw_label": "Net cash from/(used in) investing activities",
+   "raw_text": "-973.40",
+   "raw_unit": "INR crore",
+   "period": "FY2023",
+   "period_label": "2022-23",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "hdfcsec-financial.html",
+    "table_index": 2,
+    "row_index": 2,
+    "heading": "HDFC Securities Limited CashFlow Statement(Rs in Crores)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev70": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/hdfc-securities-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:56+00:00",
+   "sha256": "c9fd7d7f8e0dc5a176db12fc7016e000ed6fa26fc506e705ea8bd6e8d3de2368",
+   "capture_run": "20261123T164433Z",
+   "file": "hdfcsec-financial.html",
+   "raw_label": "Net cash from/(used in) investing activities",
+   "raw_text": "207.04",
+   "raw_unit": "INR crore",
+   "period": "FY2024",
+   "period_label": "2023-24",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "hdfcsec-financial.html",
+    "table_index": 2,
+    "row_index": 2,
+    "heading": "HDFC Securities Limited CashFlow Statement(Rs in Crores)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev71": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/hdfc-securities-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:56+00:00",
+   "sha256": "c9fd7d7f8e0dc5a176db12fc7016e000ed6fa26fc506e705ea8bd6e8d3de2368",
+   "capture_run": "20261123T164433Z",
+   "file": "hdfcsec-financial.html",
+   "raw_label": "Net cash from/(used in) investing activities",
+   "raw_text": "-138.13",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "2024-25",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "hdfcsec-financial.html",
+    "table_index": 2,
+    "row_index": 2,
+    "heading": "HDFC Securities Limited CashFlow Statement(Rs in Crores)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev72": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/hdfc-securities-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:56+00:00",
+   "sha256": "c9fd7d7f8e0dc5a176db12fc7016e000ed6fa26fc506e705ea8bd6e8d3de2368",
+   "capture_run": "20261123T164433Z",
+   "file": "hdfcsec-financial.html",
+   "raw_label": "Net cash from/(used in) investing activities",
+   "raw_text": "-1,674.65",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "2025-26",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "hdfcsec-financial.html",
+    "table_index": 2,
+    "row_index": 2,
+    "heading": "HDFC Securities Limited CashFlow Statement(Rs in Crores)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev73": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/hdfc-securities-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:56+00:00",
+   "sha256": "c9fd7d7f8e0dc5a176db12fc7016e000ed6fa26fc506e705ea8bd6e8d3de2368",
+   "capture_run": "20261123T164433Z",
+   "file": "hdfcsec-financial.html",
+   "raw_label": "Net cash from/(used) in financing activities",
+   "raw_text": "1,589.05",
+   "raw_unit": "INR crore",
+   "period": "FY2022",
+   "period_label": "2021-22",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "hdfcsec-financial.html",
+    "table_index": 2,
+    "row_index": 3,
+    "heading": "HDFC Securities Limited CashFlow Statement(Rs in Crores)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev74": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/hdfc-securities-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:56+00:00",
+   "sha256": "c9fd7d7f8e0dc5a176db12fc7016e000ed6fa26fc506e705ea8bd6e8d3de2368",
+   "capture_run": "20261123T164433Z",
+   "file": "hdfcsec-financial.html",
+   "raw_label": "Net cash from/(used) in financing activities",
+   "raw_text": "-322.07",
+   "raw_unit": "INR crore",
+   "period": "FY2023",
+   "period_label": "2022-23",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "hdfcsec-financial.html",
+    "table_index": 2,
+    "row_index": 3,
+    "heading": "HDFC Securities Limited CashFlow Statement(Rs in Crores)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev75": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/hdfc-securities-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:56+00:00",
+   "sha256": "c9fd7d7f8e0dc5a176db12fc7016e000ed6fa26fc506e705ea8bd6e8d3de2368",
+   "capture_run": "20261123T164433Z",
+   "file": "hdfcsec-financial.html",
+   "raw_label": "Net cash from/(used) in financing activities",
+   "raw_text": "2,945.94",
+   "raw_unit": "INR crore",
+   "period": "FY2024",
+   "period_label": "2023-24",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "hdfcsec-financial.html",
+    "table_index": 2,
+    "row_index": 3,
+    "heading": "HDFC Securities Limited CashFlow Statement(Rs in Crores)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev76": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/hdfc-securities-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:56+00:00",
+   "sha256": "c9fd7d7f8e0dc5a176db12fc7016e000ed6fa26fc506e705ea8bd6e8d3de2368",
+   "capture_run": "20261123T164433Z",
+   "file": "hdfcsec-financial.html",
+   "raw_label": "Net cash from/(used) in financing activities",
+   "raw_text": "-2,209.96",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "2024-25",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "hdfcsec-financial.html",
+    "table_index": 2,
+    "row_index": 3,
+    "heading": "HDFC Securities Limited CashFlow Statement(Rs in Crores)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev77": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/hdfc-securities-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:56+00:00",
+   "sha256": "c9fd7d7f8e0dc5a176db12fc7016e000ed6fa26fc506e705ea8bd6e8d3de2368",
+   "capture_run": "20261123T164433Z",
+   "file": "hdfcsec-financial.html",
+   "raw_label": "Net cash from/(used) in financing activities",
+   "raw_text": "5,679.15",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "2025-26",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "hdfcsec-financial.html",
+    "table_index": 2,
+    "row_index": 3,
+    "heading": "HDFC Securities Limited CashFlow Statement(Rs in Crores)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev78": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/hdfc-securities-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:56+00:00",
+   "sha256": "c9fd7d7f8e0dc5a176db12fc7016e000ed6fa26fc506e705ea8bd6e8d3de2368",
+   "capture_run": "20261123T164433Z",
+   "file": "hdfcsec-financial.html",
+   "raw_label": "EBITDA",
+   "raw_text": "1,518.95",
+   "raw_unit": "INR crore",
+   "period": "FY2022",
+   "period_label": "2021-22",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "hdfcsec-financial.html",
+    "table_index": 5,
+    "row_index": 8,
+    "heading": "HDFC Securities Limited Summary(Rs in Crores)"
+   },
+   "statement": "summary",
+   "derived": false,
+   "components": null
+  },
+  "ev79": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/hdfc-securities-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:56+00:00",
+   "sha256": "c9fd7d7f8e0dc5a176db12fc7016e000ed6fa26fc506e705ea8bd6e8d3de2368",
+   "capture_run": "20261123T164433Z",
+   "file": "hdfcsec-financial.html",
+   "raw_label": "EBITDA",
+   "raw_text": "1,395.23",
+   "raw_unit": "INR crore",
+   "period": "FY2023",
+   "period_label": "2022-23",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "hdfcsec-financial.html",
+    "table_index": 5,
+    "row_index": 8,
+    "heading": "HDFC Securities Limited Summary(Rs in Crores)"
+   },
+   "statement": "summary",
+   "derived": false,
+   "components": null
+  },
+  "ev80": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/hdfc-securities-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:56+00:00",
+   "sha256": "c9fd7d7f8e0dc5a176db12fc7016e000ed6fa26fc506e705ea8bd6e8d3de2368",
+   "capture_run": "20261123T164433Z",
+   "file": "hdfcsec-financial.html",
+   "raw_label": "EBITDA",
+   "raw_text": "1,935.85",
+   "raw_unit": "INR crore",
+   "period": "FY2024",
+   "period_label": "2023-24",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "hdfcsec-financial.html",
+    "table_index": 5,
+    "row_index": 8,
+    "heading": "HDFC Securities Limited Summary(Rs in Crores)"
+   },
+   "statement": "summary",
+   "derived": false,
+   "components": null
+  },
+  "ev81": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/hdfc-securities-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:56+00:00",
+   "sha256": "c9fd7d7f8e0dc5a176db12fc7016e000ed6fa26fc506e705ea8bd6e8d3de2368",
+   "capture_run": "20261123T164433Z",
+   "file": "hdfcsec-financial.html",
+   "raw_label": "EBITDA",
+   "raw_text": "2,350.66",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "2024-25",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "hdfcsec-financial.html",
+    "table_index": 5,
+    "row_index": 8,
+    "heading": "HDFC Securities Limited Summary(Rs in Crores)"
+   },
+   "statement": "summary",
+   "derived": false,
+   "components": null
+  },
+  "ev82": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/hdfc-securities-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:56+00:00",
+   "sha256": "c9fd7d7f8e0dc5a176db12fc7016e000ed6fa26fc506e705ea8bd6e8d3de2368",
+   "capture_run": "20261123T164433Z",
+   "file": "hdfcsec-financial.html",
+   "raw_label": "EBITDA",
+   "raw_text": "2,134.04",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "2025-26",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "hdfcsec-financial.html",
+    "table_index": 5,
+    "row_index": 8,
+    "heading": "HDFC Securities Limited Summary(Rs in Crores)"
+   },
+   "statement": "summary",
+   "derived": false,
+   "components": null
+  },
+  "ev83": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/hdfc-securities-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:56+00:00",
+   "sha256": "c9fd7d7f8e0dc5a176db12fc7016e000ed6fa26fc506e705ea8bd6e8d3de2368",
+   "capture_run": "20261123T164433Z",
+   "file": "hdfcsec-financial.html",
+   "raw_label": "Earnings Per Share (EPS)",
+   "raw_text": "621.86",
+   "raw_unit": "INR per share",
+   "period": "FY2022",
+   "period_label": "2021-22",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "hdfcsec-financial.html",
+    "table_index": 5,
+    "row_index": 12,
+    "heading": "HDFC Securities Limited Summary(Rs in Crores)"
+   },
+   "statement": "summary",
+   "derived": false,
+   "components": null
+  },
+  "ev84": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/hdfc-securities-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:56+00:00",
+   "sha256": "c9fd7d7f8e0dc5a176db12fc7016e000ed6fa26fc506e705ea8bd6e8d3de2368",
+   "capture_run": "20261123T164433Z",
+   "file": "hdfcsec-financial.html",
+   "raw_label": "Earnings Per Share (EPS)",
+   "raw_text": "488.98",
+   "raw_unit": "INR per share",
+   "period": "FY2023",
+   "period_label": "2022-23",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "hdfcsec-financial.html",
+    "table_index": 5,
+    "row_index": 12,
+    "heading": "HDFC Securities Limited Summary(Rs in Crores)"
+   },
+   "statement": "summary",
+   "derived": false,
+   "components": null
+  },
+  "ev85": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/hdfc-securities-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:56+00:00",
+   "sha256": "c9fd7d7f8e0dc5a176db12fc7016e000ed6fa26fc506e705ea8bd6e8d3de2368",
+   "capture_run": "20261123T164433Z",
+   "file": "hdfcsec-financial.html",
+   "raw_label": "Earnings Per Share (EPS)",
+   "raw_text": "595.48",
+   "raw_unit": "INR per share",
+   "period": "FY2024",
+   "period_label": "2023-24",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "hdfcsec-financial.html",
+    "table_index": 5,
+    "row_index": 12,
+    "heading": "HDFC Securities Limited Summary(Rs in Crores)"
+   },
+   "statement": "summary",
+   "derived": false,
+   "components": null
+  },
+  "ev86": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/hdfc-securities-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:56+00:00",
+   "sha256": "c9fd7d7f8e0dc5a176db12fc7016e000ed6fa26fc506e705ea8bd6e8d3de2368",
+   "capture_run": "20261123T164433Z",
+   "file": "hdfcsec-financial.html",
+   "raw_label": "Earnings Per Share (EPS)",
+   "raw_text": "632.72",
+   "raw_unit": "INR per share",
+   "period": "FY2025",
+   "period_label": "2024-25",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "hdfcsec-financial.html",
+    "table_index": 5,
+    "row_index": 12,
+    "heading": "HDFC Securities Limited Summary(Rs in Crores)"
+   },
+   "statement": "summary",
+   "derived": false,
+   "components": null
+  },
+  "ev87": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/hdfc-securities-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:56+00:00",
+   "sha256": "c9fd7d7f8e0dc5a176db12fc7016e000ed6fa26fc506e705ea8bd6e8d3de2368",
+   "capture_run": "20261123T164433Z",
+   "file": "hdfcsec-financial.html",
+   "raw_label": "Earnings Per Share (EPS)",
+   "raw_text": "518.39",
+   "raw_unit": "INR per share",
+   "period": "FY2026",
+   "period_label": "2025-26",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "hdfcsec-financial.html",
+    "table_index": 5,
+    "row_index": 12,
+    "heading": "HDFC Securities Limited Summary(Rs in Crores)"
+   },
+   "statement": "summary",
+   "derived": false,
+   "components": null
+  },
+  "ev88": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/hdfc-securities-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:56+00:00",
+   "sha256": "c9fd7d7f8e0dc5a176db12fc7016e000ed6fa26fc506e705ea8bd6e8d3de2368",
+   "capture_run": "20261123T164433Z",
+   "file": "hdfcsec-financial.html",
+   "raw_label": "Outstanding Shares",
+   "raw_text": "15,828,975.00",
+   "raw_unit": "shares",
+   "period": "FY2022",
+   "period_label": "2021-22",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "hdfcsec-financial.html",
+    "table_index": 5,
+    "row_index": 11,
+    "heading": "HDFC Securities Limited Summary(Rs in Crores)"
+   },
+   "statement": "summary",
+   "derived": false,
+   "components": null
+  },
+  "ev89": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/hdfc-securities-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:56+00:00",
+   "sha256": "c9fd7d7f8e0dc5a176db12fc7016e000ed6fa26fc506e705ea8bd6e8d3de2368",
+   "capture_run": "20261123T164433Z",
+   "file": "hdfcsec-financial.html",
+   "raw_label": "Outstanding Shares",
+   "raw_text": "15,894,600.00",
+   "raw_unit": "shares",
+   "period": "FY2023",
+   "period_label": "2022-23",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "hdfcsec-financial.html",
+    "table_index": 5,
+    "row_index": 11,
+    "heading": "HDFC Securities Limited Summary(Rs in Crores)"
+   },
+   "statement": "summary",
+   "derived": false,
+   "components": null
+  },
+  "ev90": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/hdfc-securities-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:56+00:00",
+   "sha256": "c9fd7d7f8e0dc5a176db12fc7016e000ed6fa26fc506e705ea8bd6e8d3de2368",
+   "capture_run": "20261123T164433Z",
+   "file": "hdfcsec-financial.html",
+   "raw_label": "Outstanding Shares",
+   "raw_text": "15,968,420.00",
+   "raw_unit": "shares",
+   "period": "FY2024",
+   "period_label": "2023-24",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "hdfcsec-financial.html",
+    "table_index": 5,
+    "row_index": 11,
+    "heading": "HDFC Securities Limited Summary(Rs in Crores)"
+   },
+   "statement": "summary",
+   "derived": false,
+   "components": null
+  },
+  "ev91": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/hdfc-securities-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:56+00:00",
+   "sha256": "c9fd7d7f8e0dc5a176db12fc7016e000ed6fa26fc506e705ea8bd6e8d3de2368",
+   "capture_run": "20261123T164433Z",
+   "file": "hdfcsec-financial.html",
+   "raw_label": "Outstanding Shares",
+   "raw_text": "17,771,969.00",
+   "raw_unit": "shares",
+   "period": "FY2025",
+   "period_label": "2024-25",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "hdfcsec-financial.html",
+    "table_index": 5,
+    "row_index": 11,
+    "heading": "HDFC Securities Limited Summary(Rs in Crores)"
+   },
+   "statement": "summary",
+   "derived": false,
+   "components": null
+  },
+  "ev92": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/hdfc-securities-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:56+00:00",
+   "sha256": "c9fd7d7f8e0dc5a176db12fc7016e000ed6fa26fc506e705ea8bd6e8d3de2368",
+   "capture_run": "20261123T164433Z",
+   "file": "hdfcsec-financial.html",
+   "raw_label": "Outstanding Shares",
+   "raw_text": "17,874,109.00",
+   "raw_unit": "shares",
+   "period": "FY2026",
+   "period_label": "2025-26",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "hdfcsec-financial.html",
+    "table_index": 5,
+    "row_index": 11,
+    "heading": "HDFC Securities Limited Summary(Rs in Crores)"
+   },
+   "statement": "summary",
+   "derived": false,
+   "components": null
+  }
+ },
+ "news": {
+  "query": "\"HDFC Securities\"",
+  "retrieved_at": "2026-11-23T16:46:13+00:00",
+  "items": [
+   {
+    "title": "Stocks To Buy For Short-Term: Nagaraj Shetti Of HDFC Securities Picks These Two Shares",
+    "publisher": "NDTV Profit",
+    "date": "2026-11-20",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWE5XVlBkeC13dW1saVRDWWs0VXNYZnNXVjRfNVNFSkpEdmNMM1RuUlZQVzdONHNfa3p4TEZLR1FoR213bk1ZQ3lsMVEtU2VTVndvaWZDcmQzNElWdXVlMWZfbUNKWFhSenJkdFdGWU0tc0xUTHQwMWY1YzVtMEloV2Q4RnFWS2pLS0VsNTg3dzlNeEJzUWhzMEdkNy1VVnFBWTFsSXVGLUhSQTFfcTV4QmFsejNTek1OSUxlclljaF9TLUFEV0FBUtIB0AFBVV95cUxPSi1sMUhrckNBNUpmN3AyNFgyRmwzcktJbUpMeVBHVi1Zel80aGlRSzM0OC1CUGVaUkdwTXRLekowSmRpdlZlMk9ETDRhU1hiX0ZvQWQtcU5fNjhQRmZmMG9yNHpqUDVLdUVvTXgzejRqdWFTNGlJelpZVlg5cXlCTG9oSUFGbjZSVDRyNkhpSnp6N0FzX01KRG5JQjlxenE3ZlVXdWVTLTFPd21NWDJpMTJfeHdCalFNQUVVTEYzVGtuQmZCeFpMWjZ6aDNpN1hE?oc=5"
+   },
+   {
+    "title": "Tata Steel, Divi's Labs In Focus After Q2 Results; HDFC Securities Sees Up To 34% Upside; Check New Target Prices",
+    "publisher": "NDTV Profit",
+    "date": "2026-11-12",
+    "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNdHoxal9pMmk3STBvT0VaZll6S3cwSWpiZzVSanUzNjhHMllxak5PREFEOHVOb01URTBpRnI2SktTelkzQllZWWJEXzFQTFhoN0FxV1ZKYTZSRHEzUGFZVGNSNDc4T1dHYlVJeHBXRFZzWloteHF2QWtZMFF6NzFwNzVLUEV5SjRnMklQcG1ITUdubUE2Y3dGNmRGMHlya2pnWnVSZFNXbWs1LUFpWVFqNTliWktZWlBTTmZKd2xraXMzdi1acG5xVlVFSjZpLWZxd0xZU0JyU0JQeGtTXzhBeXFEaGJYSjBHT096aGlOeW5hYXJ2X3JB?oc=5"
+   },
+   {
+    "title": "Samvat 2083: HDFC Securities picks 10 stocks across sectors; BEL, L&T, Ambuja Cement among top bets",
+    "publisher": "Moneycontrol.com",
+    "date": "2026-11-04",
+    "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQUWhBQjBmQnVLMXBSaVBHbmNaNjAzeU5DZGIxRWJoSmtBRkZnQzNna2R4NEFwTUQ3Nldwa2lQa3FDVUVZY0pFU29DLVl5WDBiRWtLajRIZ2c2dC1VSU5KQVEtUnptUmRBVG5xX09fUkMzTkRudHFFbWpJZm9UdWdxUzJ1bFhvQzNYbXBFTkM2bWZzWnF3VmQwdUJvWUt1bUpoTGsxRDVqbVBzcnZVQmFBcEpFcW5aVHlhZk9aOXFJb3lVREpZSlh3b3MwNTJ4Zngzd0ItZFlYcWpFd2J4WGNNc0Z4cmdMUTZSMzl3bVJxdkt0UdIB9wFBVV95cUxQamdXZkFhcUt3eVU4amFpQWR5QTA3dEYyQVhwSUFKVFV5WVV2dG9PVmVZSkZjY0NmcFdfbUh0QWRETmVLRjdHd25KTlJpX19GRnJWNmFuR3pDNFBMM2FDbmRmNlRhUEx5ZVBETGJhQlpCanNXdUp6SFVKeGN3WHhncjdmYUc3aXB3U0IyTEtFM0N0LTU4OHY0d1l3QUc3aVNGTG5tdG5MeTEycU0xMHpxZFZ2SXVCUFEtck12R3U2eWdwdUw4Tzg1TTF1aWVmYjVBa0dEd0JJLXBaNC1uU0p5UkdQVmxLYzdIaWtDZ3ZweXQ4SGZrSl9J?oc=5"
+   },
+   {
+    "title": "Stockal scam: Another investor claims $1 million loss after unauthorised liquidation of US stocks",
+    "publisher": "Moneycontrol.com",
+    "date": "2026-11-04",
+    "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNRXlJbkFhZnFGU240M0V1akdJUHlwRW5xd1I5cUNGNjN1Y0dMVWR4NkwyZ09iRnNndXBHTDVwYUdlUzJjMDBveEdXaHR0YTgyMkVrVjlSMFozTlRMWEgzRU9xVlpfSS1Yb3BNUEpWUDNoc2VZc2I5U0tUQW1zTUdVS2hTRXFiOEJDWU1tM0tqdVNscll0M0M4Xzd3TkJtSWtpWHQ0QXAtVENrWFlpUlFGaG1xanNDOGFrV3UxU3JQSzU2cG94TFZvM0FTTjh6N21ReEw0X05Eb3NEZG9qZjRkdEhwbXNUMWxxd3Z6T0tad2hfQdIB9wFBVV95cUxOSmI2Q2YxZG8tY0RScTFkWnQ5U3JPcUVvRk5IbDVLeE1nRkhHRGJ2NkdubWlaQ1JuaC11RkVEUnNFdGxyckFqZzloNlljUUxRUHozR1BDczZ5aktTaHg0RkdRYUtNck40ekl1WUVPdC1YdTBOSUIzZEtobU43UERfX2E0dGxiTEtwU0cweXB3NVAybnFtdGlwRTFLYmxyZTBHYUNOeUZWaVFYOFZhRkpod1EyX1lQU3JPSU1Cd0t5VXFzNkhubDRUR3VSWDEzdF9fcm5RNnlqY2pFbXJFc3pLMmFHUHpyX2NhclB4SkxwZE0yUXhjaVBv?oc=5"
+   },
+   {
+    "title": "Stockal Fraud Case: HDFC Securities Says It Is Not An Accused, Partnership Ended In 2024",
+    "publisher": "NDTV Profit",
+    "date": "2026-11-04",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNmIyeW9VNXhFN2VseTVDSjFGS0hEVTAtVmZRWjB1QTdxWTlHZ2Rub2x4dEo4ZWh4UEctaUlwUFh4X3JfbDJ3c0tUem5yWEp6a2FwY2hfclVBRG9OTlk3RVJZMjV6OC1qUFI5b19Xb19OcUVkcHJMWjVWYk5yQVdMaWpjVUNDVHEyX3UyZ3VfZUg0cW1VMWFTNG9sUU1KSDZRaXVsSDV5UHBoZldsSDdSc0x1Yy04d09tX0w2cUhkc2Nyb1U4SWNBay1B0gHSAUFVX3lxTE1XLU1peFZJVDF2M1ZpSVFleTYta2d6ZjRKMDBQTFZtTDBNcThXMWpCeE5pUk0tVHlQbmFnU2MxTldvWUx5ZU5YaUtYbjMzS09pVWJMNjJPM0thY3VDMTNhN0treXFiZ3ByOFVzSTBkTUhTUnNMWGxRR3JqZllnNmFOb1I2Y0dCVTh0aVlUQWRMbnMxaC1YMGw0ZUZYV1RRa2VXUU9lNGxsWlhyYmtVLWNWM01QMGZzSk5zZzhidUN3SmoyX0ZDc3V2d19IMU1IQ294Zw?oc=5"
+   },
+   {
+    "title": "Stockal trading fraud: HDFC Securities clarifies it is not named in FIR, says partnership ended in 2024",
+    "publisher": "Business Today",
+    "date": "2026-11-04",
+    "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNVjdleGVSYlc4UGVZQ25UNVJtLTBRbkRBYzRHNzFrbjZVYkEtOU5LbW1qWEJpdDkxWGJGSFpKQzNxRi03aTRUSDBiREdjOTcxblc0N0J5LVJOUG51Tk1hTGZ0QWhsSEtGakMyZEJLTGZ1WW5GT1JlRnNuNWQ0dEwzUlQwOFgydVFTRVVYeDlCOXEzUUVzVy1oSzJuSjlWRXhtM2RyWTB0OW92WUlkVFh2NUI4bjhqWTFvUlBicnd5Z0hWSk9kUjNWakhsNV9jX3lLaXlEWTBfZFUtRE9BSU5TZ0tBeXdWRGRNU2I2OTlXdGVyVXVBd2g4djlka2l0RmN60gGGAkFVX3lxTFBRZ0VMVC1sdEU2WkdPMVJ0RURZVFBmckxYZFI3LTE5RHJKUExlZlFPYnJlLU5BcWVMaVoxbTZ4Tno5OU9oY2xEdFg4QU5sZkRtdmQwdk8yQjd1dUs1dWV5cjg0U2xIZWVBTzloZ1dxQXNxSW5uWExmTU43Y29WaHFxaEVueTFPZG9sNVpSUUR1WFQwSmhFTmpPN184YTFLbDNHWU5DRDFrQmpTLWFmYzFBSU1OVGJ6ZHRnX0ZWcWJLMGNiMEpjT2xpY1hsSDQ2Y3VoSDVmZTFJa2NRSE44aTllYWgxRFZqajBFblBlTTZYMGlKdVFKWHFHbWhYY0ViN1l4T2NIU1E?oc=5"
+   },
+   {
+    "title": "HDFC securities Launches Portfolio Optimiser, Indias First End-to-End Health & Repair Engine for Equity and Mutual Fund Investors",
+    "publisher": "TheWire.in",
+    "date": "2026-10-09",
+    "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPSzNLRUQwdlI2dENON2V1MXN6SjdRNFdSOWY5WVBpS3BZVGdYdEFiR09ELUxEc1RiZHJ1NXZPaEJqUFFUMjJ4c05jM2ZaSkNJMzV5anpFM1hxTGtBa0s1NTlwVzVfRkd4WEdtZHFEbmJyTmdvWm1mMzZ6VUlybGp1aXFvd3FGSW03QkJCdi1McW1KTXZsUkFUV0Q0NVFfNW0tM203OVpjZ1lHSFY4WEtVazROMHdXSGtDc3pSVHlhbkk5TDVvV2JuSjhUME5SREFWRWxIWUFkdWVDTHBDLUItek1obEtobDkzMTZLaTR3cTlXa1ZBR0ZoSW9qNVBxd9IB_gFBVV95cUxPSzNLRUQwdlI2dENON2V1MXN6SjdRNFdSOWY5WVBpS3BZVGdYdEFiR09ELUxEc1RiZHJ1NXZPaEJqUFFUMjJ4c05jM2ZaSkNJMzV5anpFM1hxTGtBa0s1NTlwVzVfRkd4WEdtZHFEbmJyTmdvWm1mMzZ6VUlybGp1aXFvd3FGSW03QkJCdi1McW1KTXZsUkFUV0Q0NVFfNW0tM203OVpjZ1lHSFY4WEtVazROMHdXSGtDc3pSVHlhbkk5TDVvV2JuSjhUME5SREFWRWxIWUFkdWVDTHBDLUItek1obEtobDkzMTZLaTR3cTlXa1ZBR0ZoSW9qNVBxdw?oc=5"
+   },
+   {
+    "title": "Consumer durables hike prices by 5% as costs rise; HDFC Securities' Keshav Lahoti picks Orient Electric",
+    "publisher": "MSN",
+    "date": "2026-10-08",
+    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPUzJfRXRSWl9pbF9qYjU3RHE4cU94TmhIR1lOeVJnVVNQVkVtZ3J1aF9PMzNMbTh1TVVGQU5xOW5OOUVIaldSSldpZ1VUSzBYLUhUY1loMVcxNGotNTh5emt3bHk4VHBGd1VaZTVWbEh6aHc5anlQaVA5YXgxUE8zeTRYS3BpT1NNRXNGNVpRUEZWZ2dONjFvazZxRWw2Rk83bDhKZm9peEswY0E5XzAyLXZ5YXBjNUVkSE5mS1RfRTdjX1ZuTlR3Si05aGltd2RUUzQzYmpITzZNU0ZKanpoT0VoQ1lTaG8?oc=5"
+   }
+  ],
+  "source": {
+   "name": "Google News RSS search",
+   "url": "https://news.google.com/rss/search?q=%22HDFC+Securities%22&hl=en-IN&gl=IN&ceid=IN:en",
+   "sha256": "fd4afd44c5f8401f35f90c24b80a452f707826eb8fed1c343fa8d40b86ab14b5",
+   "run": "20261123T164603Z"
+  }
+ },
+ "peer_reviewed": true,
+ "discovery": [
+  {
+   "id": "ncdex",
+   "short": "NCDEX",
+   "name": "National Commodity & Derivatives Exchange Ltd",
+   "reasons": [
+    "same industry: Capital Markets",
+    "provider reports DRHP filed (IPO research lead)",
+    "in the news 2026-11-11"
+   ],
+   "score": 4,
+   "price_inr": 253.0,
+   "latest_period": "FY2026"
+  },
+  {
+   "id": "oyo",
+   "short": "OYO",
+   "name": "Oravel Stays Ltd (OYO)",
+   "reasons": [
+    "provider reports DRHP filed (IPO research lead)",
+    "in the news 2026-11-23"
+   ],
+   "score": 3,
+   "price_inr": 20.45,
+   "latest_period": "FY2026"
+  },
+  {
+   "id": "pharmeasy",
+   "short": "PharmEasy",
+   "name": "API Holdings Ltd (PharmEasy)",
+   "reasons": [
+    "provider reports DRHP filed (IPO research lead)",
+    "in the news 2026-10-28"
+   ],
+   "score": 3,
+   "price_inr": 6.15,
+   "latest_period": "FY2026"
+  },
+  {
+   "id": "hpx",
+   "short": "HPX",
+   "name": "Hindustan Power Exchange Ltd",
+   "reasons": [
+    "same industry: Capital Markets",
+    "in the news 2026-11-10"
+   ],
+   "score": 2,
+   "price_inr": 22.8,
+   "latest_period": "FY2026"
+  },
+  {
+   "id": "igx",
+   "short": "IGX",
+   "name": "Indian Gas Exchange Ltd",
+   "reasons": [
+    "same industry: Capital Markets",
+    "in the news 2026-11-16"
+   ],
+   "score": 2,
+   "price_inr": 488.0,
+   "latest_period": "FY2026"
+  },
+  {
+   "id": "msei",
+   "short": "MSE",
+   "name": "Metropolitan Stock Exchange of India Ltd",
+   "reasons": [
+    "same industry: Capital Markets",
+    "in the news 2026-11-18"
+   ],
+   "score": 2,
+   "price_inr": 6.35,
+   "latest_period": "FY2026"
+  }
+ ],
+ "fallbacks": []
+}

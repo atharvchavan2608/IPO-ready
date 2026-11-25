@@ -1,0 +1,16 @@
+[
+  {
+    "id": "chittorgarh-review-index",
+    "url": "https://www.chittorgarh.com/report/ipo-review-and-rating-india/73/mainboard/",
+    "retrieved_at": "2026-11-12T11:18:32.348079+00:00",
+    "source_date": null,
+    "timeout_seconds": 12,
+    "evidence_type": "HTTP access experiment",
+    "status": 200,
+    "final_url": "https://www.chittorgarh.com/report/ipo-review-and-rating-india/73/mainboard/",
+    "content_type": "text/html; charset=utf-8",
+    "path": "chittorgarh-review-index.html",
+    "bytes": 94618,
+    "sha256": "344a2eac20e04af89b5245455fc270e4d08359c60ca922e21a191fa1603355f6"
+  }
+]

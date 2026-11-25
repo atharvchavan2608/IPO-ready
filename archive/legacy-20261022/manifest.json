@@ -1,0 +1,120 @@
+{
+    "archived_on":  "2026-11-12",
+    "reason":  "User requested archiving superseded demo code; research and evidence remain active",
+    "files":  [
+                  {
+                      "original_path":  "app/engine.py",
+                      "archived_path":  "archive/legacy-20261022/app/engine.py",
+                      "sha256":  "e6b0c977e62d0379047a25cbd398d43ae1b5252bd6b92363ddaa169916665482",
+                      "bytes":  5850
+                  },
+                  {
+                      "original_path":  "app/index.html",
+                      "archived_path":  "archive/legacy-20261022/app/index.html",
+                      "sha256":  "2621c952f102f52acbf00b93f7715aef3d7a838f64a3775d7bbbb4589a37e362",
+                      "bytes":  8771
+                  },
+                  {
+                      "original_path":  "app/main.py",
+                      "archived_path":  "archive/legacy-20261022/app/main.py",
+                      "sha256":  "a1a9b3006a9431f19d4781e7ccf9a8e137791b1e40dc2ec8c84d5a1508e26e3e",
+                      "bytes":  1288
+                  },
+                  {
+                      "original_path":  "app/README.md",
+                      "archived_path":  "archive/legacy-20261022/app/README.md",
+                      "sha256":  "48b76c8e4cd3e98403b2b6b3fcddb13d48a7e22e48389bf0ae5899381c28fa96",
+                      "bytes":  1504
+                  },
+                  {
+                      "original_path":  "notebooks/01_financial_analysis.ipynb",
+                      "archived_path":  "archive/legacy-20261022/notebooks/01_financial_analysis.ipynb",
+                      "sha256":  "c762f72cfa39962674676f8f7ebcf005802a38d4e74e20d4627ed7628ef855c3",
+                      "bytes":  4704
+                  },
+                  {
+                      "original_path":  "outputs/poc/aether_annual_profile.csv",
+                      "archived_path":  "archive/legacy-20261022/outputs/poc/aether_annual_profile.csv",
+                      "sha256":  "2ad1492d09d542cecaf45555a303da58017253b0939707925836f331a0c80670",
+                      "bytes":  356
+                  },
+                  {
+                      "original_path":  "outputs/poc/all_reports.json",
+                      "archived_path":  "archive/legacy-20261022/outputs/poc/all_reports.json",
+                      "sha256":  "afc6a805824ae8d63c3e2d8ff391d9eb6e6bd3da7a080d52b7aab8b907daf7a5",
+                      "bytes":  74422
+                  },
+                  {
+                      "original_path":  "outputs/poc/dashboard-desktop.png",
+                      "archived_path":  "archive/legacy-20261022/outputs/poc/dashboard-desktop.png",
+                      "sha256":  "26c4210a69295410a46b9df9d87991162356d617549ddf80e21784365f1a3105",
+                      "bytes":  251703
+                  },
+                  {
+                      "original_path":  "outputs/poc/dashboard-mobile.png",
+                      "archived_path":  "archive/legacy-20261022/outputs/poc/dashboard-mobile.png",
+                      "sha256":  "1097e79858a03ed74728cc3a78677669fead862551520621864cdd2f0bb1b379",
+                      "bytes":  244691
+                  },
+                  {
+                      "original_path":  "outputs/poc/downloaded-report.json",
+                      "archived_path":  "archive/legacy-20261022/outputs/poc/downloaded-report.json",
+                      "sha256":  "c523b7f37a61c6cd9113264f0f3d9c4dd4aca7f3edfa914a5a9519043648c167",
+                      "bytes":  13697
+                  },
+                  {
+                      "original_path":  "outputs/poc/IPO_Ready_Demo.html",
+                      "archived_path":  "archive/legacy-20261022/outputs/poc/IPO_Ready_Demo.html",
+                      "sha256":  "7e943f608a0d888f2c920f27f5acaf21d59b599f55b2e15e33dffc30d9907b4a",
+                      "bytes":  66253
+                  },
+                  {
+                      "original_path":  "tests/test_engine.py",
+                      "archived_path":  "archive/legacy-20261022/tests/test_engine.py",
+                      "sha256":  "642e1f5555b241ffc6e0b5b9819c3c92e4f94f7fa69f469c98e46ea94e871d66",
+                      "bytes":  1423
+                  },
+                  {
+                      "original_path":  "scripts/build_proposal.py",
+                      "archived_path":  "archive/legacy-20261022/scripts/build_proposal.py",
+                      "sha256":  "237aad9b72c96ad1415f89657ed593350c1c1a57f78652328fafe8f490dec994",
+                      "bytes":  2802
+                  },
+                  {
+                      "original_path":  "scripts/build_notebook.py",
+                      "archived_path":  "archive/legacy-20261022/scripts/build_notebook.py",
+                      "sha256":  "a13bdd43d030137e50cfb9c0518e2515206995312d4614c03bda8a345cbce514",
+                      "bytes":  3980
+                  },
+                  {
+                      "original_path":  "scripts/build_demo_snapshot.py",
+                      "archived_path":  "archive/legacy-20261022/scripts/build_demo_snapshot.py",
+                      "sha256":  "448b3fadad8bbed412d9e850f33d246aaddba9cf419759ee8f579e618185ddd9",
+                      "bytes":  956
+                  },
+                  {
+                      "original_path":  "scripts/check_demo.cjs",
+                      "archived_path":  "archive/legacy-20261022/scripts/check_demo.cjs",
+                      "sha256":  "042c74bc043b6f52dd79eb3e8e4baad9633de2e1942cc7c05198cb5139af52e7",
+                      "bytes":  2055
+                  },
+                  {
+                      "original_path":  "survey_builder.mjs",
+                      "archived_path":  "archive/legacy-20261022/survey_builder.mjs",
+                      "sha256":  "b35da37e466412eb2adf7d10dbee07846fbbd8c04e3386fcdb5c0d85bfcac5e2",
+                      "bytes":  53969
+                  },
+                  {
+                      "original_path":  "verify_survey.py",
+                      "archived_path":  "archive/legacy-20261022/verify_survey.py",
+                      "sha256":  "12f7cbd6094fd5b623608546eb970d526a30ebb29a9d3c20a4ad69b8eac9baa1",
+                      "bytes":  1099
+                  },
+                  {
+                      "original_path":  "fetch_research_sources.py",
+                      "archived_path":  "archive/legacy-20261022/fetch_research_sources.py",
+                      "sha256":  "c348f457ca44aefca2a08bf84c10747aced0a87e9840e60369e3b78814c1abc3",
+                      "bytes":  2205
+                  }
+              ]
+}

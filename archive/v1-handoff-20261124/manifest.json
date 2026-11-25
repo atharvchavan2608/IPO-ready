@@ -1,0 +1,180 @@
+{
+  "archived_on": "2026-11-24",
+  "files": [
+    {
+      "original_path": "AGENTS.md",
+      "archived_path": "archive/v1-handoff-20261124/V1_AGENT_INSTRUCTIONS.md",
+      "original_sha256": "adfe70fc808b7fe2ca91efb21aef35845d427889ab1f507f3d9f17f136018a3c",
+      "archived_sha256": "2fa140813c6a176e24e24a8f877320e87bd54595bb4b809fb429c50a2e4b7b08",
+      "relative_links_updated": 8
+    },
+    {
+      "original_path": "docs/starter-kit/PROMPTS.md",
+      "archived_path": "archive/v1-handoff-20261124/docs/starter-kit/PROMPTS.md",
+      "original_sha256": "33fa91f25b1dfb642cb584eb1e4d43cb41ee925633831c4939609b209f1a8c0e",
+      "archived_sha256": "33fa91f25b1dfb642cb584eb1e4d43cb41ee925633831c4939609b209f1a8c0e",
+      "relative_links_updated": 0
+    },
+    {
+      "original_path": "docs/starter-kit/PROTOTYPE_BRIEF.md",
+      "archived_path": "archive/v1-handoff-20261124/docs/starter-kit/PROTOTYPE_BRIEF.md",
+      "original_sha256": "b1f18fb86dd06e5086f9717b1add8a1def562cea1d0d5c45af402496ec7642fb",
+      "archived_sha256": "631f8a58cdc94e26b8f5ede4fdd89cf8af764a677d759782e3b2ecff12f2fcc9",
+      "relative_links_updated": 1
+    },
+    {
+      "original_path": "docs/starter-kit/REVIEW.md",
+      "archived_path": "archive/v1-handoff-20261124/docs/starter-kit/REVIEW.md",
+      "original_sha256": "baf5b97e5166234068ff2c674ace0cef101da85d771e917cef2a9ec83142ddae",
+      "archived_sha256": "230c0f41eef9132b2868216eac48df5d89d766dc404cee23f898fbb39bebc68f",
+      "relative_links_updated": 11
+    },
+    {
+      "original_path": "docs/starter-kit/RUN_LOG.md",
+      "archived_path": "archive/v1-handoff-20261124/docs/starter-kit/RUN_LOG.md",
+      "original_sha256": "42ee11e9f54485bafc387a489f6f91af409bd7a90bbf9c1db2d078e2ada3ec4c",
+      "archived_sha256": "b192a26a86b86cebdbec647d341aba20ccba1434c1bd09533413e8068eb8d6c9",
+      "relative_links_updated": 7
+    },
+    {
+      "original_path": "docs/starter-kit/steering.md",
+      "archived_path": "archive/v1-handoff-20261124/docs/starter-kit/steering.md",
+      "original_sha256": "13422a3bbe17df09c59bc9428b51df40ccaf4b31c31c0cf45116700d0c5c2d1a",
+      "archived_sha256": "13422a3bbe17df09c59bc9428b51df40ccaf4b31c31c0cf45116700d0c5c2d1a",
+      "relative_links_updated": 0
+    },
+    {
+      "original_path": "docs/starter-kit/WORKING_STATE.md",
+      "archived_path": "archive/v1-handoff-20261124/docs/starter-kit/WORKING_STATE.md",
+      "original_sha256": "d87a24c8497b777d1a9ed165aa76b55a8f57ddf8864bc4748da109d7e794560a",
+      "archived_sha256": "6c256d63a45220245e5fcfbc9a544abeb89e943f02cf8e3f3423a4fafa6fdf0d",
+      "relative_links_updated": 6
+    },
+    {
+      "original_path": "docs/starter-kit/inputs/Initial_design_thoughts.txt",
+      "archived_path": "archive/v1-handoff-20261124/docs/starter-kit/inputs/Initial_design_thoughts.txt",
+      "original_sha256": "c0381b7dfd8b19fcbdfa67ac5723d3d861ce06d986b76095123c16e906567ef6",
+      "archived_sha256": "c0381b7dfd8b19fcbdfa67ac5723d3d861ce06d986b76095123c16e906567ef6",
+      "relative_links_updated": 0
+    },
+    {
+      "original_path": "docs/report/IPO_Ready_Report.md",
+      "archived_path": "archive/v1-handoff-20261124/docs/report/IPO_Ready_Report.md",
+      "original_sha256": "3d65ed21068457691907130f1cd7f701cc97ea3e1755bc21655ad3c22ff441a6",
+      "archived_sha256": "8e1e488d7fd20b62672972850c32eb3dcf48a7ba73a7149b5fc6d6f2fb914cfe",
+      "relative_links_updated": 44
+    },
+    {
+      "original_path": "docs/product/IPO_READY_CAPABILITIES_AND_ROADMAP.md",
+      "archived_path": "archive/v1-handoff-20261124/docs/product/IPO_READY_CAPABILITIES_AND_ROADMAP.md",
+      "original_sha256": "f88e3c57229d2de1be350156b1b7be98890e35ea255dd85f0ab97370937e5127",
+      "archived_sha256": "ca56f555141e4889cec419847e49c0de23fcbe843d686ccf90386ed76b4f35e8",
+      "relative_links_updated": 8
+    },
+    {
+      "original_path": "outputs/preview/check_results.json",
+      "archived_path": "archive/v1-handoff-20261124/outputs/preview/check_results.json",
+      "original_sha256": "ed9664ec729303601932777dcc08be3787585f295f1f3482aa5d7538fdd47e07",
+      "archived_sha256": "ed9664ec729303601932777dcc08be3787585f295f1f3482aa5d7538fdd47e07",
+      "relative_links_updated": 0
+    },
+    {
+      "original_path": "outputs/preview/page1-desktop-agent.png",
+      "archived_path": "archive/v1-handoff-20261124/outputs/preview/page1-desktop-agent.png",
+      "original_sha256": "e86d05f75e2255f65a93d7e2d7df2a6dc0fa3503a76b59d0f3a0876a48fb31a9",
+      "archived_sha256": "e86d05f75e2255f65a93d7e2d7df2a6dc0fa3503a76b59d0f3a0876a48fb31a9",
+      "relative_links_updated": 0
+    },
+    {
+      "original_path": "outputs/preview/page1-desktop-evidence.png",
+      "archived_path": "archive/v1-handoff-20261124/outputs/preview/page1-desktop-evidence.png",
+      "original_sha256": "ee396985d4d2e963c8f8722e3cb470ae1ed8b920f44e43ebb2e54070b8f0419c",
+      "archived_sha256": "ee396985d4d2e963c8f8722e3cb470ae1ed8b920f44e43ebb2e54070b8f0419c",
+      "relative_links_updated": 0
+    },
+    {
+      "original_path": "outputs/preview/page1-desktop-fallback-drill.png",
+      "archived_path": "archive/v1-handoff-20261124/outputs/preview/page1-desktop-fallback-drill.png",
+      "original_sha256": "4ca08df6a41eba845872bb2cdc9d41afd87273fdf3ba8d6442403adf9c84a9c6",
+      "archived_sha256": "4ca08df6a41eba845872bb2cdc9d41afd87273fdf3ba8d6442403adf9c84a9c6",
+      "relative_links_updated": 0
+    },
+    {
+      "original_path": "outputs/preview/page1-desktop.png",
+      "archived_path": "archive/v1-handoff-20261124/outputs/preview/page1-desktop.png",
+      "original_sha256": "247340f9b07620cf9e079fa0749f1bd86dc8fadc05771c06c57fab2954e9ec47",
+      "archived_sha256": "247340f9b07620cf9e079fa0749f1bd86dc8fadc05771c06c57fab2954e9ec47",
+      "relative_links_updated": 0
+    },
+    {
+      "original_path": "outputs/preview/page1-mobile.png",
+      "archived_path": "archive/v1-handoff-20261124/outputs/preview/page1-mobile.png",
+      "original_sha256": "bd1f5722e97b47ac8d710cc2a2f6bd628688be64668c32f7919f170e09fa33ef",
+      "archived_sha256": "bd1f5722e97b47ac8d710cc2a2f6bd628688be64668c32f7919f170e09fa33ef",
+      "relative_links_updated": 0
+    },
+    {
+      "original_path": "outputs/preview/page2-desktop-peer-fallback.png",
+      "archived_path": "archive/v1-handoff-20261124/outputs/preview/page2-desktop-peer-fallback.png",
+      "original_sha256": "4f2a91658c6e8b0adee80c714cdf5a220641a75bb8c68f1f152adc5a7241a96d",
+      "archived_sha256": "4f2a91658c6e8b0adee80c714cdf5a220641a75bb8c68f1f152adc5a7241a96d",
+      "relative_links_updated": 0
+    },
+    {
+      "original_path": "outputs/preview/page2-desktop.png",
+      "archived_path": "archive/v1-handoff-20261124/outputs/preview/page2-desktop.png",
+      "original_sha256": "f0dcd4a03e18d120bca06631feed1aca7be08620aa5da63a0719790eb15cb766",
+      "archived_sha256": "f0dcd4a03e18d120bca06631feed1aca7be08620aa5da63a0719790eb15cb766",
+      "relative_links_updated": 0
+    },
+    {
+      "original_path": "outputs/preview/page2-mobile.png",
+      "archived_path": "archive/v1-handoff-20261124/outputs/preview/page2-mobile.png",
+      "original_sha256": "288ac4daf21ba020c338acbed323a0566eb7a57c05a1e99d11adfa286d8b369d",
+      "archived_sha256": "288ac4daf21ba020c338acbed323a0566eb7a57c05a1e99d11adfa286d8b369d",
+      "relative_links_updated": 0
+    },
+    {
+      "original_path": "outputs/preview/page3-desktop-fallback.png",
+      "archived_path": "archive/v1-handoff-20261124/outputs/preview/page3-desktop-fallback.png",
+      "original_sha256": "4cb6bc79dc6d7571264d88f52d61ca8e9ae9020d649df5c0fefd8d67aa7bb2ce",
+      "archived_sha256": "4cb6bc79dc6d7571264d88f52d61ca8e9ae9020d649df5c0fefd8d67aa7bb2ce",
+      "relative_links_updated": 0
+    },
+    {
+      "original_path": "outputs/preview/page3-desktop-growth.png",
+      "archived_path": "archive/v1-handoff-20261124/outputs/preview/page3-desktop-growth.png",
+      "original_sha256": "77cefd843b8b7c664f8e25abcb3a41b2fb2186153722e3231c7ea97947fe2c9c",
+      "archived_sha256": "77cefd843b8b7c664f8e25abcb3a41b2fb2186153722e3231c7ea97947fe2c9c",
+      "relative_links_updated": 0
+    },
+    {
+      "original_path": "outputs/preview/page3-desktop.png",
+      "archived_path": "archive/v1-handoff-20261124/outputs/preview/page3-desktop.png",
+      "original_sha256": "4fc917c168c8520df505234d915c835135fa33497d41af315f7f8d8920b9bd6b",
+      "archived_sha256": "4fc917c168c8520df505234d915c835135fa33497d41af315f7f8d8920b9bd6b",
+      "relative_links_updated": 0
+    },
+    {
+      "original_path": "outputs/preview/page3-mobile.png",
+      "archived_path": "archive/v1-handoff-20261124/outputs/preview/page3-mobile.png",
+      "original_sha256": "f0618f75f68ce4bdb52c117ad2ca48c7bbb1a0470ed18080641d9da712867f05",
+      "archived_sha256": "f0618f75f68ce4bdb52c117ad2ca48c7bbb1a0470ed18080641d9da712867f05",
+      "relative_links_updated": 0
+    },
+    {
+      "original_path": "outputs/preview/review-page2-mobile.png",
+      "archived_path": "archive/v1-handoff-20261124/outputs/preview/review-page2-mobile.png",
+      "original_sha256": "c938ef7c39204e469f416e3cd7bf7f17f690e609df8b980851a8a57e5dad16c0",
+      "archived_sha256": "c938ef7c39204e469f416e3cd7bf7f17f690e609df8b980851a8a57e5dad16c0",
+      "relative_links_updated": 0
+    },
+    {
+      "original_path": "outputs/preview/review-page3-desktop.png",
+      "archived_path": "archive/v1-handoff-20261124/outputs/preview/review-page3-desktop.png",
+      "original_sha256": "128f0fd98598d79832a1fd508cdbd8dfbb3e69246b08cf52a01c71f3e17806c8",
+      "archived_sha256": "128f0fd98598d79832a1fd508cdbd8dfbb3e69246b08cf52a01c71f3e17806c8",
+      "relative_links_updated": 0
+    }
+  ]
+}

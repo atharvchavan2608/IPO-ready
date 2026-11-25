@@ -1,0 +1,48 @@
+{
+  "source": "screener",
+  "run_id": "20261123T173931Z",
+  "items": [
+    {
+      "url": "https://www.screener.in/company/LTM/consolidated/",
+      "retrieved_at": "2026-11-23T17:39:31+00:00",
+      "status": null,
+      "error": "ProxyError: HTTPSConnectionPool(host='www.screener.in', port=443): Max retries exceeded with url: /company/LTM/consolidated/ (Caused by ProxyError('Unable to connect to pro",
+      "id": "LTM-consolidated",
+      "symbol": "LTM",
+      "basis": "consolidated"
+    },
+    {
+      "url": "https://www.screener.in/company/LTM/",
+      "retrieved_at": "2026-11-23T17:39:34+00:00",
+      "status": null,
+      "error": "ProxyError: HTTPSConnectionPool(host='www.screener.in', port=443): Max retries exceeded with url: /company/LTM/ (Caused by ProxyError('Unable to connect to proxy', NewConne",
+      "id": "LTM-standalone",
+      "symbol": "LTM",
+      "basis": "standalone"
+    },
+    {
+      "url": "https://www.screener.in/company/SPLPETRO/consolidated/",
+      "retrieved_at": "2026-11-23T17:39:37+00:00",
+      "status": null,
+      "error": "ProxyError: HTTPSConnectionPool(host='www.screener.in', port=443): Max retries exceeded with url: /company/SPLPETRO/consolidated/ (Caused by ProxyError('Unable to connect t",
+      "id": "SPLPETRO-consolidated",
+      "symbol": "SPLPETRO",
+      "basis": "consolidated"
+    },
+    {
+      "url": "https://www.screener.in/company/SPLPETRO/",
+      "retrieved_at": "2026-11-23T17:39:40+00:00",
+      "status": null,
+      "error": "ProxyError: HTTPSConnectionPool(host='www.screener.in', port=443): Max retries exceeded with url: /company/SPLPETRO/ (Caused by ProxyError('Unable to connect to proxy', New",
+      "id": "SPLPETRO-standalone",
+      "symbol": "SPLPETRO",
+      "basis": "standalone"
+    }
+  ],
+  "summary": {
+    "attempted": 4,
+    "ok": 0,
+    "failed": 4
+  },
+  "robots_note": "screener.in/robots.txt (2026-11-23) does not disallow /company/<symbol>/"
+}

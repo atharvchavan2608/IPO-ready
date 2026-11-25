@@ -1,0 +1,700 @@
+{
+ "id": "nse-aether",
+ "name": "Aether Industries Limited",
+ "short": "AETHER",
+ "hierarchy": [
+  "Listed",
+  "Specialty chemicals"
+ ],
+ "model": "manufacturer",
+ "market_status": "Listed on NSE",
+ "status_note": null,
+ "periods": [],
+ "basis": "unknown",
+ "layout": "identity record",
+ "statement_provider": "Screener.in",
+ "raw_units": [],
+ "fields": {
+  "total_income": {
+   "label": "Total income",
+   "unit": "INR crore",
+   "by_period": {}
+  },
+  "revenue_ops": {
+   "label": "Revenue from operations",
+   "unit": "INR crore",
+   "by_period": {}
+  },
+  "other_income": {
+   "label": "Other income",
+   "unit": "INR crore",
+   "by_period": {}
+  },
+  "other_gains": {
+   "label": "Other gains / losses",
+   "unit": "INR crore",
+   "by_period": {}
+  },
+  "job_work_revenue": {
+   "label": "Revenue from job work",
+   "unit": "INR crore",
+   "by_period": {}
+  },
+  "total_expenses": {
+   "label": "Total expenses",
+   "unit": "INR crore",
+   "by_period": {}
+  },
+  "finance_cost": {
+   "label": "Finance cost",
+   "unit": "INR crore",
+   "by_period": {}
+  },
+  "depreciation": {
+   "label": "Depreciation",
+   "unit": "INR crore",
+   "by_period": {}
+  },
+  "pbt": {
+   "label": "Profit before tax",
+   "unit": "INR crore",
+   "by_period": {}
+  },
+  "tax": {
+   "label": "Tax",
+   "unit": "INR crore",
+   "by_period": {}
+  },
+  "pat": {
+   "label": "Profit after tax",
+   "unit": "INR crore",
+   "by_period": {}
+  },
+  "total_assets": {
+   "label": "Total assets",
+   "unit": "INR crore",
+   "by_period": {}
+  },
+  "total_equity": {
+   "label": "Total equity",
+   "unit": "INR crore",
+   "by_period": {}
+  },
+  "total_liabilities": {
+   "label": "Total liabilities",
+   "unit": "INR crore",
+   "by_period": {}
+  },
+  "current_assets": {
+   "label": "Current assets",
+   "unit": "INR crore",
+   "by_period": {}
+  },
+  "current_liabilities": {
+   "label": "Current liabilities",
+   "unit": "INR crore",
+   "by_period": {}
+  },
+  "inventories": {
+   "label": "Inventories",
+   "unit": "INR crore",
+   "by_period": {}
+  },
+  "cash": {
+   "label": "Cash & equivalents",
+   "unit": "INR crore",
+   "by_period": {}
+  },
+  "loans": {
+   "label": "Loans",
+   "unit": "INR crore",
+   "by_period": {}
+  },
+  "cfo": {
+   "label": "Cash from operations",
+   "unit": "INR crore",
+   "by_period": {}
+  },
+  "cfi": {
+   "label": "Cash from investing",
+   "unit": "INR crore",
+   "by_period": {}
+  },
+  "cff": {
+   "label": "Cash from financing",
+   "unit": "INR crore",
+   "by_period": {}
+  },
+  "ebitda": {
+   "label": "EBITDA",
+   "unit": "INR crore",
+   "by_period": {}
+  },
+  "eps": {
+   "label": "EPS (provider)",
+   "unit": "INR per share",
+   "by_period": {}
+  },
+  "shares_outstanding": {
+   "label": "Shares outstanding",
+   "unit": "INR crore",
+   "by_period": {}
+  },
+  "pat_pre_associate": {
+   "label": "Profit after tax before associate contribution",
+   "unit": "INR crore",
+   "by_period": {}
+  },
+  "pat_owners": {
+   "label": "Profit attributable to owners",
+   "unit": "INR crore",
+   "by_period": {}
+  },
+  "associate_profit": {
+   "label": "Share of associate profit",
+   "unit": "INR crore",
+   "by_period": {}
+  },
+  "eps_basic": {
+   "label": "Reported basic EPS",
+   "unit": "INR per share",
+   "by_period": {}
+  },
+  "eps_diluted": {
+   "label": "Reported diluted EPS",
+   "unit": "INR per share",
+   "by_period": {}
+  },
+  "gross_profit": {
+   "label": "Gross profit",
+   "unit": "INR crore",
+   "by_period": {}
+  },
+  "operating_profit": {
+   "label": "Operating profit",
+   "unit": "INR crore",
+   "by_period": {}
+  },
+  "cost_of_sales": {
+   "label": "Cost of sales",
+   "unit": "INR crore",
+   "by_period": {}
+  },
+  "trade_receivables": {
+   "label": "Trade receivables",
+   "unit": "INR crore",
+   "by_period": {}
+  },
+  "trade_payables": {
+   "label": "Trade payables",
+   "unit": "INR crore",
+   "by_period": {}
+  },
+  "fixed_assets": {
+   "label": "Fixed assets",
+   "unit": "INR crore",
+   "by_period": {}
+  },
+  "borrowings": {
+   "label": "Borrowings",
+   "unit": "INR crore",
+   "by_period": {}
+  },
+  "dividend_per_share": {
+   "label": "Dividend per share",
+   "unit": "INR crore",
+   "by_period": {}
+  },
+  "gross_npa": {
+   "label": "Gross NPA",
+   "unit": "INR crore",
+   "by_period": {}
+  },
+  "net_npa": {
+   "label": "Net NPA",
+   "unit": "INR crore",
+   "by_period": {}
+  },
+  "nim": {
+   "label": "Net interest margin",
+   "unit": "INR crore",
+   "by_period": {}
+  },
+  "provision_coverage": {
+   "label": "Provision coverage",
+   "unit": "INR crore",
+   "by_period": {}
+  },
+  "capital_adequacy": {
+   "label": "Capital adequacy",
+   "unit": "INR crore",
+   "by_period": {}
+  },
+  "claims_ratio": {
+   "label": "Incurred claims ratio",
+   "unit": "INR crore",
+   "by_period": {}
+  },
+  "combined_ratio": {
+   "label": "Combined ratio",
+   "unit": "INR crore",
+   "by_period": {}
+  },
+  "solvency_ratio": {
+   "label": "Solvency ratio",
+   "unit": "INR crore",
+   "by_period": {}
+  },
+  "net_change": {
+   "label": "Net change in cash",
+   "unit": "INR crore",
+   "by_period": {}
+  },
+  "provider_roce": {
+   "label": "Provider ROCE",
+   "unit": "%",
+   "by_period": {}
+  }
+ },
+ "metrics": {},
+ "valuation": {
+  "market_cap": {
+   "value": null,
+   "state": "missing_input",
+   "formula": "",
+   "inputs": {}
+  },
+  "pb": {
+   "value": null,
+   "state": "missing_input",
+   "formula": "",
+   "inputs": {}
+  },
+  "ps": {
+   "value": null,
+   "state": "missing_input",
+   "formula": "",
+   "inputs": {}
+  },
+  "eps": {
+   "value": null,
+   "state": "missing_input",
+   "formula": "",
+   "inputs": {}
+  },
+  "pe_reported": {
+   "value": null,
+   "state": "missing_input",
+   "formula": "",
+   "inputs": {}
+  },
+  "pe_proxy": {
+   "value": null,
+   "state": "missing_input",
+   "formula": "",
+   "inputs": {}
+  },
+  "pe": {
+   "value": null,
+   "state": "missing_input",
+   "formula": "price / EPS",
+   "inputs": {
+    "price_inr": null,
+    "eps": null
+   },
+   "unit": "x",
+   "eps_basis": "provider_annual_eps",
+   "note": "Annual EPS from Screener.in. The source does not specify basic or diluted EPS.",
+   "ev": []
+  }
+ },
+ "profile": {
+  "ev": "ev1",
+  "description": ""
+ },
+ "quote": {
+  "price_inr": null,
+  "as_of": null,
+  "state": "unavailable",
+  "ev": null,
+  "kind": "NSE end-of-day close"
+ },
+ "documents": [],
+ "news": {},
+ "checks": [],
+ "coverage_gaps": [
+  {
+   "field": "statements and quote",
+   "state": "unavailable"
+  }
+ ],
+ "agent": {},
+ "discovery": [],
+ "reconciliation": null,
+ "evidence": {
+  "ev1": {
+   "source": "Aether Industries · results filed with NSE and BSE",
+   "url": "https://aether.co.in/wp-content/uploads/2025/10/9999.pdf#page=1",
+   "raw_label": "NSE symbol and issuer name",
+   "raw_text": "AETHER · Aether Industries Limited",
+   "file": "aether_q2_fy26.pdf",
+   "sha256": "9e42c84aa47d8e480f14de3770a850681a04c613fda3ae9f9d7af073c74c3f83",
+   "retrieved_at": null,
+   "page": 1
+  }
+ },
+ "identity": {
+  "key": "NSE:AETHER",
+  "state": "verified",
+  "listing": "listed",
+  "ev": "ev1",
+  "symbol": "AETHER",
+  "isin": "INE0BWX01014"
+ },
+ "cash_flow": {
+  "unit": "INR crore",
+  "by_period": {}
+ },
+ "analysis": {},
+ "ratios": {
+  "defaults": [
+   "revenue_growth",
+   "ebitda_margin",
+   "roce",
+   "cfo_to_pat",
+   "net_debt_ebitda",
+   "pe"
+  ],
+  "groups": {
+   "Profitability": [
+    {
+     "id": "pat_margin",
+     "label": "PAT margin",
+     "unit": "%",
+     "formula": "PAT / total income"
+    },
+    {
+     "id": "net_profit_ratio",
+     "label": "Net profit ratio",
+     "unit": "%",
+     "formula": "PAT / operating revenue"
+    },
+    {
+     "id": "gross_margin",
+     "label": "Gross margin",
+     "unit": "%",
+     "formula": "gross profit / operating revenue"
+    },
+    {
+     "id": "operating_margin",
+     "label": "Operating margin",
+     "unit": "%",
+     "formula": "operating profit / operating revenue"
+    },
+    {
+     "id": "ebitda_margin",
+     "label": "EBITDA margin",
+     "unit": "%",
+     "formula": "EBITDA / operating revenue"
+    },
+    {
+     "id": "roe",
+     "label": "Return on equity",
+     "unit": "%",
+     "formula": "PAT / average equity"
+    },
+    {
+     "id": "roa",
+     "label": "Return on assets",
+     "unit": "%",
+     "formula": "PAT / average assets"
+    },
+    {
+     "id": "roce",
+     "label": "ROCE",
+     "unit": "%",
+     "formula": "(PBT + finance costs) / (total assets − current liabilities)"
+    },
+    {
+     "id": "other_income_share",
+     "label": "Other-income share",
+     "unit": "%",
+     "formula": "other income / total income"
+    }
+   ],
+   "Growth and per share": [
+    {
+     "id": "revenue_growth",
+     "label": "Revenue growth",
+     "unit": "%",
+     "formula": "operating revenue / prior-year operating revenue − 1"
+    },
+    {
+     "id": "revenue_cagr",
+     "label": "Three-year revenue CAGR",
+     "unit": "%",
+     "formula": "(operating revenue / operating revenue three years earlier)^(1/3) − 1"
+    },
+    {
+     "id": "diluted_growth",
+     "label": "Diluted EPS growth",
+     "unit": "%",
+     "formula": "diluted EPS / prior-year diluted EPS − 1"
+    },
+    {
+     "id": "eps_basic",
+     "label": "Reported basic EPS",
+     "unit": "₹/share",
+     "formula": "reported basic EPS"
+    },
+    {
+     "id": "eps_diluted",
+     "label": "Reported diluted EPS",
+     "unit": "₹/share",
+     "formula": "reported diluted EPS"
+    },
+    {
+     "id": "book_per_share",
+     "label": "Book value per share",
+     "unit": "₹/share",
+     "formula": "equity (₹ crore) × 10,000,000 / period-end shares"
+    }
+   ],
+   "Liquidity and debt": [
+    {
+     "id": "current_ratio",
+     "label": "Current ratio",
+     "unit": "×",
+     "formula": "current assets / current liabilities"
+    },
+    {
+     "id": "quick_ratio",
+     "label": "Quick ratio",
+     "unit": "×",
+     "formula": "(current assets − inventories) / current liabilities"
+    },
+    {
+     "id": "cash_ratio",
+     "label": "Cash ratio",
+     "unit": "×",
+     "formula": "cash and equivalents / current liabilities"
+    },
+    {
+     "id": "debt_equity",
+     "label": "Debt-to-equity",
+     "unit": "×",
+     "formula": "reported debt / equity"
+    },
+    {
+     "id": "interest_cover",
+     "label": "Interest coverage",
+     "unit": "×",
+     "formula": "(PBT + finance costs) / finance costs"
+    },
+    {
+     "id": "net_debt_ebitda",
+     "label": "Net debt / EBITDA",
+     "unit": "×",
+     "formula": "(reported debt − cash and equivalents) / EBITDA"
+    },
+    {
+     "id": "debt_cover",
+     "label": "Debt service coverage",
+     "unit": "×",
+     "formula": "operating cash flow / scheduled principal and interest"
+    }
+   ],
+   "Cash generation": [
+    {
+     "id": "cfo_to_pat",
+     "label": "Operating cash flow / profit",
+     "unit": "×",
+     "formula": "operating cash flow / PAT"
+    },
+    {
+     "id": "cfo_margin",
+     "label": "Operating cash flow margin",
+     "unit": "%",
+     "formula": "operating cash flow / operating revenue"
+    },
+    {
+     "id": "cfo_current",
+     "label": "Operating cash flow / current liabilities",
+     "unit": "×",
+     "formula": "operating cash flow / current liabilities"
+    },
+    {
+     "id": "fcf_margin",
+     "label": "Free cash flow margin",
+     "unit": "%",
+     "formula": "(operating cash flow + signed cash capex) / operating revenue"
+    }
+   ],
+   "Asset and working-capital efficiency": [
+    {
+     "id": "asset_turnover",
+     "label": "Asset turnover",
+     "unit": "×",
+     "formula": "operating revenue / average total assets"
+    },
+    {
+     "id": "fixed_turnover",
+     "label": "Fixed-asset turnover",
+     "unit": "×",
+     "formula": "operating revenue / average fixed assets"
+    },
+    {
+     "id": "inventory_days",
+     "label": "Inventory days",
+     "unit": "days",
+     "formula": "365 × average inventory / cost of sales"
+    },
+    {
+     "id": "receivable_days",
+     "label": "Receivable days",
+     "unit": "days",
+     "formula": "365 × average trade receivables / operating revenue"
+    },
+    {
+     "id": "payable_days",
+     "label": "Payable days",
+     "unit": "days",
+     "formula": "365 × average trade payables / cost of sales"
+    },
+    {
+     "id": "cash_cycle",
+     "label": "Cash conversion cycle",
+     "unit": "days",
+     "formula": "inventory days + receivable days − payable days"
+    }
+   ],
+   "Valuation and distributions": [
+    {
+     "id": "pe",
+     "label": "P/E at quote",
+     "unit": "×",
+     "formula": "dated price / annual EPS"
+    },
+    {
+     "id": "pb",
+     "label": "Price-to-book",
+     "unit": "×",
+     "formula": "indicative market cap / equity"
+    },
+    {
+     "id": "ps",
+     "label": "Price-to-sales",
+     "unit": "×",
+     "formula": "indicative market cap / operating revenue"
+    },
+    {
+     "id": "ev_ebitda",
+     "label": "EV / EBITDA",
+     "unit": "×",
+     "formula": "(market cap + debt − cash) / EBITDA"
+    },
+    {
+     "id": "ev_revenue",
+     "label": "EV / revenue",
+     "unit": "×",
+     "formula": "(market cap + debt − cash) / operating revenue"
+    },
+    {
+     "id": "dividend_payout",
+     "label": "Dividend payout ratio",
+     "unit": "%",
+     "formula": "reported dividend per share / annual basic EPS"
+    },
+    {
+     "id": "dividend_yield",
+     "label": "Indicative dividend yield",
+     "unit": "%",
+     "formula": "reported dividend per share / quoted price"
+    },
+    {
+     "id": "dividend_per_share",
+     "label": "Dividend per share",
+     "unit": "₹/share",
+     "formula": "reported dividend per share"
+    }
+   ],
+   "Lender measures": [
+    {
+     "id": "nim",
+     "label": "Net interest margin",
+     "unit": "%",
+     "formula": "issuer's reported NIM"
+    },
+    {
+     "id": "gross_npa",
+     "label": "Gross NPA ratio",
+     "unit": "%",
+     "formula": "issuer's reported gross NPA ratio"
+    },
+    {
+     "id": "net_npa",
+     "label": "Net NPA ratio",
+     "unit": "%",
+     "formula": "issuer's reported net NPA ratio"
+    },
+    {
+     "id": "provision_coverage",
+     "label": "Provision coverage",
+     "unit": "%",
+     "formula": "issuer's reported coverage"
+    },
+    {
+     "id": "capital_adequacy",
+     "label": "Capital adequacy",
+     "unit": "%",
+     "formula": "issuer's reported capital adequacy"
+    }
+   ],
+   "Insurer measures": [
+    {
+     "id": "claims_ratio",
+     "label": "Incurred claims ratio",
+     "unit": "%",
+     "formula": "issuer's reported claims ratio"
+    },
+    {
+     "id": "combined_ratio",
+     "label": "Combined ratio",
+     "unit": "%",
+     "formula": "issuer's reported combined ratio"
+    },
+    {
+     "id": "solvency_ratio",
+     "label": "Solvency ratio",
+     "unit": "×",
+     "formula": "issuer's reported solvency ratio"
+    }
+   ],
+   "Exchange measures": [
+    {
+     "id": "volume_growth",
+     "label": "Traded-volume growth",
+     "unit": "%",
+     "formula": "matched-contract volume / prior-year volume − 1"
+    },
+    {
+     "id": "fee_per_unit",
+     "label": "Transaction fee per unit",
+     "unit": "₹/unit",
+     "formula": "transaction fee / same-contract traded volume"
+    }
+   ]
+  },
+  "by_period": {}
+ },
+ "research": {
+  "by_period": {},
+  "risk": {
+   "summary": "Exchange-traded price risk",
+   "business": "Follow utilisation, input costs, customer concentration and working capital.",
+   "liquidity": "Share price and depth can change before execution.",
+   "restriction": "Check applicable trading restrictions at execution.",
+   "horizon": "Review at the next results announcement or within six months."
+  }
+ }
+}

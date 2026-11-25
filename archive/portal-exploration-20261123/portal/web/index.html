@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="IPO-Ready company research workspace: financial trends, transparent ratios, scenarios and source evidence.">
+  <title>IPO-Ready · Research workspace</title><link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <a class="skip" href="#main">Skip to research</a>
+  <aside class="sidebar">
+    <a class="brand" href="/" aria-label="IPO-Ready home"><span class="brand-mark">i<span>↗</span></span>IPO<span class="brand-light">READY</span></a>
+    <p class="nav-label">INVESTOR WORKSPACE</p>
+    <nav aria-label="Workspace">
+      <button class="nav-item active" data-view="research" aria-current="page"><span>◫</span>Company research</button>
+      <button class="nav-item" data-view="scenario"><span>⌁</span>Scenario lab</button>
+      <button class="nav-item" data-view="references"><span>⇄</span>IPO references</button>
+      <button class="nav-item" data-view="evidence"><span>▤</span>Evidence & coverage</button>
+    </nav>
+    <div class="universe"><p class="nav-label">RESEARCH UNIVERSE</p>
+      <button data-company="igx" class="company-choice selected"><span class="monogram">IG</span><span>Indian Gas Exchange<small>Pre-IPO candidate</small></span></button>
+      <button data-company="nse-india" class="company-choice"><span class="monogram nse">NS</span><span>NSE India<small>Recent IPO reference</small></span></button>
+    </div>
+    <div class="sidebar-bottom"><span class="status-dot"></span> Milestone 01 <p>Company research prototype<br>Free public-source data</p></div>
+  </aside>
+  <div class="shell">
+    <header class="topbar"><div><span class="muted">Workspace</span><span class="slash">/</span><span id="breadcrumb">Company research</span></div><span class="preview"><span class="status-dot"></span> Local preview</span></header>
+    <main id="main">
+      <div id="loading" role="status">Loading research snapshot…</div>
+      <div id="app" hidden>
+        <section class="company-header">
+          <div><p class="eyebrow"><span id="company-status">PRE-IPO CANDIDATE</span><span class="separator">/</span>INDIA</p><h1 id="company-name">Indian Gas Exchange</h1><p class="subtitle" id="company-subtitle">Gas market infrastructure</p></div>
+          <div class="header-controls"><label class="unit-label">Display unit<select id="unit"><option value="crore">INR crore</option><option value="million">INR million</option></select></label><button id="export" class="button secondary">↓ Export snapshot</button></div>
+        </section>
+        <div class="evidence-notice"><span class="notice-icon">i</span><div><strong>Provisional research</strong> · Provider figures; reporting basis unspecified. Issuer reconciliation pending.<small>Annual FY24–FY26 slice · Reconstructed 12 Nov 2026 · Later interim results excluded</small></div><button class="text-button" data-view="evidence">Inspect evidence ↗</button></div>
+        <section id="view-research" class="view">
+          <div class="section-heading"><div><p class="eyebrow">FINANCIAL OVERVIEW</p><h2>The numbers, in context.</h2></div><label class="period-label">Financial year<select id="period" aria-label="Financial year"></select></label></div>
+          <div id="metrics" class="metric-grid"></div>
+          <div class="analysis-grid">
+            <article class="panel trend-panel"><div class="panel-heading"><div><h3>Growth & profitability</h3><p>Annual reported figures · <span class="unit-text">INR crore</span></p></div><div class="legend"><span class="revenue-key">Operating revenue</span><span class="profit-key">Continuing profit</span></div></div><div id="trend"></div><div class="chart-foot"><span>FY24 → FY26 operating-revenue CAGR</span><strong id="cagr"></strong></div></article>
+            <article class="panel reading-panel"><p class="eyebrow">RESEARCH LENS</p><h3>What deserves attention</h3><div id="insights"></div><button class="button secondary full" data-view="scenario">Explore a scenario ↗</button></article>
+          </div>
+          <article class="panel statement-panel"><div class="panel-heading"><div><h3>Financial history</h3><p>Source labels and annual observations · <span class="unit-text">INR crore</span></p></div><span class="badge">Secondary source</span></div><div class="table-scroll"><table id="financial-table"></table></div><p class="table-note">Continuing-operations profit is distinct from total profit. Select a source label to inspect its evidence.</p></article>
+        </section>
+        <section id="view-scenario" class="view" hidden>
+          <div class="section-heading"><div><p class="eyebrow">SCENARIO LAB</p><h2>Make the assumptions explicit.</h2><p class="muted">One hypothetical year after <span id="scenario-year"></span>. Assumption arithmetic; no probability or target price.</p></div></div>
+          <div class="scenario-grid"><form id="scenario-form" class="panel scenario-inputs"><h3>Operating sensitivity</h3><p>Change revenue growth and the share of revenue retained as continuing profit.</p><label for="growth">Assumed operating-revenue growth <output id="growth-output" for="growth">10%</output></label><input id="growth" type="range" min="-30" max="30" value="10" step="1"><div class="range-labels"><span>−30%</span><span>+30%</span></div><label for="profit-pct">Assumed continuing profit / operating revenue <output id="profit-output" for="profit-pct"></output></label><input id="profit-pct" type="range" min="0" max="100" step="0.1"><div class="range-labels"><span>0%</span><span>100%</span></div><button class="button primary full" type="submit">Calculate sensitivity ↗</button><p class="small muted">Base-year selection is shared with Company research. All scenario calculations run in Python.</p></form><article class="panel scenario-result"><p class="eyebrow">HYPOTHETICAL OUTCOME</p><div id="scenario-result" aria-live="polite"><h3>A scenario starts with your assumptions.</h3><p>Choose inputs, then calculate to inspect the resulting revenue and continuing profit.</p></div></article></div>
+        </section>
+        <section id="view-evidence" class="view" hidden>
+          <div class="section-heading"><div><p class="eyebrow">EVIDENCE & COVERAGE</p><h2>Follow every number to its source.</h2></div></div><div id="coverage" class="coverage-grid"></div><article class="panel"><h3>Research limitations</h3><ul id="limitations" class="limitations"></ul></article><article class="panel source-panel"><h3>Source observations & formulas</h3><p>Original units and lexical values remain separate from displayed conversions. Available calculations remain provisional.</p><div id="source-facts"></div></article>
+        </section>
+        <section id="view-references" class="view" hidden><div class="section-heading"><div><p class="eyebrow">RECENT IPO REFERENCES</p><h2>Context before comparison.</h2><p class="muted">Research references need business, period and accounting compatibility before they become peers.</p></div></div><div id="references"></div></section>
+        <footer><span>IPO-Ready <span class="footer-divider">/</span> Research with a trail.</span><span id="snapshot-id"></span></footer>
+      </div>
+    </main>
+  </div>
+  <dialog id="fact-dialog"><form method="dialog"><button class="close" aria-label="Close evidence">×</button></form><div id="fact-detail"></div></dialog>
+  <script src="/app.js" defer></script>
+</body>
+</html>

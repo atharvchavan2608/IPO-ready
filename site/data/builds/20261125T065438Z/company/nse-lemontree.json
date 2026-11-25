@@ -1,0 +1,3688 @@
+{
+ "id": "nse-lemontree",
+ "name": "Lemon Tree Hotels Limited",
+ "short": "LEMONTREE",
+ "hierarchy": [
+  "Listed",
+  "Travel & Hospitality"
+ ],
+ "model": "hotel_operator",
+ "market_status": "Listed on NSE",
+ "status_note": null,
+ "periods": [
+  "FY2025",
+  "FY2026"
+ ],
+ "basis": "consolidated",
+ "layout": "audited annual statements",
+ "statement_provider": "Lemon Tree Hotels FY2026 integrated annual report",
+ "raw_units": [
+  "INR lakh"
+ ],
+ "fields": {
+  "total_income": {
+   "label": "Total income",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "revenue_ops": {
+   "label": "Revenue from operations",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2026": {
+     "value": "1444.5033",
+     "state": "reported",
+     "ev": "ev2"
+    },
+    "FY2025": {
+     "value": "1286.0777",
+     "state": "reported",
+     "ev": "ev15"
+    }
+   }
+  },
+  "other_income": {
+   "label": "Other income",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "other_gains": {
+   "label": "Other gains / losses",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "job_work_revenue": {
+   "label": "Revenue from job work",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "total_expenses": {
+   "label": "Total expenses",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "finance_cost": {
+   "label": "Finance cost",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "depreciation": {
+   "label": "Depreciation",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "pbt": {
+   "label": "Profit before tax",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2026": {
+     "value": "359.1354",
+     "state": "reported",
+     "ev": "ev5"
+    },
+    "FY2025": {
+     "value": "296.2264",
+     "state": "reported",
+     "ev": "ev18"
+    }
+   }
+  },
+  "tax": {
+   "label": "Tax",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "pat": {
+   "label": "Profit after tax",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2026": {
+     "value": "288.3182",
+     "state": "reported",
+     "ev": "ev4"
+    },
+    "FY2025": {
+     "value": "243.1454",
+     "state": "reported",
+     "ev": "ev17"
+    }
+   }
+  },
+  "total_assets": {
+   "label": "Total assets",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2026": {
+     "value": "4284.6963",
+     "state": "reported",
+     "ev": "ev6"
+    },
+    "FY2025": {
+     "value": "4081.7866",
+     "state": "reported",
+     "ev": "ev19"
+    }
+   }
+  },
+  "total_equity": {
+   "label": "Total equity",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2026": {
+     "value": "2079.1787",
+     "state": "reported",
+     "ev": "ev7"
+    },
+    "FY2025": {
+     "value": "1789.6014",
+     "state": "reported",
+     "ev": "ev20"
+    }
+   }
+  },
+  "total_liabilities": {
+   "label": "Total liabilities",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "current_assets": {
+   "label": "Current assets",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "current_liabilities": {
+   "label": "Current liabilities",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "inventories": {
+   "label": "Inventories",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "cash": {
+   "label": "Cash & equivalents",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2026": {
+     "value": "58.096",
+     "state": "reported",
+     "ev": "ev8"
+    },
+    "FY2025": {
+     "value": "55.4232",
+     "state": "reported",
+     "ev": "ev21"
+    }
+   }
+  },
+  "loans": {
+   "label": "Loans",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "cfo": {
+   "label": "Cash from operations",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2026": {
+     "value": "541.613",
+     "state": "reported",
+     "ev": "ev9"
+    },
+    "FY2025": {
+     "value": "541.575",
+     "state": "reported",
+     "ev": "ev22"
+    }
+   }
+  },
+  "cfi": {
+   "label": "Cash from investing",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2026": {
+     "value": "-168.8953",
+     "state": "reported",
+     "ev": "ev10"
+    },
+    "FY2025": {
+     "value": "-127.4497",
+     "state": "reported",
+     "ev": "ev23"
+    }
+   }
+  },
+  "cff": {
+   "label": "Cash from financing",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2026": {
+     "value": "-370.0449",
+     "state": "reported",
+     "ev": "ev11"
+    },
+    "FY2025": {
+     "value": "-392.3465",
+     "state": "reported",
+     "ev": "ev24"
+    }
+   }
+  },
+  "ebitda": {
+   "label": "EBITDA",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2026": {
+     "value": "699.3301",
+     "state": "reported",
+     "ev": "ev3"
+    },
+    "FY2025": {
+     "value": "636.4569",
+     "state": "reported",
+     "ev": "ev16"
+    }
+   }
+  },
+  "eps": {
+   "label": "EPS (provider)",
+   "unit": "INR per share",
+   "by_period": {
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "shares_outstanding": {
+   "label": "Shares outstanding",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "pat_pre_associate": {
+   "label": "Profit after tax before associate contribution",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "pat_owners": {
+   "label": "Profit attributable to owners",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "associate_profit": {
+   "label": "Share of associate profit",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "eps_basic": {
+   "label": "Reported basic EPS",
+   "unit": "INR per share",
+   "by_period": {
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "eps_diluted": {
+   "label": "Reported diluted EPS",
+   "unit": "INR per share",
+   "by_period": {
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "gross_profit": {
+   "label": "Gross profit",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "operating_profit": {
+   "label": "Operating profit",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "cost_of_sales": {
+   "label": "Cost of sales",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "trade_receivables": {
+   "label": "Trade receivables",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "trade_payables": {
+   "label": "Trade payables",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "fixed_assets": {
+   "label": "Fixed assets",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "borrowings": {
+   "label": "Borrowings",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "dividend_per_share": {
+   "label": "Dividend per share",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "gross_npa": {
+   "label": "Gross NPA",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "net_npa": {
+   "label": "Net NPA",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "nim": {
+   "label": "Net interest margin",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "provision_coverage": {
+   "label": "Provision coverage",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "capital_adequacy": {
+   "label": "Capital adequacy",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "claims_ratio": {
+   "label": "Incurred claims ratio",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "combined_ratio": {
+   "label": "Combined ratio",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "solvency_ratio": {
+   "label": "Solvency ratio",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "net_change": {
+   "label": "Net change in cash",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2026": {
+     "value": "2.6728",
+     "state": "reported",
+     "ev": "ev12"
+    },
+    "FY2025": {
+     "value": "21.7788",
+     "state": "reported",
+     "ev": "ev25"
+    }
+   }
+  },
+  "provider_roce": {
+   "label": "Provider ROCE",
+   "unit": "%",
+   "by_period": {
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  }
+ },
+ "metrics": {
+  "FY2026": {},
+  "FY2025": {}
+ },
+ "valuation": {
+  "market_cap": {
+   "value": null,
+   "state": "missing_input",
+   "formula": "",
+   "inputs": {}
+  },
+  "pb": {
+   "value": null,
+   "state": "missing_input",
+   "formula": "",
+   "inputs": {}
+  },
+  "ps": {
+   "value": null,
+   "state": "missing_input",
+   "formula": "",
+   "inputs": {}
+  },
+  "eps": {
+   "value": null,
+   "state": "missing_input",
+   "formula": "",
+   "inputs": {}
+  },
+  "pe_reported": {
+   "value": null,
+   "state": "missing_input",
+   "formula": "",
+   "inputs": {}
+  },
+  "pe_proxy": {
+   "value": null,
+   "state": "missing_input",
+   "formula": "",
+   "inputs": {}
+  },
+  "pe": {
+   "value": null,
+   "state": "missing_input",
+   "formula": "price / EPS",
+   "inputs": {
+    "price_inr": null,
+    "eps": null
+   },
+   "unit": "x",
+   "eps_basis": "provider_annual_eps",
+   "note": "Annual EPS from Screener.in. The source does not specify basic or diluted EPS.",
+   "ev": []
+  }
+ },
+ "profile": {
+  "ev": "ev1",
+  "description": "Owns, leases, manages and franchises hotels. FY2026 third-party management and franchise fees were ₹73.9 crore, up 23% year on year."
+ },
+ "quote": {
+  "price_inr": null,
+  "as_of": null,
+  "state": "unavailable",
+  "ev": null,
+  "kind": "NSE end-of-day close"
+ },
+ "documents": [
+  {
+   "id": "lemontree-fy26",
+   "title": "Lemon Tree Hotels FY2026 integrated annual report",
+   "url": "https://nsearchives.nseindia.com/annual_reports/AR_30673_LEMONTREE_2025_2026_A_17421413_26082026180144.pdf",
+   "retrieved_at": "2026-11-25T06:40:56.808669+00:00",
+   "sha256": "76be3807621f6af013fe92a2b2c37600649c69f670aa1cabd6ef96aee47dab9e"
+  }
+ ],
+ "news": {},
+ "checks": [],
+ "coverage_gaps": [
+  {
+   "field": "inventories",
+   "state": "not_in_source",
+   "label": "Inventories"
+  },
+  {
+   "field": "shares_outstanding",
+   "state": "not_in_source",
+   "label": "Shares outstanding"
+  }
+ ],
+ "agent": {},
+ "discovery": [],
+ "reconciliation": null,
+ "evidence": {
+  "ev1": {
+   "source": "Lemon Tree Hotels Annual Report filed with NSE",
+   "url": "https://nsearchives.nseindia.com/annual_reports/AR_30673_LEMONTREE_2025_2026_A_17421413_26082026180144.pdf",
+   "sha256": "76be3807621f6af013fe92a2b2c37600649c69f670aa1cabd6ef96aee47dab9e",
+   "retrieved_at": "2026-11-25T06:40:56.808669+00:00",
+   "file": "lemontree-fy26.pdf",
+   "raw_label": "NSE-listed issuer annual report",
+   "raw_text": "Lemon Tree Hotels Limited"
+  },
+  "ev2": {
+   "source": "Lemon Tree Hotels FY2026 integrated annual report",
+   "source_id": "lemontree-fy26",
+   "url": "https://nsearchives.nseindia.com/annual_reports/AR_30673_LEMONTREE_2025_2026_A_17421413_26082026180144.pdf#page=152",
+   "source_date": "2026-08-26",
+   "retrieved_at": "2026-11-25T06:40:56.808669+00:00",
+   "sha256": "76be3807621f6af013fe92a2b2c37600649c69f670aa1cabd6ef96aee47dab9e",
+   "file": "lemontree-fy26.pdf",
+   "page": 152,
+   "raw_label": "Revenue from operations",
+   "raw_text": "1,44,450.33",
+   "raw_unit": "INR lakh",
+   "basis": "consolidated",
+   "period": "FY2026",
+   "period_label": "31 March 2026",
+   "period_end": "2026-03-31"
+  },
+  "ev3": {
+   "source": "Lemon Tree Hotels FY2026 integrated annual report",
+   "source_id": "lemontree-fy26",
+   "url": "https://nsearchives.nseindia.com/annual_reports/AR_30673_LEMONTREE_2025_2026_A_17421413_26082026180144.pdf#page=152",
+   "source_date": "2026-08-26",
+   "retrieved_at": "2026-11-25T06:40:56.808669+00:00",
+   "sha256": "76be3807621f6af013fe92a2b2c37600649c69f670aa1cabd6ef96aee47dab9e",
+   "file": "lemontree-fy26.pdf",
+   "page": 152,
+   "raw_label": "Profit before finance cost, finance income, depreciation and amortization and tax (EBITDA)",
+   "raw_text": "69,933.01",
+   "raw_unit": "INR lakh",
+   "basis": "consolidated",
+   "period": "FY2026",
+   "period_label": "31 March 2026",
+   "period_end": "2026-03-31"
+  },
+  "ev4": {
+   "source": "Lemon Tree Hotels FY2026 integrated annual report",
+   "source_id": "lemontree-fy26",
+   "url": "https://nsearchives.nseindia.com/annual_reports/AR_30673_LEMONTREE_2025_2026_A_17421413_26082026180144.pdf#page=152",
+   "source_date": "2026-08-26",
+   "retrieved_at": "2026-11-25T06:40:56.808669+00:00",
+   "sha256": "76be3807621f6af013fe92a2b2c37600649c69f670aa1cabd6ef96aee47dab9e",
+   "file": "lemontree-fy26.pdf",
+   "page": 152,
+   "raw_label": "Profit for the year",
+   "raw_text": "28,831.82",
+   "raw_unit": "INR lakh",
+   "basis": "consolidated",
+   "period": "FY2026",
+   "period_label": "31 March 2026",
+   "period_end": "2026-03-31"
+  },
+  "ev5": {
+   "source": "Lemon Tree Hotels FY2026 integrated annual report",
+   "source_id": "lemontree-fy26",
+   "url": "https://nsearchives.nseindia.com/annual_reports/AR_30673_LEMONTREE_2025_2026_A_17421413_26082026180144.pdf#page=152",
+   "source_date": "2026-08-26",
+   "retrieved_at": "2026-11-25T06:40:56.808669+00:00",
+   "sha256": "76be3807621f6af013fe92a2b2c37600649c69f670aa1cabd6ef96aee47dab9e",
+   "file": "lemontree-fy26.pdf",
+   "page": 152,
+   "raw_label": "Profit before tax",
+   "raw_text": "35,913.54",
+   "raw_unit": "INR lakh",
+   "basis": "consolidated",
+   "period": "FY2026",
+   "period_label": "31 March 2026",
+   "period_end": "2026-03-31"
+  },
+  "ev6": {
+   "source": "Lemon Tree Hotels FY2026 integrated annual report",
+   "source_id": "lemontree-fy26",
+   "url": "https://nsearchives.nseindia.com/annual_reports/AR_30673_LEMONTREE_2025_2026_A_17421413_26082026180144.pdf#page=152",
+   "source_date": "2026-08-26",
+   "retrieved_at": "2026-11-25T06:40:56.808669+00:00",
+   "sha256": "76be3807621f6af013fe92a2b2c37600649c69f670aa1cabd6ef96aee47dab9e",
+   "file": "lemontree-fy26.pdf",
+   "page": 152,
+   "raw_label": "Total assets",
+   "raw_text": "4,28,469.63",
+   "raw_unit": "INR lakh",
+   "basis": "consolidated",
+   "period": "FY2026",
+   "period_label": "31 March 2026",
+   "period_end": "2026-03-31"
+  },
+  "ev7": {
+   "source": "Lemon Tree Hotels FY2026 integrated annual report",
+   "source_id": "lemontree-fy26",
+   "url": "https://nsearchives.nseindia.com/annual_reports/AR_30673_LEMONTREE_2025_2026_A_17421413_26082026180144.pdf#page=152",
+   "source_date": "2026-08-26",
+   "retrieved_at": "2026-11-25T06:40:56.808669+00:00",
+   "sha256": "76be3807621f6af013fe92a2b2c37600649c69f670aa1cabd6ef96aee47dab9e",
+   "file": "lemontree-fy26.pdf",
+   "page": 152,
+   "raw_label": "Total equity",
+   "raw_text": "2,07,917.87",
+   "raw_unit": "INR lakh",
+   "basis": "consolidated",
+   "period": "FY2026",
+   "period_label": "31 March 2026",
+   "period_end": "2026-03-31"
+  },
+  "ev8": {
+   "source": "Lemon Tree Hotels FY2026 integrated annual report",
+   "source_id": "lemontree-fy26",
+   "url": "https://nsearchives.nseindia.com/annual_reports/AR_30673_LEMONTREE_2025_2026_A_17421413_26082026180144.pdf#page=152",
+   "source_date": "2026-08-26",
+   "retrieved_at": "2026-11-25T06:40:56.808669+00:00",
+   "sha256": "76be3807621f6af013fe92a2b2c37600649c69f670aa1cabd6ef96aee47dab9e",
+   "file": "lemontree-fy26.pdf",
+   "page": 152,
+   "raw_label": "Cash and cash equivalents",
+   "raw_text": "5,809.60",
+   "raw_unit": "INR lakh",
+   "basis": "consolidated",
+   "period": "FY2026",
+   "period_label": "31 March 2026",
+   "period_end": "2026-03-31"
+  },
+  "ev9": {
+   "source": "Lemon Tree Hotels FY2026 integrated annual report",
+   "source_id": "lemontree-fy26",
+   "url": "https://nsearchives.nseindia.com/annual_reports/AR_30673_LEMONTREE_2025_2026_A_17421413_26082026180144.pdf#page=153",
+   "source_date": "2026-08-26",
+   "retrieved_at": "2026-11-25T06:40:56.808669+00:00",
+   "sha256": "76be3807621f6af013fe92a2b2c37600649c69f670aa1cabd6ef96aee47dab9e",
+   "file": "lemontree-fy26.pdf",
+   "page": 153,
+   "raw_label": "Net cash flows generated from operating activities (A)",
+   "raw_text": "54,161.30",
+   "raw_unit": "INR lakh",
+   "basis": "consolidated",
+   "period": "FY2026",
+   "period_label": "31 March 2026",
+   "period_end": "2026-03-31"
+  },
+  "ev10": {
+   "source": "Lemon Tree Hotels FY2026 integrated annual report",
+   "source_id": "lemontree-fy26",
+   "url": "https://nsearchives.nseindia.com/annual_reports/AR_30673_LEMONTREE_2025_2026_A_17421413_26082026180144.pdf#page=153",
+   "source_date": "2026-08-26",
+   "retrieved_at": "2026-11-25T06:40:56.808669+00:00",
+   "sha256": "76be3807621f6af013fe92a2b2c37600649c69f670aa1cabd6ef96aee47dab9e",
+   "file": "lemontree-fy26.pdf",
+   "page": 153,
+   "raw_label": "Net cash flow used in investing activities (B)",
+   "raw_text": "(16,889.53)",
+   "raw_unit": "INR lakh",
+   "basis": "consolidated",
+   "period": "FY2026",
+   "period_label": "31 March 2026",
+   "period_end": "2026-03-31"
+  },
+  "ev11": {
+   "source": "Lemon Tree Hotels FY2026 integrated annual report",
+   "source_id": "lemontree-fy26",
+   "url": "https://nsearchives.nseindia.com/annual_reports/AR_30673_LEMONTREE_2025_2026_A_17421413_26082026180144.pdf#page=153",
+   "source_date": "2026-08-26",
+   "retrieved_at": "2026-11-25T06:40:56.808669+00:00",
+   "sha256": "76be3807621f6af013fe92a2b2c37600649c69f670aa1cabd6ef96aee47dab9e",
+   "file": "lemontree-fy26.pdf",
+   "page": 153,
+   "raw_label": "Net cash flow used in financing activities (C)",
+   "raw_text": "(37,004.49)",
+   "raw_unit": "INR lakh",
+   "basis": "consolidated",
+   "period": "FY2026",
+   "period_label": "31 March 2026",
+   "period_end": "2026-03-31"
+  },
+  "ev12": {
+   "source": "Lemon Tree Hotels FY2026 integrated annual report",
+   "source_id": "lemontree-fy26",
+   "url": "https://nsearchives.nseindia.com/annual_reports/AR_30673_LEMONTREE_2025_2026_A_17421413_26082026180144.pdf#page=153",
+   "source_date": "2026-08-26",
+   "retrieved_at": "2026-11-25T06:40:56.808669+00:00",
+   "sha256": "76be3807621f6af013fe92a2b2c37600649c69f670aa1cabd6ef96aee47dab9e",
+   "file": "lemontree-fy26.pdf",
+   "page": 153,
+   "raw_label": "Net increase in cash and cash equivalents (A+B+C)",
+   "raw_text": "267.28",
+   "raw_unit": "INR lakh",
+   "basis": "consolidated",
+   "period": "FY2026",
+   "period_label": "31 March 2026",
+   "period_end": "2026-03-31"
+  },
+  "ev13": {
+   "source": "Lemon Tree Hotels FY2026 integrated annual report",
+   "source_id": "lemontree-fy26",
+   "url": "https://nsearchives.nseindia.com/annual_reports/AR_30673_LEMONTREE_2025_2026_A_17421413_26082026180144.pdf#page=153",
+   "source_date": "2026-08-26",
+   "retrieved_at": "2026-11-25T06:40:56.808669+00:00",
+   "sha256": "76be3807621f6af013fe92a2b2c37600649c69f670aa1cabd6ef96aee47dab9e",
+   "file": "lemontree-fy26.pdf",
+   "page": 153,
+   "raw_label": "Cash and cash equivalents at the beginning of the year",
+   "raw_text": "5,542.32",
+   "raw_unit": "INR lakh",
+   "basis": "consolidated",
+   "period": "FY2026",
+   "period_label": "31 March 2026",
+   "period_end": "2026-03-31"
+  },
+  "ev14": {
+   "source": "Lemon Tree Hotels FY2026 integrated annual report",
+   "source_id": "lemontree-fy26",
+   "url": "https://nsearchives.nseindia.com/annual_reports/AR_30673_LEMONTREE_2025_2026_A_17421413_26082026180144.pdf#page=153",
+   "source_date": "2026-08-26",
+   "retrieved_at": "2026-11-25T06:40:56.808669+00:00",
+   "sha256": "76be3807621f6af013fe92a2b2c37600649c69f670aa1cabd6ef96aee47dab9e",
+   "file": "lemontree-fy26.pdf",
+   "page": 153,
+   "raw_label": "Cash and cash equivalents at the end of the year",
+   "raw_text": "5,809.60",
+   "raw_unit": "INR lakh",
+   "basis": "consolidated",
+   "period": "FY2026",
+   "period_label": "31 March 2026",
+   "period_end": "2026-03-31"
+  },
+  "ev15": {
+   "source": "Lemon Tree Hotels FY2026 integrated annual report",
+   "source_id": "lemontree-fy26",
+   "url": "https://nsearchives.nseindia.com/annual_reports/AR_30673_LEMONTREE_2025_2026_A_17421413_26082026180144.pdf#page=152",
+   "source_date": "2026-08-26",
+   "retrieved_at": "2026-11-25T06:40:56.808669+00:00",
+   "sha256": "76be3807621f6af013fe92a2b2c37600649c69f670aa1cabd6ef96aee47dab9e",
+   "file": "lemontree-fy26.pdf",
+   "page": 152,
+   "raw_label": "Revenue from operations",
+   "raw_text": "1,28,607.77",
+   "raw_unit": "INR lakh",
+   "basis": "consolidated",
+   "period": "FY2025",
+   "period_label": "31 March 2025",
+   "period_end": "2025-03-31"
+  },
+  "ev16": {
+   "source": "Lemon Tree Hotels FY2026 integrated annual report",
+   "source_id": "lemontree-fy26",
+   "url": "https://nsearchives.nseindia.com/annual_reports/AR_30673_LEMONTREE_2025_2026_A_17421413_26082026180144.pdf#page=152",
+   "source_date": "2026-08-26",
+   "retrieved_at": "2026-11-25T06:40:56.808669+00:00",
+   "sha256": "76be3807621f6af013fe92a2b2c37600649c69f670aa1cabd6ef96aee47dab9e",
+   "file": "lemontree-fy26.pdf",
+   "page": 152,
+   "raw_label": "Profit before finance cost, finance income, depreciation and amortization and tax (EBITDA)",
+   "raw_text": "63,645.69",
+   "raw_unit": "INR lakh",
+   "basis": "consolidated",
+   "period": "FY2025",
+   "period_label": "31 March 2025",
+   "period_end": "2025-03-31"
+  },
+  "ev17": {
+   "source": "Lemon Tree Hotels FY2026 integrated annual report",
+   "source_id": "lemontree-fy26",
+   "url": "https://nsearchives.nseindia.com/annual_reports/AR_30673_LEMONTREE_2025_2026_A_17421413_26082026180144.pdf#page=152",
+   "source_date": "2026-08-26",
+   "retrieved_at": "2026-11-25T06:40:56.808669+00:00",
+   "sha256": "76be3807621f6af013fe92a2b2c37600649c69f670aa1cabd6ef96aee47dab9e",
+   "file": "lemontree-fy26.pdf",
+   "page": 152,
+   "raw_label": "Profit for the year",
+   "raw_text": "24,314.54",
+   "raw_unit": "INR lakh",
+   "basis": "consolidated",
+   "period": "FY2025",
+   "period_label": "31 March 2025",
+   "period_end": "2025-03-31"
+  },
+  "ev18": {
+   "source": "Lemon Tree Hotels FY2026 integrated annual report",
+   "source_id": "lemontree-fy26",
+   "url": "https://nsearchives.nseindia.com/annual_reports/AR_30673_LEMONTREE_2025_2026_A_17421413_26082026180144.pdf#page=152",
+   "source_date": "2026-08-26",
+   "retrieved_at": "2026-11-25T06:40:56.808669+00:00",
+   "sha256": "76be3807621f6af013fe92a2b2c37600649c69f670aa1cabd6ef96aee47dab9e",
+   "file": "lemontree-fy26.pdf",
+   "page": 152,
+   "raw_label": "Profit before tax",
+   "raw_text": "29,622.64",
+   "raw_unit": "INR lakh",
+   "basis": "consolidated",
+   "period": "FY2025",
+   "period_label": "31 March 2025",
+   "period_end": "2025-03-31"
+  },
+  "ev19": {
+   "source": "Lemon Tree Hotels FY2026 integrated annual report",
+   "source_id": "lemontree-fy26",
+   "url": "https://nsearchives.nseindia.com/annual_reports/AR_30673_LEMONTREE_2025_2026_A_17421413_26082026180144.pdf#page=152",
+   "source_date": "2026-08-26",
+   "retrieved_at": "2026-11-25T06:40:56.808669+00:00",
+   "sha256": "76be3807621f6af013fe92a2b2c37600649c69f670aa1cabd6ef96aee47dab9e",
+   "file": "lemontree-fy26.pdf",
+   "page": 152,
+   "raw_label": "Total assets",
+   "raw_text": "4,08,178.66",
+   "raw_unit": "INR lakh",
+   "basis": "consolidated",
+   "period": "FY2025",
+   "period_label": "31 March 2025",
+   "period_end": "2025-03-31"
+  },
+  "ev20": {
+   "source": "Lemon Tree Hotels FY2026 integrated annual report",
+   "source_id": "lemontree-fy26",
+   "url": "https://nsearchives.nseindia.com/annual_reports/AR_30673_LEMONTREE_2025_2026_A_17421413_26082026180144.pdf#page=152",
+   "source_date": "2026-08-26",
+   "retrieved_at": "2026-11-25T06:40:56.808669+00:00",
+   "sha256": "76be3807621f6af013fe92a2b2c37600649c69f670aa1cabd6ef96aee47dab9e",
+   "file": "lemontree-fy26.pdf",
+   "page": 152,
+   "raw_label": "Total equity",
+   "raw_text": "1,78,960.14",
+   "raw_unit": "INR lakh",
+   "basis": "consolidated",
+   "period": "FY2025",
+   "period_label": "31 March 2025",
+   "period_end": "2025-03-31"
+  },
+  "ev21": {
+   "source": "Lemon Tree Hotels FY2026 integrated annual report",
+   "source_id": "lemontree-fy26",
+   "url": "https://nsearchives.nseindia.com/annual_reports/AR_30673_LEMONTREE_2025_2026_A_17421413_26082026180144.pdf#page=152",
+   "source_date": "2026-08-26",
+   "retrieved_at": "2026-11-25T06:40:56.808669+00:00",
+   "sha256": "76be3807621f6af013fe92a2b2c37600649c69f670aa1cabd6ef96aee47dab9e",
+   "file": "lemontree-fy26.pdf",
+   "page": 152,
+   "raw_label": "Cash and cash equivalents",
+   "raw_text": "5,542.32",
+   "raw_unit": "INR lakh",
+   "basis": "consolidated",
+   "period": "FY2025",
+   "period_label": "31 March 2025",
+   "period_end": "2025-03-31"
+  },
+  "ev22": {
+   "source": "Lemon Tree Hotels FY2026 integrated annual report",
+   "source_id": "lemontree-fy26",
+   "url": "https://nsearchives.nseindia.com/annual_reports/AR_30673_LEMONTREE_2025_2026_A_17421413_26082026180144.pdf#page=153",
+   "source_date": "2026-08-26",
+   "retrieved_at": "2026-11-25T06:40:56.808669+00:00",
+   "sha256": "76be3807621f6af013fe92a2b2c37600649c69f670aa1cabd6ef96aee47dab9e",
+   "file": "lemontree-fy26.pdf",
+   "page": 153,
+   "raw_label": "Net cash flows generated from operating activities (A)",
+   "raw_text": "54,157.50",
+   "raw_unit": "INR lakh",
+   "basis": "consolidated",
+   "period": "FY2025",
+   "period_label": "31 March 2025",
+   "period_end": "2025-03-31"
+  },
+  "ev23": {
+   "source": "Lemon Tree Hotels FY2026 integrated annual report",
+   "source_id": "lemontree-fy26",
+   "url": "https://nsearchives.nseindia.com/annual_reports/AR_30673_LEMONTREE_2025_2026_A_17421413_26082026180144.pdf#page=153",
+   "source_date": "2026-08-26",
+   "retrieved_at": "2026-11-25T06:40:56.808669+00:00",
+   "sha256": "76be3807621f6af013fe92a2b2c37600649c69f670aa1cabd6ef96aee47dab9e",
+   "file": "lemontree-fy26.pdf",
+   "page": 153,
+   "raw_label": "Net cash flow used in investing activities (B)",
+   "raw_text": "(12,744.97)",
+   "raw_unit": "INR lakh",
+   "basis": "consolidated",
+   "period": "FY2025",
+   "period_label": "31 March 2025",
+   "period_end": "2025-03-31"
+  },
+  "ev24": {
+   "source": "Lemon Tree Hotels FY2026 integrated annual report",
+   "source_id": "lemontree-fy26",
+   "url": "https://nsearchives.nseindia.com/annual_reports/AR_30673_LEMONTREE_2025_2026_A_17421413_26082026180144.pdf#page=153",
+   "source_date": "2026-08-26",
+   "retrieved_at": "2026-11-25T06:40:56.808669+00:00",
+   "sha256": "76be3807621f6af013fe92a2b2c37600649c69f670aa1cabd6ef96aee47dab9e",
+   "file": "lemontree-fy26.pdf",
+   "page": 153,
+   "raw_label": "Net cash flow used in financing activities (C)",
+   "raw_text": "(39,234.65)",
+   "raw_unit": "INR lakh",
+   "basis": "consolidated",
+   "period": "FY2025",
+   "period_label": "31 March 2025",
+   "period_end": "2025-03-31"
+  },
+  "ev25": {
+   "source": "Lemon Tree Hotels FY2026 integrated annual report",
+   "source_id": "lemontree-fy26",
+   "url": "https://nsearchives.nseindia.com/annual_reports/AR_30673_LEMONTREE_2025_2026_A_17421413_26082026180144.pdf#page=153",
+   "source_date": "2026-08-26",
+   "retrieved_at": "2026-11-25T06:40:56.808669+00:00",
+   "sha256": "76be3807621f6af013fe92a2b2c37600649c69f670aa1cabd6ef96aee47dab9e",
+   "file": "lemontree-fy26.pdf",
+   "page": 153,
+   "raw_label": "Net increase in cash and cash equivalents (A+B+C)",
+   "raw_text": "2,177.88",
+   "raw_unit": "INR lakh",
+   "basis": "consolidated",
+   "period": "FY2025",
+   "period_label": "31 March 2025",
+   "period_end": "2025-03-31"
+  },
+  "ev26": {
+   "source": "Lemon Tree Hotels FY2026 integrated annual report",
+   "source_id": "lemontree-fy26",
+   "url": "https://nsearchives.nseindia.com/annual_reports/AR_30673_LEMONTREE_2025_2026_A_17421413_26082026180144.pdf#page=153",
+   "source_date": "2026-08-26",
+   "retrieved_at": "2026-11-25T06:40:56.808669+00:00",
+   "sha256": "76be3807621f6af013fe92a2b2c37600649c69f670aa1cabd6ef96aee47dab9e",
+   "file": "lemontree-fy26.pdf",
+   "page": 153,
+   "raw_label": "Cash and cash equivalents at the beginning of the year",
+   "raw_text": "3,364.44",
+   "raw_unit": "INR lakh",
+   "basis": "consolidated",
+   "period": "FY2025",
+   "period_label": "31 March 2025",
+   "period_end": "2025-03-31"
+  },
+  "ev27": {
+   "source": "Lemon Tree Hotels FY2026 integrated annual report",
+   "source_id": "lemontree-fy26",
+   "url": "https://nsearchives.nseindia.com/annual_reports/AR_30673_LEMONTREE_2025_2026_A_17421413_26082026180144.pdf#page=153",
+   "source_date": "2026-08-26",
+   "retrieved_at": "2026-11-25T06:40:56.808669+00:00",
+   "sha256": "76be3807621f6af013fe92a2b2c37600649c69f670aa1cabd6ef96aee47dab9e",
+   "file": "lemontree-fy26.pdf",
+   "page": 153,
+   "raw_label": "Cash and cash equivalents at the end of the year",
+   "raw_text": "5,542.32",
+   "raw_unit": "INR lakh",
+   "basis": "consolidated",
+   "period": "FY2025",
+   "period_label": "31 March 2025",
+   "period_end": "2025-03-31"
+  },
+  "ev28": {
+   "source": "Lemon Tree Hotels FY2026 integrated annual report",
+   "source_id": "lemontree-fy26",
+   "url": "https://nsearchives.nseindia.com/annual_reports/AR_30673_LEMONTREE_2025_2026_A_17421413_26082026180144.pdf#page=31",
+   "source_date": "2026-08-26",
+   "retrieved_at": "2026-11-25T06:40:56.808669+00:00",
+   "sha256": "76be3807621f6af013fe92a2b2c37600649c69f670aa1cabd6ef96aee47dab9e",
+   "file": "lemontree-fy26.pdf",
+   "page": 31,
+   "raw_label": "Third-party management and franchise fees",
+   "raw_text": "73.9",
+   "raw_unit": "INR crore",
+   "period": "FY2026"
+  }
+ },
+ "identity": {
+  "key": "NSE:LEMONTREE",
+  "state": "verified",
+  "listing": "listed",
+  "ev": "ev1",
+  "symbol": "LEMONTREE",
+  "isin": "INE970X01018"
+ },
+ "cash_flow": {
+  "unit": "INR crore",
+  "by_period": {
+   "FY2026": {
+    "basis": "consolidated",
+    "origin": "issuer_audited",
+    "provider_name": "Lemon Tree Hotels FY2026 integrated annual report",
+    "lines": {
+     "opening": {
+      "value": "55.4232",
+      "state": "reported",
+      "ev": "ev13"
+     },
+     "cfo": {
+      "value": "541.613",
+      "state": "reported",
+      "ev": "ev9"
+     },
+     "cfi": {
+      "value": "-168.8953",
+      "state": "reported",
+      "ev": "ev10"
+     },
+     "cff": {
+      "value": "-370.0449",
+      "state": "reported",
+      "ev": "ev11"
+     },
+     "other_effects": {
+      "value": null,
+      "state": "included_in_activity_totals",
+      "ev": "ev12"
+     },
+     "net_change": {
+      "value": "2.6728",
+      "state": "reported",
+      "ev": "ev12"
+     },
+     "closing": {
+      "value": "58.096",
+      "state": "reported",
+      "ev": "ev14"
+     },
+     "before_working_capital": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "receivables": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "other_assets": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "payables_and_liabilities": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "tax_paid": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "capex": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "net_investment_purchases": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "debt_principal": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "lease_principal": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "lease_interest": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "overdraft_interest": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "share_proceeds": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "dividends": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "current_accounts": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "settlement_accounts": {
+      "state": "not_in_source",
+      "value": null
+     }
+    },
+    "effects_after_net": false,
+    "note": "Consolidated financial statements. Standalone hotel results are a separate scope.",
+    "provider_comparison": null,
+    "reconciliation": {
+     "state": "reconciled",
+     "activity_residual": "0.000",
+     "balance_residual": "0.000"
+    }
+   },
+   "FY2025": {
+    "basis": "consolidated",
+    "origin": "issuer_audited",
+    "provider_name": "Lemon Tree Hotels FY2026 integrated annual report",
+    "lines": {
+     "opening": {
+      "value": "33.6444",
+      "state": "reported",
+      "ev": "ev26"
+     },
+     "cfo": {
+      "value": "541.575",
+      "state": "reported",
+      "ev": "ev22"
+     },
+     "cfi": {
+      "value": "-127.4497",
+      "state": "reported",
+      "ev": "ev23"
+     },
+     "cff": {
+      "value": "-392.3465",
+      "state": "reported",
+      "ev": "ev24"
+     },
+     "other_effects": {
+      "value": null,
+      "state": "included_in_activity_totals",
+      "ev": "ev25"
+     },
+     "net_change": {
+      "value": "21.7788",
+      "state": "reported",
+      "ev": "ev25"
+     },
+     "closing": {
+      "value": "55.4232",
+      "state": "reported",
+      "ev": "ev27"
+     },
+     "before_working_capital": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "receivables": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "other_assets": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "payables_and_liabilities": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "tax_paid": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "capex": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "net_investment_purchases": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "debt_principal": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "lease_principal": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "lease_interest": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "overdraft_interest": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "share_proceeds": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "dividends": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "current_accounts": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "settlement_accounts": {
+      "state": "not_in_source",
+      "value": null
+     }
+    },
+    "effects_after_net": false,
+    "note": "Consolidated financial statements. Standalone hotel results are a separate scope.",
+    "provider_comparison": null,
+    "reconciliation": {
+     "state": "reconciled",
+     "activity_residual": "0.000",
+     "balance_residual": "0.000"
+    }
+   }
+  }
+ },
+ "issuer_case": {
+  "period": "FY2026",
+  "basis": "Audited consolidated",
+  "benchmarks": [],
+  "metrics": {},
+  "sections": [
+   {
+    "question": "What is comparable to Oravel?",
+    "finding": "Owns, leases, manages and franchises hotels. FY2026 third-party management and franchise fees were ₹73.9 crore, up 23% year on year.",
+    "review_trigger": "Compare third-party fees only once both issuers disclose identical fee and property scopes.",
+    "ev": [
+     "ev28"
+    ]
+   }
+  ]
+ },
+ "analysis": {
+  "FY2025": {
+   "basis": "consolidated",
+   "facts": {
+    "total_income": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "revenue_ops": {
+     "value": "1286.0777",
+     "state": "reported",
+     "ev": "ev15"
+    },
+    "other_income": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "other_gains": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "job_work_revenue": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "total_expenses": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "finance_cost": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "depreciation": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "pbt": {
+     "value": "296.2264",
+     "state": "reported",
+     "ev": "ev18"
+    },
+    "tax": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "pat": {
+     "value": "243.1454",
+     "state": "reported",
+     "ev": "ev17"
+    },
+    "total_assets": {
+     "value": "4081.7866",
+     "state": "reported",
+     "ev": "ev19"
+    },
+    "total_equity": {
+     "value": "1789.6014",
+     "state": "reported",
+     "ev": "ev20"
+    },
+    "total_liabilities": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "current_assets": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "current_liabilities": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "inventories": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "cash": {
+     "value": "55.4232",
+     "state": "reported",
+     "ev": "ev21"
+    },
+    "loans": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "cfo": {
+     "value": "541.575",
+     "state": "reported",
+     "ev": "ev22"
+    },
+    "cfi": {
+     "value": "-127.4497",
+     "state": "reported",
+     "ev": "ev23"
+    },
+    "cff": {
+     "value": "-392.3465",
+     "state": "reported",
+     "ev": "ev24"
+    },
+    "ebitda": {
+     "value": "636.4569",
+     "state": "reported",
+     "ev": "ev16"
+    },
+    "eps": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "shares_outstanding": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "pat_pre_associate": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "pat_owners": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "associate_profit": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "eps_basic": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "eps_diluted": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "gross_profit": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "operating_profit": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "cost_of_sales": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "trade_receivables": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "trade_payables": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "fixed_assets": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "borrowings": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "dividend_per_share": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "gross_npa": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "net_npa": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "nim": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "provision_coverage": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "capital_adequacy": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "claims_ratio": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "combined_ratio": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "solvency_ratio": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "net_change": {
+     "value": "21.7788",
+     "state": "reported",
+     "ev": "ev25"
+    },
+    "provider_roce": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "capex": {
+     "state": "not_in_source",
+     "value": null
+    }
+   }
+  },
+  "FY2026": {
+   "basis": "consolidated",
+   "facts": {
+    "total_income": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "revenue_ops": {
+     "value": "1444.5033",
+     "state": "reported",
+     "ev": "ev2"
+    },
+    "other_income": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "other_gains": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "job_work_revenue": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "total_expenses": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "finance_cost": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "depreciation": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "pbt": {
+     "value": "359.1354",
+     "state": "reported",
+     "ev": "ev5"
+    },
+    "tax": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "pat": {
+     "value": "288.3182",
+     "state": "reported",
+     "ev": "ev4"
+    },
+    "total_assets": {
+     "value": "4284.6963",
+     "state": "reported",
+     "ev": "ev6"
+    },
+    "total_equity": {
+     "value": "2079.1787",
+     "state": "reported",
+     "ev": "ev7"
+    },
+    "total_liabilities": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "current_assets": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "current_liabilities": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "inventories": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "cash": {
+     "value": "58.096",
+     "state": "reported",
+     "ev": "ev8"
+    },
+    "loans": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "cfo": {
+     "value": "541.613",
+     "state": "reported",
+     "ev": "ev9"
+    },
+    "cfi": {
+     "value": "-168.8953",
+     "state": "reported",
+     "ev": "ev10"
+    },
+    "cff": {
+     "value": "-370.0449",
+     "state": "reported",
+     "ev": "ev11"
+    },
+    "ebitda": {
+     "value": "699.3301",
+     "state": "reported",
+     "ev": "ev3"
+    },
+    "eps": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "shares_outstanding": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "pat_pre_associate": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "pat_owners": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "associate_profit": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "eps_basic": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "eps_diluted": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "gross_profit": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "operating_profit": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "cost_of_sales": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "trade_receivables": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "trade_payables": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "fixed_assets": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "borrowings": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "dividend_per_share": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "gross_npa": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "net_npa": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "nim": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "provision_coverage": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "capital_adequacy": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "claims_ratio": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "combined_ratio": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "solvency_ratio": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "net_change": {
+     "value": "2.6728",
+     "state": "reported",
+     "ev": "ev12"
+    },
+    "provider_roce": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "capex": {
+     "state": "not_in_source",
+     "value": null
+    }
+   }
+  }
+ },
+ "ratios": {
+  "defaults": [
+   "revenue_growth",
+   "ebitda_margin",
+   "roce",
+   "cfo_to_pat",
+   "net_debt_ebitda",
+   "pe"
+  ],
+  "groups": {
+   "Profitability": [
+    {
+     "id": "pat_margin",
+     "label": "PAT margin",
+     "unit": "%",
+     "formula": "PAT / total income"
+    },
+    {
+     "id": "net_profit_ratio",
+     "label": "Net profit ratio",
+     "unit": "%",
+     "formula": "PAT / operating revenue"
+    },
+    {
+     "id": "gross_margin",
+     "label": "Gross margin",
+     "unit": "%",
+     "formula": "gross profit / operating revenue"
+    },
+    {
+     "id": "operating_margin",
+     "label": "Operating margin",
+     "unit": "%",
+     "formula": "operating profit / operating revenue"
+    },
+    {
+     "id": "ebitda_margin",
+     "label": "EBITDA margin",
+     "unit": "%",
+     "formula": "EBITDA / operating revenue"
+    },
+    {
+     "id": "roe",
+     "label": "Return on equity",
+     "unit": "%",
+     "formula": "PAT / average equity"
+    },
+    {
+     "id": "roa",
+     "label": "Return on assets",
+     "unit": "%",
+     "formula": "PAT / average assets"
+    },
+    {
+     "id": "roce",
+     "label": "ROCE",
+     "unit": "%",
+     "formula": "(PBT + finance costs) / (total assets − current liabilities)"
+    },
+    {
+     "id": "other_income_share",
+     "label": "Other-income share",
+     "unit": "%",
+     "formula": "other income / total income"
+    }
+   ],
+   "Growth and per share": [
+    {
+     "id": "revenue_growth",
+     "label": "Revenue growth",
+     "unit": "%",
+     "formula": "operating revenue / prior-year operating revenue − 1"
+    },
+    {
+     "id": "revenue_cagr",
+     "label": "Three-year revenue CAGR",
+     "unit": "%",
+     "formula": "(operating revenue / operating revenue three years earlier)^(1/3) − 1"
+    },
+    {
+     "id": "diluted_growth",
+     "label": "Diluted EPS growth",
+     "unit": "%",
+     "formula": "diluted EPS / prior-year diluted EPS − 1"
+    },
+    {
+     "id": "eps_basic",
+     "label": "Reported basic EPS",
+     "unit": "₹/share",
+     "formula": "reported basic EPS"
+    },
+    {
+     "id": "eps_diluted",
+     "label": "Reported diluted EPS",
+     "unit": "₹/share",
+     "formula": "reported diluted EPS"
+    },
+    {
+     "id": "book_per_share",
+     "label": "Book value per share",
+     "unit": "₹/share",
+     "formula": "equity (₹ crore) × 10,000,000 / period-end shares"
+    }
+   ],
+   "Liquidity and debt": [
+    {
+     "id": "current_ratio",
+     "label": "Current ratio",
+     "unit": "×",
+     "formula": "current assets / current liabilities"
+    },
+    {
+     "id": "quick_ratio",
+     "label": "Quick ratio",
+     "unit": "×",
+     "formula": "(current assets − inventories) / current liabilities"
+    },
+    {
+     "id": "cash_ratio",
+     "label": "Cash ratio",
+     "unit": "×",
+     "formula": "cash and equivalents / current liabilities"
+    },
+    {
+     "id": "debt_equity",
+     "label": "Debt-to-equity",
+     "unit": "×",
+     "formula": "reported debt / equity"
+    },
+    {
+     "id": "interest_cover",
+     "label": "Interest coverage",
+     "unit": "×",
+     "formula": "(PBT + finance costs) / finance costs"
+    },
+    {
+     "id": "net_debt_ebitda",
+     "label": "Net debt / EBITDA",
+     "unit": "×",
+     "formula": "(reported debt − cash and equivalents) / EBITDA"
+    },
+    {
+     "id": "debt_cover",
+     "label": "Debt service coverage",
+     "unit": "×",
+     "formula": "operating cash flow / scheduled principal and interest"
+    }
+   ],
+   "Cash generation": [
+    {
+     "id": "cfo_to_pat",
+     "label": "Operating cash flow / profit",
+     "unit": "×",
+     "formula": "operating cash flow / PAT"
+    },
+    {
+     "id": "cfo_margin",
+     "label": "Operating cash flow margin",
+     "unit": "%",
+     "formula": "operating cash flow / operating revenue"
+    },
+    {
+     "id": "cfo_current",
+     "label": "Operating cash flow / current liabilities",
+     "unit": "×",
+     "formula": "operating cash flow / current liabilities"
+    },
+    {
+     "id": "fcf_margin",
+     "label": "Free cash flow margin",
+     "unit": "%",
+     "formula": "(operating cash flow + signed cash capex) / operating revenue"
+    }
+   ],
+   "Asset and working-capital efficiency": [
+    {
+     "id": "asset_turnover",
+     "label": "Asset turnover",
+     "unit": "×",
+     "formula": "operating revenue / average total assets"
+    },
+    {
+     "id": "fixed_turnover",
+     "label": "Fixed-asset turnover",
+     "unit": "×",
+     "formula": "operating revenue / average fixed assets"
+    },
+    {
+     "id": "inventory_days",
+     "label": "Inventory days",
+     "unit": "days",
+     "formula": "365 × average inventory / cost of sales"
+    },
+    {
+     "id": "receivable_days",
+     "label": "Receivable days",
+     "unit": "days",
+     "formula": "365 × average trade receivables / operating revenue"
+    },
+    {
+     "id": "payable_days",
+     "label": "Payable days",
+     "unit": "days",
+     "formula": "365 × average trade payables / cost of sales"
+    },
+    {
+     "id": "cash_cycle",
+     "label": "Cash conversion cycle",
+     "unit": "days",
+     "formula": "inventory days + receivable days − payable days"
+    }
+   ],
+   "Valuation and distributions": [
+    {
+     "id": "pe",
+     "label": "P/E at quote",
+     "unit": "×",
+     "formula": "dated price / annual EPS"
+    },
+    {
+     "id": "pb",
+     "label": "Price-to-book",
+     "unit": "×",
+     "formula": "indicative market cap / equity"
+    },
+    {
+     "id": "ps",
+     "label": "Price-to-sales",
+     "unit": "×",
+     "formula": "indicative market cap / operating revenue"
+    },
+    {
+     "id": "ev_ebitda",
+     "label": "EV / EBITDA",
+     "unit": "×",
+     "formula": "(market cap + debt − cash) / EBITDA"
+    },
+    {
+     "id": "ev_revenue",
+     "label": "EV / revenue",
+     "unit": "×",
+     "formula": "(market cap + debt − cash) / operating revenue"
+    },
+    {
+     "id": "dividend_payout",
+     "label": "Dividend payout ratio",
+     "unit": "%",
+     "formula": "reported dividend per share / annual basic EPS"
+    },
+    {
+     "id": "dividend_yield",
+     "label": "Indicative dividend yield",
+     "unit": "%",
+     "formula": "reported dividend per share / quoted price"
+    },
+    {
+     "id": "dividend_per_share",
+     "label": "Dividend per share",
+     "unit": "₹/share",
+     "formula": "reported dividend per share"
+    }
+   ],
+   "Lender measures": [
+    {
+     "id": "nim",
+     "label": "Net interest margin",
+     "unit": "%",
+     "formula": "issuer's reported NIM"
+    },
+    {
+     "id": "gross_npa",
+     "label": "Gross NPA ratio",
+     "unit": "%",
+     "formula": "issuer's reported gross NPA ratio"
+    },
+    {
+     "id": "net_npa",
+     "label": "Net NPA ratio",
+     "unit": "%",
+     "formula": "issuer's reported net NPA ratio"
+    },
+    {
+     "id": "provision_coverage",
+     "label": "Provision coverage",
+     "unit": "%",
+     "formula": "issuer's reported coverage"
+    },
+    {
+     "id": "capital_adequacy",
+     "label": "Capital adequacy",
+     "unit": "%",
+     "formula": "issuer's reported capital adequacy"
+    }
+   ],
+   "Insurer measures": [
+    {
+     "id": "claims_ratio",
+     "label": "Incurred claims ratio",
+     "unit": "%",
+     "formula": "issuer's reported claims ratio"
+    },
+    {
+     "id": "combined_ratio",
+     "label": "Combined ratio",
+     "unit": "%",
+     "formula": "issuer's reported combined ratio"
+    },
+    {
+     "id": "solvency_ratio",
+     "label": "Solvency ratio",
+     "unit": "×",
+     "formula": "issuer's reported solvency ratio"
+    }
+   ],
+   "Exchange measures": [
+    {
+     "id": "volume_growth",
+     "label": "Traded-volume growth",
+     "unit": "%",
+     "formula": "matched-contract volume / prior-year volume − 1"
+    },
+    {
+     "id": "fee_per_unit",
+     "label": "Transaction fee per unit",
+     "unit": "₹/unit",
+     "formula": "transaction fee / same-contract traded volume"
+    }
+   ]
+  },
+  "by_period": {
+   "FY2025": {
+    "pat_margin": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "PAT / total income",
+     "inputs": {
+      "numerator": "243.1454",
+      "denominator": null
+     },
+     "unit": "%",
+     "ev": [
+      "ev17",
+      "ev15"
+     ],
+     "basis": "consolidated",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "other_income_share": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "other income / total income",
+     "inputs": {
+      "numerator": null,
+      "denominator": null
+     },
+     "unit": "%",
+     "ev": [
+      "ev15"
+     ],
+     "basis": "consolidated",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "net_profit_ratio": {
+     "value": "18.9060",
+     "state": "ok",
+     "formula": "PAT / operating revenue",
+     "inputs": {
+      "numerator": "243.1454",
+      "denominator": "1286.0777"
+     },
+     "unit": "%",
+     "ev": [
+      "ev17",
+      "ev15"
+     ],
+     "basis": "consolidated"
+    },
+    "gross_margin": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "gross profit / operating revenue",
+     "inputs": {
+      "numerator": null,
+      "denominator": "1286.0777"
+     },
+     "unit": "%",
+     "ev": [
+      "ev15"
+     ],
+     "basis": "consolidated",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "operating_margin": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "operating profit / operating revenue",
+     "inputs": {
+      "numerator": null,
+      "denominator": "1286.0777"
+     },
+     "unit": "%",
+     "ev": [
+      "ev15"
+     ],
+     "basis": "consolidated",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "ebitda_margin": {
+     "value": "49.4882",
+     "state": "ok",
+     "formula": "EBITDA / operating revenue",
+     "inputs": {
+      "numerator": "636.4569",
+      "denominator": "1286.0777"
+     },
+     "unit": "%",
+     "ev": [
+      "ev16",
+      "ev15"
+     ],
+     "basis": "consolidated"
+    },
+    "cfo_margin": {
+     "value": "42.1106",
+     "state": "ok",
+     "formula": "operating cash flow / operating revenue",
+     "inputs": {
+      "numerator": "541.575",
+      "denominator": "1286.0777"
+     },
+     "unit": "%",
+     "ev": [
+      "ev22",
+      "ev15"
+     ],
+     "basis": "consolidated"
+    },
+    "roa": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "PAT / average assets",
+     "inputs": {
+      "numerator": "243.1454",
+      "denominator": null
+     },
+     "unit": "%",
+     "ev": [
+      "ev17",
+      "ev19"
+     ],
+     "basis": "consolidated",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "roe": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "PAT / average equity",
+     "inputs": {
+      "numerator": "243.1454",
+      "denominator": null
+     },
+     "unit": "%",
+     "ev": [
+      "ev17",
+      "ev20"
+     ],
+     "basis": "consolidated",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "asset_turnover": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "operating revenue / average total assets",
+     "inputs": {
+      "numerator": "1286.0777",
+      "denominator": null
+     },
+     "unit": "×",
+     "ev": [
+      "ev15",
+      "ev19"
+     ],
+     "basis": "consolidated",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "fixed_turnover": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "operating revenue / average fixed assets",
+     "inputs": {
+      "numerator": "1286.0777",
+      "denominator": null
+     },
+     "unit": "×",
+     "ev": [
+      "ev15"
+     ],
+     "basis": "consolidated",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "current_ratio": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "current assets / current liabilities",
+     "inputs": {
+      "numerator": null,
+      "denominator": null
+     },
+     "unit": "×",
+     "ev": [],
+     "basis": "consolidated",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "cash_ratio": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "cash and equivalents / current liabilities",
+     "inputs": {
+      "numerator": "55.4232",
+      "denominator": null
+     },
+     "unit": "×",
+     "ev": [
+      "ev21"
+     ],
+     "basis": "consolidated",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "debt_equity": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "reported debt / equity",
+     "inputs": {
+      "numerator": null,
+      "denominator": "1789.6014"
+     },
+     "unit": "×",
+     "ev": [
+      "ev20"
+     ],
+     "basis": "consolidated",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "cfo_current": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "operating cash flow / current liabilities",
+     "inputs": {
+      "numerator": "541.575",
+      "denominator": null
+     },
+     "unit": "×",
+     "ev": [
+      "ev22"
+     ],
+     "basis": "consolidated",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "cfo_to_pat": {
+     "value": "2.2274",
+     "state": "ok",
+     "formula": "operating cash flow / PAT",
+     "inputs": {
+      "numerator": "541.575",
+      "denominator": "243.1454"
+     },
+     "unit": "×",
+     "ev": [
+      "ev22",
+      "ev17"
+     ],
+     "basis": "consolidated"
+    },
+    "dividend_payout": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "reported dividend per share / annual basic EPS",
+     "inputs": {
+      "numerator": null,
+      "denominator": null
+     },
+     "unit": "%",
+     "ev": [],
+     "basis": "consolidated",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "roce": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "(PBT + finance costs) / (total assets − current liabilities)",
+     "inputs": {
+      "numerator": null,
+      "denominator": null
+     },
+     "unit": "%",
+     "ev": [
+      "ev18",
+      "ev19"
+     ],
+     "basis": "consolidated",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "interest_cover": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "(PBT + finance costs) / finance costs",
+     "inputs": {
+      "numerator": null,
+      "denominator": null
+     },
+     "unit": "×",
+     "ev": [
+      "ev18"
+     ],
+     "basis": "consolidated",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "net_debt_ebitda": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "(reported debt − cash and equivalents) / EBITDA",
+     "inputs": {
+      "numerator": null,
+      "denominator": "636.4569"
+     },
+     "unit": "×",
+     "ev": [
+      "ev21",
+      "ev16"
+     ],
+     "basis": "consolidated",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "fcf_margin": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "(operating cash flow + signed cash capex) / operating revenue",
+     "inputs": {
+      "numerator": null,
+      "denominator": "1286.0777"
+     },
+     "unit": "%",
+     "ev": [
+      "ev22",
+      "ev15"
+     ],
+     "basis": "consolidated",
+     "note": "Requires operating cash flow and paid cash capex for the same period and basis."
+    },
+    "revenue_growth": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "(current / previous) - 1",
+     "inputs": {
+      "current": "1286.0777",
+      "previous": null
+     },
+     "unit": "%",
+     "basis": "consolidated",
+     "ev": [
+      "ev15"
+     ],
+     "note": "Required comparable inputs are unavailable."
+    },
+    "revenue_cagr": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "(end / start)^(1/3) - 1",
+     "inputs": {
+      "end": "1286.0777",
+      "start": null,
+      "years": 3
+     },
+     "unit": "%",
+     "basis": "consolidated",
+     "ev": [
+      "ev15"
+     ],
+     "note": "Required comparable inputs are unavailable."
+    },
+    "diluted_growth": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "(current / previous) - 1",
+     "inputs": {
+      "current": null,
+      "previous": null
+     },
+     "unit": "%",
+     "basis": "consolidated",
+     "ev": [],
+     "note": "Required comparable inputs are unavailable."
+    },
+    "inventory_days": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "365 × average inventory / cost of sales",
+     "inputs": {
+      "numerator": null,
+      "denominator": null
+     },
+     "unit": "days",
+     "ev": [],
+     "basis": "consolidated",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "payable_days": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "365 × average trade payables / cost of sales",
+     "inputs": {
+      "numerator": null,
+      "denominator": null
+     },
+     "unit": "days",
+     "ev": [],
+     "basis": "consolidated",
+     "note": "Cost of sales proxies for supplier purchases; uses 365 days."
+    },
+    "receivable_days": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "365 × average trade receivables / operating revenue",
+     "inputs": {
+      "numerator": null,
+      "denominator": "1286.0777"
+     },
+     "unit": "days",
+     "ev": [
+      "ev15"
+     ],
+     "basis": "consolidated",
+     "note": "Operating revenue proxies for credit sales; uses 365 days."
+    },
+    "book_per_share": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "equity (₹ crore) × 10,000,000 / period-end shares",
+     "inputs": {
+      "numerator": "17896014000.0000",
+      "denominator": null
+     },
+     "unit": "₹/share",
+     "ev": [
+      "ev20"
+     ],
+     "basis": "consolidated",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "eps_basic": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "reported basic EPS",
+     "inputs": {
+      "eps_basic": null
+     },
+     "unit": "₹/share",
+     "ev": [],
+     "basis": "consolidated",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "eps_diluted": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "reported diluted EPS",
+     "inputs": {
+      "eps_diluted": null
+     },
+     "unit": "₹/share",
+     "ev": [],
+     "basis": "consolidated",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "dividend_per_share": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "reported dividend per share",
+     "inputs": {
+      "dividend_per_share": null
+     },
+     "unit": "₹/share",
+     "ev": [],
+     "basis": "consolidated",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "nim": {
+     "value": null,
+     "state": "inapplicable",
+     "formula": "issuer's reported NIM",
+     "inputs": {},
+     "note": "The measure does not apply to this business model.",
+     "unit": "%",
+     "basis": "consolidated"
+    },
+    "gross_npa": {
+     "value": null,
+     "state": "inapplicable",
+     "formula": "issuer's reported gross NPA ratio",
+     "inputs": {},
+     "note": "The measure does not apply to this business model.",
+     "unit": "%",
+     "basis": "consolidated"
+    },
+    "net_npa": {
+     "value": null,
+     "state": "inapplicable",
+     "formula": "issuer's reported net NPA ratio",
+     "inputs": {},
+     "note": "The measure does not apply to this business model.",
+     "unit": "%",
+     "basis": "consolidated"
+    },
+    "provision_coverage": {
+     "value": null,
+     "state": "inapplicable",
+     "formula": "issuer's reported coverage",
+     "inputs": {},
+     "note": "The measure does not apply to this business model.",
+     "unit": "%",
+     "basis": "consolidated"
+    },
+    "capital_adequacy": {
+     "value": null,
+     "state": "inapplicable",
+     "formula": "issuer's reported capital adequacy",
+     "inputs": {},
+     "note": "The measure does not apply to this business model.",
+     "unit": "%",
+     "basis": "consolidated"
+    },
+    "claims_ratio": {
+     "value": null,
+     "state": "inapplicable",
+     "formula": "issuer's reported claims ratio",
+     "inputs": {},
+     "note": "The measure does not apply to this business model.",
+     "unit": "%",
+     "basis": "consolidated"
+    },
+    "combined_ratio": {
+     "value": null,
+     "state": "inapplicable",
+     "formula": "issuer's reported combined ratio",
+     "inputs": {},
+     "note": "The measure does not apply to this business model.",
+     "unit": "%",
+     "basis": "consolidated"
+    },
+    "solvency_ratio": {
+     "value": null,
+     "state": "inapplicable",
+     "formula": "issuer's reported solvency ratio",
+     "inputs": {},
+     "note": "The measure does not apply to this business model.",
+     "unit": "×",
+     "basis": "consolidated"
+    },
+    "quick_ratio": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "(current assets − inventories) / current liabilities",
+     "inputs": {},
+     "unit": "×",
+     "basis": "consolidated",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "debt_cover": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "operating cash flow / scheduled principal and interest",
+     "inputs": {},
+     "unit": "×",
+     "basis": "consolidated",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "cash_cycle": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "inventory days + receivable days − payable days",
+     "inputs": {},
+     "unit": "days",
+     "basis": "consolidated",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "pe": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "dated price / annual EPS",
+     "inputs": {},
+     "unit": "×",
+     "basis": "consolidated",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "pb": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "indicative market cap / equity",
+     "inputs": {},
+     "unit": "×",
+     "basis": "consolidated",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "ps": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "indicative market cap / operating revenue",
+     "inputs": {},
+     "unit": "×",
+     "basis": "consolidated",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "ev_ebitda": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "(market cap + debt − cash) / EBITDA",
+     "inputs": {},
+     "unit": "×",
+     "basis": "consolidated",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "ev_revenue": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "(market cap + debt − cash) / operating revenue",
+     "inputs": {},
+     "unit": "×",
+     "basis": "consolidated",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "dividend_yield": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "reported dividend per share / quoted price",
+     "inputs": {},
+     "unit": "%",
+     "basis": "consolidated",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "volume_growth": {
+     "value": null,
+     "state": "inapplicable",
+     "formula": "matched-contract volume / prior-year volume − 1",
+     "inputs": {},
+     "note": "The measure does not apply to this business model.",
+     "unit": "%",
+     "basis": "consolidated"
+    },
+    "fee_per_unit": {
+     "value": null,
+     "state": "inapplicable",
+     "formula": "transaction fee / same-contract traded volume",
+     "inputs": {},
+     "note": "The measure does not apply to this business model.",
+     "unit": "₹/unit",
+     "basis": "consolidated"
+    }
+   },
+   "FY2026": {
+    "pat_margin": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "PAT / total income",
+     "inputs": {
+      "numerator": "288.3182",
+      "denominator": null
+     },
+     "unit": "%",
+     "ev": [
+      "ev4",
+      "ev2"
+     ],
+     "basis": "consolidated",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "other_income_share": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "other income / total income",
+     "inputs": {
+      "numerator": null,
+      "denominator": null
+     },
+     "unit": "%",
+     "ev": [
+      "ev2"
+     ],
+     "basis": "consolidated",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "net_profit_ratio": {
+     "value": "19.9597",
+     "state": "ok",
+     "formula": "PAT / operating revenue",
+     "inputs": {
+      "numerator": "288.3182",
+      "denominator": "1444.5033"
+     },
+     "unit": "%",
+     "ev": [
+      "ev4",
+      "ev2"
+     ],
+     "basis": "consolidated"
+    },
+    "gross_margin": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "gross profit / operating revenue",
+     "inputs": {
+      "numerator": null,
+      "denominator": "1444.5033"
+     },
+     "unit": "%",
+     "ev": [
+      "ev2"
+     ],
+     "basis": "consolidated",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "operating_margin": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "operating profit / operating revenue",
+     "inputs": {
+      "numerator": null,
+      "denominator": "1444.5033"
+     },
+     "unit": "%",
+     "ev": [
+      "ev2"
+     ],
+     "basis": "consolidated",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "ebitda_margin": {
+     "value": "48.4132",
+     "state": "ok",
+     "formula": "EBITDA / operating revenue",
+     "inputs": {
+      "numerator": "699.3301",
+      "denominator": "1444.5033"
+     },
+     "unit": "%",
+     "ev": [
+      "ev3",
+      "ev2"
+     ],
+     "basis": "consolidated"
+    },
+    "cfo_margin": {
+     "value": "37.4948",
+     "state": "ok",
+     "formula": "operating cash flow / operating revenue",
+     "inputs": {
+      "numerator": "541.613",
+      "denominator": "1444.5033"
+     },
+     "unit": "%",
+     "ev": [
+      "ev9",
+      "ev2"
+     ],
+     "basis": "consolidated"
+    },
+    "roa": {
+     "value": "6.8922",
+     "state": "ok",
+     "formula": "PAT / average assets",
+     "inputs": {
+      "numerator": "288.3182",
+      "denominator": "4183.24145"
+     },
+     "unit": "%",
+     "ev": [
+      "ev4",
+      "ev6",
+      "ev19"
+     ],
+     "basis": "consolidated"
+    },
+    "roe": {
+     "value": "14.9049",
+     "state": "ok",
+     "formula": "PAT / average equity",
+     "inputs": {
+      "numerator": "288.3182",
+      "denominator": "1934.39005"
+     },
+     "unit": "%",
+     "ev": [
+      "ev4",
+      "ev7",
+      "ev20"
+     ],
+     "basis": "consolidated"
+    },
+    "asset_turnover": {
+     "value": "0.3453",
+     "state": "ok",
+     "formula": "operating revenue / average total assets",
+     "inputs": {
+      "numerator": "1444.5033",
+      "denominator": "4183.24145"
+     },
+     "unit": "×",
+     "ev": [
+      "ev2",
+      "ev6",
+      "ev19"
+     ],
+     "basis": "consolidated"
+    },
+    "fixed_turnover": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "operating revenue / average fixed assets",
+     "inputs": {
+      "numerator": "1444.5033",
+      "denominator": null
+     },
+     "unit": "×",
+     "ev": [
+      "ev2"
+     ],
+     "basis": "consolidated",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "current_ratio": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "current assets / current liabilities",
+     "inputs": {
+      "numerator": null,
+      "denominator": null
+     },
+     "unit": "×",
+     "ev": [],
+     "basis": "consolidated",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "cash_ratio": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "cash and equivalents / current liabilities",
+     "inputs": {
+      "numerator": "58.096",
+      "denominator": null
+     },
+     "unit": "×",
+     "ev": [
+      "ev8"
+     ],
+     "basis": "consolidated",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "debt_equity": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "reported debt / equity",
+     "inputs": {
+      "numerator": null,
+      "denominator": "2079.1787"
+     },
+     "unit": "×",
+     "ev": [
+      "ev7"
+     ],
+     "basis": "consolidated",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "cfo_current": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "operating cash flow / current liabilities",
+     "inputs": {
+      "numerator": "541.613",
+      "denominator": null
+     },
+     "unit": "×",
+     "ev": [
+      "ev9"
+     ],
+     "basis": "consolidated",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "cfo_to_pat": {
+     "value": "1.8785",
+     "state": "ok",
+     "formula": "operating cash flow / PAT",
+     "inputs": {
+      "numerator": "541.613",
+      "denominator": "288.3182"
+     },
+     "unit": "×",
+     "ev": [
+      "ev9",
+      "ev4"
+     ],
+     "basis": "consolidated"
+    },
+    "dividend_payout": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "reported dividend per share / annual basic EPS",
+     "inputs": {
+      "numerator": null,
+      "denominator": null
+     },
+     "unit": "%",
+     "ev": [],
+     "basis": "consolidated",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "roce": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "(PBT + finance costs) / (total assets − current liabilities)",
+     "inputs": {
+      "numerator": null,
+      "denominator": null
+     },
+     "unit": "%",
+     "ev": [
+      "ev5",
+      "ev6"
+     ],
+     "basis": "consolidated",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "interest_cover": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "(PBT + finance costs) / finance costs",
+     "inputs": {
+      "numerator": null,
+      "denominator": null
+     },
+     "unit": "×",
+     "ev": [
+      "ev5"
+     ],
+     "basis": "consolidated",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "net_debt_ebitda": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "(reported debt − cash and equivalents) / EBITDA",
+     "inputs": {
+      "numerator": null,
+      "denominator": "699.3301"
+     },
+     "unit": "×",
+     "ev": [
+      "ev8",
+      "ev3"
+     ],
+     "basis": "consolidated",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "fcf_margin": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "(operating cash flow + signed cash capex) / operating revenue",
+     "inputs": {
+      "numerator": null,
+      "denominator": "1444.5033"
+     },
+     "unit": "%",
+     "ev": [
+      "ev9",
+      "ev2"
+     ],
+     "basis": "consolidated",
+     "note": "Requires operating cash flow and paid cash capex for the same period and basis."
+    },
+    "revenue_growth": {
+     "value": "12.3185",
+     "state": "ok",
+     "formula": "(current / previous) - 1",
+     "inputs": {
+      "current": "1444.5033",
+      "previous": "1286.0777"
+     },
+     "unit": "%",
+     "basis": "consolidated",
+     "ev": [
+      "ev2",
+      "ev15"
+     ]
+    },
+    "revenue_cagr": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "(end / start)^(1/3) - 1",
+     "inputs": {
+      "end": "1444.5033",
+      "start": null,
+      "years": 3
+     },
+     "unit": "%",
+     "basis": "consolidated",
+     "ev": [
+      "ev2"
+     ],
+     "note": "Required comparable inputs are unavailable."
+    },
+    "diluted_growth": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "(current / previous) - 1",
+     "inputs": {
+      "current": null,
+      "previous": null
+     },
+     "unit": "%",
+     "basis": "consolidated",
+     "ev": [],
+     "note": "Required comparable inputs are unavailable."
+    },
+    "inventory_days": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "365 × average inventory / cost of sales",
+     "inputs": {
+      "numerator": null,
+      "denominator": null
+     },
+     "unit": "days",
+     "ev": [],
+     "basis": "consolidated",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "payable_days": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "365 × average trade payables / cost of sales",
+     "inputs": {
+      "numerator": null,
+      "denominator": null
+     },
+     "unit": "days",
+     "ev": [],
+     "basis": "consolidated",
+     "note": "Cost of sales proxies for supplier purchases; uses 365 days."
+    },
+    "receivable_days": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "365 × average trade receivables / operating revenue",
+     "inputs": {
+      "numerator": null,
+      "denominator": "1444.5033"
+     },
+     "unit": "days",
+     "ev": [
+      "ev2"
+     ],
+     "basis": "consolidated",
+     "note": "Operating revenue proxies for credit sales; uses 365 days."
+    },
+    "book_per_share": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "equity (₹ crore) × 10,000,000 / period-end shares",
+     "inputs": {
+      "numerator": "20791787000.0000",
+      "denominator": null
+     },
+     "unit": "₹/share",
+     "ev": [
+      "ev7"
+     ],
+     "basis": "consolidated",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "eps_basic": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "reported basic EPS",
+     "inputs": {
+      "eps_basic": null
+     },
+     "unit": "₹/share",
+     "ev": [],
+     "basis": "consolidated",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "eps_diluted": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "reported diluted EPS",
+     "inputs": {
+      "eps_diluted": null
+     },
+     "unit": "₹/share",
+     "ev": [],
+     "basis": "consolidated",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "dividend_per_share": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "reported dividend per share",
+     "inputs": {
+      "dividend_per_share": null
+     },
+     "unit": "₹/share",
+     "ev": [],
+     "basis": "consolidated",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "nim": {
+     "value": null,
+     "state": "inapplicable",
+     "formula": "issuer's reported NIM",
+     "inputs": {},
+     "note": "The measure does not apply to this business model.",
+     "unit": "%",
+     "basis": "consolidated"
+    },
+    "gross_npa": {
+     "value": null,
+     "state": "inapplicable",
+     "formula": "issuer's reported gross NPA ratio",
+     "inputs": {},
+     "note": "The measure does not apply to this business model.",
+     "unit": "%",
+     "basis": "consolidated"
+    },
+    "net_npa": {
+     "value": null,
+     "state": "inapplicable",
+     "formula": "issuer's reported net NPA ratio",
+     "inputs": {},
+     "note": "The measure does not apply to this business model.",
+     "unit": "%",
+     "basis": "consolidated"
+    },
+    "provision_coverage": {
+     "value": null,
+     "state": "inapplicable",
+     "formula": "issuer's reported coverage",
+     "inputs": {},
+     "note": "The measure does not apply to this business model.",
+     "unit": "%",
+     "basis": "consolidated"
+    },
+    "capital_adequacy": {
+     "value": null,
+     "state": "inapplicable",
+     "formula": "issuer's reported capital adequacy",
+     "inputs": {},
+     "note": "The measure does not apply to this business model.",
+     "unit": "%",
+     "basis": "consolidated"
+    },
+    "claims_ratio": {
+     "value": null,
+     "state": "inapplicable",
+     "formula": "issuer's reported claims ratio",
+     "inputs": {},
+     "note": "The measure does not apply to this business model.",
+     "unit": "%",
+     "basis": "consolidated"
+    },
+    "combined_ratio": {
+     "value": null,
+     "state": "inapplicable",
+     "formula": "issuer's reported combined ratio",
+     "inputs": {},
+     "note": "The measure does not apply to this business model.",
+     "unit": "%",
+     "basis": "consolidated"
+    },
+    "solvency_ratio": {
+     "value": null,
+     "state": "inapplicable",
+     "formula": "issuer's reported solvency ratio",
+     "inputs": {},
+     "note": "The measure does not apply to this business model.",
+     "unit": "×",
+     "basis": "consolidated"
+    },
+    "pe": {
+     "basis": "consolidated",
+     "value": null,
+     "state": "missing_input",
+     "formula": "price / EPS",
+     "inputs": {
+      "price_inr": null,
+      "eps": null
+     },
+     "unit": "x",
+     "eps_basis": "provider_annual_eps",
+     "note": "Annual EPS from Screener.in. The source does not specify basic or diluted EPS.",
+     "ev": []
+    },
+    "pb": {
+     "basis": "consolidated",
+     "value": null,
+     "state": "missing_input",
+     "formula": "",
+     "inputs": {},
+     "unit": "×",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "ps": {
+     "basis": "consolidated",
+     "value": null,
+     "state": "missing_input",
+     "formula": "",
+     "inputs": {},
+     "unit": "×",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "dividend_yield": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "reported dividend per share / quoted price",
+     "inputs": {
+      "numerator": null,
+      "denominator": null
+     },
+     "unit": "%",
+     "ev": [],
+     "basis": "consolidated",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "ev_ebitda": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "(market cap + debt − cash) / EBITDA",
+     "inputs": {
+      "numerator": null,
+      "denominator": "699.3301"
+     },
+     "unit": "×",
+     "ev": [
+      "ev8",
+      "ev3"
+     ],
+     "basis": "consolidated",
+     "note": "Requires market cap and debt/cash on the same basis; no adjustment for undisclosed debt."
+    },
+    "ev_revenue": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "(market cap + debt − cash) / operating revenue",
+     "inputs": {
+      "numerator": null,
+      "denominator": "1444.5033"
+     },
+     "unit": "×",
+     "ev": [
+      "ev8",
+      "ev2"
+     ],
+     "basis": "consolidated",
+     "note": "Requires market cap and debt/cash on the same basis; no adjustment for undisclosed debt."
+    },
+    "quick_ratio": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "(current assets − inventories) / current liabilities",
+     "inputs": {},
+     "unit": "×",
+     "basis": "consolidated",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "debt_cover": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "operating cash flow / scheduled principal and interest",
+     "inputs": {},
+     "unit": "×",
+     "basis": "consolidated",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "cash_cycle": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "inventory days + receivable days − payable days",
+     "inputs": {},
+     "unit": "days",
+     "basis": "consolidated",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "volume_growth": {
+     "value": null,
+     "state": "inapplicable",
+     "formula": "matched-contract volume / prior-year volume − 1",
+     "inputs": {},
+     "note": "The measure does not apply to this business model.",
+     "unit": "%",
+     "basis": "consolidated"
+    },
+    "fee_per_unit": {
+     "value": null,
+     "state": "inapplicable",
+     "formula": "transaction fee / same-contract traded volume",
+     "inputs": {},
+     "note": "The measure does not apply to this business model.",
+     "unit": "₹/unit",
+     "basis": "consolidated"
+    }
+   }
+  }
+ },
+ "research": {
+  "by_period": {
+   "FY2025": {
+    "comparison": {
+     "revenue": {
+      "value": "1286.0777",
+      "state": "reported",
+      "basis": "consolidated",
+      "match_basis": "consolidated",
+      "definition": "revenue",
+      "ev": [
+       "ev15"
+      ]
+     },
+     "margin": {
+      "value": "18.9060",
+      "state": "ok",
+      "basis": "consolidated",
+      "match_basis": "consolidated",
+      "definition": "margin",
+      "ev": [
+       "ev17",
+       "ev15"
+      ]
+     },
+     "cfo": {
+      "value": "541.575",
+      "state": "reported",
+      "basis": "consolidated",
+      "match_basis": "consolidated",
+      "definition": "cfo",
+      "ev": [
+       "ev22"
+      ]
+     },
+     "pe": {
+      "value": null,
+      "state": "missing_input",
+      "basis": "consolidated",
+      "match_basis": "consolidated",
+      "definition": "pe",
+      "ev": []
+     }
+    },
+    "claims": [],
+    "scenario": {
+     "base": "1286.08",
+     "upside": "1414.69",
+     "downside": "1157.47",
+     "note": "Illustrative sensitivity of operating revenue to a ±10% change. Review price, volume and margin assumptions after results."
+    },
+    "event": null,
+    "financial_risk": "Review cash versus profit and working capital.",
+    "valuation_risk": "Comparable price and/or annual earnings are unavailable."
+   },
+   "FY2026": {
+    "comparison": {
+     "revenue": {
+      "value": "1444.5033",
+      "state": "reported",
+      "basis": "consolidated",
+      "match_basis": "consolidated",
+      "definition": "revenue",
+      "ev": [
+       "ev2"
+      ]
+     },
+     "margin": {
+      "value": "19.9597",
+      "state": "ok",
+      "basis": "consolidated",
+      "match_basis": "consolidated",
+      "definition": "margin",
+      "ev": [
+       "ev4",
+       "ev2"
+      ]
+     },
+     "cfo": {
+      "value": "541.613",
+      "state": "reported",
+      "basis": "consolidated",
+      "match_basis": "consolidated",
+      "definition": "cfo",
+      "ev": [
+       "ev9"
+      ]
+     },
+     "pe": {
+      "value": null,
+      "state": "missing_input",
+      "basis": "consolidated",
+      "match_basis": "consolidated",
+      "definition": "provider_annual_eps",
+      "ev": []
+     }
+    },
+    "claims": [
+     {
+      "category": "Pro",
+      "title": "Operating revenue changed 12.32% year on year",
+      "interpretation": "Use the matched annual revenue series and check whether volumes, pricing or a one-off drove the movement.",
+      "ev": [
+       "ev2",
+       "ev15"
+      ]
+     }
+    ],
+    "scenario": {
+     "base": "1444.50",
+     "upside": "1588.95",
+     "downside": "1300.05",
+     "note": "Illustrative sensitivity of operating revenue to a ±10% change. Review price, volume and margin assumptions after results."
+    },
+    "event": null,
+    "financial_risk": "Review cash versus profit and working capital.",
+    "valuation_risk": "Comparable price and/or annual earnings are unavailable."
+   }
+  },
+  "risk": {
+   "summary": "Exchange-traded price risk",
+   "business": "Follow revenue drivers, cash needs and business-specific disclosures.",
+   "liquidity": "Share price and depth can change before execution.",
+   "restriction": "Check applicable trading restrictions at execution.",
+   "horizon": "Review at the next results announcement or within six months."
+  }
+ }
+}

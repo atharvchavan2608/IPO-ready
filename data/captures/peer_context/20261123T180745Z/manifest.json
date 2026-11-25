@@ -1,0 +1,33 @@
+{
+  "source": "peer_context",
+  "run_id": "20261123T180745Z",
+  "items": [
+    {
+      "url": "https://www.cial.aero/Tender-Details?TdId=1636",
+      "retrieved_at": "2026-11-23T18:07:45+00:00",
+      "status": 200,
+      "final_url": "https://www.cial.aero/Tender-Details?TdId=1636",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 179427,
+      "sha256": "e0ef3a66b6ad4115e10a709e761c84ebd182a1d7548b1c480c3ff76e0daa8c7d",
+      "id": "cial-terminal-tender",
+      "path": "cial-terminal-tender.html"
+    },
+    {
+      "url": "https://nsearchives.nseindia.com/corporate/ixbrl/INTEGRATED_FILING_INDAS_159028_19052026202413_iXBRL_WEB.html",
+      "retrieved_at": "2026-11-23T18:07:48+00:00",
+      "status": 200,
+      "final_url": "https://nsearchives.nseindia.com/corporate/ixbrl/INTEGRATED_FILING_INDAS_159028_19052026202413_iXBRL_WEB.html",
+      "content_type": "text/html",
+      "bytes": 127836,
+      "sha256": "a521279dbe15adb1d0f7259f5f78f6f2275a2e8de637154e1207219c5b54eea0",
+      "id": "autoaxles-annual-2026",
+      "path": "autoaxles-annual-2026.html"
+    }
+  ],
+  "summary": {
+    "attempted": 2,
+    "ok": 2,
+    "failed": 0
+  }
+}

@@ -1,0 +1,140 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="1200" viewBox="0 0 1700 1200">
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="context-stroke"/></marker></defs>
+<rect x="0" y="0" width="1700" height="1200" rx="0" fill="#FFFFFF" stroke="none" stroke-width="1.2"/>
+<rect x="0" y="0" width="1700" height="10" rx="0" fill="#117F82" stroke="none" stroke-width="1.2"/>
+<text x="48" y="52.3" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" fill="#117F82" font-weight="700">IPO-READY  /  PRODUCT ARCHITECTURE</text>
+<text x="48" y="102.06" font-family="DejaVu Sans, Arial, sans-serif" font-size="33" fill="#142B43" font-weight="700">IPO-Ready | Target product architecture</text>
+<text x="48" y="134.12" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" fill="#52677C" font-weight="400">C4 container view: a financial intelligence platform for discovering, comparing, evaluating and monitoring companies.</text>
+<polyline points="48,163 1652,163" fill="none" stroke="#B8C7D5" stroke-width="1"/>
+<polyline points="48,1148 1652,1148" fill="none" stroke="#B8C7D5" stroke-width="1"/>
+<text x="48" y="1174.84" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" fill="#52677C" font-weight="400">MBA (Business Analytics) | Programming Analytics Lab | Target product design | 29 Oct 2026</text>
+<text x="1535" y="1174.84" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" fill="#52677C" font-weight="700">01 / 07</text>
+<rect x="48" y="183" width="201.0859375" height="26" rx="6" fill="#EAF2FD" stroke="none" stroke-width="1.2"/>
+<text x="59" y="198.84" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" fill="#2463AA" font-weight="700">BLUE: application / worker</text>
+<rect x="333" y="183" width="211.802734375" height="26" rx="6" fill="#E9F6F3" stroke="none" stroke-width="1.2"/>
+<text x="344" y="198.84" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" fill="#117F82" font-weight="700">TEAL: trusted data / serving</text>
+<rect x="624" y="183" width="211.4453125" height="26" rx="6" fill="#FFF5DE" stroke="none" stroke-width="1.2"/>
+<text x="635" y="198.84" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" fill="#A36B12" font-weight="700">GOLD: external dependency</text>
+<rect x="923" y="183" width="213.267578125" height="26" rx="6" fill="#F1ECF8" stroke="none" stroke-width="1.2"/>
+<text x="934" y="198.84" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" fill="#7353A3" font-weight="700">DASHED: optional extension</text>
+<rect x="48" y="218" width="1190" height="875" rx="16" fill="#FFFFFF" stroke="#B8C7D5" stroke-width="1.2" stroke-dasharray="6 5"/>
+<text x="68" y="238.84" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" fill="#52677C" font-weight="700">IPO-READY SYSTEM BOUNDARY</text>
+<rect x="68" y="268" width="540" height="114" rx="12" fill="#EAF2FD" stroke="#2463AA" stroke-width="1.2"/>
+<rect x="68" y="283" width="4" height="84" rx="0" fill="#2463AA" stroke="none" stroke-width="1.2"/>
+<text x="86" y="300.94" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" fill="#142B43" font-weight="700">Investor web app [React / TypeScript]</text>
+<text x="86" y="329.12" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" fill="#52677C" font-weight="400">Screener; company research; peer comparisons; scenario</text>
+<text x="86" y="351.2" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" fill="#52677C" font-weight="400">views; saved shortlists and watchlists</text>
+<rect x="658" y="268" width="540" height="114" rx="12" fill="#EAF2FD" stroke="#2463AA" stroke-width="1.2"/>
+<rect x="658" y="283" width="4" height="84" rx="0" fill="#2463AA" stroke="none" stroke-width="1.2"/>
+<text x="676" y="300.94" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" fill="#142B43" font-weight="700">Research operations console [Web app]</text>
+<text x="676" y="329.12" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" fill="#52677C" font-weight="400">Exceptions; peer / model policy review; release control;</text>
+<text x="676" y="351.2" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" fill="#52677C" font-weight="400">freshness and coverage</text>
+<rect x="1290" y="268" width="362" height="144" rx="12" fill="#FFF5DE" stroke="#A36B12" stroke-width="1.2"/>
+<rect x="1290" y="283" width="4" height="114" rx="0" fill="#A36B12" stroke="none" stroke-width="1.2"/>
+<text x="1308" y="300.94" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" fill="#142B43" font-weight="700">Identity provider [External</text>
+<text x="1308" y="322.94" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" fill="#142B43" font-weight="700">system]</text>
+<text x="1308" y="350.464" font-family="DejaVu Sans, Arial, sans-serif" font-size="15.200000000000003" fill="#52677C" font-weight="400">Sign-in and tokens. IPO-Ready enforces</text>
+<text x="1308" y="371.44" font-family="DejaVu Sans, Arial, sans-serif" font-size="15.200000000000003" fill="#52677C" font-weight="400">application roles and account permissions.</text>
+<rect x="68" y="448" width="1130" height="116" rx="12" fill="#EAF2FD" stroke="#2463AA" stroke-width="1.2"/>
+<rect x="68" y="463" width="4" height="86" rx="0" fill="#2463AA" stroke="none" stroke-width="1.2"/>
+<text x="86" y="480.94" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" fill="#142B43" font-weight="700">Product API / application backend [Python / FastAPI]</text>
+<text x="86" y="509.94" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" fill="#52677C" font-weight="400">Discover and screen companies | compare peers | evaluate models and scenarios | explain evidence | save criteria, shortlists</text>
+<text x="86" y="533.4000000000001" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" fill="#52677C" font-weight="400">and watchlists. Queries approved snapshots; validates commands; schedules research work.</text>
+<polyline points="338,382 338,448" fill="none" stroke="#2463AA" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="351" y="403" width="91.787109375" height="18" rx="2" fill="#FFFFFF" stroke="none" stroke-width="1.2"/>
+<text x="355" y="414.84" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" fill="#2463AA" font-weight="400">HTTPS / JSON</text>
+<polyline points="928,382 928,448" fill="none" stroke="#2463AA" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="942" y="403" width="91.787109375" height="18" rx="2" fill="#FFFFFF" stroke="none" stroke-width="1.2"/>
+<text x="946" y="414.84" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" fill="#2463AA" font-weight="400">HTTPS / JSON</text>
+<polyline points="1198,476 1260,476 1260,340 1290,340" fill="none" stroke="#A36B12" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="1285" y="449.84" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" fill="#A36B12" font-weight="400">identity checks</text>
+<rect x="68" y="654" width="330" height="204" rx="12" fill="#EAF2FD" stroke="#2463AA" stroke-width="1.2"/>
+<rect x="68" y="669" width="4" height="174" rx="0" fill="#2463AA" stroke="none" stroke-width="1.2"/>
+<text x="86" y="688.58" font-family="DejaVu Sans, Arial, sans-serif" font-size="19" fill="#142B43" font-weight="700">Data processing workers</text>
+<text x="86" y="712.58" font-family="DejaVu Sans, Arial, sans-serif" font-size="19" fill="#142B43" font-weight="700">[Python]</text>
+<text x="86" y="741.12" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" fill="#52677C" font-weight="400">Acquire and version evidence; parse</text>
+<text x="86" y="763.2" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" fill="#52677C" font-weight="400">facts and narrative; normalize and</text>
+<text x="86" y="785.28" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" fill="#52677C" font-weight="400">reconcile; route exceptions; produce</text>
+<text x="86" y="807.36" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" fill="#52677C" font-weight="400">approved fact snapshots.</text>
+<rect x="430" y="654" width="300" height="204" rx="12" fill="#E9F6F3" stroke="#117F82" stroke-width="1.2"/>
+<rect x="430" y="669" width="4" height="174" rx="0" fill="#117F82" stroke="none" stroke-width="1.2"/>
+<text x="448" y="688.58" font-family="DejaVu Sans, Arial, sans-serif" font-size="19" fill="#142B43" font-weight="700">Durable task queue [Job</text>
+<text x="448" y="712.58" font-family="DejaVu Sans, Arial, sans-serif" font-size="19" fill="#142B43" font-weight="700">store / queue]</text>
+<text x="448" y="741.12" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" fill="#52677C" font-weight="400">Research and refresh jobs;</text>
+<text x="448" y="763.2" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" fill="#52677C" font-weight="400">retries / dead letters;</text>
+<text x="448" y="785.28" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" fill="#52677C" font-weight="400">idempotency keys; outbox</text>
+<text x="448" y="807.36" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" fill="#52677C" font-weight="400">dispatch.</text>
+<rect x="762" y="654" width="436" height="204" rx="12" fill="#EAF2FD" stroke="#2463AA" stroke-width="1.2"/>
+<rect x="762" y="669" width="4" height="174" rx="0" fill="#2463AA" stroke="none" stroke-width="1.2"/>
+<text x="780" y="688.58" font-family="DejaVu Sans, Arial, sans-serif" font-size="19" fill="#142B43" font-weight="700">Intelligence workers [Python]</text>
+<text x="780" y="717.94" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" fill="#52677C" font-weight="400">Financial / factor models; peer matching;</text>
+<text x="780" y="741.4000000000001" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" fill="#52677C" font-weight="400">valuation scenarios; ranking policies; cited</text>
+<text x="780" y="764.86" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" fill="#52677C" font-weight="400">research packaging. Heavy analysis runs</text>
+<text x="780" y="788.32" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" fill="#52677C" font-weight="400">asynchronously.</text>
+<rect x="1290" y="600" width="362" height="204" rx="12" fill="#FFF5DE" stroke="#A36B12" stroke-width="1.2"/>
+<rect x="1290" y="615" width="4" height="174" rx="0" fill="#A36B12" stroke="none" stroke-width="1.2"/>
+<text x="1308" y="634.58" font-family="DejaVu Sans, Arial, sans-serif" font-size="19" fill="#142B43" font-weight="700">Disclosure + market systems</text>
+<text x="1308" y="658.58" font-family="DejaVu Sans, Arial, sans-serif" font-size="19" fill="#142B43" font-weight="700">[External]</text>
+<text x="1308" y="687.94" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" fill="#52677C" font-weight="400">Filing indexes; prospectus and peer</text>
+<text x="1308" y="711.4000000000001" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" fill="#52677C" font-weight="400">disclosures; XML/XBRL/JSON</text>
+<text x="1308" y="734.86" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" fill="#52677C" font-weight="400">financials; offer terms and dated</text>
+<text x="1308" y="758.32" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" fill="#52677C" font-weight="400">market snapshots.</text>
+<rect x="1290" y="863" width="362" height="204" rx="12" fill="#F1ECF8" stroke="#7353A3" stroke-width="1.2"/>
+<rect x="1290" y="878" width="4" height="174" rx="0" fill="#7353A3" stroke="none" stroke-width="1.2"/>
+<text x="1308" y="897.58" font-family="DejaVu Sans, Arial, sans-serif" font-size="19" fill="#142B43" font-weight="700">LLM provider [Optional</text>
+<text x="1308" y="921.58" font-family="DejaVu Sans, Arial, sans-serif" font-size="19" fill="#142B43" font-weight="700">external]</text>
+<text x="1308" y="950.94" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" fill="#52677C" font-weight="400">Tool-bound retrieval and</text>
+<text x="1308" y="974.4000000000001" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" fill="#52677C" font-weight="400">explanations. Numbers, ranking</text>
+<text x="1308" y="997.86" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" fill="#52677C" font-weight="400">policies and publication authority stay</text>
+<text x="1308" y="1021.32" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" fill="#52677C" font-weight="400">in the platform.</text>
+<polyline points="580,564 580,654" fill="none" stroke="#2463AA" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="595" y="608" width="149.197265625" height="18" rx="2" fill="#FFFFFF" stroke="none" stroke-width="1.2"/>
+<text x="599" y="619.84" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" fill="#2463AA" font-weight="400">enqueue research jobs</text>
+<polyline points="430,756 398,756" fill="none" stroke="#2463AA" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="730,756 762,756" fill="none" stroke="#2463AA" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="405" y="736.02" font-family="DejaVu Sans, Arial, sans-serif" font-size="11" fill="#2463AA" font-weight="400">jobs</text>
+<text x="733" y="736.02" font-family="DejaVu Sans, Arial, sans-serif" font-size="11" fill="#2463AA" font-weight="400">jobs</text>
+<polyline points="233,654 233,607 1250,607 1250,702 1290,702" fill="none" stroke="#A36B12" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="788" y="592.84" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" fill="#A36B12" font-weight="400">acquire versioned source data</text>
+<polyline points="1198,802 1260,802 1260,965 1290,965" fill="none" stroke="#7353A3" stroke-width="2" stroke-dasharray="6 5" marker-end="url(#arrow)"/>
+<text x="1300" y="836.84" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" fill="#7353A3" font-weight="400">optional grounded calls</text>
+<rect x="68" y="943" width="263" height="130" rx="12" fill="#E9F6F3" stroke="#117F82" stroke-width="1.2"/>
+<rect x="68" y="958" width="4" height="100" rx="0" fill="#117F82" stroke="none" stroke-width="1.2"/>
+<text x="86" y="975.94" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" fill="#142B43" font-weight="700">Application DB</text>
+<text x="86" y="997.94" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" fill="#142B43" font-weight="700">[PostgreSQL]</text>
+<text x="86" y="1023.332" font-family="DejaVu Sans, Arial, sans-serif" font-size="12.600000000000005" fill="#52677C" font-weight="400">Accounts, saved criteria, watchlists,</text>
+<text x="86" y="1040.72" font-family="DejaVu Sans, Arial, sans-serif" font-size="12.600000000000005" fill="#52677C" font-weight="400">reviews, jobs and release state</text>
+<rect x="357" y="943" width="263" height="130" rx="12" fill="#E9F6F3" stroke="#117F82" stroke-width="1.2"/>
+<rect x="357" y="958" width="4" height="100" rx="0" fill="#117F82" stroke="none" stroke-width="1.2"/>
+<text x="375" y="975.94" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" fill="#142B43" font-weight="700">Research DB</text>
+<text x="375" y="997.94" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" fill="#142B43" font-weight="700">[PostgreSQL]</text>
+<text x="375" y="1022.676" font-family="DejaVu Sans, Arial, sans-serif" font-size="11.800000000000008" fill="#52677C" font-weight="400">Point-in-time facts; features; peer</text>
+<text x="375" y="1038.96" font-family="DejaVu Sans, Arial, sans-serif" font-size="11.800000000000008" fill="#52677C" font-weight="400">sets; model registry; runs and lineage</text>
+<rect x="646" y="943" width="263" height="130" rx="12" fill="#E9F6F3" stroke="#117F82" stroke-width="1.2"/>
+<rect x="646" y="958" width="4" height="100" rx="0" fill="#117F82" stroke="none" stroke-width="1.2"/>
+<text x="664" y="975.94" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" fill="#142B43" font-weight="700">Evidence store [Object</text>
+<text x="664" y="997.94" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" fill="#142B43" font-weight="700">storage]</text>
+<text x="664" y="1022.84" font-family="DejaVu Sans, Arial, sans-serif" font-size="12.000000000000007" fill="#52677C" font-weight="400">Immutable filings, parsed text, model</text>
+<text x="664" y="1039.3999999999999" font-family="DejaVu Sans, Arial, sans-serif" font-size="12.000000000000007" fill="#52677C" font-weight="400">artifacts and research snapshots</text>
+<rect x="935" y="943" width="263" height="130" rx="12" fill="#E9F6F3" stroke="#117F82" stroke-width="1.2"/>
+<rect x="935" y="958" width="4" height="100" rx="0" fill="#117F82" stroke="none" stroke-width="1.2"/>
+<text x="953" y="975.94" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" fill="#142B43" font-weight="700">Read models</text>
+<text x="953" y="997.94" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" fill="#142B43" font-weight="700">[PostgreSQL]</text>
+<text x="953" y="1022.348" font-family="DejaVu Sans, Arial, sans-serif" font-size="11.40000000000001" fill="#52677C" font-weight="400">Published screener, company,</text>
+<text x="953" y="1038.08" font-family="DejaVu Sans, Arial, sans-serif" font-size="11.40000000000001" fill="#52677C" font-weight="400">comparison and scenario projections;</text>
+<text x="953" y="1053.812" font-family="DejaVu Sans, Arial, sans-serif" font-size="11.40000000000001" fill="#52677C" font-weight="400">optional cache</text>
+<polyline points="68,505 55,505 55,916 199,916 199,943" fill="none" stroke="#117F82" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="320,858 320,895 488,895 488,943" fill="none" stroke="#117F82" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="360,858 360,921 777,921 777,943" fill="none" stroke="#117F82" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="900,858 900,881 545,881 545,943" fill="none" stroke="#117F82" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="1097,858 1097,943" fill="none" stroke="#117F82" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="1198,525 1220,525 1220,915 1148,915 1148,943" fill="none" stroke="#117F82" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="73" y="902.84" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" fill="#117F82" font-weight="400">SQL</text>
+<text x="388" y="878.84" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" fill="#117F82" font-weight="400">facts</text>
+<text x="666" y="903.84" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" fill="#117F82" font-weight="400">objects</text>
+<text x="960" y="897.84" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" fill="#117F82" font-weight="400">publish</text>
+<text x="1098" y="606.84" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" fill="#117F82" font-weight="400">read snapshots</text>
+<rect x="48" y="1090" width="1604" height="49" rx="10" fill="#E9F6F3" stroke="none" stroke-width="1.2"/>
+<text x="66" y="1116.3" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" fill="#117F82" font-weight="700">CROSS-CUTTING: ACCESS CONTROL, AUDIT, MODEL VERSIONS, OBSERVABILITY AND RECOVERY</text>
+<text x="66" y="1138.66" font-family="DejaVu Sans, Arial, sans-serif" font-size="13" fill="#52677C" font-weight="400">Logical stores may share PostgreSQL initially. The backend is modular; data and intelligence workers can scale independently.</text>
+</svg>

@@ -8,3 +8,9 @@
 *.xlsx binary
 # Preserve retained evidence byte-for-byte, including downloaded text/code.
 research/** -text
+data/captures/** -text
+archive/portal-exploration-20261123/** -text
+archive/v1-handoff-20261124/** -text
+# The retained build ID includes a digest of the exact pipeline source bytes.
+ipo_ready/*.py -text
+ipo_ready/universe.json -text

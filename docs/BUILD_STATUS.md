@@ -1,4 +1,43 @@
-# Proposal and Python proof-of-concept status
+# Build status
+
+## V1 baseline and V2 setup, 24 November 2026
+
+The [V2 starter kit](starter-kit/PROMPTS.md) is ready for a fresh session. The runnable V1 in `ipo_ready/` and `site/` supplies the upgrade baseline. The [V1 handoff archive](../archive/v1-handoff-20261124/README.md) contains its requirements, report, review and previews.
+
+## Historical exploration, 12 November 2026
+
+The 12 November exploration tested incremental construction of an interactive unlisted/pre-IPO investor portal. See the [historical architecture](architecture/CURRENT_ARCHITECTURE.md), [staged strategy](product/BUILD_STRATEGY.md) and [archive reproduction notes](../archive/portal-exploration-20261123/README.md).
+
+## Milestone 1 local prototype
+
+- Original application path: `portal/`. Four views: company research, scenario lab, IPO references, evidence/coverage. Company/year selection, crore/million conversion, annual chart/history, source/formula dialog and JSON export worked in the local exploration.
+- IGX: active pre-IPO candidate, dated offering evidence from IEX's October-2026 call. NSE: recent IPO reference, listing status corrected using issuer note 7 (physical PDF page 18). NSDL: reference discovery only; no financial cohort approval.
+- Thirty checked secondary-provider observations across FY24-FY26; source labels, lexical values, dates, original units, unknown basis, evidence hashes and review states retained. No primary-reviewed financial facts yet.
+- Deterministic Decimal calculations: revenue growth/CAGR, continuing-profit/operating-revenue percentage, CFO/continuing-profit and income-component residual. One-year revenue/profit sensitivity with explicit bounded assumptions and snapshot lineage. No AI, scoring, price target or approved peer valuation.
+
+## Executed verification, 2026-11-12
+
+| Command / action | Outcome | What it establishes |
+| --- | --- | --- |
+| `python research/prepare_unlisted_pilot.py` | 30 exact observations matched retained HTML; native hashes checked | Offline source-specific transcription reproducibility |
+| `python -m portal.snapshot` | Prepared company JSON with input/code/snapshot identity | Reproducible projection; not publication approval |
+| `python -m unittest discover -s tests -v` | Seven active tests passed | Arithmetic, missing/zero/loss states, period/basis/unit compatibility, scenario validation, HTTP contracts |
+| `node --check portal/web/app.js` | Passed | JavaScript syntax |
+| `python research/validate_markdown_research.py` | 74 source records, 705 migrated-field checks, zero broken active-document links | Research register/migration integrity; not financial validation |
+| `python scripts/check_portal.py` | First sandbox attempt: process permission error; permitted retry passed | Four views, period/unit switches, negative cash conversion, evidence, Python sensitivity, download, reference status and mobile overflow |
+| Desktop/mobile screenshots | Inspected at 1440px and 390px; mobile navigation improved after first pass | Local visual QA; see final [browser result](../archive/portal-exploration-20261123/outputs/portal/browser-check.json) |
+| `scripts/archive_legacy.ps1` | 19 non-cache files moved and hash-verified | Superseded code preserved in [archive](../archive/legacy-20261022/README.md) |
+| `python research/sync_design_baseline.py` | 16 files from exact GitHub commit retained and hashed | Local architecture baseline matches meeting branch source |
+
+Final archive/baseline verification independently recomputed all 19 + 16 file hashes. Final browser pass used the current Python build and retained updated screenshots, including the mobile navigation adjustment. The preview server was stopped after QA; start it with the command in the portal instructions.
+
+Screenshots: [desktop](../archive/portal-exploration-20261123/outputs/portal/dashboard-desktop.png), [mobile](../archive/portal-exploration-20261123/outputs/portal/dashboard-mobile.png). Financial validation, automated extraction accuracy and investment usefulness are separate unfinished checks. The source register has 74 records; validate research links and migration integrity with `python research/validate_markdown_research.py`.
+
+## Former next task
+
+Reconcile IGX's selected observations against a primary issuer statement: actual dates, basis, continuing-profit definition and cash-flow composition, with differences retained as exceptions. Then implement one reusable adapter/review path. Further cohort, valuation, saved-workspace, durable-job and AI milestones remain queued. No production deployment or Git push was performed.
+
+## Historical proposal and proof of concept: 2026-10-22
 
 Updated: 2026-10-22. Latest user direction returns active work to initial planning and opens scope to foreign pre-IPO companies, prioritising free APIs. See [current plan](research/topics/pre-ipo-global-plan.md). Python analytics remains the academic core; product design is later work. The existing India-focused proposal, PDF and demo below are prior artifacts and have not been revised to the new scope.
 
@@ -7,9 +46,9 @@ Updated: 2026-10-22. Latest user direction returns active work to initial planni
 - [Recreated two-page proposal](proposal/IPO_Ready_Project_Proposal.md) and [PDF](../output/pdf/IPO_Ready_Project_Proposal.pdf). The prior extended text is retained as [working notes](proposal/IPO_Ready_Extended_Working_Notes.md).
 - [Discussion and demo guide](proposal/Presentation_Guide.md).
 - [Reference guide](proposal/Reference_Guide.md): how the eight proposal references inform the financial method, dashboard and document-processing design.
-- [Self-contained offline demo](../outputs/poc/IPO_Ready_Demo.html): open directly in a browser; no server or API key required. Reports are precomputed by the Python engine, not calculated by Python inside the browser.
-- [Python app instructions](../app/README.md) and [pandas notebook](../notebooks/01_financial_analysis.ipynb).
-- [Annual profile CSV](../outputs/poc/aether_annual_profile.csv) and [all report outputs](../outputs/poc/all_reports.json).
+- [Archived self-contained demo](../archive/legacy-20261022/outputs/poc/IPO_Ready_Demo.html): historical precomputed reports.
+- [Archived Python app instructions](../archive/legacy-20261022/app/README.md) and [archived pandas notebook](../archive/legacy-20261022/notebooks/01_financial_analysis.ipynb).
+- [Archived annual profile CSV](../archive/legacy-20261022/outputs/poc/aether_annual_profile.csv) and [archived report outputs](../archive/legacy-20261022/outputs/poc/all_reports.json).
 
 ## Implemented and verified
 

@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="1200" viewBox="0 0 1700 1200">
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="context-stroke"/></marker></defs>
+<rect x="0" y="0" width="1700" height="1200" rx="0" fill="#FFFFFF" stroke="none" stroke-width="1.2"/>
+<rect x="0" y="0" width="1700" height="10" rx="0" fill="#117F82" stroke="none" stroke-width="1.2"/>
+<text x="48" y="52.3" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" fill="#117F82" font-weight="700">IPO-READY  /  PRODUCT ARCHITECTURE</text>
+<text x="48" y="102.06" font-family="DejaVu Sans, Arial, sans-serif" font-size="33" fill="#142B43" font-weight="700">Startup deployment | Reliability and growth</text>
+<text x="48" y="134.12" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" fill="#52677C" font-weight="400">Deployment view: a practical launch topology, with scale boundaries chosen for actual workload rather than the prototype code.</text>
+<polyline points="48,163 1652,163" fill="none" stroke="#B8C7D5" stroke-width="1"/>
+<polyline points="48,1148 1652,1148" fill="none" stroke="#B8C7D5" stroke-width="1"/>
+<text x="48" y="1174.84" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" fill="#52677C" font-weight="400">MBA (Business Analytics) | Programming Analytics Lab | Target product design | 29 Oct 2026</text>
+<text x="1535" y="1174.84" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" fill="#52677C" font-weight="700">06 / 07</text>
+<rect x="48" y="222" width="480" height="145" rx="12" fill="#EAF2FD" stroke="#2463AA" stroke-width="1.2"/>
+<rect x="48" y="237" width="4" height="115" rx="0" fill="#2463AA" stroke="none" stroke-width="1.2"/>
+<text x="66" y="254.94" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" fill="#142B43" font-weight="700">Public edge + web delivery</text>
+<text x="66" y="283.94" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" fill="#52677C" font-weight="400">HTTPS, CDN/static frontend delivery, request limits,</text>
+<text x="66" y="307.4" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" fill="#52677C" font-weight="400">web protection and authenticated sessions.</text>
+<rect x="584" y="222" width="480" height="145" rx="12" fill="#EAF2FD" stroke="#2463AA" stroke-width="1.2"/>
+<rect x="584" y="237" width="4" height="115" rx="0" fill="#2463AA" stroke="none" stroke-width="1.2"/>
+<text x="602" y="254.94" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" fill="#142B43" font-weight="700">Private application runtime</text>
+<text x="602" y="283.94" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" fill="#52677C" font-weight="400">Modular Python API; separate data and intelligence</text>
+<text x="602" y="307.4" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" fill="#52677C" font-weight="400">worker processes; scheduler/outbox dispatcher.</text>
+<rect x="1120" y="222" width="532" height="145" rx="12" fill="#E9F6F3" stroke="#117F82" stroke-width="1.2"/>
+<rect x="1120" y="237" width="4" height="115" rx="0" fill="#117F82" stroke="none" stroke-width="1.2"/>
+<text x="1138" y="254.94" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" fill="#142B43" font-weight="700">Managed data services</text>
+<text x="1138" y="283.94" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" fill="#52677C" font-weight="400">PostgreSQL schemas; durable jobs/queue; private object</text>
+<text x="1138" y="307.4" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" fill="#52677C" font-weight="400">storage. Secrets and service identities scoped by role.</text>
+<polyline points="528,296 584,296" fill="none" stroke="#2463AA" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="537" y="265" width="30.984375" height="18" rx="2" fill="#FFFFFF" stroke="none" stroke-width="1.2"/>
+<text x="541" y="276.84" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" fill="#2463AA" font-weight="400">API</text>
+<polyline points="1064,296 1120,296" fill="none" stroke="#117F82" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="1064" y="265" width="54.427734375" height="18" rx="2" fill="#FFFFFF" stroke="none" stroke-width="1.2"/>
+<text x="1068" y="276.84" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" fill="#117F82" font-weight="400">private</text>
+<rect x="48" y="438" width="1604" height="279" rx="13" fill="#F4F7FA" stroke="#B8C7D5" stroke-width="1.2"/>
+<text x="68" y="470.3" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" fill="#117F82" font-weight="700">OPERATING CONTROLS APPLY TO EVERY DOMAIN</text>
+<rect x="68" y="504" width="494" height="188" rx="12" fill="#E9F6F3" stroke="#117F82" stroke-width="1.2"/>
+<rect x="68" y="519" width="4" height="158" rx="0" fill="#117F82" stroke="none" stroke-width="1.2"/>
+<text x="86" y="538.58" font-family="DejaVu Sans, Arial, sans-serif" font-size="19" fill="#142B43" font-weight="700">Access + data separation</text>
+<text x="86" y="567.12" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" fill="#52677C" font-weight="400">Investor / analyst / admin roles; account-scoped saved</text>
+<text x="86" y="589.2" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" fill="#52677C" font-weight="400">research; common financial evidence kept separate</text>
+<text x="86" y="611.28" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" fill="#52677C" font-weight="400">from private user data.</text>
+<rect x="603" y="504" width="494" height="188" rx="12" fill="#E9F6F3" stroke="#117F82" stroke-width="1.2"/>
+<rect x="603" y="519" width="4" height="158" rx="0" fill="#117F82" stroke="none" stroke-width="1.2"/>
+<text x="621" y="538.58" font-family="DejaVu Sans, Arial, sans-serif" font-size="19" fill="#142B43" font-weight="700">Observability + freshness</text>
+<text x="621" y="567.12" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" fill="#52677C" font-weight="400">Trace API request -&gt; job -&gt; research run; monitor lag,</text>
+<text x="621" y="589.2" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" fill="#52677C" font-weight="400">parser failures, coverage changes, model shifts and</text>
+<text x="621" y="611.28" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" fill="#52677C" font-weight="400">serving errors.</text>
+<rect x="1138" y="504" width="494" height="188" rx="12" fill="#E9F6F3" stroke="#117F82" stroke-width="1.2"/>
+<rect x="1138" y="519" width="4" height="158" rx="0" fill="#117F82" stroke="none" stroke-width="1.2"/>
+<text x="1156" y="538.58" font-family="DejaVu Sans, Arial, sans-serif" font-size="19" fill="#142B43" font-weight="700">Recovery + controlled release</text>
+<text x="1156" y="567.12" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" fill="#52677C" font-weight="400">Database point-in-time recovery; evidence/artifact</text>
+<text x="1156" y="589.2" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" fill="#52677C" font-weight="400">backups; restore drills; CI checks; staging; versioned</text>
+<text x="1156" y="611.28" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" fill="#52677C" font-weight="400">model promotion and rollback.</text>
+<text x="48" y="776.94" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" fill="#117F82" font-weight="700">LAUNCH NOW</text>
+<text x="872" y="776.94" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" fill="#2463AA" font-weight="700">SCALE WHEN MEASUREMENTS JUSTIFY IT</text>
+<rect x="48" y="803" width="774" height="245" rx="12" fill="#E9F6F3" stroke="#117F82" stroke-width="1.2"/>
+<rect x="48" y="818" width="4" height="215" rx="0" fill="#117F82" stroke="none" stroke-width="1.2"/>
+<text x="66" y="837.58" font-family="DejaVu Sans, Arial, sans-serif" font-size="19" fill="#142B43" font-weight="700">Small, deliberate deployment</text>
+<text x="66" y="867.76" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" fill="#52677C" font-weight="400">One modular backend; independently runnable workers; PostgreSQL</text>
+<text x="66" y="892.6" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" fill="#52677C" font-weight="400">facts/features/read projections; object storage; durable job table or managed</text>
+<text x="66" y="917.4399999999999" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" fill="#52677C" font-weight="400">queue. PostgreSQL full-text search first. AI is a replaceable provider adapter.</text>
+<rect x="872" y="803" width="780" height="245" rx="12" fill="#EAF2FD" stroke="#2463AA" stroke-width="1.2"/>
+<rect x="872" y="818" width="4" height="215" rx="0" fill="#2463AA" stroke="none" stroke-width="1.2"/>
+<text x="890" y="837.58" font-family="DejaVu Sans, Arial, sans-serif" font-size="19" fill="#142B43" font-weight="700">Preserve the same domain contracts</text>
+<text x="890" y="867.76" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" fill="#52677C" font-weight="400">Add worker replicas for backlog; dedicated cache/read replicas for query</text>
+<text x="890" y="892.6" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" fill="#52677C" font-weight="400">pressure; a search service for retrieval load; an analytical warehouse for large</text>
+<text x="890" y="917.4399999999999" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" fill="#52677C" font-weight="400">cohort scans. Extract a service only for measured isolation, scaling or ownership</text>
+<text x="890" y="942.28" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" fill="#52677C" font-weight="400">needs.</text>
+<text x="48" y="1101.48" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" fill="#52677C" font-weight="400">Proposed targets to validate: fast reads from published projections; explicit freshness labels; no duplicate publications; graceful use of the last valid snapshot.</text>
+<text x="48" y="1126.48" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" fill="#117F82" font-weight="700">Heavy extraction, model execution and optional AI inference remain off the synchronous browsing path.</text>
+</svg>

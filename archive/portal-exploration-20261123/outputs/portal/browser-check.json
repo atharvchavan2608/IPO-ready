@@ -1,0 +1,29 @@
+{
+  "passed": true,
+  "views": [
+    "research",
+    "scenario",
+    "references",
+    "evidence"
+  ],
+  "desktop": [
+    1440,
+    1050
+  ],
+  "mobile": [
+    390,
+    844
+  ],
+  "browser_errors": [],
+  "scenario_profit_crore": "33.5555",
+  "checks": [
+    "period selection",
+    "negative cash conversion",
+    "evidence dialog",
+    "Python scenario",
+    "unit conversion",
+    "snapshot download",
+    "reference status",
+    "mobile overflow"
+  ]
+}

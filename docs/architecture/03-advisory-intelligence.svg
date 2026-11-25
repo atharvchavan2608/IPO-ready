@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="1200" viewBox="0 0 1700 1200">
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="context-stroke"/></marker></defs>
+<rect x="0" y="0" width="1700" height="1200" rx="0" fill="#FFFFFF" stroke="none" stroke-width="1.2"/>
+<rect x="0" y="0" width="1700" height="10" rx="0" fill="#117F82" stroke="none" stroke-width="1.2"/>
+<text x="48" y="52.3" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" fill="#117F82" font-weight="700">IPO-READY  /  PRODUCT ARCHITECTURE</text>
+<text x="48" y="102.06" font-family="DejaVu Sans, Arial, sans-serif" font-size="33" fill="#142B43" font-weight="700">How analysis becomes useful company advice</text>
+<text x="48" y="134.12" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" fill="#52677C" font-weight="400">Logical component view of the intelligence domain: explicit models and selection policies connect data to investor decisions.</text>
+<polyline points="48,163 1652,163" fill="none" stroke="#B8C7D5" stroke-width="1"/>
+<polyline points="48,1148 1652,1148" fill="none" stroke="#B8C7D5" stroke-width="1"/>
+<text x="48" y="1174.84" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" fill="#52677C" font-weight="400">MBA (Business Analytics) | Programming Analytics Lab | Target product design | 29 Oct 2026</text>
+<text x="1535" y="1174.84" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" fill="#52677C" font-weight="700">03 / 07</text>
+<rect x="48" y="218" width="296" height="119" rx="12" fill="#E9F6F3" stroke="#117F82" stroke-width="1.2"/>
+<rect x="48" y="233" width="4" height="89" rx="0" fill="#117F82" stroke="none" stroke-width="1.2"/>
+<text x="66" y="250.94" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" fill="#142B43" font-weight="700">DISCOVER</text>
+<text x="66" y="278.3" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" fill="#52677C" font-weight="400">Filter the investment universe</text>
+<polyline points="344,278 375,278" fill="none" stroke="#117F82" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="375" y="218" width="296" height="119" rx="12" fill="#E9F6F3" stroke="#117F82" stroke-width="1.2"/>
+<rect x="375" y="233" width="4" height="89" rx="0" fill="#117F82" stroke="none" stroke-width="1.2"/>
+<text x="393" y="250.94" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" fill="#142B43" font-weight="700">COMPARE</text>
+<text x="393" y="278.3" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" fill="#52677C" font-weight="400">Select meaningful alternatives</text>
+<polyline points="671,278 702,278" fill="none" stroke="#117F82" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="702" y="218" width="296" height="119" rx="12" fill="#E9F6F3" stroke="#117F82" stroke-width="1.2"/>
+<rect x="702" y="233" width="4" height="89" rx="0" fill="#117F82" stroke="none" stroke-width="1.2"/>
+<text x="720" y="250.94" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" fill="#142B43" font-weight="700">EVALUATE</text>
+<text x="720" y="278.3" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" fill="#52677C" font-weight="400">Assess quality, risk and price</text>
+<polyline points="998,278 1029,278" fill="none" stroke="#117F82" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="1029" y="218" width="296" height="119" rx="12" fill="#E9F6F3" stroke="#117F82" stroke-width="1.2"/>
+<rect x="1029" y="233" width="4" height="89" rx="0" fill="#117F82" stroke="none" stroke-width="1.2"/>
+<text x="1047" y="250.94" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" fill="#142B43" font-weight="700">SHORTLIST</text>
+<text x="1047" y="278.3" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" fill="#52677C" font-weight="400">Apply explicit selection criteria</text>
+<polyline points="1325,278 1356,278" fill="none" stroke="#117F82" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="1356" y="218" width="296" height="119" rx="12" fill="#E9F6F3" stroke="#117F82" stroke-width="1.2"/>
+<rect x="1356" y="233" width="4" height="89" rx="0" fill="#117F82" stroke="none" stroke-width="1.2"/>
+<text x="1374" y="250.94" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" fill="#142B43" font-weight="700">MONITOR</text>
+<text x="1374" y="278.3" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" fill="#52677C" font-weight="400">Track meaningful changes</text>
+<rect x="48" y="365" width="1604" height="67" rx="10" fill="#E9F6F3" stroke="none" stroke-width="1.2"/>
+<text x="66" y="391.3" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" fill="#117F82" font-weight="700">USER-SELECTED RESEARCH CONTEXT</text>
+<text x="66" y="413.66" font-family="DejaVu Sans, Arial, sans-serif" font-size="13" fill="#52677C" font-weight="400">Sector / business model; market; offer status; horizon; metric filters; valuation scenarios; user weights where enabled. Store context with each result.</text>
+<rect x="48" y="488" width="368" height="225" rx="12" fill="#EAF2FD" stroke="#2463AA" stroke-width="1.2"/>
+<rect x="48" y="503" width="4" height="195" rx="0" fill="#2463AA" stroke="none" stroke-width="1.2"/>
+<text x="66" y="522.58" font-family="DejaVu Sans, Arial, sans-serif" font-size="19" fill="#142B43" font-weight="700">1. Eligible universe + peers</text>
+<text x="66" y="551.94" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" fill="#52677C" font-weight="400">Resolve entity IDs. Apply</text>
+<text x="66" y="575.4000000000001" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" fill="#52677C" font-weight="400">disclosure/coverage gates. Match</text>
+<text x="66" y="598.86" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" fill="#52677C" font-weight="400">sector, business mix, scale and basis.</text>
+<text x="66" y="622.32" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" fill="#52677C" font-weight="400">Keep inclusion and exclusion reasons.</text>
+<polyline points="416,600 460,600" fill="none" stroke="#2463AA" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="460" y="488" width="368" height="225" rx="12" fill="#EAF2FD" stroke="#2463AA" stroke-width="1.2"/>
+<rect x="460" y="503" width="4" height="195" rx="0" fill="#2463AA" stroke="none" stroke-width="1.2"/>
+<text x="478" y="522.58" font-family="DejaVu Sans, Arial, sans-serif" font-size="19" fill="#142B43" font-weight="700">2. Financial feature engine</text>
+<text x="478" y="551.94" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" fill="#52677C" font-weight="400">Growth; margins; cash conversion;</text>
+<text x="478" y="575.4000000000001" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" fill="#52677C" font-weight="400">leverage; liquidity; concentration.</text>
+<text x="478" y="598.86" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" fill="#52677C" font-weight="400">Standardize definitions and periods;</text>
+<text x="478" y="622.32" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" fill="#52677C" font-weight="400">preserve source lineage.</text>
+<polyline points="828,600 872,600" fill="none" stroke="#2463AA" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="872" y="488" width="368" height="225" rx="12" fill="#EAF2FD" stroke="#2463AA" stroke-width="1.2"/>
+<rect x="872" y="503" width="4" height="195" rx="0" fill="#2463AA" stroke="none" stroke-width="1.2"/>
+<text x="890" y="522.58" font-family="DejaVu Sans, Arial, sans-serif" font-size="19" fill="#142B43" font-weight="700">3. Model + scenario engine</text>
+<text x="890" y="551.94" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" fill="#52677C" font-weight="400">Sector-specific quality/risk factors;</text>
+<text x="890" y="575.4000000000001" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" fill="#52677C" font-weight="400">relative valuation; explicit price and</text>
+<text x="890" y="598.86" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" fill="#52677C" font-weight="400">earnings scenarios. Version inputs,</text>
+<text x="890" y="622.32" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" fill="#52677C" font-weight="400">assumptions and policies.</text>
+<polyline points="1240,600 1284,600" fill="none" stroke="#2463AA" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="1284" y="488" width="368" height="225" rx="12" fill="#EAF2FD" stroke="#2463AA" stroke-width="1.2"/>
+<rect x="1284" y="503" width="4" height="195" rx="0" fill="#2463AA" stroke="none" stroke-width="1.2"/>
+<text x="1302" y="522.58" font-family="DejaVu Sans, Arial, sans-serif" font-size="19" fill="#142B43" font-weight="700">4. Ranking + explanation</text>
+<text x="1302" y="551.94" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" fill="#52677C" font-weight="400">Rank eligible companies within a</text>
+<text x="1302" y="575.4000000000001" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" fill="#52677C" font-weight="400">named cohort using a disclosed policy.</text>
+<text x="1302" y="598.86" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" fill="#52677C" font-weight="400">Show factor contributions, trade-offs,</text>
+<text x="1302" y="622.32" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" fill="#52677C" font-weight="400">missingness and counterarguments.</text>
+<rect x="48" y="797" width="512" height="238" rx="12" fill="#E9F6F3" stroke="#117F82" stroke-width="1.2"/>
+<rect x="48" y="812" width="4" height="208" rx="0" fill="#117F82" stroke="none" stroke-width="1.2"/>
+<text x="66" y="831.58" font-family="DejaVu Sans, Arial, sans-serif" font-size="19" fill="#142B43" font-weight="700">Selection-policy contract</text>
+<text x="66" y="860.94" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" fill="#52677C" font-weight="400">Filters + cohort + factor definitions + weights +</text>
+<text x="66" y="884.4000000000001" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" fill="#52677C" font-weight="400">missing-data policy + tie handling + policy version.</text>
+<text x="66" y="907.86" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" fill="#52677C" font-weight="400">User-specific weights create a distinct saved research</text>
+<text x="66" y="931.32" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" fill="#52677C" font-weight="400">view.</text>
+<rect x="594" y="797" width="512" height="238" rx="12" fill="#E9F6F3" stroke="#117F82" stroke-width="1.2"/>
+<rect x="594" y="812" width="4" height="208" rx="0" fill="#117F82" stroke="none" stroke-width="1.2"/>
+<text x="612" y="831.58" font-family="DejaVu Sans, Arial, sans-serif" font-size="19" fill="#142B43" font-weight="700">Valuation / sensitivity contract</text>
+<text x="612" y="860.94" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" fill="#52677C" font-weight="400">Compare price and enterprise/equity multiples on</text>
+<text x="612" y="884.4000000000001" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" fill="#52677C" font-weight="400">aligned dates and share bases. Display scenario</text>
+<text x="612" y="907.86" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" fill="#52677C" font-weight="400">ranges; unsupported methods stay unavailable.</text>
+<text x="612" y="931.32" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" fill="#52677C" font-weight="400">Forecast-based models are added only with explicit</text>
+<text x="612" y="954.7800000000001" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" fill="#52677C" font-weight="400">assumptions.</text>
+<rect x="1140" y="797" width="512" height="238" rx="12" fill="#E9F6F3" stroke="#117F82" stroke-width="1.2"/>
+<rect x="1140" y="812" width="4" height="208" rx="0" fill="#117F82" stroke="none" stroke-width="1.2"/>
+<text x="1158" y="831.58" font-family="DejaVu Sans, Arial, sans-serif" font-size="19" fill="#142B43" font-weight="700">Explainability contract</text>
+<text x="1158" y="860.94" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" fill="#52677C" font-weight="400">Display quality, financial risk, valuation and data</text>
+<text x="1158" y="884.4000000000001" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" fill="#52677C" font-weight="400">coverage separately. A result links to factors, metrics,</text>
+<text x="1158" y="907.86" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" fill="#52677C" font-weight="400">underlying facts and cited disclosures. AI explains</text>
+<text x="1158" y="931.32" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" fill="#52677C" font-weight="400">these results; it does not invent the ranking.</text>
+<rect x="48" y="1073" width="1604" height="65" rx="10" fill="#E9F6F3" stroke="none" stroke-width="1.2"/>
+<text x="66" y="1099.3" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" fill="#117F82" font-weight="700">MODEL LIFECYCLE</text>
+<text x="66" y="1121.66" font-family="DejaVu Sans, Arial, sans-serif" font-size="13" fill="#52677C" font-weight="400">Define -&gt; implement -&gt; test on reviewed reference cases -&gt; evaluate stability and coverage -&gt; approve version -&gt; monitor -&gt; revise or roll back.</text>
+</svg>

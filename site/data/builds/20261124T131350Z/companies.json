@@ -1,0 +1,2222 @@
+{
+ "default": "igx",
+ "companies": [
+  {
+   "id": "igx",
+   "name": "Indian Gas Exchange Ltd",
+   "short": "IGX",
+   "hierarchy": [
+    "Financials",
+    "Capital Markets",
+    "Exchanges & Trading Platforms",
+    "Energy & Commodity Exchanges"
+   ],
+   "model": "exchange",
+   "latest_period": "FY2026",
+   "basis": "unspecified",
+   "layout": "five-year summary",
+   "price_inr": 488.0,
+   "quote_as_of": "2026-11-23T16:44:33+00:00",
+   "drhp_filed": "No",
+   "has_issuer_docs": true,
+   "metrics": {
+    "market_cap_cr": {
+     "value": 3612.6835,
+     "state": "ok"
+    },
+    "pe": {
+     "value": 85.9753,
+     "state": "ok",
+     "basis": "pat_share_proxy"
+    },
+    "pe_reported": {
+     "value": null,
+     "state": "missing_input",
+     "basis": "reported_basic"
+    },
+    "pe_proxy": {
+     "value": 85.9753,
+     "state": "ok",
+     "basis": "pat_share_proxy"
+    },
+    "pb": {
+     "value": 20.1792,
+     "state": "ok"
+    },
+    "ps": {
+     "value": 59.2146,
+     "state": "ok"
+    },
+    "revenue_cr": {
+     "value": 61.01,
+     "state": "ok"
+    },
+    "pat_cr": {
+     "value": 42.02,
+     "state": "ok"
+    },
+    "revenue_growth_pct": {
+     "value": 25.0205,
+     "state": "ok"
+    },
+    "pat_margin_pct": {
+     "value": 49.5285,
+     "state": "ok"
+    },
+    "roe_pct": {
+     "value": 25.7208,
+     "state": "ok"
+    },
+    "roce_pct": {
+     "value": 30.7377,
+     "state": "ok"
+    },
+    "current_ratio": {
+     "value": 1.5137,
+     "state": "ok"
+    },
+    "quick_ratio": {
+     "value": 1.5137,
+     "state": "ok",
+     "basis": "issuer_and_esos_trust"
+    }
+   },
+   "checks_flagged": [
+    "shares_outstanding_consistency",
+    "ipo_status"
+   ],
+   "news_latest": {
+    "title": "ONGC acquires 5% stake in Indian Gas Exchange",
+    "publisher": "ETLegalWorld.com",
+    "date": "2026-11-16",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNGNrUkFwNnJnbDh1VTZ4Z2FJQjdNdkdKN3dTNjg5cjEzTUlhaU9ERXByNThVazROcUUyQlBmZjBaUXJqWDJrQktJdnZEbVB2SHFnb2wwUVR1OVVSTHFMTHp6eEdxQmtfQS1GNTdTWFJqTnA2LS1XWnZZMTJzRF96RmRTbFI2YUpkNktJS3liMWpZMm0zdzctN1JsUDl6SGtLLUU0elpKaXhwaVM5Z0Z2N05vOGxjZG140gGzAUFVX3lxTE9Eb0F1czNGR1lCbmpFOVlsWkxkX2F3Ml94Q2VJZHVTZWhhRVJCZmtLa2w1bXB6aUtFdWdPVi12N2tFOUoyVlpYMUZfX0h0QXRJM0o5NWlhYW5XdDl3Ty1LVTU0b1pGVXhtdnB6SVBXUC1hVkIyZEhSVldRanM0NFBKbGg5Q3k2VTRHaHhsUjEwMlc3WUhkbzVnM2xXUTRUeTZwZF9iVi1vMElySDRudFFUZWw4?oc=5"
+   },
+   "news_count": 8
+  },
+  {
+   "id": "ncdex",
+   "name": "National Commodity & Derivatives Exchange Ltd",
+   "short": "NCDEX",
+   "hierarchy": [
+    "Financials",
+    "Capital Markets",
+    "Exchanges & Trading Platforms",
+    "Energy & Commodity Exchanges"
+   ],
+   "model": "exchange",
+   "latest_period": "FY2026",
+   "basis": "unspecified",
+   "layout": "five-year summary",
+   "price_inr": 253.0,
+   "quote_as_of": "2026-11-23T16:44:36+00:00",
+   "drhp_filed": "Yes",
+   "has_issuer_docs": false,
+   "metrics": {
+    "market_cap_cr": {
+     "value": 2269.2828,
+     "state": "ok"
+    },
+    "pe": {
+     "value": null,
+     "state": "negative_base",
+     "basis": "pat_share_proxy"
+    },
+    "pe_reported": {
+     "value": null,
+     "state": "missing_input",
+     "basis": "reported_basic"
+    },
+    "pe_proxy": {
+     "value": null,
+     "state": "negative_base",
+     "basis": "pat_share_proxy"
+    },
+    "pb": {
+     "value": 1.5053,
+     "state": "ok"
+    },
+    "ps": {
+     "value": 25.0916,
+     "state": "ok"
+    },
+    "revenue_cr": {
+     "value": 90.44,
+     "state": "ok"
+    },
+    "pat_cr": {
+     "value": -46.24,
+     "state": "ok"
+    },
+    "revenue_growth_pct": {
+     "value": 2.5513,
+     "state": "ok"
+    },
+    "pat_margin_pct": {
+     "value": -30.1493,
+     "state": "ok"
+    },
+    "roe_pct": {
+     "value": -4.0954,
+     "state": "ok"
+    },
+    "roce_pct": {
+     "value": -3.8776,
+     "state": "ok"
+    },
+    "current_ratio": {
+     "value": 2.9335,
+     "state": "ok"
+    },
+    "quick_ratio": {
+     "value": null,
+     "state": "missing_input"
+    }
+   },
+   "checks_flagged": [],
+   "news_latest": {
+    "title": "NCDEX Launches India’s First PRA-Based Steel Scrap Futures",
+    "publisher": "GK Today",
+    "date": "2026-11-11",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeFBXaVp4bkFPOWVWTDRhOFRpZEptYllfdl9CU0JGbkRqMlBVYnFHSGZzaTNvSHhrRXh4UmlBNm00WjVrT3FGUkNoczU0VzdBSjBLMmYwSTd2ZkdmOUhQOFJYX2pMVXBQY25jYUVSbkZlM25wMksxZjM0WUVHNVpEaldka0VzRmVu?oc=5"
+   },
+   "news_count": 8
+  },
+  {
+   "id": "msei",
+   "name": "Metropolitan Stock Exchange of India Ltd",
+   "short": "MSE",
+   "hierarchy": [
+    "Financials",
+    "Capital Markets",
+    "Exchanges & Trading Platforms",
+    "Securities Exchanges"
+   ],
+   "model": "exchange",
+   "latest_period": "FY2026",
+   "basis": "unspecified",
+   "layout": "five-year summary",
+   "price_inr": 6.35,
+   "quote_as_of": "2026-11-23T16:44:39+00:00",
+   "drhp_filed": "No",
+   "has_issuer_docs": false,
+   "metrics": {
+    "market_cap_cr": {
+     "value": 6981.977,
+     "state": "ok"
+    },
+    "pe": {
+     "value": null,
+     "state": "negative_base",
+     "basis": "pat_share_proxy"
+    },
+    "pe_reported": {
+     "value": null,
+     "state": "missing_input",
+     "basis": "reported_basic"
+    },
+    "pe_proxy": {
+     "value": null,
+     "state": "negative_base",
+     "basis": "pat_share_proxy"
+    },
+    "pb": {
+     "value": 5.099,
+     "state": "ok"
+    },
+    "ps": {
+     "value": 2065.6737,
+     "state": "ok"
+    },
+    "revenue_cr": {
+     "value": 3.38,
+     "state": "ok"
+    },
+    "pat_cr": {
+     "value": -25.84,
+     "state": "ok"
+    },
+    "revenue_growth_pct": {
+     "value": -21.5777,
+     "state": "ok"
+    },
+    "pat_margin_pct": {
+     "value": -43.7447,
+     "state": "ok"
+    },
+    "roe_pct": {
+     "value": -2.9264,
+     "state": "ok"
+    },
+    "roce_pct": {
+     "value": -1.7961,
+     "state": "ok"
+    },
+    "current_ratio": {
+     "value": 15.4345,
+     "state": "ok"
+    },
+    "quick_ratio": {
+     "value": null,
+     "state": "missing_input"
+    }
+   },
+   "checks_flagged": [],
+   "news_latest": {
+    "title": "Crystal Business System to delist from MSEI due to low trading",
+    "publisher": "scanx.trade",
+    "date": "2026-11-18",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSGNnLWdINHdxM0V0VC1jd0JEcWNhaGNNZDN3MzB1VnZiU2JyZGRJNnlERWZ5V0Q3VV9fZFI0RHgyZzZPR1FsRWtDdk5mcVYzSVhzSFBTbC1QTENUaU8tdUEyck1vSUhNZGR6WkpqTC02TXNoOGg3TjV1anFXSEhMZFdkSERXLUNzeGRHd0hXOXZGcHJjVHk4czh0bE9ZSEd0UFBfZmZTTlFiR0FWZmpvQjB3WVJScFB4SUNPWnMtaFV3ekJDRGNz?oc=5"
+   },
+   "news_count": 8
+  },
+  {
+   "id": "hpx",
+   "name": "Hindustan Power Exchange Ltd",
+   "short": "HPX",
+   "hierarchy": [
+    "Financials",
+    "Capital Markets",
+    "Exchanges & Trading Platforms",
+    "Energy & Commodity Exchanges"
+   ],
+   "model": "exchange",
+   "latest_period": "FY2026",
+   "basis": "unspecified",
+   "layout": "five-year summary",
+   "price_inr": 22.8,
+   "quote_as_of": "2026-11-23T16:44:44+00:00",
+   "drhp_filed": "No",
+   "has_issuer_docs": false,
+   "metrics": {
+    "market_cap_cr": {
+     "value": 1259.7,
+     "state": "ok"
+    },
+    "pe": {
+     "value": 273.8478,
+     "state": "ok",
+     "basis": "pat_share_proxy"
+    },
+    "pe_reported": {
+     "value": null,
+     "state": "missing_input",
+     "basis": "reported_basic"
+    },
+    "pe_proxy": {
+     "value": 273.8478,
+     "state": "ok",
+     "basis": "pat_share_proxy"
+    },
+    "pb": {
+     "value": 17.5177,
+     "state": "ok"
+    },
+    "ps": {
+     "value": 32.8475,
+     "state": "ok"
+    },
+    "revenue_cr": {
+     "value": 38.35,
+     "state": "ok"
+    },
+    "pat_cr": {
+     "value": 4.6,
+     "state": "ok"
+    },
+    "revenue_growth_pct": {
+     "value": 21.9784,
+     "state": "ok"
+    },
+    "pat_margin_pct": {
+     "value": 9.6537,
+     "state": "ok"
+    },
+    "roe_pct": {
+     "value": 6.6111,
+     "state": "ok"
+    },
+    "roce_pct": {
+     "value": 8.0752,
+     "state": "ok"
+    },
+    "current_ratio": {
+     "value": 1.1396,
+     "state": "ok"
+    },
+    "quick_ratio": {
+     "value": null,
+     "state": "missing_input"
+    }
+   },
+   "checks_flagged": [],
+   "news_latest": {
+    "title": "Harish Saran: Managing Director, Hindustan Power Exchange Limited",
+    "publisher": "Renewable Watch",
+    "date": "2026-11-10",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSFdod28wOVU1XzRSRU9nM2R3NDZyNjBEMFFnVDBZR3hwT1VWWXN6LVFNV25jdFBsd2Yza3pFcFF2ZkxiOFk5RkZJaENEbnYtd3BTa2hLTW9CVk5HOGRwMDRTSlc4QnItY1dicnd0djRUZnU5N3hzRmJwMFpTVGRBd3JWaGlLcHF1aDBjWkFqdDByRnBaR1ZFOEhGSjBmQ2xYODJSWTc5OTk?oc=5"
+   },
+   "news_count": 8
+  },
+  {
+   "id": "icex",
+   "name": "Indian Commodity Exchange Ltd",
+   "short": "ICEX",
+   "hierarchy": [
+    "Financials",
+    "Capital Markets",
+    "Exchanges & Trading Platforms",
+    "Energy & Commodity Exchanges"
+   ],
+   "model": "exchange",
+   "latest_period": "FY2025",
+   "basis": "standalone",
+   "layout": "detailed statements",
+   "price_inr": 4.0,
+   "quote_as_of": "2026-11-23T16:44:46+00:00",
+   "drhp_filed": "No",
+   "has_issuer_docs": false,
+   "metrics": {
+    "market_cap_cr": {
+     "value": 213.403,
+     "state": "ok"
+    },
+    "pe": {
+     "value": 200.0,
+     "state": "ok",
+     "basis": "reported_basic"
+    },
+    "pe_reported": {
+     "value": 200.0,
+     "state": "ok",
+     "basis": "reported_basic"
+    },
+    "pe_proxy": {
+     "value": 193.447,
+     "state": "ok",
+     "basis": "pat_share_proxy"
+    },
+    "pb": {
+     "value": 0.8,
+     "state": "ok"
+    },
+    "ps": {
+     "value": null,
+     "state": "missing_input"
+    },
+    "revenue_cr": {
+     "value": null,
+     "state": "missing_input"
+    },
+    "pat_cr": {
+     "value": 1.10316,
+     "state": "ok"
+    },
+    "revenue_growth_pct": {
+     "value": null,
+     "state": "missing_input"
+    },
+    "pat_margin_pct": {
+     "value": 17.9055,
+     "state": "ok"
+    },
+    "roe_pct": {
+     "value": 0.657,
+     "state": "ok"
+    },
+    "roce_pct": {
+     "value": 1.5907,
+     "state": "ok"
+    },
+    "current_ratio": {
+     "value": 8.1332,
+     "state": "ok"
+    },
+    "quick_ratio": {
+     "value": null,
+     "state": "missing_input"
+    }
+   },
+   "checks_flagged": [],
+   "news_latest": {
+    "title": "What are the Timings for Commodity Market Trading? A Complete Guide",
+    "publisher": "Kotak Neo",
+    "date": "2026-06-10",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYjJWMEhOOEZteHFTSkRwSTBJNW5uc0oxeHFJOUhESzMwZXN6X293WFdKel9fRF9HeUFHcDQwNGFLalNTSFpubkg3TnhwWWJPR2ROdmVmaTZ5TS1SRVBDdVMyNmM3UTg3OGhHWXN6djRzVUtYRVZQbHdKVGF5Sy1IMXI4dVdNX0wwU3Bqa0FEWDNDaEhoM3dpb09iRXpSdElULWc5aTVR?oc=5"
+   },
+   "news_count": 8
+  },
+  {
+   "id": "herofincorp",
+   "name": "Hero FinCorp Ltd",
+   "short": "Hero FinCorp",
+   "hierarchy": [
+    "Financials",
+    "Lending",
+    "Non-Banking Finance Companies",
+    "Diversified Retail & MSME Lending"
+   ],
+   "model": "lender",
+   "latest_period": "FY2026",
+   "basis": "consolidated",
+   "layout": "detailed statements",
+   "price_inr": 910.0,
+   "quote_as_of": "2026-11-23T16:44:48+00:00",
+   "drhp_filed": "No",
+   "has_issuer_docs": false,
+   "metrics": {
+    "market_cap_cr": {
+     "value": 11796.0603,
+     "state": "ok"
+    },
+    "pe": {
+     "value": null,
+     "state": "negative_base",
+     "basis": "reported_basic"
+    },
+    "pe_reported": {
+     "value": null,
+     "state": "negative_base",
+     "basis": "reported_basic"
+    },
+    "pe_proxy": {
+     "value": null,
+     "state": "negative_base",
+     "basis": "pat_share_proxy"
+    },
+    "pb": {
+     "value": 0.1967,
+     "state": "ok"
+    },
+    "ps": {
+     "value": 1.2309,
+     "state": "ok"
+    },
+    "revenue_cr": {
+     "value": 9583.26,
+     "state": "ok"
+    },
+    "pat_cr": {
+     "value": -226.01,
+     "state": "ok"
+    },
+    "revenue_growth_pct": {
+     "value": -2.5371,
+     "state": "ok"
+    },
+    "pat_margin_pct": {
+     "value": -2.3559,
+     "state": "ok"
+    },
+    "roe_pct": {
+     "value": -0.3772,
+     "state": "ok"
+    },
+    "roce_pct": {
+     "value": null,
+     "state": "missing_input"
+    },
+    "current_ratio": {
+     "value": null,
+     "state": "inapplicable"
+    },
+    "quick_ratio": {
+     "value": null,
+     "state": "inapplicable"
+    }
+   },
+   "checks_flagged": [],
+   "news_latest": {
+    "title": "Hero FinCorp aims to double loan disbursements over next two quarters",
+    "publisher": "BusinessLine",
+    "date": "2026-11-22",
+    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPcUpfclRHZXJaQ1VUWE11LTFaaFV6czNlekZmNE9EQTVoYk4zY29hNkhEZEV2X0dVRkRLS0poUS1ONzRXU1BlejVNS3FOYzBRYTlpS19FUWJxOU5JbGhJYU5pXzRlaEdPdXI1WHd3RkstREU0VWJOMG1lTnNDam1OMXVJNVRmZU94T3lDMzc0djhmbm5NMUM2clZlcVFJUWNfMk1Qc3NnM1dZcDBRaHRhb2xTaGVWYXJyeFRocTlURFM2S3dxYmRKbEJkSzIxLXFodFdxeGk5Q0pDN3pQ0gHjAUFVX3lxTFAyMEFDSHhVRFhfLWVDcUZyME43NThoZy0xeExvTWZKR3hTRzRMbEE1dU1IdU5jcmRlZDVyNEQ5YjM0anozUkFWV2pwa0JpVWNlMUhzcVFMenFGVk5rNnBPWE42UjdXdDUtcElvSXZYSzUzbGxzbDdWODdCdlNyY1prV0JHU1pYbXRyZ2NkTm80WmpNMGhrOW5mdzV2UDhvRkVyUzJXdzh5ZXJoaHFlLUZJeWoxYzNsYTJpazM1ZDhtbG1DQUR3NmVYczliUHNlWm9YNVBJYzFCVXVZVDdUSndVazVV?oc=5"
+   },
+   "news_count": 8
+  },
+  {
+   "id": "hdfcsec",
+   "name": "HDFC Securities Ltd",
+   "short": "HDFC Securities",
+   "hierarchy": [
+    "Financials",
+    "Capital Markets",
+    "Broking & Distribution",
+    "Retail Broking"
+   ],
+   "model": "broker",
+   "latest_period": "FY2026",
+   "basis": "unspecified",
+   "layout": "five-year summary",
+   "price_inr": 8000.0,
+   "quote_as_of": "2026-11-23T16:44:51+00:00",
+   "drhp_filed": "No",
+   "has_issuer_docs": false,
+   "metrics": {
+    "market_cap_cr": {
+     "value": 14299.2872,
+     "state": "ok"
+    },
+    "pe": {
+     "value": 15.4323,
+     "state": "ok",
+     "basis": "pat_share_proxy"
+    },
+    "pe_reported": {
+     "value": null,
+     "state": "missing_input",
+     "basis": "reported_basic"
+    },
+    "pe_proxy": {
+     "value": 15.4323,
+     "state": "ok",
+     "basis": "pat_share_proxy"
+    },
+    "pb": {
+     "value": 3.9803,
+     "state": "ok"
+    },
+    "ps": {
+     "value": 4.6016,
+     "state": "ok"
+    },
+    "revenue_cr": {
+     "value": 3107.49,
+     "state": "ok"
+    },
+    "pat_cr": {
+     "value": 926.58,
+     "state": "ok"
+    },
+    "revenue_growth_pct": {
+     "value": -4.7892,
+     "state": "ok"
+    },
+    "pat_margin_pct": {
+     "value": 29.7915,
+     "state": "ok"
+    },
+    "roe_pct": {
+     "value": 26.7004,
+     "state": "ok"
+    },
+    "roce_pct": {
+     "value": null,
+     "state": "missing_input"
+    },
+    "current_ratio": {
+     "value": null,
+     "state": "missing_input"
+    },
+    "quick_ratio": {
+     "value": null,
+     "state": "missing_input"
+    }
+   },
+   "checks_flagged": [
+    "balance_identity"
+   ],
+   "news_latest": {
+    "title": "Stocks To Buy For Short-Term: Nagaraj Shetti Of HDFC Securities Picks These Two Shares",
+    "publisher": "NDTV Profit",
+    "date": "2026-11-20",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWE5XVlBkeC13dW1saVRDWWs0VXNYZnNXVjRfNVNFSkpEdmNMM1RuUlZQVzdONHNfa3p4TEZLR1FoR213bk1ZQ3lsMVEtU2VTVndvaWZDcmQzNElWdXVlMWZfbUNKWFhSenJkdFdGWU0tc0xUTHQwMWY1YzVtMEloV2Q4RnFWS2pLS0VsNTg3dzlNeEJzUWhzMEdkNy1VVnFBWTFsSXVGLUhSQTFfcTV4QmFsejNTek1OSUxlclljaF9TLUFEV0FBUtIB0AFBVV95cUxPSi1sMUhrckNBNUpmN3AyNFgyRmwzcktJbUpMeVBHVi1Zel80aGlRSzM0OC1CUGVaUkdwTXRLekowSmRpdlZlMk9ETDRhU1hiX0ZvQWQtcU5fNjhQRmZmMG9yNHpqUDVLdUVvTXgzejRqdWFTNGlJelpZVlg5cXlCTG9oSUFGbjZSVDRyNkhpSnp6N0FzX01KRG5JQjlxenE3ZlVXdWVTLTFPd21NWDJpMTJfeHdCalFNQUVVTEYzVGtuQmZCeFpMWjZ6aDNpN1hE?oc=5"
+   },
+   "news_count": 8
+  },
+  {
+   "id": "sbigeneral",
+   "name": "SBI General Insurance Co Ltd",
+   "short": "SBI General",
+   "hierarchy": [
+    "Financials",
+    "Insurance",
+    "General Insurance",
+    "Multi-line General Insurance"
+   ],
+   "model": "insurer",
+   "latest_period": "FY2025?",
+   "basis": "standalone",
+   "layout": "five-year summary",
+   "price_inr": 650.0,
+   "quote_as_of": "2026-11-23T16:45:00+00:00",
+   "drhp_filed": "No",
+   "has_issuer_docs": false,
+   "metrics": {
+    "market_cap_cr": {
+     "value": 14579.949,
+     "state": "ok"
+    },
+    "pe": {
+     "value": null,
+     "state": "missing_input",
+     "basis": "pat_share_proxy"
+    },
+    "pe_reported": {
+     "value": null,
+     "state": "missing_input",
+     "basis": "reported_basic"
+    },
+    "pe_proxy": {
+     "value": null,
+     "state": "missing_input",
+     "basis": "pat_share_proxy"
+    },
+    "pb": {
+     "value": null,
+     "state": "missing_input"
+    },
+    "ps": {
+     "value": null,
+     "state": "missing_input"
+    },
+    "revenue_cr": {
+     "value": null,
+     "state": "missing_input"
+    },
+    "pat_cr": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "revenue_growth_pct": {
+     "value": null,
+     "state": "missing_input"
+    },
+    "pat_margin_pct": {
+     "value": null,
+     "state": "missing_input"
+    },
+    "roe_pct": {
+     "value": null,
+     "state": "missing_input"
+    },
+    "roce_pct": {
+     "value": null,
+     "state": "missing_input"
+    },
+    "current_ratio": {
+     "value": null,
+     "state": "inapplicable"
+    },
+    "quick_ratio": {
+     "value": null,
+     "state": "inapplicable"
+    }
+   },
+   "checks_flagged": [],
+   "news_latest": {
+    "title": "Bank, insurer ordered to pay Rs 10.20 lakh for delaying claim after parents’ fatal accident",
+    "publisher": "The Financial Express",
+    "date": "2026-11-22",
+    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNYlpiUl85VFVkZmdlY1JBSHdQSERadGJRQXBMZ2RfMU5RNGljS3QzMFpBVEwzSXBKdi0tRnJuUGlHNHZJUXAwY1ZEVDdXVkt6YTBYX1c1VlJyRUlyZUpYWGNKeWJGc3A2anlVd25KSGNVbkZyeUxTUXJkUDB3dzBEM1dwSHJ0U1dfUXhJY05DWjhFOElSREpMVXZ5ZDJvN1lkakhIVm15ekNVcDczcW5MT0dQZ1RHanlFZjBCZkpNUVNMel9Pb3ZSbjNNc3hWQURUZkFBcEhPVGJKWE3SAeIBQVVfeXFMT05ybXpWbkdYWFpnajhUUlhFNGRtSVNIY3pYdzM3bVotdlltWjNDaF9nVElGbkVmaDNodmZhQmNSak5ndDNfR2d3RDlHMTZxMFI1UDJkajQ2MG5VZkc5bE5RUnhpZmVqUXYxd3doc0Z4U2dwazk5VG5JcXV5OVJwUUtiRXBsVGZTUnFlWl95Q3Nxc3cxSmIzWVFjMjkwbUcteUFES25SUi1sZi1PRnljcno5NWlQU1AtWDJwSmstc0l1bGNVRHp3RFV5NTRGRko3UEpqcFhUbFlhV0dEZGFBcUpFZw?oc=5"
+   },
+   "news_count": 8
+  },
+  {
+   "id": "orbis",
+   "name": "Orbis Financial Corporation Ltd",
+   "short": "Orbis",
+   "hierarchy": [
+    "Financials",
+    "Capital Markets",
+    "Market Infrastructure Services",
+    "Custody & Clearing"
+   ],
+   "model": "broker",
+   "latest_period": "FY2026",
+   "basis": "unknown",
+   "layout": "five-year summary",
+   "price_inr": 299.0,
+   "quote_as_of": "2026-11-23T16:45:03+00:00",
+   "drhp_filed": "No",
+   "has_issuer_docs": false,
+   "metrics": {
+    "market_cap_cr": {
+     "value": 3767.949,
+     "state": "ok"
+    },
+    "pe": {
+     "value": null,
+     "state": "missing_input",
+     "basis": "pat_share_proxy"
+    },
+    "pe_reported": {
+     "value": null,
+     "state": "missing_input",
+     "basis": "reported_basic"
+    },
+    "pe_proxy": {
+     "value": null,
+     "state": "missing_input",
+     "basis": "pat_share_proxy"
+    },
+    "pb": {
+     "value": null,
+     "state": "missing_input"
+    },
+    "ps": {
+     "value": null,
+     "state": "missing_input"
+    },
+    "revenue_cr": {
+     "value": null,
+     "state": "missing_input"
+    },
+    "pat_cr": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "revenue_growth_pct": {
+     "value": null,
+     "state": "missing_input"
+    },
+    "pat_margin_pct": {
+     "value": null,
+     "state": "missing_input"
+    },
+    "roe_pct": {
+     "value": null,
+     "state": "missing_input"
+    },
+    "roce_pct": {
+     "value": null,
+     "state": "missing_input"
+    },
+    "current_ratio": {
+     "value": null,
+     "state": "missing_input"
+    },
+    "quick_ratio": {
+     "value": null,
+     "state": "missing_input"
+    }
+   },
+   "checks_flagged": [],
+   "news_latest": {
+    "title": "Anand Rathi Financial Services Re-Pledges 24 Lakh Shares with Yes Bank from Orbis Financial",
+    "publisher": "scanx.trade",
+    "date": "2026-05-11",
+    "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQZWVtQnBQaU5UaW5DQmxzTndkdGhiaks2TzlhQnFHLXJ4R1l1N3RXQkhCWXRpNm5GVXFoV0RXNm1pVGc0VzhLWVN4Y1E2MHFQeEppUEY2SHdQRXBTRVI3Y1BBWERzVUxwWWFaTHJYcEtSNW5CVmY1MjU1eTVBTHRRZDlxOUhQbjl0bVNfcndfbm1vRzNMaXIzZVVvZVZFU1o2bndmNGpENTBHM0o3SUlkWlhRdFJTdF8xdV9fb0dST2ppNXp1WU1fNk5JNlV3cnZkSWh0eHZTTDdwX2N6c1NXcjZKaTFVQkYwbnN4RVFZaUw5SjZaOTEtcTNxeU9aek9xWXNoekowbjVkenBhT0E?oc=5"
+   },
+   "news_count": 8
+  },
+  {
+   "id": "csk",
+   "name": "Chennai Super Kings Cricket Ltd",
+   "short": "CSK",
+   "hierarchy": [
+    "Consumer Discretionary",
+    "Media & Entertainment",
+    "Sports",
+    "Franchise Sports"
+   ],
+   "model": "consumer",
+   "latest_period": "FY2026",
+   "basis": "unspecified",
+   "layout": "five-year summary",
+   "price_inr": 245.0,
+   "quote_as_of": "2026-11-23T16:45:05+00:00",
+   "drhp_filed": "No",
+   "has_issuer_docs": false,
+   "metrics": {
+    "market_cap_cr": {
+     "value": 9295.9126,
+     "state": "ok"
+    },
+    "pe": {
+     "value": 81.6936,
+     "state": "ok",
+     "basis": "pat_share_proxy"
+    },
+    "pe_reported": {
+     "value": null,
+     "state": "missing_input",
+     "basis": "reported_basic"
+    },
+    "pe_proxy": {
+     "value": 81.6936,
+     "state": "ok",
+     "basis": "pat_share_proxy"
+    },
+    "pb": {
+     "value": 11.4053,
+     "state": "ok"
+    },
+    "ps": {
+     "value": 13.3344,
+     "state": "ok"
+    },
+    "revenue_cr": {
+     "value": 697.14,
+     "state": "ok"
+    },
+    "pat_cr": {
+     "value": 113.79,
+     "state": "ok"
+    },
+    "revenue_growth_pct": {
+     "value": 3.4639,
+     "state": "ok"
+    },
+    "pat_margin_pct": {
+     "value": 15.9822,
+     "state": "ok"
+    },
+    "roe_pct": {
+     "value": 14.8781,
+     "state": "ok"
+    },
+    "roce_pct": {
+     "value": 20.6382,
+     "state": "ok"
+    },
+    "current_ratio": {
+     "value": 2.6848,
+     "state": "ok"
+    },
+    "quick_ratio": {
+     "value": null,
+     "state": "missing_input"
+    }
+   },
+   "checks_flagged": [],
+   "news_latest": {
+    "title": "Ravindra Jadeja shares throwback picture with MS Dhoni after former CSK captain's retirement",
+    "publisher": "Sports Tiger",
+    "date": "2026-11-20",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNDc5XzV0ZlhMdldkV053OTJnREh0WER2Y1NfYUlxenZhSmhITnRBclVHZlhQeUg4Wkl4VlQxT0NFcWw1cHpHX1hYMzhuWHo0cE1BNVRNTzlJRGFYMmxId01weVdGTi1iY1VCMFc1ZDhYRm5OUjR3Tm1MZXVyR3U1RlctYVFmUWxrVzhIeXZaT2RTbEROdXJTdHdxWkhZSnphMXp0UkZiemxoNE9aSmoyQVNFRlFXVV83N2lBTkJESEtZRjRhTjNJ?oc=5"
+   },
+   "news_count": 8
+  },
+  {
+   "id": "oyo",
+   "name": "Oravel Stays Ltd (OYO)",
+   "short": "OYO",
+   "hierarchy": [
+    "Consumer Discretionary",
+    "Travel & Hospitality",
+    "Online Travel Platforms",
+    "Hotel Aggregation"
+   ],
+   "model": "platform",
+   "latest_period": "FY2026",
+   "basis": "unspecified",
+   "layout": "five-year summary",
+   "price_inr": 20.45,
+   "quote_as_of": "2026-11-23T16:45:09+00:00",
+   "drhp_filed": "Yes",
+   "has_issuer_docs": false,
+   "metrics": {
+    "market_cap_cr": {
+     "value": 7654.6731,
+     "state": "ok"
+    },
+    "pe": {
+     "value": 7.6995,
+     "state": "ok",
+     "basis": "pat_share_proxy"
+    },
+    "pe_reported": {
+     "value": null,
+     "state": "missing_input",
+     "basis": "reported_basic"
+    },
+    "pe_proxy": {
+     "value": 7.6995,
+     "state": "ok",
+     "basis": "pat_share_proxy"
+    },
+    "pb": {
+     "value": 1.3218,
+     "state": "ok"
+    },
+    "ps": {
+     "value": 0.818,
+     "state": "ok"
+    },
+    "revenue_cr": {
+     "value": 9357.98,
+     "state": "ok"
+    },
+    "pat_cr": {
+     "value": 994.18,
+     "state": "ok"
+    },
+    "revenue_growth_pct": {
+     "value": 49.6599,
+     "state": "ok"
+    },
+    "pat_margin_pct": {
+     "value": 10.1884,
+     "state": "ok"
+    },
+    "roe_pct": {
+     "value": 20.7601,
+     "state": "ok"
+    },
+    "roce_pct": {
+     "value": 10.7816,
+     "state": "ok"
+    },
+    "current_ratio": {
+     "value": 0.9237,
+     "state": "ok"
+    },
+    "quick_ratio": {
+     "value": null,
+     "state": "missing_input"
+    }
+   },
+   "checks_flagged": [
+    "balance_identity",
+    "shares_outstanding_consistency"
+   ],
+   "news_latest": {
+    "title": "Oyo may launch IPO in Jan-Mar quarter at flat valuation: Report | IPO to be entirely a primary capital raise | Inshorts",
+    "publisher": "Inshorts",
+    "date": "2026-11-23",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVzR5cWVwTUNWcDd2eDducXhqZjc0MGc2b3ZLMGc5dkM5TWxJZ3RLeHB1bGhNS2pPRzJTSy1DSlFLSnhWbi01eW1vMi1FNU1lV3hiSDZvc0Z1Sm9NNHR4TDJSdERpZVlkYm01aktJRk1CV0xMNXF5bmFXNWxyNG9SR3o2ekRqOUtEZXltNktkUHVWVlJNQ3pOMHdaU1ZFNWUtMHV6dWlaX2EwUdIBrwFBVV95cUxNMkNqWDhhSlhoaGJxS1VFN01iSmhpa0RwUjFOR2s5X0s4anRKeXc5UVc0RWtrOFBwY3prcmlRZU16bDg1QWFGbmdsX0tfLUhLcTZnOHZtUlNtS3V2cHVaRmZDSjJPNFotMGYwSkhuSGd2clFLNE9pRnNFSGpBMDU1QVhyajE0QVQ0eTNoNjVrQU1qM2gta2txZURCcUthZmtoLXVZa0h3MkhmcmVUMXlN?oc=5"
+   },
+   "news_count": 8
+  },
+  {
+   "id": "pharmeasy",
+   "name": "API Holdings Ltd (PharmEasy)",
+   "short": "PharmEasy",
+   "hierarchy": [
+    "Healthcare",
+    "Healthcare Services",
+    "Pharmacy Retail & Distribution",
+    "E-Pharmacy"
+   ],
+   "model": "platform",
+   "latest_period": "FY2026",
+   "basis": "unspecified",
+   "layout": "five-year summary",
+   "price_inr": 6.15,
+   "quote_as_of": "2026-11-23T16:45:12+00:00",
+   "drhp_filed": "Yes",
+   "has_issuer_docs": false,
+   "metrics": {
+    "market_cap_cr": {
+     "value": 4320.7593,
+     "state": "ok"
+    },
+    "pe": {
+     "value": null,
+     "state": "negative_base",
+     "basis": "pat_share_proxy"
+    },
+    "pe_reported": {
+     "value": null,
+     "state": "missing_input",
+     "basis": "reported_basic"
+    },
+    "pe_proxy": {
+     "value": null,
+     "state": "negative_base",
+     "basis": "pat_share_proxy"
+    },
+    "pb": {
+     "value": 1.2607,
+     "state": "ok"
+    },
+    "ps": {
+     "value": 0.6528,
+     "state": "ok"
+    },
+    "revenue_cr": {
+     "value": 6618.5,
+     "state": "ok"
+    },
+    "pat_cr": {
+     "value": -520.29,
+     "state": "ok"
+    },
+    "revenue_growth_pct": {
+     "value": 12.7098,
+     "state": "ok"
+    },
+    "pat_margin_pct": {
+     "value": -7.778,
+     "state": "ok"
+    },
+    "roe_pct": {
+     "value": -15.5322,
+     "state": "ok"
+    },
+    "roce_pct": {
+     "value": -0.9719,
+     "state": "ok"
+    },
+    "current_ratio": {
+     "value": 1.1794,
+     "state": "ok"
+    },
+    "quick_ratio": {
+     "value": null,
+     "state": "missing_input"
+    }
+   },
+   "checks_flagged": [],
+   "news_latest": {
+    "title": "PharmEasy’s Gaurav Verma on using festive moments to build year-round healthcare relevance",
+    "publisher": "Social Samosa",
+    "date": "2026-10-28",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWHBFSTF1YURaakZwSVF2Vmg3Q25qb1FlY3E1RkhremFaeXBYTGhrOVJGQUVTQWdyQ1hMTEk5Um5GSVBoSFZ3V1pxam4wN2NVU0hOZms3dDVPU29LMUpkOGZDUzJiUy1Qa2ZoSHNZaFBEWHBWbkVaeXJJTjE1VFkteGFscWprVTg5VzRWbU1hemVWTkM2MVVqT1ZBdVNfOTB6Rl9BM2ZRRDZpUG93NDMzdTlURWpuMmZUcjZtdEpn0gG-AUFVX3lxTE1YcEVJMXVhRFpqRnBJUXZWaDdDbmpvUWVjcTVGSGt6YVp5cFhMaGs5UkZBRVNBZ3JDWExMSTlSbkZJUGhIVndXWnFqbjA3Y1VTSE5mazd0NU9Tb0sxSmQ4ZkNTMmJTLVBrZmhIc1loUERYcFZuRVp5cklOMTVUWS14YWxxamtVODlXNFZtTWF6ZVZOQzYxVWpPVkF1U185MHpGX0EzZlFENmlQb3c0MzN1OVRFam4yZlRyNm10Smc?oc=5"
+   },
+   "news_count": 8
+  },
+  {
+   "id": "polymatech",
+   "name": "Polymatech Electronics Ltd",
+   "short": "Polymatech",
+   "hierarchy": [
+    "Information Technology",
+    "Electronic Components",
+    "Semiconductors",
+    "Opto-semiconductor Chips"
+   ],
+   "model": "manufacturer",
+   "latest_period": "FY2025",
+   "basis": "consolidated",
+   "layout": "detailed statements",
+   "price_inr": 36.0,
+   "quote_as_of": "2026-11-23T16:45:15+00:00",
+   "drhp_filed": "No",
+   "has_issuer_docs": false,
+   "metrics": {
+    "market_cap_cr": {
+     "value": 1434.38,
+     "state": "ok"
+    },
+    "pe": {
+     "value": 3.9691,
+     "state": "ok",
+     "basis": "reported_basic"
+    },
+    "pe_reported": {
+     "value": 3.9691,
+     "state": "ok",
+     "basis": "reported_basic"
+    },
+    "pe_proxy": {
+     "value": 3.819,
+     "state": "ok",
+     "basis": "pat_share_proxy"
+    },
+    "pb": {
+     "value": 1.2389,
+     "state": "ok"
+    },
+    "ps": {
+     "value": 0.7538,
+     "state": "ok"
+    },
+    "revenue_cr": {
+     "value": 1902.8971,
+     "state": "ok"
+    },
+    "pat_cr": {
+     "value": 375.5864,
+     "state": "ok"
+    },
+    "revenue_growth_pct": {
+     "value": null,
+     "state": "missing_input"
+    },
+    "pat_margin_pct": {
+     "value": 19.6423,
+     "state": "ok"
+    },
+    "roe_pct": {
+     "value": null,
+     "state": "missing_input"
+    },
+    "roce_pct": {
+     "value": 35.41,
+     "state": "ok"
+    },
+    "current_ratio": {
+     "value": 1.3428,
+     "state": "ok"
+    },
+    "quick_ratio": {
+     "value": 0.942,
+     "state": "ok"
+    }
+   },
+   "checks_flagged": [],
+   "news_latest": {
+    "title": "Polymatech Electronics - 2026 Funding Rounds & List of Investors",
+    "publisher": "Tracxn",
+    "date": "2026-10-14",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWnVDdUxSaW1JQlhMZFVYU0xXZUxlRGljeW5uUFVROUpET001LTlEdm4tNFhwOERCbHV4T0hqQTZCYkhLRDEtTks4NWZnYmkxWGpHRzBuYy1FQ2NGTUd4S2x2T3lvYWtlU2tvUVdNVWZrdUI1RF9YYVdGRGJNckxUZklDbkI5N21ZSkxSZzRsUFdmR0ZMcXZNeXd1ek5uVGI5d0Zic29kTFBhTlZ5WHBGWlZmMDVsbmFpTGRLaXp3?oc=5"
+   },
+   "news_count": 8
+  },
+  {
+   "id": "haldia",
+   "name": "Haldia Petrochemicals Ltd",
+   "short": "Haldia Petro",
+   "hierarchy": [
+    "Commodities",
+    "Chemicals",
+    "Chemicals & Petrochemicals",
+    "Polymers & Olefins"
+   ],
+   "model": "manufacturer",
+   "latest_period": "FY2025",
+   "basis": "consolidated",
+   "layout": "detailed statements",
+   "price_inr": 0.1,
+   "quote_as_of": "2026-11-23T16:45:18+00:00",
+   "drhp_filed": "No",
+   "has_issuer_docs": false,
+   "metrics": {
+    "market_cap_cr": {
+     "value": null,
+     "state": "suspect_quote"
+    },
+    "pe": {
+     "value": null,
+     "state": "suspect_quote",
+     "basis": "reported_basic"
+    },
+    "pe_reported": {
+     "value": null,
+     "state": "suspect_quote",
+     "basis": "reported_basic"
+    },
+    "pe_proxy": {
+     "value": null,
+     "state": "suspect_quote",
+     "basis": "pat_share_proxy"
+    },
+    "pb": {
+     "value": null,
+     "state": "suspect_quote"
+    },
+    "ps": {
+     "value": null,
+     "state": "suspect_quote"
+    },
+    "revenue_cr": {
+     "value": 14289.8,
+     "state": "ok"
+    },
+    "pat_cr": {
+     "value": 843.5,
+     "state": "ok"
+    },
+    "revenue_growth_pct": {
+     "value": -0.7094,
+     "state": "ok"
+    },
+    "pat_margin_pct": {
+     "value": null,
+     "state": "missing_input"
+    },
+    "roe_pct": {
+     "value": null,
+     "state": "missing_input"
+    },
+    "roce_pct": {
+     "value": null,
+     "state": "missing_input"
+    },
+    "current_ratio": {
+     "value": null,
+     "state": "missing_input"
+    },
+    "quick_ratio": {
+     "value": null,
+     "state": "missing_input"
+    }
+   },
+   "checks_flagged": [
+    "quote_sanity"
+   ],
+   "news_latest": {
+    "title": "Adperma’s Haldia phenol-acetone plant to boost India’s chemical manufacturing and reduce import dependen..",
+    "publisher": "Indiatimes",
+    "date": "2026-11-04",
+    "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNSE1tYlRzY1ZmdHRIRWpmWXRFQzNrWm5ORW5HVTktNFRwM0h3emEzSXlzbW41Zkxsd1VLQ0RtX1hGamNlWXZrT1psa2dxMUlZeFMwLUc0T3lZaFVEVi1valRNZURwY01QTUtRblppenVNWFo2dWVSSmkwSTNsZUZRdnJ6TFVfU0JhaEpINUlMaEFiVWgyeGRTRkpXckFsN2JNZEoycWVGaUs0R1dLNnlXYzhfaGluNzdpdzZMSWJCN09fUnpaNDMxY0dIT1UzREJFSEliNHFGcFluWWx0SllfV0dHS0ZIN2VLY3NhSFQ1dWd0UmRHY1FvSTVSYkxhbDNtY0dRMlBhMUMtTjRTdGNERWtwdGvSAZgCQVVfeXFMTzdQQlluMC1QY3dWLWEwemprV1BocnZldTI0NldWVjE3ajVoUHNZWnlaWjd0dE5YWWxGNmtRUDB0UUQxVnJGNDBrWUFrc01VUG9pS0NVTTRvWFk3UExBNEcyUHgzcnhZRHkwbDhjSVpVLWZXNHAycnVMbmNoTTl0WkRXTjlScWZsY210MFlBcVJwODBYYzNvRWxyanZ1WVVTQkw4bWRKZzBXR0lMZ1pRUko5M0FxV0RZbEtDcWdnWG01aVhQT2xqZEpZcVNUOUc2UlFpSVg3UnJ2TjhmWThfSXFTSDM1YjNuSDJGcjVtaWtZMHBkVFZoV1pselpTTXMyTHplQktkMTc2dTJUTS0wTkRYb2VJQzllUg?oc=5"
+   },
+   "news_count": 8
+  },
+  {
+   "id": "indiacarbon",
+   "name": "India Carbon Ltd",
+   "short": "India Carbon",
+   "hierarchy": [
+    "Commodities",
+    "Chemicals",
+    "Carbon Products",
+    "Calcined Petroleum Coke"
+   ],
+   "model": "manufacturer",
+   "latest_period": "FY2026",
+   "basis": "standalone",
+   "layout": "detailed statements",
+   "price_inr": 867.0,
+   "quote_as_of": "2026-11-23T16:45:20+00:00",
+   "drhp_filed": "No",
+   "has_issuer_docs": false,
+   "metrics": {
+    "market_cap_cr": {
+     "value": 229.755,
+     "state": "ok"
+    },
+    "pe": {
+     "value": null,
+     "state": "negative_base",
+     "basis": "reported_basic"
+    },
+    "pe_reported": {
+     "value": null,
+     "state": "negative_base",
+     "basis": "reported_basic"
+    },
+    "pe_proxy": {
+     "value": null,
+     "state": "negative_base",
+     "basis": "pat_share_proxy"
+    },
+    "pb": {
+     "value": 0.4959,
+     "state": "ok"
+    },
+    "ps": {
+     "value": 1.3652,
+     "state": "ok"
+    },
+    "revenue_cr": {
+     "value": 168.3,
+     "state": "ok"
+    },
+    "pat_cr": {
+     "value": -20.28,
+     "state": "ok"
+    },
+    "revenue_growth_pct": {
+     "value": -3.5696,
+     "state": "ok"
+    },
+    "pat_margin_pct": {
+     "value": -11.6942,
+     "state": "ok"
+    },
+    "roe_pct": {
+     "value": -4.0648,
+     "state": "ok"
+    },
+    "roce_pct": {
+     "value": -3.3539,
+     "state": "ok"
+    },
+    "current_ratio": {
+     "value": 1.9689,
+     "state": "ok"
+    },
+    "quick_ratio": {
+     "value": 1.0001,
+     "state": "ok"
+    }
+   },
+   "checks_flagged": [],
+   "news_latest": {
+    "title": "India Carbon Black Market Size & Growth Report 2035",
+    "publisher": "Market Research Future",
+    "date": "2026-10-27",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcVJvZUpFUFh3UnpyMi0wcnF0dndFQTVLczBwQjR2UmI4TEhIZFFZNmxfczBiVWxjV3VXUmFxVXNJUkhxT2pKQUxZOGp6N1RQdmRHZHZQNzh6cEdpUWEydzdjd3NnaTB6TFZUcU9FanEtVDUwTW1RVUZGRU43Zkx6Umhn?oc=5"
+   },
+   "news_count": 8
+  },
+  {
+   "id": "nayara",
+   "name": "Nayara Energy Ltd",
+   "short": "Nayara",
+   "hierarchy": [
+    "Energy",
+    "Oil & Gas",
+    "Refining & Marketing",
+    "Integrated Refining"
+   ],
+   "model": "manufacturer",
+   "latest_period": "FY2026",
+   "basis": "unspecified",
+   "layout": "five-year summary",
+   "price_inr": 1080.0,
+   "quote_as_of": "2026-11-23T16:45:23+00:00",
+   "drhp_filed": "No",
+   "has_issuer_docs": false,
+   "metrics": {
+    "market_cap_cr": {
+     "value": 160746.2073,
+     "state": "ok"
+    },
+    "pe": {
+     "value": 17.8069,
+     "state": "ok",
+     "basis": "pat_share_proxy"
+    },
+    "pe_reported": {
+     "value": null,
+     "state": "missing_input",
+     "basis": "reported_basic"
+    },
+    "pe_proxy": {
+     "value": 17.8069,
+     "state": "ok",
+     "basis": "pat_share_proxy"
+    },
+    "pb": {
+     "value": 2.7185,
+     "state": "ok"
+    },
+    "ps": {
+     "value": 1.0965,
+     "state": "ok"
+    },
+    "revenue_cr": {
+     "value": 146601.8,
+     "state": "ok"
+    },
+    "pat_cr": {
+     "value": 9027.2,
+     "state": "ok"
+    },
+    "revenue_growth_pct": {
+     "value": -1.7529,
+     "state": "ok"
+    },
+    "pat_margin_pct": {
+     "value": 6.1088,
+     "state": "ok"
+    },
+    "roe_pct": {
+     "value": 16.5425,
+     "state": "ok"
+    },
+    "roce_pct": {
+     "value": 20.1279,
+     "state": "ok"
+    },
+    "current_ratio": {
+     "value": 1.1701,
+     "state": "ok"
+    },
+    "quick_ratio": {
+     "value": null,
+     "state": "missing_input"
+    }
+   },
+   "checks_flagged": [],
+   "news_latest": {
+    "title": "Delhi High Court directs SAP India to continue software support for Nayara Energy despite EU sanctions",
+    "publisher": "Prop News Time",
+    "date": "2026-11-23",
+    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQTnI2QXFZaVNWQlMyQlhLbndkQ2g0aElLaXhHQ3VVbHVIUjB3dXJ3bERuR3FyWnlKankyMlNaeHZ3d0VkVE1rZ3kxcndDRlBsY2tlczFtNUlmZGpBMEM5SC1SQ1EtWktUQUt1c1NULUdWZ3NnUU1oSFRTQUE4djNwc0JmSy1UckF2eENBd3F6Z3hEZWpKNzNlcFRwelBkYTRHWGcxMlY3OTdlemVKT19yOVBIem1KQktfNElzc3dhR1duQ09kR3B4ZG9jQXdBR1JVZURGQ2hDRU9pT3l0Z2N5RjhwZmxOY3VuTUE?oc=5"
+   },
+   "news_count": 8
+  },
+  {
+   "id": "cial",
+   "name": "Cochin International Airport Ltd",
+   "short": "CIAL",
+   "hierarchy": [
+    "Industrials",
+    "Transport Infrastructure",
+    "Airports",
+    "Airport Operators"
+   ],
+   "model": "infrastructure",
+   "latest_period": "FY2026",
+   "basis": "unspecified",
+   "layout": "five-year summary",
+   "price_inr": 440.0,
+   "quote_as_of": "2026-11-23T16:45:26+00:00",
+   "drhp_filed": "No",
+   "has_issuer_docs": false,
+   "metrics": {
+    "market_cap_cr": {
+     "value": 21041.6112,
+     "state": "ok"
+    },
+    "pe": {
+     "value": 39.9461,
+     "state": "ok",
+     "basis": "pat_share_proxy"
+    },
+    "pe_reported": {
+     "value": null,
+     "state": "missing_input",
+     "basis": "reported_basic"
+    },
+    "pe_proxy": {
+     "value": 39.9461,
+     "state": "ok",
+     "basis": "pat_share_proxy"
+    },
+    "pb": {
+     "value": 7.1219,
+     "state": "ok"
+    },
+    "ps": {
+     "value": 15.0137,
+     "state": "ok"
+    },
+    "revenue_cr": {
+     "value": 1401.49,
+     "state": "ok"
+    },
+    "pat_cr": {
+     "value": 526.75,
+     "state": "ok"
+    },
+    "revenue_growth_pct": {
+     "value": 6.9881,
+     "state": "ok"
+    },
+    "pat_margin_pct": {
+     "value": 35.2998,
+     "state": "ok"
+    },
+    "roe_pct": {
+     "value": 18.7464,
+     "state": "ok"
+    },
+    "roce_pct": {
+     "value": 20.9868,
+     "state": "ok"
+    },
+    "current_ratio": {
+     "value": 3.0101,
+     "state": "ok"
+    },
+    "quick_ratio": {
+     "value": null,
+     "state": "missing_input"
+    }
+   },
+   "checks_flagged": [],
+   "news_latest": {
+    "title": "Kannada writer Ravi Hanj detained at Kochi airport amid row over his book",
+    "publisher": "Onmanorama",
+    "date": "2026-11-21",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNcnY3ZXVsaHNRZm5Pa3o5R3JGSHU4MW9ZR3dsdjdkTDRfWEZiTGZJdF9zREVsNFR2TG9KdEhnRnR3SkxuLThrMVVVcU80MFp4THotVVk2MzBUMXZuN1E0ZnF6d0ZQdzFTODVWUnkwVUxrUzZScWVaZk53ckdwcVlROWFXWUpFN3dicWs0cDNfblhZRjJmMUd3Y3E3OWFVRjYzYkRXQWNrV1d5d2xEakdSbEYwcDBUZkVWYklSQk5WY3NQa2xVanpj?oc=5"
+   },
+   "news_count": 8
+  },
+  {
+   "id": "capgemini",
+   "name": "Capgemini Technology Services India Ltd",
+   "short": "Capgemini India",
+   "hierarchy": [
+    "Information Technology",
+    "IT Services",
+    "IT Consulting & Outsourcing",
+    "Global Delivery Centres"
+   ],
+   "model": "services",
+   "latest_period": "FY2026",
+   "basis": "unspecified",
+   "layout": "five-year summary",
+   "price_inr": 8900.0,
+   "quote_as_of": "2026-11-23T16:45:29+00:00",
+   "drhp_filed": "No",
+   "has_issuer_docs": false,
+   "metrics": {
+    "market_cap_cr": {
+     "value": 52751.4534,
+     "state": "ok"
+    },
+    "pe": {
+     "value": 12.8593,
+     "state": "ok",
+     "basis": "pat_share_proxy"
+    },
+    "pe_reported": {
+     "value": null,
+     "state": "missing_input",
+     "basis": "reported_basic"
+    },
+    "pe_proxy": {
+     "value": 12.8593,
+     "state": "ok",
+     "basis": "pat_share_proxy"
+    },
+    "pb": {
+     "value": 2.1937,
+     "state": "ok"
+    },
+    "ps": {
+     "value": 1.6172,
+     "state": "ok"
+    },
+    "revenue_cr": {
+     "value": 32618.3,
+     "state": "ok"
+    },
+    "pat_cr": {
+     "value": 4102.2,
+     "state": "ok"
+    },
+    "revenue_growth_pct": {
+     "value": 12.213,
+     "state": "ok"
+    },
+    "pat_margin_pct": {
+     "value": 12.055,
+     "state": "ok"
+    },
+    "roe_pct": {
+     "value": 18.6979,
+     "state": "ok"
+    },
+    "roce_pct": {
+     "value": 21.4264,
+     "state": "ok"
+    },
+    "current_ratio": {
+     "value": 5.879,
+     "state": "ok"
+    },
+    "quick_ratio": {
+     "value": null,
+     "state": "missing_input"
+    }
+   },
+   "checks_flagged": [],
+   "news_latest": {
+    "title": "Capgemini Technology Services India Ltd. Shareholding Pattern – Promoters, FIIs & DIIs",
+    "publisher": "Value Research",
+    "date": "2026-10-08",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNzIyR3dRd2RYX0h6VDZxQ1hCZWt4TVlRWmZQblpSZkNiMm8wMTdJdE5ZbEMtSjNYX3BMaHh0TmpFQkR6Y1RONUljaS1LdWxYOHRucGx4WFZJdTRDaEIzMTN4SldQMXNpcmRacVF4MWtsS0lhbDBPUXkyVlQwd0NLUVRLNjZzZHYtTTJ5SUlSRTBYeF9OTGs0eVltVjE3SlkwSlR5cw?oc=5"
+   },
+   "news_count": 8
+  },
+  {
+   "id": "reliance-retail",
+   "name": "Reliance Retail Ltd",
+   "short": "Reliance Retail",
+   "hierarchy": [
+    "Consumer Discretionary",
+    "Retail",
+    "Multi-format Retail",
+    "Grocery, Fashion & Electronics"
+   ],
+   "model": "consumer",
+   "latest_period": "FY2023?",
+   "basis": "unspecified",
+   "layout": "five-year summary",
+   "price_inr": 1275.0,
+   "quote_as_of": "2026-11-23T16:45:32+00:00",
+   "drhp_filed": "No",
+   "has_issuer_docs": false,
+   "metrics": {
+    "market_cap_cr": {
+     "value": 1188917.0379,
+     "state": "ok"
+    },
+    "pe": {
+     "value": 96.8109,
+     "state": "ok",
+     "basis": "reported_basic"
+    },
+    "pe_reported": {
+     "value": 96.8109,
+     "state": "ok",
+     "basis": "reported_basic"
+    },
+    "pe_proxy": {
+     "value": 169.6316,
+     "state": "ok",
+     "basis": "pat_share_proxy"
+    },
+    "pb": {
+     "value": null,
+     "state": "missing_input"
+    },
+    "ps": {
+     "value": null,
+     "state": "missing_input"
+    },
+    "revenue_cr": {
+     "value": null,
+     "state": "missing_input"
+    },
+    "pat_cr": {
+     "value": 7008.82,
+     "state": "ok"
+    },
+    "revenue_growth_pct": {
+     "value": null,
+     "state": "missing_input"
+    },
+    "pat_margin_pct": {
+     "value": null,
+     "state": "missing_input"
+    },
+    "roe_pct": {
+     "value": null,
+     "state": "missing_input"
+    },
+    "roce_pct": {
+     "value": null,
+     "state": "missing_input"
+    },
+    "current_ratio": {
+     "value": null,
+     "state": "missing_input"
+    },
+    "quick_ratio": {
+     "value": null,
+     "state": "missing_input"
+    }
+   },
+   "checks_flagged": [
+    "freshness"
+   ],
+   "news_latest": {
+    "title": "Reliance Retail to Adani Airports: These are 14 of India's most valuable unlisted companies",
+    "publisher": "Upstox",
+    "date": "2026-11-20",
+    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxObXZHeW9MWkpEZHJMTjMwT3dnZ1JJR3lNUTR6TzQ4QktGV0pKaERENzdjSGluZ3JOYThobTZ1c3d1RnE0MWZVVXNNelRlUG91WHR6bnRWbTNiUHNUUXA0eFhoOXNOZm80NDhBT1JoUDFrTUJ2aGxiNmp1TXZRYVZGLVBFZ2lxQVQyOV9TNy1Gb2M5bFhtUFhZSUkwUGg2ZEZyVk01emhqcC1tODFUdHNsMnJjWk5TLVlTR1NfTm1KV29GUGxiWHEyem5Md21PYkMxYlUzb1Y3M1NlUkQweXJlNGRoZ08zUQ?oc=5"
+   },
+   "news_count": 8
+  },
+  {
+   "id": "pharmed",
+   "name": "Pharmed Ltd",
+   "short": "Pharmed",
+   "hierarchy": [
+    "Healthcare",
+    "Pharmaceuticals",
+    "Branded Formulations",
+    "Prescription & Nutraceutical Products"
+   ],
+   "model": "manufacturer",
+   "latest_period": "FY2026",
+   "basis": "consolidated",
+   "layout": "detailed statements",
+   "price_inr": 710.0,
+   "quote_as_of": "2026-11-23T17:58:37+00:00",
+   "drhp_filed": "No",
+   "has_issuer_docs": false,
+   "metrics": {
+    "market_cap_cr": {
+     "value": 305.7402,
+     "state": "ok"
+    },
+    "pe": {
+     "value": 3.993,
+     "state": "ok",
+     "basis": "pat_share_proxy"
+    },
+    "pe_reported": {
+     "value": null,
+     "state": "missing_input",
+     "basis": "reported_basic"
+    },
+    "pe_proxy": {
+     "value": 3.993,
+     "state": "ok",
+     "basis": "pat_share_proxy"
+    },
+    "pb": {
+     "value": 0.7045,
+     "state": "ok"
+    },
+    "ps": {
+     "value": 0.5163,
+     "state": "ok"
+    },
+    "revenue_cr": {
+     "value": 592.22,
+     "state": "ok"
+    },
+    "pat_cr": {
+     "value": 76.57,
+     "state": "ok"
+    },
+    "revenue_growth_pct": {
+     "value": 17.1321,
+     "state": "ok"
+    },
+    "pat_margin_pct": {
+     "value": 12.5045,
+     "state": "ok"
+    },
+    "roe_pct": {
+     "value": 19.3154,
+     "state": "ok"
+    },
+    "roce_pct": {
+     "value": 22.5214,
+     "state": "ok"
+    },
+    "current_ratio": {
+     "value": 1.251,
+     "state": "ok"
+    },
+    "quick_ratio": {
+     "value": 0.9563,
+     "state": "ok"
+    }
+   },
+   "checks_flagged": [],
+   "news_latest": {
+    "title": "NPPA Cannot Impose Drug Ceiling Price Without Following DPCO Formula: Bombay High Court Quashes Pharmed Demand",
+    "publisher": "Court Book",
+    "date": "2026-09-28",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRjJYMEZuY19tSkVxNXk2OVp4OWVCQ3Iwd251anRlM3c5azNmVXA0MjRmbjIxVGpQSWktWVBYRkhmREprdU1VZTFickluRHBqaVMtVEtTbWxJd3RTbHRLVjNwQk9QSVh6OUdMWG8tU2xVa2VXblFHQWEyOGlFbDJ5RVpTcllsU0dpSFlvSXVFN1JxREV3UnU5dVBDSGVkS1lzV3FwVnBpN1dGYkZKSFVKQnBPTG5PaWQyTzEtQ2xvX2lzVElDWW9CelNTbmh1ODNoVEE?oc=5"
+   },
+   "news_count": 8
+  },
+  {
+   "id": "grouppharma",
+   "name": "Group Pharmaceuticals Ltd",
+   "short": "Group Pharma",
+   "hierarchy": [
+    "Healthcare",
+    "Pharmaceuticals",
+    "Specialty Formulations",
+    "Oral Healthcare"
+   ],
+   "model": "manufacturer",
+   "latest_period": "FY2026",
+   "basis": "consolidated",
+   "layout": "detailed statements",
+   "price_inr": 55.0,
+   "quote_as_of": "2026-11-23T17:58:40+00:00",
+   "drhp_filed": "No",
+   "has_issuer_docs": false,
+   "metrics": {
+    "market_cap_cr": {
+     "value": 69.7617,
+     "state": "ok"
+    },
+    "pe": {
+     "value": null,
+     "state": "missing_input",
+     "basis": "pat_share_proxy"
+    },
+    "pe_reported": {
+     "value": null,
+     "state": "missing_input",
+     "basis": "reported_basic"
+    },
+    "pe_proxy": {
+     "value": null,
+     "state": "missing_input",
+     "basis": "pat_share_proxy"
+    },
+    "pb": {
+     "value": 0.7707,
+     "state": "ok"
+    },
+    "ps": {
+     "value": 0.3848,
+     "state": "ok"
+    },
+    "revenue_cr": {
+     "value": 181.31,
+     "state": "ok"
+    },
+    "pat_cr": {
+     "value": null,
+     "state": "conflict"
+    },
+    "revenue_growth_pct": {
+     "value": 10.0316,
+     "state": "ok"
+    },
+    "pat_margin_pct": {
+     "value": null,
+     "state": "missing_input"
+    },
+    "roe_pct": {
+     "value": null,
+     "state": "missing_input"
+    },
+    "roce_pct": {
+     "value": 18.8957,
+     "state": "ok"
+    },
+    "current_ratio": {
+     "value": 2.9321,
+     "state": "ok"
+    },
+    "quick_ratio": {
+     "value": 2.2607,
+     "state": "ok"
+    }
+   },
+   "checks_flagged": [
+    "profit_row_conflict"
+   ],
+   "news_latest": {
+    "title": "Group Pharma Appoints Nelson Chacko as General Manager – Human Resources",
+    "publisher": "https://hrtoday.in/",
+    "date": "2026-11-21",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZnFRc01jMXdLTkF1TVA5XzFBOTc3eUltVHVEdWN0ZXlaeTd6bVNyWlREbjRRNjczNlFONjJsaFh3OG5jNzh1TWQwdi1SeFNLekdwaWZySTU4Q2ZxcWI2SExxS1BmYTU4MmdpanhnUmYtaVAzdlh2VkZfelYxakZhTEo1MDZIcG9IMW0zOEVEVVdKVkFk?oc=5"
+   },
+   "news_count": 8
+  },
+  {
+   "id": "kial",
+   "name": "Kannur International Airport Ltd",
+   "short": "KIAL",
+   "hierarchy": [
+    "Industrials",
+    "Transport Infrastructure",
+    "Airports",
+    "Airport Operators"
+   ],
+   "model": "infrastructure",
+   "latest_period": "FY2025",
+   "basis": "consolidated",
+   "layout": "detailed statements",
+   "price_inr": 126.0,
+   "quote_as_of": "2026-11-23T17:58:42+00:00",
+   "drhp_filed": "No",
+   "has_issuer_docs": false,
+   "metrics": {
+    "market_cap_cr": {
+     "value": 1686.3701,
+     "state": "ok"
+    },
+    "pe": {
+     "value": null,
+     "state": "negative_base",
+     "basis": "pat_share_proxy"
+    },
+    "pe_reported": {
+     "value": null,
+     "state": "missing_input",
+     "basis": "reported_basic"
+    },
+    "pe_proxy": {
+     "value": null,
+     "state": "negative_base",
+     "basis": "pat_share_proxy"
+    },
+    "pb": {
+     "value": 3.3676,
+     "state": "ok"
+    },
+    "ps": {
+     "value": 8.8322,
+     "state": "ok"
+    },
+    "revenue_cr": {
+     "value": 190.9333,
+     "state": "ok"
+    },
+    "pat_cr": {
+     "value": -93.7896,
+     "state": "ok"
+    },
+    "revenue_growth_pct": {
+     "value": 92.4029,
+     "state": "ok"
+    },
+    "pat_margin_pct": {
+     "value": -48.0427,
+     "state": "ok"
+    },
+    "roe_pct": {
+     "value": -17.1235,
+     "state": "ok"
+    },
+    "roce_pct": {
+     "value": null,
+     "state": "missing_input"
+    },
+    "current_ratio": {
+     "value": 13.717,
+     "state": "ok"
+    },
+    "quick_ratio": {
+     "value": 13.712,
+     "state": "ok"
+    }
+   },
+   "checks_flagged": [],
+   "news_latest": {
+    "title": "Kannur airport to undergo major transformation within year, says CM Satheesan",
+    "publisher": "ET Infra",
+    "date": "2026-09-29",
+    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQYnd2R1hIUkEyNWZuZXNZb0lNd01CcEhfbGRreUVsVlNIeGE4M0ZhenRZcnFvR2h2N3BhU2l5akRwTnhNeTZQOUkxN0tvQUd0ZDdDNzJtRDdscHdBd3FldlZxZXpxQXpucEEtbWI0NzRhRnNuOUFYUHlWZXlCSnhQOE95UmhJUmZ5WU5ta3puQzNPaW1vRlFRNE5ZUkRyT1FvSkRnMkhrUUhjWXhLZUdaV29LUmRsQUt6cEZGZUx3dEpnY3dOMzZ6Rm4xaTRLaVp6bWFLSHk2Q1lUZ9IB3wFBVV95cUxNN3lSbjNFTDJfdW5kZ1R2Yzc1cUdwLVh3dTlJNTJHZTl4V1NEWG0yVE94UDNGckYxNEVzdkFJVGx2enk0UndpS0Y3cGYtbnk0MjN0YXlaVWNlUWNFY21Mb3NnNXNmcG52VWZHMWJxSy1jV2lXNWx0dEYwTE9HM1hrbjY2aGVGZUxZUGhTeVQtUnJTVFFMM0xnQVRvX0JLOXY5WlhsWlhqSDYtUk1pTXpMcVViWWhFWTllR2ZIQ0F3amtzMFYyVEtVVmFpVnJxSW50OUJjY1cxNHdacjBZeGtB?oc=5"
+   },
+   "news_count": 8
+  },
+  {
+   "id": "axlesindia",
+   "name": "Axles India Ltd",
+   "short": "Axles India",
+   "hierarchy": [
+    "Industrials",
+    "Automotive Components",
+    "Driveline",
+    "Commercial Vehicle Axles"
+   ],
+   "model": "manufacturer",
+   "latest_period": "FY2026",
+   "basis": "standalone",
+   "layout": "detailed statements",
+   "price_inr": 525.0,
+   "quote_as_of": "2026-11-23T17:58:44+00:00",
+   "drhp_filed": "No",
+   "has_issuer_docs": false,
+   "metrics": {
+    "market_cap_cr": {
+     "value": 1338.2589,
+     "state": "ok"
+    },
+    "pe": {
+     "value": 18.2722,
+     "state": "ok",
+     "basis": "pat_share_proxy"
+    },
+    "pe_reported": {
+     "value": null,
+     "state": "missing_input",
+     "basis": "reported_basic"
+    },
+    "pe_proxy": {
+     "value": 18.2722,
+     "state": "ok",
+     "basis": "pat_share_proxy"
+    },
+    "pb": {
+     "value": 3.6219,
+     "state": "ok"
+    },
+    "ps": {
+     "value": 1.5361,
+     "state": "ok"
+    },
+    "revenue_cr": {
+     "value": 871.19,
+     "state": "ok"
+    },
+    "pat_cr": {
+     "value": 73.24,
+     "state": "ok"
+    },
+    "revenue_growth_pct": {
+     "value": 3.5233,
+     "state": "ok"
+    },
+    "pat_margin_pct": {
+     "value": 8.2491,
+     "state": "ok"
+    },
+    "roe_pct": {
+     "value": 21.6334,
+     "state": "ok"
+    },
+    "roce_pct": {
+     "value": 19.4189,
+     "state": "ok"
+    },
+    "current_ratio": {
+     "value": 10.8791,
+     "state": "ok"
+    },
+    "quick_ratio": {
+     "value": 7.1473,
+     "state": "ok"
+    }
+   },
+   "checks_flagged": [],
+   "news_latest": {
+    "title": "Wheels India (NSEI:WHEELS) - Stock Analysis",
+    "publisher": "Simply Wall St",
+    "date": "2026-11-20",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4tZEhjLXM5NnozbmN1M0ZpLWxvb19yWm1pdFpEZWxDUmRZSG1DVG1QbEpkbjVoclNBVUJKRzVmalFFVXBVcXhHU2hvdzNuSEFWUzI1MU5VWlNELThqTEF0MkZDU0wtX3VfdlBKTlh5cmRSa3NpTmM3bnU1YnBfeUU?oc=5"
+   },
+   "news_count": 8
+  },
+  {
+   "id": "gkndriveline",
+   "name": "GKN Driveline (India) Ltd",
+   "short": "GKN Driveline",
+   "hierarchy": [
+    "Industrials",
+    "Automotive Components",
+    "Driveline",
+    "Drive Shafts & Joints"
+   ],
+   "model": "manufacturer",
+   "latest_period": "FY2026",
+   "basis": "unspecified",
+   "layout": "five-year summary",
+   "price_inr": 1980.0,
+   "quote_as_of": "2026-11-23T17:58:48+00:00",
+   "drhp_filed": "No",
+   "has_issuer_docs": false,
+   "metrics": {
+    "market_cap_cr": {
+     "value": 2529.0661,
+     "state": "ok"
+    },
+    "pe": {
+     "value": 20.6,
+     "state": "ok",
+     "basis": "pat_share_proxy"
+    },
+    "pe_reported": {
+     "value": null,
+     "state": "missing_input",
+     "basis": "reported_basic"
+    },
+    "pe_proxy": {
+     "value": 20.6,
+     "state": "ok",
+     "basis": "pat_share_proxy"
+    },
+    "pb": {
+     "value": 6.1285,
+     "state": "ok"
+    },
+    "ps": {
+     "value": 2.1892,
+     "state": "ok"
+    },
+    "revenue_cr": {
+     "value": 1155.24,
+     "state": "ok"
+    },
+    "pat_cr": {
+     "value": 122.77,
+     "state": "ok"
+    },
+    "revenue_growth_pct": {
+     "value": 5.8154,
+     "state": "ok"
+    },
+    "pat_margin_pct": {
+     "value": 10.516,
+     "state": "ok"
+    },
+    "roe_pct": {
+     "value": 32.9456,
+     "state": "ok"
+    },
+    "roce_pct": {
+     "value": 38.6024,
+     "state": "ok"
+    },
+    "current_ratio": {
+     "value": 1.5051,
+     "state": "ok"
+    },
+    "quick_ratio": {
+     "value": null,
+     "state": "missing_input"
+    }
+   },
+   "checks_flagged": [],
+   "news_latest": {
+    "title": "Open Access Consumers Can Avail 'Net Metering' For Rooftop Solar, MERC Reiterates",
+    "publisher": "Saur Energy",
+    "date": "2026-10-07",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNU0V1a1N5R2s1MHFhc1FiUVhMOGRVYmQwLTE0X3VYNDMzVTItd2JZY3ZCUS1GWU5jaTB0V3JzenR4WTQ2OFJQVFVYdkRsMHhmWTNxaTBmbFd3N0JjVXIyei1UVUJiUldUS29hSEV5ZkZ0RUpFd3VyUjB4Vmk2eDNJSVU2THphaFJoaU1WZTlkWTM4bWlEQjV3VmMxWk52U2k4Y2hSZWVHUlpMZHIyd0lpbkVfSVdvYnBqcXF1NXd5a2lXLUJEMVdpQUYtMnA?oc=5"
+   },
+   "news_count": 8
+  },
+  {
+   "id": "nse",
+   "name": "National Stock Exchange of India Ltd",
+   "short": "NSE",
+   "hierarchy": [
+    "Financials",
+    "Capital Markets",
+    "Exchanges & Trading Platforms",
+    "Securities Exchanges"
+   ],
+   "model": "exchange",
+   "latest_period": "FY2026",
+   "basis": "unspecified",
+   "layout": "five-year summary",
+   "price_inr": 1950.0,
+   "quote_as_of": "2026-11-23T16:45:34+00:00",
+   "drhp_filed": "Yes",
+   "has_issuer_docs": false,
+   "metrics": {
+    "market_cap_cr": {
+     "value": 482625.0,
+     "state": "ok"
+    },
+    "pe": {
+     "value": 47.4113,
+     "state": "ok",
+     "basis": "pat_share_proxy"
+    },
+    "pe_reported": {
+     "value": null,
+     "state": "missing_input",
+     "basis": "reported_basic"
+    },
+    "pe_proxy": {
+     "value": 47.4113,
+     "state": "ok",
+     "basis": "pat_share_proxy"
+    },
+    "pb": {
+     "value": 15.0287,
+     "state": "ok"
+    },
+    "ps": {
+     "value": 29.0715,
+     "state": "ok"
+    },
+    "revenue_cr": {
+     "value": 16601.31,
+     "state": "ok"
+    },
+    "pat_cr": {
+     "value": 10179.53,
+     "state": "ok"
+    },
+    "revenue_growth_pct": {
+     "value": -3.1467,
+     "state": "ok"
+    },
+    "pat_margin_pct": {
+     "value": 54.3971,
+     "state": "ok"
+    },
+    "roe_pct": {
+     "value": 32.5918,
+     "state": "ok"
+    },
+    "roce_pct": {
+     "value": 30.1368,
+     "state": "ok"
+    },
+    "current_ratio": {
+     "value": 1.6454,
+     "state": "ok"
+    },
+    "quick_ratio": {
+     "value": null,
+     "state": "missing_input"
+    }
+   },
+   "checks_flagged": [
+    "shares_outstanding_consistency"
+   ],
+   "news_latest": {
+    "title": "NSE becomes world's fifth-largest listed exchange operator by market cap, overtakes Nasdaq, Hong Kong...",
+    "publisher": "Moneycontrol.com",
+    "date": "2026-11-20",
+    "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOakYxakNxSmhqb1N3Nnlmelg2RGxxdlJERG9yLXg5amZCaGo2YzZreFp0bFJ6WlFpWlRwSlQ0VGtGT3JWclBManR6bEVSTmU1c3RvVXJrMm5zU2xTYXUyTExaTVBCd3ltLTVNUTE3ZVRsR3NRc1R5M08yNG85WWg4SFV1T01kakxlM0lsTlREcFRkaDQtMjRST1l1WVZkMFdhQXJjcUhJcmFGZ053OTJVS1Q2Y1pmVXZQdm81WHVia1VrVDNhSkQxQ1FmV2FJZTNESVp2N2dCcmVGaEh0enlkXzRTaURzOHFSYi1RR3BVZWtnUkJLb1HSAfsBQVVfeXFMTU5Ic1lGZjItbG5JUm1sMFB2YUI2YUlmNHMxS015bFV5T09scWFDejgtNWg2Y3A2VkJ5NXl5R3p2LVczNDhHUk02VUgwXzlpV0c1emlzeXdzNzhJWWJaM0N0V3RHdmJqelFtU0E3RUJxOXdsYkdYN095VjhwbmxrY29lMVNOdFEyTl9qWUFZMTliX3E4QTVoUTF5b2RIWUFUdlFWTWc0TGRpOFI4am9iYjhvbmpfWnVKdlF4NXlUZERtUDFUbDZUXzNKUUdNNXZKSXlscldyRzhObXNTbGZBN0N5S1NWSE90SjFCZEFVUnA1VTk4NU50bTBoVVU?oc=5"
+   },
+   "news_count": 8
+  }
+ ]
+}

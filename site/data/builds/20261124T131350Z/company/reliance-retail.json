@@ -1,0 +1,3255 @@
+{
+ "id": "reliance-retail",
+ "name": "Reliance Retail Ltd",
+ "short": "Reliance Retail",
+ "hierarchy": [
+  "Consumer Discretionary",
+  "Retail",
+  "Multi-format Retail",
+  "Grocery, Fashion & Electronics"
+ ],
+ "model": "consumer",
+ "listed_peers": [
+  "DMART",
+  "TRENT"
+ ],
+ "status_note": null,
+ "market_status": null,
+ "quote": {
+  "price_inr": "1275.00",
+  "state": "reported",
+  "change_raw": "+ 0.00 %",
+  "kind": "unlisted dealer quote (indicative, not an exchange trade)",
+  "as_of": "2026-11-23T16:45:32+00:00",
+  "high_52w": "52 Week Low",
+  "low_52w": "Lifetime High",
+  "ev": "ev1"
+ },
+ "profile": {
+  "provider_sector": "Retail",
+  "isin": "INE742O01010",
+  "cin": "Registration Date",
+  "registration_date": "01/01/1970",
+  "face_value": "10",
+  "lot_size": "100",
+  "drhp_filed": "No",
+  "depository": "nsdl",
+  "rofr": "No",
+  "description": null,
+  "share_details_as_of": "March 31, 2023",
+  "ev": "ev2"
+ },
+ "periods": [
+  "FY2021?",
+  "FY2022",
+  "FY2022?",
+  "FY2023",
+  "FY2023?"
+ ],
+ "basis": "unspecified",
+ "raw_units": [
+  "INR crore"
+ ],
+ "layout": "five-year summary",
+ "fields": {
+  "total_income": {
+   "label": "Total income",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2021?": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2022": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2022?": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2023": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2023?": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "revenue_ops": {
+   "label": "Revenue from operations",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2021?": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2022": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2022?": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2023": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2023?": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "other_income": {
+   "label": "Other income",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2021?": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2022": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2022?": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2023": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2023?": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "other_gains": {
+   "label": "Other gains / losses",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2021?": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2022": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2022?": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2023": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2023?": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "job_work_revenue": {
+   "label": "Revenue from job work",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2021?": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2022": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2022?": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2023": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2023?": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "total_expenses": {
+   "label": "Total expenses",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2021?": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2022": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2022?": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2023": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2023?": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "finance_cost": {
+   "label": "Finance cost",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2021?": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2022": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2022?": {
+     "value": "1985.88",
+     "state": "reported",
+     "ev": "ev3"
+    },
+    "FY2023": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2023?": {
+     "value": "3925.72",
+     "state": "reported",
+     "ev": "ev4"
+    }
+   }
+  },
+  "depreciation": {
+   "label": "Depreciation",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2021?": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2022": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2022?": {
+     "value": "1794.24",
+     "state": "reported",
+     "ev": "ev5"
+    },
+    "FY2023": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2023?": {
+     "value": "2992.16",
+     "state": "reported",
+     "ev": "ev6"
+    }
+   }
+  },
+  "pbt": {
+   "label": "Profit before tax",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2021?": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2022": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2022?": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2023": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2023?": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "tax": {
+   "label": "Tax",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2021?": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2022": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2022?": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2023": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2023?": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "pat": {
+   "label": "Profit after tax",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2021?": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2022": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2022?": {
+     "value": "4937.63",
+     "state": "reported",
+     "ev": "ev7"
+    },
+    "FY2023": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2023?": {
+     "value": "7008.82",
+     "state": "reported",
+     "ev": "ev8"
+    }
+   }
+  },
+  "total_assets": {
+   "label": "Total assets",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2021?": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2022": {
+     "value": "88730.85",
+     "state": "reported",
+     "ev": "ev9"
+    },
+    "FY2022?": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2023": {
+     "value": "128459.84",
+     "state": "reported",
+     "ev": "ev10"
+    },
+    "FY2023?": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "total_equity": {
+   "label": "Total equity",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2021?": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2022": {
+     "value": "30412.04",
+     "state": "reported",
+     "ev": "ev11"
+    },
+    "FY2022?": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2023": {
+     "value": "37222.83",
+     "state": "reported",
+     "ev": "ev12"
+    },
+    "FY2023?": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "total_liabilities": {
+   "label": "Total liabilities",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2021?": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2022": {
+     "value": "58318.81",
+     "state": "reported",
+     "ev": "ev13"
+    },
+    "FY2022?": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2023": {
+     "value": "91237.01",
+     "state": "reported",
+     "ev": "ev14"
+    },
+    "FY2023?": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "current_assets": {
+   "label": "Current assets",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2021?": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2022": {
+     "value": "41000.53",
+     "state": "reported",
+     "ev": "ev15"
+    },
+    "FY2022?": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2023": {
+     "value": "44436.76",
+     "state": "reported",
+     "ev": "ev16"
+    },
+    "FY2023?": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "current_liabilities": {
+   "label": "Current liabilities",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2021?": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2022": {
+     "value": "44647.04",
+     "state": "reported",
+     "ev": "ev17"
+    },
+    "FY2022?": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2023": {
+     "value": "44199.78",
+     "state": "reported",
+     "ev": "ev18"
+    },
+    "FY2023?": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "inventories": {
+   "label": "Inventories",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2021?": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2022": {
+     "value": "20072.07",
+     "state": "reported",
+     "ev": "ev19"
+    },
+    "FY2022?": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2023": {
+     "value": "24969.1",
+     "state": "reported",
+     "ev": "ev20"
+    },
+    "FY2023?": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "cash": {
+   "label": "Cash & equivalents",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2021?": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2022": {
+     "value": "466.42",
+     "state": "reported",
+     "ev": "ev21"
+    },
+    "FY2022?": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2023": {
+     "value": "401.38",
+     "state": "reported",
+     "ev": "ev22"
+    },
+    "FY2023?": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "loans": {
+   "label": "Loans",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2021?": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2022": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2022?": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2023": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2023?": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "cfo": {
+   "label": "Cash from operations",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2021?": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2022": {
+     "value": "1674.43",
+     "state": "reported",
+     "ev": "ev23"
+    },
+    "FY2022?": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2023": {
+     "value": "9775.32",
+     "state": "reported",
+     "ev": "ev24"
+    },
+    "FY2023?": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "cfi": {
+   "label": "Cash from investing",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2021?": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2022": {
+     "value": "-25704.46",
+     "state": "reported",
+     "ev": "ev25"
+    },
+    "FY2022?": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2023": {
+     "value": "-35382.06",
+     "state": "reported",
+     "ev": "ev26"
+    },
+    "FY2023?": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "cff": {
+   "label": "Cash from financing",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2021?": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2022": {
+     "value": "24136.9",
+     "state": "reported",
+     "ev": "ev27"
+    },
+    "FY2022?": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2023": {
+     "value": "25544.97",
+     "state": "reported",
+     "ev": "ev28"
+    },
+    "FY2023?": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "ebitda": {
+   "label": "EBITDA",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2021?": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2022": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2022?": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2023": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2023?": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "eps": {
+   "label": "EPS (provider)",
+   "unit": "INR per share",
+   "by_period": {
+    "FY2021?": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2022": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2022?": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2023": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2023?": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "shares_outstanding": {
+   "label": "Shares outstanding",
+   "unit": "shares",
+   "by_period": {
+    "FY2021?": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2022": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2022?": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2023": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2023?": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "pat_pre_associate": {
+   "label": "Profit after tax before associate contribution",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2021?": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2022": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2022?": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2023": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2023?": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "pat_owners": {
+   "label": "Profit attributable to owners",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2021?": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2022": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2022?": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2023": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2023?": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "associate_profit": {
+   "label": "Share of associate profit",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2021?": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2022": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2022?": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2023": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2023?": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "eps_basic": {
+   "label": "Reported basic EPS",
+   "unit": "INR per share",
+   "by_period": {
+    "FY2021?": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2022": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2022?": {
+     "value": "9.28",
+     "state": "reported",
+     "ev": "ev29"
+    },
+    "FY2023": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2023?": {
+     "value": "13.17",
+     "state": "reported",
+     "ev": "ev30"
+    }
+   }
+  },
+  "eps_diluted": {
+   "label": "Reported diluted EPS",
+   "unit": "INR per share",
+   "by_period": {
+    "FY2021?": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2022": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2022?": {
+     "value": "5.3",
+     "state": "reported",
+     "ev": "ev31"
+    },
+    "FY2023": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2023?": {
+     "value": "7.52",
+     "state": "reported",
+     "ev": "ev32"
+    }
+   }
+  }
+ },
+ "cash_flow": {
+  "unit": "INR crore",
+  "by_period": {
+   "FY2021?": {
+    "basis": "unspecified",
+    "origin": "provider",
+    "lines": {
+     "opening": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "cfo": {
+      "value": null,
+      "state": "not_in_source"
+     },
+     "cfi": {
+      "value": null,
+      "state": "not_in_source"
+     },
+     "cff": {
+      "value": null,
+      "state": "not_in_source"
+     },
+     "other_effects": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "net_change": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "closing": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "before_working_capital": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "receivables": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "other_assets": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "payables_and_liabilities": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "tax_paid": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "capex": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "net_investment_purchases": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "debt_principal": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "lease_principal": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "lease_interest": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "overdraft_interest": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "share_proceeds": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "dividends": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "current_accounts": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "settlement_accounts": {
+      "state": "not_in_source",
+      "value": null
+     }
+    },
+    "reconciliation": {
+     "state": "partial"
+    },
+    "provider_comparison": null
+   },
+   "FY2022": {
+    "basis": "unspecified",
+    "origin": "provider",
+    "lines": {
+     "opening": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "cfo": {
+      "value": "1674.43",
+      "state": "reported",
+      "ev": "ev23"
+     },
+     "cfi": {
+      "value": "-25704.46",
+      "state": "reported",
+      "ev": "ev25"
+     },
+     "cff": {
+      "value": "24136.9",
+      "state": "reported",
+      "ev": "ev27"
+     },
+     "other_effects": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "net_change": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "closing": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "before_working_capital": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "receivables": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "other_assets": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "payables_and_liabilities": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "tax_paid": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "capex": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "net_investment_purchases": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "debt_principal": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "lease_principal": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "lease_interest": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "overdraft_interest": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "share_proceeds": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "dividends": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "current_accounts": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "settlement_accounts": {
+      "state": "not_in_source",
+      "value": null
+     }
+    },
+    "reconciliation": {
+     "state": "partial"
+    },
+    "provider_comparison": null
+   },
+   "FY2022?": {
+    "basis": "unspecified",
+    "origin": "provider",
+    "lines": {
+     "opening": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "cfo": {
+      "value": null,
+      "state": "not_in_source"
+     },
+     "cfi": {
+      "value": null,
+      "state": "not_in_source"
+     },
+     "cff": {
+      "value": null,
+      "state": "not_in_source"
+     },
+     "other_effects": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "net_change": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "closing": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "before_working_capital": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "receivables": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "other_assets": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "payables_and_liabilities": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "tax_paid": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "capex": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "net_investment_purchases": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "debt_principal": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "lease_principal": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "lease_interest": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "overdraft_interest": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "share_proceeds": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "dividends": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "current_accounts": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "settlement_accounts": {
+      "state": "not_in_source",
+      "value": null
+     }
+    },
+    "reconciliation": {
+     "state": "partial"
+    },
+    "provider_comparison": null
+   },
+   "FY2023": {
+    "basis": "unspecified",
+    "origin": "provider",
+    "lines": {
+     "opening": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "cfo": {
+      "value": "9775.32",
+      "state": "reported",
+      "ev": "ev24"
+     },
+     "cfi": {
+      "value": "-35382.06",
+      "state": "reported",
+      "ev": "ev26"
+     },
+     "cff": {
+      "value": "25544.97",
+      "state": "reported",
+      "ev": "ev28"
+     },
+     "other_effects": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "net_change": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "closing": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "before_working_capital": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "receivables": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "other_assets": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "payables_and_liabilities": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "tax_paid": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "capex": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "net_investment_purchases": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "debt_principal": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "lease_principal": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "lease_interest": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "overdraft_interest": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "share_proceeds": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "dividends": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "current_accounts": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "settlement_accounts": {
+      "state": "not_in_source",
+      "value": null
+     }
+    },
+    "reconciliation": {
+     "state": "partial"
+    },
+    "provider_comparison": null
+   },
+   "FY2023?": {
+    "basis": "unspecified",
+    "origin": "provider",
+    "lines": {
+     "opening": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "cfo": {
+      "value": null,
+      "state": "not_in_source"
+     },
+     "cfi": {
+      "value": null,
+      "state": "not_in_source"
+     },
+     "cff": {
+      "value": null,
+      "state": "not_in_source"
+     },
+     "other_effects": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "net_change": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "closing": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "before_working_capital": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "receivables": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "other_assets": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "payables_and_liabilities": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "tax_paid": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "capex": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "net_investment_purchases": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "debt_principal": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "lease_principal": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "lease_interest": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "overdraft_interest": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "share_proceeds": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "dividends": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "current_accounts": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "settlement_accounts": {
+      "state": "not_in_source",
+      "value": null
+     }
+    },
+    "reconciliation": {
+     "state": "partial"
+    },
+    "provider_comparison": null
+   }
+  }
+ },
+ "documents": [],
+ "reconciliation": null,
+ "agent": {
+  "inventories": {
+   "company": "reliance-retail",
+   "field": "inventories",
+   "status": "found_in_provider",
+   "summary": "Inventories reported by the provider for FY2022, FY2023.",
+   "how_to_verify": "Open the provider row from the evidence drawer; reconcile with the issuer's annual report before relying on it.",
+   "expectation": {
+    "level": "possible",
+    "reason": "Consumer businesses range from no stock (franchises) to large stock (retail)."
+   },
+   "evidence": [],
+   "evidence_total": 0,
+   "next_checks": [
+    "Audited annual report: balance sheet 'Inventories' line and note on valuation"
+   ],
+   "trace": [
+    {
+     "step": 1,
+     "tool": "provider_lookup",
+     "input": {
+      "company": "reliance-retail",
+      "field": "inventories"
+     },
+     "output": {
+      "found": true,
+      "periods": [
+       "FY2022",
+       "FY2023"
+      ],
+      "detail": "line present in provider statements"
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 2,
+     "tool": "applicability_rule",
+     "input": {
+      "field": "inventories",
+      "business_model": "consumer"
+     },
+     "output": {
+      "expectation": "possible",
+      "reason": "Consumer businesses range from no stock (franchises) to large stock (retail)."
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 3,
+     "tool": "statement_line_check",
+     "input": {
+      "document": null
+     },
+     "output": {
+      "skipped": true,
+      "why": "no retained issuer balance sheet for this company"
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 4,
+     "tool": "document_search",
+     "input": {
+      "documents": [],
+      "patterns": [
+       "\\binventor(?:y|ies)\\b"
+      ]
+     },
+     "output": {
+      "documents_searched": [],
+      "pages_with_word_matches": 0,
+      "pages_with_naive_substring": 0,
+      "note": "naive substring 'inventor' also matches unrelated words (e.g. 'COMPANY' contains 'NPA'); word-boundary patterns used"
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 5,
+     "tool": "classify_passages",
+     "input": {
+      "passages": 0
+     },
+     "output": {
+      "by_kind": {}
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 6,
+     "tool": "verdict",
+     "input": {
+      "signals": {
+       "provider": true,
+       "numeric": 0,
+       "explicit_na": 0,
+       "line_check": null,
+       "expectation": "possible"
+      }
+     },
+     "output": {
+      "status": "found_in_provider",
+      "summary": "Inventories reported by the provider for FY2022, FY2023.",
+      "how_to_verify": "Open the provider row from the evidence drawer; reconcile with the issuer's annual report before relying on it."
+     },
+     "ms": 0.0
+    }
+   ],
+   "executed": "deterministic tool sequence (no language model call)"
+  },
+  "npa": {
+   "company": "reliance-retail",
+   "field": "npa",
+   "status": "inapplicable",
+   "summary": "Not applicable by business model: NPA is a lender asset-quality measure; this business has no loan book to classify.",
+   "how_to_verify": "No mentions to review; the business-model rule decides.",
+   "expectation": {
+    "level": "not_applicable",
+    "reason": "NPA is a lender asset-quality measure; this business has no loan book to classify."
+   },
+   "evidence": [],
+   "evidence_total": 0,
+   "next_checks": [
+    "Annual report notes: 'Stage 3 assets', 'Gross NPA', 'Net NPA' (RBI disclosure for NBFCs)"
+   ],
+   "trace": [
+    {
+     "step": 1,
+     "tool": "provider_lookup",
+     "input": {
+      "company": "reliance-retail",
+      "field": "gross_npa"
+     },
+     "output": {
+      "found": false,
+      "periods": [],
+      "detail": "no matching line in the provider's parsed statements"
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 2,
+     "tool": "applicability_rule",
+     "input": {
+      "field": "npa",
+      "business_model": "consumer"
+     },
+     "output": {
+      "expectation": "not_applicable",
+      "reason": "NPA is a lender asset-quality measure; this business has no loan book to classify."
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 3,
+     "tool": "statement_line_check",
+     "input": {
+      "document": null
+     },
+     "output": {
+      "skipped": true,
+      "why": "no retained issuer balance sheet for this company"
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 4,
+     "tool": "document_search",
+     "input": {
+      "documents": [],
+      "patterns": [
+       "\\bG?N?NPAs?\\b",
+       "\\bnon[- ]performing (?:assets?|loans?)\\b",
+       "\\bstage\\s*(?:3|III)\\s+(?:assets|loans)\\b"
+      ]
+     },
+     "output": {
+      "documents_searched": [],
+      "pages_with_word_matches": 0,
+      "pages_with_naive_substring": 0,
+      "note": "naive substring 'npa' also matches unrelated words (e.g. 'COMPANY' contains 'NPA'); word-boundary patterns used"
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 5,
+     "tool": "classify_passages",
+     "input": {
+      "passages": 0
+     },
+     "output": {
+      "by_kind": {}
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 6,
+     "tool": "verdict",
+     "input": {
+      "signals": {
+       "provider": false,
+       "numeric": 0,
+       "explicit_na": 0,
+       "line_check": null,
+       "expectation": "not_applicable"
+      }
+     },
+     "output": {
+      "status": "inapplicable",
+      "summary": "Not applicable by business model: NPA is a lender asset-quality measure; this business has no loan book to classify.",
+      "how_to_verify": "No mentions to review; the business-model rule decides."
+     },
+     "ms": 0.0
+    }
+   ],
+   "executed": "deterministic tool sequence (no language model call)"
+  }
+ },
+ "metrics": {
+  "FY2021?": {
+   "revenue_growth": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "(current / previous) - 1",
+    "inputs": {
+     "current": null,
+     "previous": null
+    },
+    "unit": "%",
+    "ev": []
+   },
+   "pat_margin": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "PAT / total income x 100",
+    "inputs": {
+     "pat": null,
+     "total_income": null
+    },
+    "unit": "%",
+    "ev": []
+   },
+   "net_profit_ratio": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "PAT / revenue from operations x 100",
+    "inputs": {
+     "pat": null,
+     "revenue_ops": null
+    },
+    "unit": "%",
+    "ev": []
+   },
+   "other_income_share": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "other income / total income x 100",
+    "inputs": {
+     "other_income": null,
+     "total_income": null
+    },
+    "unit": "%",
+    "ev": []
+   },
+   "current_ratio": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "current assets / current liabilities",
+    "inputs": {
+     "current_assets": null,
+     "current_liabilities": null
+    },
+    "unit": "x",
+    "ev": []
+   },
+   "quick_ratio": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "(current assets - inventories) / current liabilities",
+    "inputs": {
+     "current_assets": null,
+     "inventories": null,
+     "current_liabilities": null
+    },
+    "note": "inventories not disclosed in the available source; quick ratio withheld",
+    "unit": "x",
+    "ev": []
+   },
+   "roe": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "PAT / average of opening and closing equity x 100",
+    "inputs": {
+     "pat": null,
+     "average_equity": null
+    },
+    "unit": "%",
+    "ev": []
+   },
+   "roce": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "(PBT + finance cost) / (total assets - current liabilities) x 100",
+    "inputs": {
+     "ebit": null,
+     "capital_employed": null
+    },
+    "unit": "%",
+    "ev": []
+   },
+   "cfo_to_pat": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "cash from operations / PAT",
+    "inputs": {
+     "cfo": null,
+     "pat": null
+    },
+    "unit": "x",
+    "ev": []
+   }
+  },
+  "FY2022": {
+   "revenue_growth": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "(current / previous) - 1",
+    "inputs": {
+     "current": null,
+     "previous": null
+    },
+    "unit": "%",
+    "ev": []
+   },
+   "pat_margin": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "PAT / total income x 100",
+    "inputs": {
+     "pat": null,
+     "total_income": null
+    },
+    "unit": "%",
+    "ev": []
+   },
+   "net_profit_ratio": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "PAT / revenue from operations x 100",
+    "inputs": {
+     "pat": null,
+     "revenue_ops": null
+    },
+    "unit": "%",
+    "ev": []
+   },
+   "other_income_share": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "other income / total income x 100",
+    "inputs": {
+     "other_income": null,
+     "total_income": null
+    },
+    "unit": "%",
+    "ev": []
+   },
+   "current_ratio": {
+    "value": "0.9183",
+    "state": "ok",
+    "formula": "current assets / current liabilities",
+    "inputs": {
+     "current_assets": "41000.53",
+     "current_liabilities": "44647.04"
+    },
+    "unit": "x",
+    "ev": [
+     "ev15",
+     "ev17"
+    ]
+   },
+   "quick_ratio": {
+    "value": "0.4688",
+    "state": "ok",
+    "formula": "(current assets - inventories) / current liabilities",
+    "inputs": {
+     "current_assets": "41000.53",
+     "inventories": "20072.07",
+     "current_liabilities": "44647.04"
+    },
+    "unit": "x",
+    "ev": [
+     "ev15",
+     "ev17",
+     "ev19"
+    ]
+   },
+   "roe": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "PAT / average of opening and closing equity x 100",
+    "inputs": {
+     "pat": null,
+     "average_equity": null
+    },
+    "unit": "%",
+    "ev": [
+     "ev11"
+    ]
+   },
+   "roce": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "(PBT + finance cost) / (total assets - current liabilities) x 100",
+    "inputs": {
+     "ebit": null,
+     "capital_employed": "44083.81"
+    },
+    "unit": "%",
+    "ev": [
+     "ev9",
+     "ev17"
+    ]
+   },
+   "cfo_to_pat": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "cash from operations / PAT",
+    "inputs": {
+     "cfo": "1674.43",
+     "pat": null
+    },
+    "unit": "x",
+    "ev": [
+     "ev23"
+    ]
+   }
+  },
+  "FY2022?": {
+   "revenue_growth": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "(current / previous) - 1",
+    "inputs": {
+     "current": null,
+     "previous": null
+    },
+    "unit": "%",
+    "ev": []
+   },
+   "pat_margin": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "PAT / total income x 100",
+    "inputs": {
+     "pat": "4937.63",
+     "total_income": null
+    },
+    "unit": "%",
+    "ev": [
+     "ev7"
+    ]
+   },
+   "net_profit_ratio": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "PAT / revenue from operations x 100",
+    "inputs": {
+     "pat": "4937.63",
+     "revenue_ops": null
+    },
+    "unit": "%",
+    "ev": [
+     "ev7"
+    ]
+   },
+   "other_income_share": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "other income / total income x 100",
+    "inputs": {
+     "other_income": null,
+     "total_income": null
+    },
+    "unit": "%",
+    "ev": []
+   },
+   "current_ratio": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "current assets / current liabilities",
+    "inputs": {
+     "current_assets": null,
+     "current_liabilities": null
+    },
+    "unit": "x",
+    "ev": []
+   },
+   "quick_ratio": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "(current assets - inventories) / current liabilities",
+    "inputs": {
+     "current_assets": null,
+     "inventories": null,
+     "current_liabilities": null
+    },
+    "note": "inventories not disclosed in the available source; quick ratio withheld",
+    "unit": "x",
+    "ev": []
+   },
+   "roe": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "PAT / average of opening and closing equity x 100",
+    "inputs": {
+     "pat": "4937.63",
+     "average_equity": null
+    },
+    "unit": "%",
+    "ev": [
+     "ev7",
+     "ev11"
+    ]
+   },
+   "roce": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "(PBT + finance cost) / (total assets - current liabilities) x 100",
+    "inputs": {
+     "ebit": null,
+     "capital_employed": null
+    },
+    "unit": "%",
+    "ev": [
+     "ev3"
+    ]
+   },
+   "cfo_to_pat": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "cash from operations / PAT",
+    "inputs": {
+     "cfo": null,
+     "pat": "4937.63"
+    },
+    "unit": "x",
+    "ev": [
+     "ev7"
+    ]
+   }
+  },
+  "FY2023": {
+   "revenue_growth": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "(current / previous) - 1",
+    "inputs": {
+     "current": null,
+     "previous": null
+    },
+    "unit": "%",
+    "ev": []
+   },
+   "pat_margin": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "PAT / total income x 100",
+    "inputs": {
+     "pat": null,
+     "total_income": null
+    },
+    "unit": "%",
+    "ev": []
+   },
+   "net_profit_ratio": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "PAT / revenue from operations x 100",
+    "inputs": {
+     "pat": null,
+     "revenue_ops": null
+    },
+    "unit": "%",
+    "ev": []
+   },
+   "other_income_share": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "other income / total income x 100",
+    "inputs": {
+     "other_income": null,
+     "total_income": null
+    },
+    "unit": "%",
+    "ev": []
+   },
+   "current_ratio": {
+    "value": "1.0054",
+    "state": "ok",
+    "formula": "current assets / current liabilities",
+    "inputs": {
+     "current_assets": "44436.76",
+     "current_liabilities": "44199.78"
+    },
+    "unit": "x",
+    "ev": [
+     "ev16",
+     "ev18"
+    ]
+   },
+   "quick_ratio": {
+    "value": "0.4404",
+    "state": "ok",
+    "formula": "(current assets - inventories) / current liabilities",
+    "inputs": {
+     "current_assets": "44436.76",
+     "inventories": "24969.1",
+     "current_liabilities": "44199.78"
+    },
+    "unit": "x",
+    "ev": [
+     "ev16",
+     "ev18",
+     "ev20"
+    ]
+   },
+   "roe": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "PAT / average of opening and closing equity x 100",
+    "inputs": {
+     "pat": null,
+     "average_equity": null
+    },
+    "unit": "%",
+    "ev": [
+     "ev12"
+    ]
+   },
+   "roce": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "(PBT + finance cost) / (total assets - current liabilities) x 100",
+    "inputs": {
+     "ebit": null,
+     "capital_employed": "84260.06"
+    },
+    "unit": "%",
+    "ev": [
+     "ev10",
+     "ev18"
+    ]
+   },
+   "cfo_to_pat": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "cash from operations / PAT",
+    "inputs": {
+     "cfo": "9775.32",
+     "pat": null
+    },
+    "unit": "x",
+    "ev": [
+     "ev24"
+    ]
+   }
+  },
+  "FY2023?": {
+   "revenue_growth": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "(current / previous) - 1",
+    "inputs": {
+     "current": null,
+     "previous": null
+    },
+    "unit": "%",
+    "ev": []
+   },
+   "pat_margin": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "PAT / total income x 100",
+    "inputs": {
+     "pat": "7008.82",
+     "total_income": null
+    },
+    "unit": "%",
+    "ev": [
+     "ev8"
+    ]
+   },
+   "net_profit_ratio": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "PAT / revenue from operations x 100",
+    "inputs": {
+     "pat": "7008.82",
+     "revenue_ops": null
+    },
+    "unit": "%",
+    "ev": [
+     "ev8"
+    ]
+   },
+   "other_income_share": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "other income / total income x 100",
+    "inputs": {
+     "other_income": null,
+     "total_income": null
+    },
+    "unit": "%",
+    "ev": []
+   },
+   "current_ratio": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "current assets / current liabilities",
+    "inputs": {
+     "current_assets": null,
+     "current_liabilities": null
+    },
+    "unit": "x",
+    "ev": []
+   },
+   "quick_ratio": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "(current assets - inventories) / current liabilities",
+    "inputs": {
+     "current_assets": null,
+     "inventories": null,
+     "current_liabilities": null
+    },
+    "note": "inventories not disclosed in the available source; quick ratio withheld",
+    "unit": "x",
+    "ev": []
+   },
+   "roe": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "PAT / average of opening and closing equity x 100",
+    "inputs": {
+     "pat": "7008.82",
+     "average_equity": null
+    },
+    "unit": "%",
+    "ev": [
+     "ev8",
+     "ev12"
+    ]
+   },
+   "roce": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "(PBT + finance cost) / (total assets - current liabilities) x 100",
+    "inputs": {
+     "ebit": null,
+     "capital_employed": null
+    },
+    "unit": "%",
+    "ev": [
+     "ev4"
+    ]
+   },
+   "cfo_to_pat": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "cash from operations / PAT",
+    "inputs": {
+     "cfo": null,
+     "pat": "7008.82"
+    },
+    "unit": "x",
+    "ev": [
+     "ev8"
+    ]
+   }
+  }
+ },
+ "valuation": {
+  "period": "FY2023?",
+  "shares_used": "9324839513",
+  "shares_source": "shares_fundamentals",
+  "market_cap": {
+   "value": "1188917.0379",
+   "state": "ok",
+   "formula": "price (INR) x shares outstanding / 1e7",
+   "inputs": {
+    "price_inr": "1275.00",
+    "shares": "9324839513"
+   },
+   "unit": "INR crore"
+  },
+  "eps": {
+   "value": "7.5163",
+   "state": "ok",
+   "formula": "PAT (INR crore) x 1e7 / shares outstanding",
+   "inputs": {
+    "pat_cr": "7008.82",
+    "shares": "9324839513"
+   },
+   "unit": "INR"
+  },
+  "eps_reported_basic": "13.17",
+  "eps_reported_diluted": "7.52",
+  "pe": {
+   "value": "96.8109",
+   "state": "ok",
+   "formula": "price / EPS",
+   "inputs": {
+    "price_inr": "1275.00",
+    "eps": "13.17"
+   },
+   "unit": "x",
+   "eps_basis": "reported_basic",
+   "ev": [
+    "ev30",
+    "ev1"
+   ],
+   "note": "Uses reported annual basic EPS."
+  },
+  "pe_reported": {
+   "value": "96.8109",
+   "state": "ok",
+   "formula": "price / EPS",
+   "inputs": {
+    "price_inr": "1275.00",
+    "eps": "13.17"
+   },
+   "unit": "x",
+   "eps_basis": "reported_basic",
+   "ev": [
+    "ev30",
+    "ev1"
+   ]
+  },
+  "pe_proxy": {
+   "value": "169.6316",
+   "state": "ok",
+   "formula": "price / EPS",
+   "inputs": {
+    "price_inr": "1275.00",
+    "eps": "7.516290216286106285076608374"
+   },
+   "unit": "x",
+   "eps_basis": "pat_share_proxy",
+   "ev": [
+    "ev8",
+    "ev1"
+   ]
+  },
+  "pb": {
+   "value": null,
+   "state": "missing_input",
+   "formula": "market cap / total equity",
+   "inputs": {
+    "market_cap": "1188917.0379075",
+    "total_equity": null
+   },
+   "unit": "x"
+  },
+  "ps": {
+   "value": null,
+   "state": "missing_input",
+   "formula": "market cap / operating revenue",
+   "inputs": {
+    "market_cap": "1188917.0379075",
+    "operating_revenue": null
+   },
+   "unit": "x"
+  },
+  "provider": {
+   "pe": "169.55",
+   "mcap": "1,188,917.04 Crore",
+   "eps": "7.52"
+  },
+  "note": "Valued at an indicative unlisted dealer quote against the latest fiscal-year PAT; not a traded market price."
+ },
+ "coverage_gaps": [
+  {
+   "field": "eps",
+   "state": "not_in_source",
+   "label": "EPS (provider)"
+  },
+  {
+   "field": "shares_outstanding",
+   "state": "not_in_source",
+   "label": "Shares outstanding"
+  }
+ ],
+ "checks": [
+  {
+   "check": "balance_identity",
+   "period": "FY2022",
+   "result": "pass",
+   "detail": "assets 88730.85 - (equity 30412.04 + liabilities 58318.81) = 0.00"
+  },
+  {
+   "check": "balance_identity",
+   "period": "FY2023",
+   "result": "pass",
+   "detail": "assets 128459.84 - (equity 37222.83 + liabilities 91237.01) = 0.00"
+  },
+  {
+   "check": "freshness",
+   "result": "stale",
+   "detail": "latest period FY2023? is older than FY2025"
+  }
+ ],
+ "provider_ratios": {
+  "Current Ratio (in times)": {
+   "FY2023": {
+    "raw_text": "1.01",
+    "state": "reported"
+   },
+   "FY2022": {
+    "raw_text": "0.91",
+    "state": "reported"
+   }
+  },
+  "Debt-Equity Ratio (in times)": {
+   "FY2023": {
+    "raw_text": "1.91",
+    "state": "reported"
+   },
+   "FY2022": {
+    "raw_text": "1.35",
+    "state": "reported"
+   }
+  },
+  "Debt Service Coverage Ratio (in times)": {
+   "FY2023": {
+    "raw_text": "3.35",
+    "state": "reported"
+   },
+   "FY2022": {
+    "raw_text": "4.33",
+    "state": "reported"
+   }
+  },
+  "Return on Equity Ratio (in %)": {
+   "FY2023": {
+    "raw_text": "20.85%",
+    "state": "reported"
+   },
+   "FY2022": {
+    "raw_text": "17.75%",
+    "state": "reported"
+   }
+  },
+  "Inventory Turnover Ratio (in times)": {
+   "FY2023": {
+    "raw_text": "8.74",
+    "state": "reported"
+   },
+   "FY2022": {
+    "raw_text": "9.19",
+    "state": "reported"
+   }
+  },
+  "Trade Receivables Turnover Ratio (in times)": {
+   "FY2023": {
+    "raw_text": "35.18",
+    "state": "reported"
+   },
+   "FY2022": {
+    "raw_text": "26.1",
+    "state": "reported"
+   }
+  },
+  "Trade Payable Turnover Ratio (in times)": {
+   "FY2023": {
+    "raw_text": "14.76",
+    "state": "reported"
+   },
+   "FY2022": {
+    "raw_text": "16.07",
+    "state": "reported"
+   }
+  },
+  "Net Capital Turnover Ratio (in times)": {
+   "FY2023": {
+    "raw_text": "9.47",
+    "state": "reported"
+   },
+   "FY2022": {
+    "raw_text": "7.81",
+    "state": "reported"
+   }
+  },
+  "Net Profit Ratio (in %)": {
+   "FY2023": {
+    "raw_text": "2.80%",
+    "state": "reported"
+   },
+   "FY2022": {
+    "raw_text": "2.55%",
+    "state": "reported"
+   }
+  },
+  "Return on Capital Employed Ratio (in %)": {
+   "FY2023": {
+    "raw_text": "17.87%",
+    "state": "reported"
+   },
+   "FY2022": {
+    "raw_text": "19.28%",
+    "state": "reported"
+   }
+  },
+  "Dividend per Share": {
+   "FY2023?": {
+    "raw_text": "0",
+    "state": "explicit_zero"
+   },
+   "FY2022?": {
+    "raw_text": "0",
+    "state": "explicit_zero"
+   },
+   "FY2021?": {
+    "raw_text": "0",
+    "state": "explicit_zero"
+   }
+  },
+  "Retained Earnings (In Rs. Crores)": {
+   "FY2023?": {
+    "raw_text": "279.90",
+    "state": "reported"
+   },
+   "FY2022?": {
+    "raw_text": "210.85",
+    "state": "reported"
+   },
+   "FY2021?": {
+    "raw_text": "161.5",
+    "state": "reported"
+   }
+  }
+ },
+ "evidence": {
+  "ev1": {
+   "source": "WWIPL company overview",
+   "url": "https://wwipl.com/unlisted-shares/reliance-retail-limited",
+   "retrieved_at": "2026-11-23T16:45:32+00:00",
+   "sha256": "bc314e9556dbc72d95e033b1b083b926b089714799c940654c3838a03679aca6",
+   "capture_run": "20261123T164433Z",
+   "file": "reliance-retail-overview.html",
+   "raw_label": "Last Traded Price",
+   "raw_text": "1,275.00"
+  },
+  "ev2": {
+   "source": "WWIPL company overview",
+   "url": "https://wwipl.com/unlisted-shares/reliance-retail-limited",
+   "retrieved_at": "2026-11-23T16:45:32+00:00",
+   "sha256": "bc314e9556dbc72d95e033b1b083b926b089714799c940654c3838a03679aca6",
+   "capture_run": "20261123T164433Z",
+   "file": "reliance-retail-overview.html",
+   "raw_label": "Company fundamentals block"
+  },
+  "ev3": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/reliance-retail-limited/financial",
+   "retrieved_at": "2026-11-23T16:45:33+00:00",
+   "sha256": "380c88e7ddb93f329e3b7cf38823423fc3ed1df89cb6e7ce870d9485a1f20e55",
+   "capture_run": "20261123T164433Z",
+   "file": "reliance-retail-financial.html",
+   "raw_label": "Finance Costs",
+   "raw_text": "1,985.88",
+   "raw_unit": "INR crore",
+   "period": "FY2022?",
+   "period_label": "2022",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "reliance-retail-financial.html",
+    "table_index": 2,
+    "row_index": 9,
+    "heading": "Reliance Retail Limited Profit & Loss Statement (In Rs. Crore)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev4": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/reliance-retail-limited/financial",
+   "retrieved_at": "2026-11-23T16:45:33+00:00",
+   "sha256": "380c88e7ddb93f329e3b7cf38823423fc3ed1df89cb6e7ce870d9485a1f20e55",
+   "capture_run": "20261123T164433Z",
+   "file": "reliance-retail-financial.html",
+   "raw_label": "Finance Costs",
+   "raw_text": "3,925.72",
+   "raw_unit": "INR crore",
+   "period": "FY2023?",
+   "period_label": "2023",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "reliance-retail-financial.html",
+    "table_index": 2,
+    "row_index": 9,
+    "heading": "Reliance Retail Limited Profit & Loss Statement (In Rs. Crore)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev5": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/reliance-retail-limited/financial",
+   "retrieved_at": "2026-11-23T16:45:33+00:00",
+   "sha256": "380c88e7ddb93f329e3b7cf38823423fc3ed1df89cb6e7ce870d9485a1f20e55",
+   "capture_run": "20261123T164433Z",
+   "file": "reliance-retail-financial.html",
+   "raw_label": "Depreciation and Amortisation Expenses",
+   "raw_text": "1,794.24",
+   "raw_unit": "INR crore",
+   "period": "FY2022?",
+   "period_label": "2022",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "reliance-retail-financial.html",
+    "table_index": 2,
+    "row_index": 10,
+    "heading": "Reliance Retail Limited Profit & Loss Statement (In Rs. Crore)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev6": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/reliance-retail-limited/financial",
+   "retrieved_at": "2026-11-23T16:45:33+00:00",
+   "sha256": "380c88e7ddb93f329e3b7cf38823423fc3ed1df89cb6e7ce870d9485a1f20e55",
+   "capture_run": "20261123T164433Z",
+   "file": "reliance-retail-financial.html",
+   "raw_label": "Depreciation and Amortisation Expenses",
+   "raw_text": "2,992.16",
+   "raw_unit": "INR crore",
+   "period": "FY2023?",
+   "period_label": "2023",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "reliance-retail-financial.html",
+    "table_index": 2,
+    "row_index": 10,
+    "heading": "Reliance Retail Limited Profit & Loss Statement (In Rs. Crore)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev7": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/reliance-retail-limited/financial",
+   "retrieved_at": "2026-11-23T16:45:33+00:00",
+   "sha256": "380c88e7ddb93f329e3b7cf38823423fc3ed1df89cb6e7ce870d9485a1f20e55",
+   "capture_run": "20261123T164433Z",
+   "file": "reliance-retail-financial.html",
+   "raw_label": "IX. Profit for the Year (VII-VIII)",
+   "raw_text": "4,937.63",
+   "raw_unit": "INR crore",
+   "period": "FY2022?",
+   "period_label": "2022",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "reliance-retail-financial.html",
+    "table_index": 2,
+    "row_index": 19,
+    "heading": "Reliance Retail Limited Profit & Loss Statement (In Rs. Crore)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev8": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/reliance-retail-limited/financial",
+   "retrieved_at": "2026-11-23T16:45:33+00:00",
+   "sha256": "380c88e7ddb93f329e3b7cf38823423fc3ed1df89cb6e7ce870d9485a1f20e55",
+   "capture_run": "20261123T164433Z",
+   "file": "reliance-retail-financial.html",
+   "raw_label": "IX. Profit for the Year (VII-VIII)",
+   "raw_text": "7,008.82",
+   "raw_unit": "INR crore",
+   "period": "FY2023?",
+   "period_label": "2023",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "reliance-retail-financial.html",
+    "table_index": 2,
+    "row_index": 19,
+    "heading": "Reliance Retail Limited Profit & Loss Statement (In Rs. Crore)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev9": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/reliance-retail-limited/financial",
+   "retrieved_at": "2026-11-23T16:45:33+00:00",
+   "sha256": "380c88e7ddb93f329e3b7cf38823423fc3ed1df89cb6e7ce870d9485a1f20e55",
+   "capture_run": "20261123T164433Z",
+   "file": "reliance-retail-financial.html",
+   "raw_label": "Total Assets",
+   "raw_text": "88,730.85",
+   "raw_unit": "INR crore",
+   "period": "FY2022",
+   "period_label": "As at 31 March 2022",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "reliance-retail-financial.html",
+    "table_index": 1,
+    "row_index": 22,
+    "heading": "Reliance Retail Limited Balance Sheet (In Rs. Crore)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev10": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/reliance-retail-limited/financial",
+   "retrieved_at": "2026-11-23T16:45:33+00:00",
+   "sha256": "380c88e7ddb93f329e3b7cf38823423fc3ed1df89cb6e7ce870d9485a1f20e55",
+   "capture_run": "20261123T164433Z",
+   "file": "reliance-retail-financial.html",
+   "raw_label": "Total Assets",
+   "raw_text": "1,28,459.84",
+   "raw_unit": "INR crore",
+   "period": "FY2023",
+   "period_label": "As at 31 March 2023",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "reliance-retail-financial.html",
+    "table_index": 1,
+    "row_index": 22,
+    "heading": "Reliance Retail Limited Balance Sheet (In Rs. Crore)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev11": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/reliance-retail-limited/financial",
+   "retrieved_at": "2026-11-23T16:45:33+00:00",
+   "sha256": "380c88e7ddb93f329e3b7cf38823423fc3ed1df89cb6e7ce870d9485a1f20e55",
+   "capture_run": "20261123T164433Z",
+   "file": "reliance-retail-financial.html",
+   "raw_label": "Total Equity",
+   "raw_text": "30,412.04",
+   "raw_unit": "INR crore",
+   "period": "FY2022",
+   "period_label": "As at 31 March 2022",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "reliance-retail-financial.html",
+    "table_index": 1,
+    "row_index": 27,
+    "heading": "Reliance Retail Limited Balance Sheet (In Rs. Crore)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev12": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/reliance-retail-limited/financial",
+   "retrieved_at": "2026-11-23T16:45:33+00:00",
+   "sha256": "380c88e7ddb93f329e3b7cf38823423fc3ed1df89cb6e7ce870d9485a1f20e55",
+   "capture_run": "20261123T164433Z",
+   "file": "reliance-retail-financial.html",
+   "raw_label": "Total Equity",
+   "raw_text": "37,222.83",
+   "raw_unit": "INR crore",
+   "period": "FY2023",
+   "period_label": "As at 31 March 2023",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "reliance-retail-financial.html",
+    "table_index": 1,
+    "row_index": 27,
+    "heading": "Reliance Retail Limited Balance Sheet (In Rs. Crore)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev13": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/reliance-retail-limited/financial",
+   "retrieved_at": "2026-11-23T16:45:33+00:00",
+   "sha256": "380c88e7ddb93f329e3b7cf38823423fc3ed1df89cb6e7ce870d9485a1f20e55",
+   "capture_run": "20261123T164433Z",
+   "file": "reliance-retail-financial.html",
+   "raw_label": "Total Liabilities",
+   "raw_text": "58,318.81",
+   "raw_unit": "INR crore",
+   "period": "FY2022",
+   "period_label": "As at 31 March 2022",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "reliance-retail-financial.html",
+    "table_index": 1,
+    "row_index": 43,
+    "heading": "Reliance Retail Limited Balance Sheet (In Rs. Crore)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev14": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/reliance-retail-limited/financial",
+   "retrieved_at": "2026-11-23T16:45:33+00:00",
+   "sha256": "380c88e7ddb93f329e3b7cf38823423fc3ed1df89cb6e7ce870d9485a1f20e55",
+   "capture_run": "20261123T164433Z",
+   "file": "reliance-retail-financial.html",
+   "raw_label": "Total Liabilities",
+   "raw_text": "91,237.01",
+   "raw_unit": "INR crore",
+   "period": "FY2023",
+   "period_label": "As at 31 March 2023",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "reliance-retail-financial.html",
+    "table_index": 1,
+    "row_index": 43,
+    "heading": "Reliance Retail Limited Balance Sheet (In Rs. Crore)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev15": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/reliance-retail-limited/financial",
+   "retrieved_at": "2026-11-23T16:45:33+00:00",
+   "sha256": "380c88e7ddb93f329e3b7cf38823423fc3ed1df89cb6e7ce870d9485a1f20e55",
+   "capture_run": "20261123T164433Z",
+   "file": "reliance-retail-financial.html",
+   "raw_label": "Total Current Assets",
+   "raw_text": "41,000.53",
+   "raw_unit": "INR crore",
+   "period": "FY2022",
+   "period_label": "As at 31 March 2022",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "reliance-retail-financial.html",
+    "table_index": 1,
+    "row_index": 21,
+    "heading": "Reliance Retail Limited Balance Sheet (In Rs. Crore)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev16": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/reliance-retail-limited/financial",
+   "retrieved_at": "2026-11-23T16:45:33+00:00",
+   "sha256": "380c88e7ddb93f329e3b7cf38823423fc3ed1df89cb6e7ce870d9485a1f20e55",
+   "capture_run": "20261123T164433Z",
+   "file": "reliance-retail-financial.html",
+   "raw_label": "Total Current Assets",
+   "raw_text": "44,436.76",
+   "raw_unit": "INR crore",
+   "period": "FY2023",
+   "period_label": "As at 31 March 2023",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "reliance-retail-financial.html",
+    "table_index": 1,
+    "row_index": 21,
+    "heading": "Reliance Retail Limited Balance Sheet (In Rs. Crore)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev17": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/reliance-retail-limited/financial",
+   "retrieved_at": "2026-11-23T16:45:33+00:00",
+   "sha256": "380c88e7ddb93f329e3b7cf38823423fc3ed1df89cb6e7ce870d9485a1f20e55",
+   "capture_run": "20261123T164433Z",
+   "file": "reliance-retail-financial.html",
+   "raw_label": "Total Current Liabilities",
+   "raw_text": "44,647.04",
+   "raw_unit": "INR crore",
+   "period": "FY2022",
+   "period_label": "As at 31 March 2022",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "reliance-retail-financial.html",
+    "table_index": 1,
+    "row_index": 42,
+    "heading": "Reliance Retail Limited Balance Sheet (In Rs. Crore)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev18": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/reliance-retail-limited/financial",
+   "retrieved_at": "2026-11-23T16:45:33+00:00",
+   "sha256": "380c88e7ddb93f329e3b7cf38823423fc3ed1df89cb6e7ce870d9485a1f20e55",
+   "capture_run": "20261123T164433Z",
+   "file": "reliance-retail-financial.html",
+   "raw_label": "Total Current Liabilities",
+   "raw_text": "44,199.78",
+   "raw_unit": "INR crore",
+   "period": "FY2023",
+   "period_label": "As at 31 March 2023",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "reliance-retail-financial.html",
+    "table_index": 1,
+    "row_index": 42,
+    "heading": "Reliance Retail Limited Balance Sheet (In Rs. Crore)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev19": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/reliance-retail-limited/financial",
+   "retrieved_at": "2026-11-23T16:45:33+00:00",
+   "sha256": "380c88e7ddb93f329e3b7cf38823423fc3ed1df89cb6e7ce870d9485a1f20e55",
+   "capture_run": "20261123T164433Z",
+   "file": "reliance-retail-financial.html",
+   "raw_label": "Inventories",
+   "raw_text": "20,072.07",
+   "raw_unit": "INR crore",
+   "period": "FY2022",
+   "period_label": "As at 31 March 2022",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "reliance-retail-financial.html",
+    "table_index": 1,
+    "row_index": 14,
+    "heading": "Reliance Retail Limited Balance Sheet (In Rs. Crore)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev20": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/reliance-retail-limited/financial",
+   "retrieved_at": "2026-11-23T16:45:33+00:00",
+   "sha256": "380c88e7ddb93f329e3b7cf38823423fc3ed1df89cb6e7ce870d9485a1f20e55",
+   "capture_run": "20261123T164433Z",
+   "file": "reliance-retail-financial.html",
+   "raw_label": "Inventories",
+   "raw_text": "24,969.10",
+   "raw_unit": "INR crore",
+   "period": "FY2023",
+   "period_label": "As at 31 March 2023",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "reliance-retail-financial.html",
+    "table_index": 1,
+    "row_index": 14,
+    "heading": "Reliance Retail Limited Balance Sheet (In Rs. Crore)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev21": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/reliance-retail-limited/financial",
+   "retrieved_at": "2026-11-23T16:45:33+00:00",
+   "sha256": "380c88e7ddb93f329e3b7cf38823423fc3ed1df89cb6e7ce870d9485a1f20e55",
+   "capture_run": "20261123T164433Z",
+   "file": "reliance-retail-financial.html",
+   "raw_label": "Cash and Cash Equivalents",
+   "raw_text": "466.42",
+   "raw_unit": "INR crore",
+   "period": "FY2022",
+   "period_label": "As at 31 March 2022",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "reliance-retail-financial.html",
+    "table_index": 1,
+    "row_index": 18,
+    "heading": "Reliance Retail Limited Balance Sheet (In Rs. Crore)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev22": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/reliance-retail-limited/financial",
+   "retrieved_at": "2026-11-23T16:45:33+00:00",
+   "sha256": "380c88e7ddb93f329e3b7cf38823423fc3ed1df89cb6e7ce870d9485a1f20e55",
+   "capture_run": "20261123T164433Z",
+   "file": "reliance-retail-financial.html",
+   "raw_label": "Cash and Cash Equivalents",
+   "raw_text": "401.38",
+   "raw_unit": "INR crore",
+   "period": "FY2023",
+   "period_label": "As at 31 March 2023",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "reliance-retail-financial.html",
+    "table_index": 1,
+    "row_index": 18,
+    "heading": "Reliance Retail Limited Balance Sheet (In Rs. Crore)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev23": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/reliance-retail-limited/financial",
+   "retrieved_at": "2026-11-23T16:45:33+00:00",
+   "sha256": "380c88e7ddb93f329e3b7cf38823423fc3ed1df89cb6e7ce870d9485a1f20e55",
+   "capture_run": "20261123T164433Z",
+   "file": "reliance-retail-financial.html",
+   "raw_label": "Net Cash generated from Operating Activities",
+   "raw_text": "1,674.43",
+   "raw_unit": "INR crore",
+   "period": "FY2022",
+   "period_label": "31 March 2022",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "reliance-retail-financial.html",
+    "table_index": 3,
+    "row_index": 20,
+    "heading": "RELIANCE RETAIL Limited’s Cash Flow Statement (In Rs. Crores)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev24": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/reliance-retail-limited/financial",
+   "retrieved_at": "2026-11-23T16:45:33+00:00",
+   "sha256": "380c88e7ddb93f329e3b7cf38823423fc3ed1df89cb6e7ce870d9485a1f20e55",
+   "capture_run": "20261123T164433Z",
+   "file": "reliance-retail-financial.html",
+   "raw_label": "Net Cash generated from Operating Activities",
+   "raw_text": "9,775.32",
+   "raw_unit": "INR crore",
+   "period": "FY2023",
+   "period_label": "31st March 2023",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "reliance-retail-financial.html",
+    "table_index": 3,
+    "row_index": 20,
+    "heading": "RELIANCE RETAIL Limited’s Cash Flow Statement (In Rs. Crores)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev25": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/reliance-retail-limited/financial",
+   "retrieved_at": "2026-11-23T16:45:33+00:00",
+   "sha256": "380c88e7ddb93f329e3b7cf38823423fc3ed1df89cb6e7ce870d9485a1f20e55",
+   "capture_run": "20261123T164433Z",
+   "file": "reliance-retail-financial.html",
+   "raw_label": "Net Cash Flow used in Investing Activities",
+   "raw_text": "-25,704.46",
+   "raw_unit": "INR crore",
+   "period": "FY2022",
+   "period_label": "31 March 2022",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "reliance-retail-financial.html",
+    "table_index": 3,
+    "row_index": 28,
+    "heading": "RELIANCE RETAIL Limited’s Cash Flow Statement (In Rs. Crores)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev26": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/reliance-retail-limited/financial",
+   "retrieved_at": "2026-11-23T16:45:33+00:00",
+   "sha256": "380c88e7ddb93f329e3b7cf38823423fc3ed1df89cb6e7ce870d9485a1f20e55",
+   "capture_run": "20261123T164433Z",
+   "file": "reliance-retail-financial.html",
+   "raw_label": "Net Cash Flow used in Investing Activities",
+   "raw_text": "-35,382.06",
+   "raw_unit": "INR crore",
+   "period": "FY2023",
+   "period_label": "31st March 2023",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "reliance-retail-financial.html",
+    "table_index": 3,
+    "row_index": 28,
+    "heading": "RELIANCE RETAIL Limited’s Cash Flow Statement (In Rs. Crores)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev27": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/reliance-retail-limited/financial",
+   "retrieved_at": "2026-11-23T16:45:33+00:00",
+   "sha256": "380c88e7ddb93f329e3b7cf38823423fc3ed1df89cb6e7ce870d9485a1f20e55",
+   "capture_run": "20261123T164433Z",
+   "file": "reliance-retail-financial.html",
+   "raw_label": "Net Cash generated from Financing Activities",
+   "raw_text": "24,136.90",
+   "raw_unit": "INR crore",
+   "period": "FY2022",
+   "period_label": "31 March 2022",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "reliance-retail-financial.html",
+    "table_index": 3,
+    "row_index": 34,
+    "heading": "RELIANCE RETAIL Limited’s Cash Flow Statement (In Rs. Crores)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev28": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/reliance-retail-limited/financial",
+   "retrieved_at": "2026-11-23T16:45:33+00:00",
+   "sha256": "380c88e7ddb93f329e3b7cf38823423fc3ed1df89cb6e7ce870d9485a1f20e55",
+   "capture_run": "20261123T164433Z",
+   "file": "reliance-retail-financial.html",
+   "raw_label": "Net Cash generated from Financing Activities",
+   "raw_text": "25,544.97",
+   "raw_unit": "INR crore",
+   "period": "FY2023",
+   "period_label": "31st March 2023",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "reliance-retail-financial.html",
+    "table_index": 3,
+    "row_index": 34,
+    "heading": "RELIANCE RETAIL Limited’s Cash Flow Statement (In Rs. Crores)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev29": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/reliance-retail-limited/financial",
+   "retrieved_at": "2026-11-23T16:45:33+00:00",
+   "sha256": "380c88e7ddb93f329e3b7cf38823423fc3ed1df89cb6e7ce870d9485a1f20e55",
+   "capture_run": "20261123T164433Z",
+   "file": "reliance-retail-financial.html",
+   "raw_label": "a) Basic (Rs.)",
+   "raw_text": "9.28",
+   "raw_unit": "INR per share",
+   "period": "FY2022?",
+   "period_label": "2022",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "reliance-retail-financial.html",
+    "table_index": 2,
+    "row_index": 37,
+    "heading": "Reliance Retail Limited Profit & Loss Statement (In Rs. Crore)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev30": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/reliance-retail-limited/financial",
+   "retrieved_at": "2026-11-23T16:45:33+00:00",
+   "sha256": "380c88e7ddb93f329e3b7cf38823423fc3ed1df89cb6e7ce870d9485a1f20e55",
+   "capture_run": "20261123T164433Z",
+   "file": "reliance-retail-financial.html",
+   "raw_label": "a) Basic (Rs.)",
+   "raw_text": "13.17",
+   "raw_unit": "INR per share",
+   "period": "FY2023?",
+   "period_label": "2023",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "reliance-retail-financial.html",
+    "table_index": 2,
+    "row_index": 37,
+    "heading": "Reliance Retail Limited Profit & Loss Statement (In Rs. Crore)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev31": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/reliance-retail-limited/financial",
+   "retrieved_at": "2026-11-23T16:45:33+00:00",
+   "sha256": "380c88e7ddb93f329e3b7cf38823423fc3ed1df89cb6e7ce870d9485a1f20e55",
+   "capture_run": "20261123T164433Z",
+   "file": "reliance-retail-financial.html",
+   "raw_label": "b) Diluted (Rs.)",
+   "raw_text": "5.30",
+   "raw_unit": "INR per share",
+   "period": "FY2022?",
+   "period_label": "2022",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "reliance-retail-financial.html",
+    "table_index": 2,
+    "row_index": 38,
+    "heading": "Reliance Retail Limited Profit & Loss Statement (In Rs. Crore)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev32": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/reliance-retail-limited/financial",
+   "retrieved_at": "2026-11-23T16:45:33+00:00",
+   "sha256": "380c88e7ddb93f329e3b7cf38823423fc3ed1df89cb6e7ce870d9485a1f20e55",
+   "capture_run": "20261123T164433Z",
+   "file": "reliance-retail-financial.html",
+   "raw_label": "b) Diluted (Rs.)",
+   "raw_text": "7.52",
+   "raw_unit": "INR per share",
+   "period": "FY2023?",
+   "period_label": "2023",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "reliance-retail-financial.html",
+    "table_index": 2,
+    "row_index": 38,
+    "heading": "Reliance Retail Limited Profit & Loss Statement (In Rs. Crore)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  }
+ },
+ "news": {
+  "query": "\"Reliance Retail\" IPO",
+  "retrieved_at": "2026-11-23T16:46:31+00:00",
+  "items": [
+   {
+    "title": "Reliance Retail to Adani Airports: These are 14 of India's most valuable unlisted companies",
+    "publisher": "Upstox",
+    "date": "2026-11-20",
+    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxObXZHeW9MWkpEZHJMTjMwT3dnZ1JJR3lNUTR6TzQ4QktGV0pKaERENzdjSGluZ3JOYThobTZ1c3d1RnE0MWZVVXNNelRlUG91WHR6bnRWbTNiUHNUUXA0eFhoOXNOZm80NDhBT1JoUDFrTUJ2aGxiNmp1TXZRYVZGLVBFZ2lxQVQyOV9TNy1Gb2M5bFhtUFhZSUkwUGg2ZEZyVk01emhqcC1tODFUdHNsMnJjWk5TLVlTR1NfTm1KV29GUGxiWHEyem5Md21PYkMxYlUzb1Y3M1NlUkQweXJlNGRoZ08zUQ?oc=5"
+   },
+   {
+    "title": "Upcoming IPOs with shareholder quota: Reliance Retail, JSW One, IGX, Mahanadi Coalfields & more",
+    "publisher": "Upstox",
+    "date": "2026-11-13",
+    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNNTFFVXJ6ekh4d2FURThiTmdDTWp2SDVDcHdSYVpNQkIwU0NDd3F5YzZTRlhVNXk3T21EMFh1MnRRWWFSUDd0TVdtY0Y3ZklicnZuVUxqV2tvZ2F0YVBLVHRpVmxpc0kyWDlJemZxTEdwU2F3V0l0bEVCWW5vQy1lUTJ6a2w4dnJtYmJPX0gxbzktQmJtOHpjWHVSZEtudF96RWU4UjFDOGZfVW9hVER3RzZlLWx2SjVILWhHeVpMTXVwY2R6ZDE0R3hhTWRZTXBiNUd3cjZsRlExczE1OXJLSnRTb1U?oc=5"
+   },
+   {
+    "title": "Reliance Retail's Q2 FY27 Performance: Building a future-ready retail ecosystem for India. Gross Revenue hits ₹91,716 Crore, up 6.4% Y-o-Y and EBITDA at ₹6,228 Crore (EBITDA Margin of 7.8%). Total store network stands at 19,947 across 77.5 million sq. ft",
+    "publisher": "Facebook",
+    "date": "2026-10-30",
+    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOc2RBVFVZb2c2Y1VwaVNneF8xdlJZWVBzdDJKVWF6VnVDSXdJemh6R2ZiQXNHX0lmRFR0YUt0WkhLVFFqLVBnNGN4bXpidkF2QmE2WnI1TFlJVVFXVDMtZUp2eHlMWkxaNGNhMTZMVVhOLWJOaThsUnUxeGdNWk9ZZFhxRWxpMHNZUmo1Tk8tMGRHVXBJWFI2d2JoaTdCMDhzOXRZdHJYWklraG1DOTY3amtiSFdsZ0Fnb1Rfc1RiZklDcDNhUE1uT2FwVWRkcVVzRGJZWHFBek80NGFCbUVoLUo2bHZMNzE3YVh0bQ?oc=5"
+   },
+   {
+    "title": "Ambani's Jio becomes most subscribed Indian IPO with $77 billion in bids",
+    "publisher": "Reuters",
+    "date": "2026-10-23",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVnRMTFMtTUhERkVlZG4zSVcxcm54ODQ5SXo5NGMxNmVZM2RSbjdqTko3NzB4Q053b09iMEJiX3dRd3Rpem9RQ2pDa1dVMFFOZG54WjhLMkdSbHpyQnF6OXpQbDhBd0ExQ0QyRFNXRm93Q0dfUEdCSllQdTBrUVNzRFUzTWc1OVZva3F0YkVDLUdyeEZvNFh1S1VhNVdMZjFDbVVFTDZPUk9MQVVMTEN1ZmRiX3BjaEJDNi00OWlLNDY?oc=5"
+   },
+   {
+    "title": "Jio IPO: Check Issue Date, Price Band, Review, Details",
+    "publisher": "Kotak Neo",
+    "date": "2026-10-23",
+    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE53bU0xamJZemk2LXNyWWtiMzViSHhTZjRBSk9ra1p2Uzhsd3lobFd4S1ZZZFl4NVZjSUJLZjVXTldXLVkwdkVYR3pna01nZw?oc=5"
+   },
+   {
+    "title": "Jio and Reliance Retail are tied at the hip. That’s fine as long as the Ambanis are one big happy family",
+    "publisher": "The Ken",
+    "date": "2026-10-22",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNXzlpRVhRX21yTHNyb00yQTZGOTBfMG90dGpFZVBkVmlkSW1SeUZmbnBTS1IxMlRmaWYwODE3dVE2cXhVeTF5UzVaaHlzV3dVSEE4aDM1eDdSWHpFcng0cVdzQmtpWkx1QzVFTnFXeWl5aFIybjZxeUNBQzBqeWcxZ1JoYm5xQWNOcTFheUROM0dIT1ktSFBxSHh0RHhWcXBPakhhM3hfM04wdV9BWFlEQXlyWUc5bzRINzJjTjdVa2RyYmZVUjl4bA?oc=5"
+   },
+   {
+    "title": "Jio IPO 2026 Promoters, Meta, Google, and Other Investors:",
+    "publisher": "Spherical Insights",
+    "date": "2026-10-21",
+    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNeU1GTG1TV21aMm1nMzJZWDEwbzEzc2dvUnhNLXlKUVp1aUpmQkpHQjNab040c3Y3TGZSWEZ3elVTMl9kal8zUDFMRExYYjMtVURYX3EzT1U2OXNVeTZTaGhZMVBVeGFxMVl0aW5DWVo0dU5HMzZadjFnaTAtZEpNRVk3b2NxY1NYOUdlcDE4VFZUejNlcEVKRzNzSXdHREU4TkZiMmFkMVA5ZnJUbDRZRGVpbWZWZ3VBeTVGcnNOblZnNFA3bm4zS3pDR3lyV3g3czNIV0FVQVRhOUQ1QUxCWDhDWQ?oc=5"
+   },
+   {
+    "title": "Jio Platforms IPO fully subscribed: Here’s how Jio employees have an edge over others in this IPO",
+    "publisher": "Upstox",
+    "date": "2026-10-20",
+    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPa3k1bU9CVWd2R2xFY1pGX2VnNW1GSVFNcW52SlpZRU9EZWJhN0k4QTFkS01WRFlWdUpGbUNWMEttV2szVHBFMHBtWWlUeUt5UmdDdkZVNFQzTWlmNHN4czJ2M3EtakFwdl9jNzAzcXN6Zm5zQnhtUVVCM0dVaF9XMmNPbFV0Tm84N2Y2WVdWRjhxOV92c2VNNGlTVDM1Uktoc0haSjV6TXhNV0dkQjdUc2RjdG1PaE96SU5ySmRFdnUwWm1FN3E2dzltYTJDSldOSmpaWU5fQS1RbHEtVmwyaVNweTlLOHc?oc=5"
+   }
+  ],
+  "source": {
+   "name": "Google News RSS search",
+   "url": "https://news.google.com/rss/search?q=%22Reliance+Retail%22+IPO&hl=en-IN&gl=IN&ceid=IN:en",
+   "sha256": "590ce803e512112f049d92254ab0057fb54f7ca1f9d7aab1e361f25db0ab0d7a",
+   "run": "20261123T164603Z"
+  }
+ },
+ "peer_reviewed": true,
+ "discovery": [
+  {
+   "id": "ncdex",
+   "short": "NCDEX",
+   "name": "National Commodity & Derivatives Exchange Ltd",
+   "reasons": [
+    "provider reports DRHP filed (IPO research lead)",
+    "in the news 2026-11-11"
+   ],
+   "score": 3,
+   "price_inr": 253.0,
+   "latest_period": "FY2026"
+  },
+  {
+   "id": "oyo",
+   "short": "OYO",
+   "name": "Oravel Stays Ltd (OYO)",
+   "reasons": [
+    "provider reports DRHP filed (IPO research lead)",
+    "in the news 2026-11-23"
+   ],
+   "score": 3,
+   "price_inr": 20.45,
+   "latest_period": "FY2026"
+  },
+  {
+   "id": "pharmeasy",
+   "short": "PharmEasy",
+   "name": "API Holdings Ltd (PharmEasy)",
+   "reasons": [
+    "provider reports DRHP filed (IPO research lead)",
+    "in the news 2026-10-28"
+   ],
+   "score": 3,
+   "price_inr": 6.15,
+   "latest_period": "FY2026"
+  },
+  {
+   "id": "axlesindia",
+   "short": "Axles India",
+   "name": "Axles India Ltd",
+   "reasons": [
+    "in the news 2026-11-20"
+   ],
+   "score": 1,
+   "price_inr": 525.0,
+   "latest_period": "FY2026"
+  },
+  {
+   "id": "cial",
+   "short": "CIAL",
+   "name": "Cochin International Airport Ltd",
+   "reasons": [
+    "in the news 2026-11-21"
+   ],
+   "score": 1,
+   "price_inr": 440.0,
+   "latest_period": "FY2026"
+  },
+  {
+   "id": "csk",
+   "short": "CSK",
+   "name": "Chennai Super Kings Cricket Ltd",
+   "reasons": [
+    "in the news 2026-11-20"
+   ],
+   "score": 1,
+   "price_inr": 245.0,
+   "latest_period": "FY2026"
+  }
+ ],
+ "fallbacks": []
+}

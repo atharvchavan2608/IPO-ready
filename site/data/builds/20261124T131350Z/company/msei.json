@@ -1,0 +1,5186 @@
+{
+ "id": "msei",
+ "name": "Metropolitan Stock Exchange of India Ltd",
+ "short": "MSE",
+ "hierarchy": [
+  "Financials",
+  "Capital Markets",
+  "Exchanges & Trading Platforms",
+  "Securities Exchanges"
+ ],
+ "model": "exchange",
+ "listed_peers": [
+  "BSE",
+  "MCX"
+ ],
+ "status_note": null,
+ "market_status": null,
+ "quote": {
+  "price_inr": "6.35",
+  "state": "reported",
+  "change_raw": "+ 0.00 %",
+  "kind": "unlisted dealer quote (indicative, not an exchange trade)",
+  "as_of": "2026-11-23T16:44:39+00:00",
+  "high_52w": "7.50 (14/09/26)",
+  "low_52w": "2.75 (15/12/25)",
+  "ev": "ev1"
+ },
+ "profile": {
+  "provider_sector": "Financial Service",
+  "isin": "INE312K01010",
+  "cin": "U65999MH2008PLC185856",
+  "registration_date": "14/08/2008",
+  "face_value": "1",
+  "lot_size": null,
+  "drhp_filed": "No",
+  "depository": "nsdl",
+  "rofr": "No",
+  "description": null,
+  "share_details_as_of": null,
+  "ev": "ev2"
+ },
+ "periods": [
+  "FY2022",
+  "FY2023",
+  "FY2024",
+  "FY2025",
+  "FY2026"
+ ],
+ "basis": "unspecified",
+ "raw_units": [
+  "INR crore"
+ ],
+ "layout": "five-year summary",
+ "fields": {
+  "total_income": {
+   "label": "Total income",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": "25.06",
+     "state": "reported",
+     "ev": "ev3"
+    },
+    "FY2023": {
+     "value": "54.65",
+     "state": "reported",
+     "ev": "ev4"
+    },
+    "FY2024": {
+     "value": "21.05",
+     "state": "reported",
+     "ev": "ev5"
+    },
+    "FY2025": {
+     "value": "17.38",
+     "state": "reported",
+     "ev": "ev6"
+    },
+    "FY2026": {
+     "value": "59.07",
+     "state": "reported",
+     "ev": "ev7"
+    }
+   }
+  },
+  "revenue_ops": {
+   "label": "Revenue from operations",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": "10.06",
+     "state": "reported",
+     "ev": "ev8"
+    },
+    "FY2023": {
+     "value": "9.21",
+     "state": "reported",
+     "ev": "ev9"
+    },
+    "FY2024": {
+     "value": "7.36",
+     "state": "reported",
+     "ev": "ev10"
+    },
+    "FY2025": {
+     "value": "4.31",
+     "state": "reported",
+     "ev": "ev11"
+    },
+    "FY2026": {
+     "value": "3.38",
+     "state": "reported",
+     "ev": "ev12"
+    }
+   }
+  },
+  "other_income": {
+   "label": "Other income",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": "15",
+     "state": "reported",
+     "ev": "ev13"
+    },
+    "FY2023": {
+     "value": "45.44",
+     "state": "reported",
+     "ev": "ev14"
+    },
+    "FY2024": {
+     "value": "13.69",
+     "state": "reported",
+     "ev": "ev15"
+    },
+    "FY2025": {
+     "value": "13.07",
+     "state": "reported",
+     "ev": "ev16"
+    },
+    "FY2026": {
+     "value": "55.69",
+     "state": "reported",
+     "ev": "ev17"
+    }
+   }
+  },
+  "other_gains": {
+   "label": "Other gains / losses",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2023": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "job_work_revenue": {
+   "label": "Revenue from job work",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2023": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "total_expenses": {
+   "label": "Total expenses",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": "56.32",
+     "state": "reported",
+     "ev": "ev18"
+    },
+    "FY2023": {
+     "value": "69.38",
+     "state": "reported",
+     "ev": "ev19"
+    },
+    "FY2024": {
+     "value": "68.64",
+     "state": "reported",
+     "ev": "ev20"
+    },
+    "FY2025": {
+     "value": "52.23",
+     "state": "reported",
+     "ev": "ev21"
+    },
+    "FY2026": {
+     "value": "84.91",
+     "state": "reported",
+     "ev": "ev22"
+    }
+   }
+  },
+  "finance_cost": {
+   "label": "Finance cost",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": "0.6",
+     "state": "reported",
+     "ev": "ev23"
+    },
+    "FY2023": {
+     "value": "0.39",
+     "state": "reported",
+     "ev": "ev24"
+    },
+    "FY2024": {
+     "value": "0.98",
+     "state": "reported",
+     "ev": "ev25"
+    },
+    "FY2025": {
+     "value": "0.26",
+     "state": "reported",
+     "ev": "ev26"
+    },
+    "FY2026": {
+     "value": "0.68",
+     "state": "reported",
+     "ev": "ev27"
+    }
+   }
+  },
+  "depreciation": {
+   "label": "Depreciation",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": "10.48",
+     "state": "reported",
+     "ev": "ev28"
+    },
+    "FY2023": {
+     "value": "10.65",
+     "state": "reported",
+     "ev": "ev29"
+    },
+    "FY2024": {
+     "value": "6.06",
+     "state": "reported",
+     "ev": "ev30"
+    },
+    "FY2025": {
+     "value": "5.1",
+     "state": "reported",
+     "ev": "ev31"
+    },
+    "FY2026": {
+     "value": "12.56",
+     "state": "reported",
+     "ev": "ev32"
+    }
+   }
+  },
+  "pbt": {
+   "label": "Profit before tax",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": "-31.26",
+     "state": "reported",
+     "ev": "ev33"
+    },
+    "FY2023": {
+     "value": "-19.94",
+     "state": "reported",
+     "ev": "ev34"
+    },
+    "FY2024": {
+     "value": "-47.59",
+     "state": "reported",
+     "ev": "ev35"
+    },
+    "FY2025": {
+     "value": "-34.85",
+     "state": "reported",
+     "ev": "ev36"
+    },
+    "FY2026": {
+     "value": "-25.84",
+     "state": "reported",
+     "ev": "ev37"
+    }
+   }
+  },
+  "tax": {
+   "label": "Tax",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": "0.41",
+     "state": "reported",
+     "ev": "ev38"
+    },
+    "FY2023": {
+     "value": "-1.27",
+     "state": "reported",
+     "ev": "ev39"
+    },
+    "FY2024": {
+     "value": "1.15",
+     "state": "reported",
+     "ev": "ev40"
+    },
+    "FY2025": {
+     "value": "-0.63",
+     "state": "reported",
+     "ev": "ev41"
+    },
+    "FY2026": {
+     "value": "0",
+     "state": "explicit_zero",
+     "ev": "ev42"
+    }
+   }
+  },
+  "pat": {
+   "label": "Profit after tax",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": "-31.67",
+     "state": "reported",
+     "ev": "ev43"
+    },
+    "FY2023": {
+     "value": "-18.67",
+     "state": "reported",
+     "ev": "ev44"
+    },
+    "FY2024": {
+     "value": "-48.74",
+     "state": "reported",
+     "ev": "ev45"
+    },
+    "FY2025": {
+     "value": "-34.22",
+     "state": "reported",
+     "ev": "ev46"
+    },
+    "FY2026": {
+     "value": "-25.84",
+     "state": "reported",
+     "ev": "ev47"
+    }
+   }
+  },
+  "total_assets": {
+   "label": "Total assets",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": "450.97",
+     "state": "reported",
+     "ev": "ev48"
+    },
+    "FY2023": {
+     "value": "299.38",
+     "state": "reported",
+     "ev": "ev49"
+    },
+    "FY2024": {
+     "value": "249.18",
+     "state": "reported",
+     "ev": "ev50"
+    },
+    "FY2025": {
+     "value": "443.85",
+     "state": "reported",
+     "ev": "ev51"
+    },
+    "FY2026": {
+     "value": "1434.48",
+     "state": "reported",
+     "ev": "ev52"
+    }
+   }
+  },
+  "total_equity": {
+   "label": "Total equity",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": "274.42",
+     "state": "reported",
+     "ev": "ev53"
+    },
+    "FY2023": {
+     "value": "241.41",
+     "state": "reported",
+     "ev": "ev54"
+    },
+    "FY2024": {
+     "value": "192.79",
+     "state": "reported",
+     "ev": "ev55"
+    },
+    "FY2025": {
+     "value": "396.69",
+     "state": "reported",
+     "ev": "ev56"
+    },
+    "FY2026": {
+     "value": "1369.29",
+     "state": "reported",
+     "ev": "ev57"
+    }
+   }
+  },
+  "total_liabilities": {
+   "label": "Total liabilities",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": "176.55",
+     "state": "reported",
+     "ev": "ev58"
+    },
+    "FY2023": {
+     "value": "57.97",
+     "state": "reported",
+     "ev": "ev59"
+    },
+    "FY2024": {
+     "value": "56.39",
+     "state": "reported",
+     "ev": "ev60"
+    },
+    "FY2025": {
+     "value": "47.16",
+     "state": "reported",
+     "ev": "ev61"
+    },
+    "FY2026": {
+     "value": "65.19",
+     "state": "reported",
+     "ev": "ev62"
+    }
+   }
+  },
+  "current_assets": {
+   "label": "Current assets",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": "321.05",
+     "state": "reported",
+     "ev": "ev63"
+    },
+    "FY2023": {
+     "value": "202.66",
+     "state": "reported",
+     "ev": "ev64"
+    },
+    "FY2024": {
+     "value": "161.57",
+     "state": "reported",
+     "ev": "ev65"
+    },
+    "FY2025": {
+     "value": "258.53",
+     "state": "reported",
+     "ev": "ev66"
+    },
+    "FY2026": {
+     "value": "519.37",
+     "state": "reported",
+     "ev": "ev67"
+    }
+   }
+  },
+  "current_liabilities": {
+   "label": "Current liabilities",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": "50.31",
+     "state": "reported",
+     "ev": "ev68"
+    },
+    "FY2023": {
+     "value": "35.72",
+     "state": "reported",
+     "ev": "ev69"
+    },
+    "FY2024": {
+     "value": "32.03",
+     "state": "reported",
+     "ev": "ev70"
+    },
+    "FY2025": {
+     "value": "17.05",
+     "state": "reported",
+     "ev": "ev71"
+    },
+    "FY2026": {
+     "value": "33.65",
+     "state": "reported",
+     "ev": "ev72"
+    }
+   }
+  },
+  "inventories": {
+   "label": "Inventories",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2023": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "cash": {
+   "label": "Cash & equivalents",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2023": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "loans": {
+   "label": "Loans",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2023": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "cfo": {
+   "label": "Cash from operations",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": "-44.59",
+     "state": "reported",
+     "ev": "ev73"
+    },
+    "FY2023": {
+     "value": "-172.11",
+     "state": "reported",
+     "ev": "ev74"
+    },
+    "FY2024": {
+     "value": "-56.77",
+     "state": "reported",
+     "ev": "ev75"
+    },
+    "FY2025": {
+     "value": "-68.44",
+     "state": "reported",
+     "ev": "ev76"
+    },
+    "FY2026": {
+     "value": "-149.01",
+     "state": "reported",
+     "ev": "ev77"
+    }
+   }
+  },
+  "cfi": {
+   "label": "Cash from investing",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": "60.5",
+     "state": "reported",
+     "ev": "ev78"
+    },
+    "FY2023": {
+     "value": "223.99",
+     "state": "reported",
+     "ev": "ev79"
+    },
+    "FY2024": {
+     "value": "9.39",
+     "state": "reported",
+     "ev": "ev80"
+    },
+    "FY2025": {
+     "value": "-133.45",
+     "state": "reported",
+     "ev": "ev81"
+    },
+    "FY2026": {
+     "value": "-881.79",
+     "state": "reported",
+     "ev": "ev82"
+    }
+   }
+  },
+  "cff": {
+   "label": "Cash from financing",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": "-2.98",
+     "state": "reported",
+     "ev": "ev83"
+    },
+    "FY2023": {
+     "value": "-3.28",
+     "state": "reported",
+     "ev": "ev84"
+    },
+    "FY2024": {
+     "value": "-2.31",
+     "state": "reported",
+     "ev": "ev85"
+    },
+    "FY2025": {
+     "value": "235.68",
+     "state": "reported",
+     "ev": "ev86"
+    },
+    "FY2026": {
+     "value": "996.02",
+     "state": "reported",
+     "ev": "ev87"
+    }
+   }
+  },
+  "ebitda": {
+   "label": "EBITDA",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": "-20.18",
+     "state": "reported",
+     "ev": "ev88"
+    },
+    "FY2023": {
+     "value": "-8.9",
+     "state": "reported",
+     "ev": "ev89"
+    },
+    "FY2024": {
+     "value": "-40.55",
+     "state": "reported",
+     "ev": "ev90"
+    },
+    "FY2025": {
+     "value": "-29.49",
+     "state": "reported",
+     "ev": "ev91"
+    },
+    "FY2026": {
+     "value": "-12.6",
+     "state": "reported",
+     "ev": "ev92"
+    }
+   }
+  },
+  "eps": {
+   "label": "EPS (provider)",
+   "unit": "INR per share",
+   "by_period": {
+    "FY2022": {
+     "value": "-0.07",
+     "state": "reported",
+     "ev": "ev93"
+    },
+    "FY2023": {
+     "value": "-0.04",
+     "state": "reported",
+     "ev": "ev94"
+    },
+    "FY2024": {
+     "value": "-0.1",
+     "state": "reported",
+     "ev": "ev95"
+    },
+    "FY2025": {
+     "value": "-0.06",
+     "state": "reported",
+     "ev": "ev96"
+    },
+    "FY2026": {
+     "value": "-0.02",
+     "state": "reported",
+     "ev": "ev97"
+    }
+   }
+  },
+  "shares_outstanding": {
+   "label": "Shares outstanding",
+   "unit": "shares",
+   "by_period": {
+    "FY2022": {
+     "value": "4810217033",
+     "state": "reported",
+     "ev": "ev98"
+    },
+    "FY2023": {
+     "value": "4810217033",
+     "state": "reported",
+     "ev": "ev99"
+    },
+    "FY2024": {
+     "value": "4810217033",
+     "state": "reported",
+     "ev": "ev100"
+    },
+    "FY2025": {
+     "value": "6000217033",
+     "state": "reported",
+     "ev": "ev101"
+    },
+    "FY2026": {
+     "value": "10995239362",
+     "state": "reported",
+     "ev": "ev102"
+    }
+   }
+  },
+  "pat_pre_associate": {
+   "label": "Profit after tax before associate contribution",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2023": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "pat_owners": {
+   "label": "Profit attributable to owners",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2023": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "associate_profit": {
+   "label": "Share of associate profit",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2022": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2023": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "eps_basic": {
+   "label": "Reported basic EPS",
+   "unit": "INR per share",
+   "by_period": {
+    "FY2022": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2023": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "eps_diluted": {
+   "label": "Reported diluted EPS",
+   "unit": "INR per share",
+   "by_period": {
+    "FY2022": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2023": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  }
+ },
+ "cash_flow": {
+  "unit": "INR crore",
+  "by_period": {
+   "FY2022": {
+    "basis": "unspecified",
+    "origin": "provider",
+    "lines": {
+     "opening": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "cfo": {
+      "value": "-44.59",
+      "state": "reported",
+      "ev": "ev73"
+     },
+     "cfi": {
+      "value": "60.5",
+      "state": "reported",
+      "ev": "ev78"
+     },
+     "cff": {
+      "value": "-2.98",
+      "state": "reported",
+      "ev": "ev83"
+     },
+     "other_effects": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "net_change": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "closing": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "before_working_capital": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "receivables": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "other_assets": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "payables_and_liabilities": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "tax_paid": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "capex": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "net_investment_purchases": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "debt_principal": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "lease_principal": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "lease_interest": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "overdraft_interest": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "share_proceeds": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "dividends": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "current_accounts": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "settlement_accounts": {
+      "state": "not_in_source",
+      "value": null
+     }
+    },
+    "reconciliation": {
+     "state": "partial"
+    },
+    "provider_comparison": null
+   },
+   "FY2023": {
+    "basis": "unspecified",
+    "origin": "provider",
+    "lines": {
+     "opening": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "cfo": {
+      "value": "-172.11",
+      "state": "reported",
+      "ev": "ev74"
+     },
+     "cfi": {
+      "value": "223.99",
+      "state": "reported",
+      "ev": "ev79"
+     },
+     "cff": {
+      "value": "-3.28",
+      "state": "reported",
+      "ev": "ev84"
+     },
+     "other_effects": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "net_change": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "closing": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "before_working_capital": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "receivables": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "other_assets": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "payables_and_liabilities": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "tax_paid": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "capex": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "net_investment_purchases": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "debt_principal": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "lease_principal": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "lease_interest": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "overdraft_interest": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "share_proceeds": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "dividends": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "current_accounts": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "settlement_accounts": {
+      "state": "not_in_source",
+      "value": null
+     }
+    },
+    "reconciliation": {
+     "state": "partial"
+    },
+    "provider_comparison": null
+   },
+   "FY2024": {
+    "basis": "unspecified",
+    "origin": "provider",
+    "lines": {
+     "opening": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "cfo": {
+      "value": "-56.77",
+      "state": "reported",
+      "ev": "ev75"
+     },
+     "cfi": {
+      "value": "9.39",
+      "state": "reported",
+      "ev": "ev80"
+     },
+     "cff": {
+      "value": "-2.31",
+      "state": "reported",
+      "ev": "ev85"
+     },
+     "other_effects": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "net_change": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "closing": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "before_working_capital": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "receivables": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "other_assets": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "payables_and_liabilities": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "tax_paid": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "capex": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "net_investment_purchases": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "debt_principal": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "lease_principal": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "lease_interest": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "overdraft_interest": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "share_proceeds": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "dividends": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "current_accounts": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "settlement_accounts": {
+      "state": "not_in_source",
+      "value": null
+     }
+    },
+    "reconciliation": {
+     "state": "partial"
+    },
+    "provider_comparison": null
+   },
+   "FY2025": {
+    "basis": "unspecified",
+    "origin": "provider",
+    "lines": {
+     "opening": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "cfo": {
+      "value": "-68.44",
+      "state": "reported",
+      "ev": "ev76"
+     },
+     "cfi": {
+      "value": "-133.45",
+      "state": "reported",
+      "ev": "ev81"
+     },
+     "cff": {
+      "value": "235.68",
+      "state": "reported",
+      "ev": "ev86"
+     },
+     "other_effects": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "net_change": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "closing": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "before_working_capital": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "receivables": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "other_assets": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "payables_and_liabilities": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "tax_paid": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "capex": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "net_investment_purchases": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "debt_principal": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "lease_principal": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "lease_interest": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "overdraft_interest": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "share_proceeds": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "dividends": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "current_accounts": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "settlement_accounts": {
+      "state": "not_in_source",
+      "value": null
+     }
+    },
+    "reconciliation": {
+     "state": "partial"
+    },
+    "provider_comparison": null
+   },
+   "FY2026": {
+    "basis": "unspecified",
+    "origin": "provider",
+    "lines": {
+     "opening": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "cfo": {
+      "value": "-149.01",
+      "state": "reported",
+      "ev": "ev77"
+     },
+     "cfi": {
+      "value": "-881.79",
+      "state": "reported",
+      "ev": "ev82"
+     },
+     "cff": {
+      "value": "996.02",
+      "state": "reported",
+      "ev": "ev87"
+     },
+     "other_effects": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "net_change": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "closing": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "before_working_capital": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "receivables": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "other_assets": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "payables_and_liabilities": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "tax_paid": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "capex": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "net_investment_purchases": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "debt_principal": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "lease_principal": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "lease_interest": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "overdraft_interest": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "share_proceeds": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "dividends": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "current_accounts": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "settlement_accounts": {
+      "state": "not_in_source",
+      "value": null
+     }
+    },
+    "reconciliation": {
+     "state": "partial"
+    },
+    "provider_comparison": null
+   }
+  }
+ },
+ "documents": [],
+ "reconciliation": null,
+ "agent": {
+  "inventories": {
+   "company": "msei",
+   "field": "inventories",
+   "status": "not_found_no_documents",
+   "summary": "No issuer documents retained for MSE; the provider does not report inventories. Expectation: not_expected.",
+   "how_to_verify": "Not verifiable from retained evidence.",
+   "expectation": {
+    "level": "not_expected",
+    "reason": "An exchange earns transaction and membership fees; it does not hold goods for sale."
+   },
+   "evidence": [],
+   "evidence_total": 0,
+   "next_checks": [
+    "Audited annual report: balance sheet 'Inventories' line and note on valuation",
+    "MCA AOC-4 financial statement filing (paid access)",
+    "DRHP 'Restated financial information' if the company files for an IPO"
+   ],
+   "trace": [
+    {
+     "step": 1,
+     "tool": "provider_lookup",
+     "input": {
+      "company": "msei",
+      "field": "inventories"
+     },
+     "output": {
+      "found": false,
+      "periods": [],
+      "detail": "no matching line in the provider's parsed statements"
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 2,
+     "tool": "applicability_rule",
+     "input": {
+      "field": "inventories",
+      "business_model": "exchange"
+     },
+     "output": {
+      "expectation": "not_expected",
+      "reason": "An exchange earns transaction and membership fees; it does not hold goods for sale."
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 3,
+     "tool": "statement_line_check",
+     "input": {
+      "document": null
+     },
+     "output": {
+      "skipped": true,
+      "why": "no retained issuer balance sheet for this company"
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 4,
+     "tool": "document_search",
+     "input": {
+      "documents": [],
+      "patterns": [
+       "\\binventor(?:y|ies)\\b"
+      ]
+     },
+     "output": {
+      "documents_searched": [],
+      "pages_with_word_matches": 0,
+      "pages_with_naive_substring": 0,
+      "note": "naive substring 'inventor' also matches unrelated words (e.g. 'COMPANY' contains 'NPA'); word-boundary patterns used"
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 5,
+     "tool": "classify_passages",
+     "input": {
+      "passages": 0
+     },
+     "output": {
+      "by_kind": {}
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 6,
+     "tool": "verdict",
+     "input": {
+      "signals": {
+       "provider": false,
+       "numeric": 0,
+       "explicit_na": 0,
+       "line_check": null,
+       "expectation": "not_expected"
+      }
+     },
+     "output": {
+      "status": "not_found_no_documents",
+      "summary": "No issuer documents retained for MSE; the provider does not report inventories. Expectation: not_expected.",
+      "how_to_verify": "Not verifiable from retained evidence."
+     },
+     "ms": 0.0
+    }
+   ],
+   "executed": "deterministic tool sequence (no language model call)"
+  },
+  "npa": {
+   "company": "msei",
+   "field": "npa",
+   "status": "inapplicable",
+   "summary": "Not applicable by business model: NPA is a lender asset-quality measure; this business has no loan book to classify.",
+   "how_to_verify": "No mentions to review; the business-model rule decides.",
+   "expectation": {
+    "level": "not_applicable",
+    "reason": "NPA is a lender asset-quality measure; this business has no loan book to classify."
+   },
+   "evidence": [],
+   "evidence_total": 0,
+   "next_checks": [
+    "Annual report notes: 'Stage 3 assets', 'Gross NPA', 'Net NPA' (RBI disclosure for NBFCs)"
+   ],
+   "trace": [
+    {
+     "step": 1,
+     "tool": "provider_lookup",
+     "input": {
+      "company": "msei",
+      "field": "gross_npa"
+     },
+     "output": {
+      "found": false,
+      "periods": [],
+      "detail": "no matching line in the provider's parsed statements"
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 2,
+     "tool": "applicability_rule",
+     "input": {
+      "field": "npa",
+      "business_model": "exchange"
+     },
+     "output": {
+      "expectation": "not_applicable",
+      "reason": "NPA is a lender asset-quality measure; this business has no loan book to classify."
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 3,
+     "tool": "statement_line_check",
+     "input": {
+      "document": null
+     },
+     "output": {
+      "skipped": true,
+      "why": "no retained issuer balance sheet for this company"
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 4,
+     "tool": "document_search",
+     "input": {
+      "documents": [],
+      "patterns": [
+       "\\bG?N?NPAs?\\b",
+       "\\bnon[- ]performing (?:assets?|loans?)\\b",
+       "\\bstage\\s*(?:3|III)\\s+(?:assets|loans)\\b"
+      ]
+     },
+     "output": {
+      "documents_searched": [],
+      "pages_with_word_matches": 0,
+      "pages_with_naive_substring": 0,
+      "note": "naive substring 'npa' also matches unrelated words (e.g. 'COMPANY' contains 'NPA'); word-boundary patterns used"
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 5,
+     "tool": "classify_passages",
+     "input": {
+      "passages": 0
+     },
+     "output": {
+      "by_kind": {}
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 6,
+     "tool": "verdict",
+     "input": {
+      "signals": {
+       "provider": false,
+       "numeric": 0,
+       "explicit_na": 0,
+       "line_check": null,
+       "expectation": "not_applicable"
+      }
+     },
+     "output": {
+      "status": "inapplicable",
+      "summary": "Not applicable by business model: NPA is a lender asset-quality measure; this business has no loan book to classify.",
+      "how_to_verify": "No mentions to review; the business-model rule decides."
+     },
+     "ms": 0.0
+    }
+   ],
+   "executed": "deterministic tool sequence (no language model call)"
+  }
+ },
+ "metrics": {
+  "FY2022": {
+   "revenue_growth": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "(current / previous) - 1",
+    "inputs": {
+     "current": "10.06",
+     "previous": null
+    },
+    "unit": "%",
+    "ev": [
+     "ev8"
+    ]
+   },
+   "pat_margin": {
+    "value": "-126.3767",
+    "state": "ok",
+    "formula": "PAT / total income x 100",
+    "inputs": {
+     "pat": "-31.67",
+     "total_income": "25.06"
+    },
+    "unit": "%",
+    "ev": [
+     "ev43",
+     "ev3"
+    ]
+   },
+   "net_profit_ratio": {
+    "value": "-314.8111",
+    "state": "ok",
+    "formula": "PAT / revenue from operations x 100",
+    "inputs": {
+     "pat": "-31.67",
+     "revenue_ops": "10.06"
+    },
+    "unit": "%",
+    "ev": [
+     "ev43",
+     "ev8"
+    ]
+   },
+   "other_income_share": {
+    "value": "59.8563",
+    "state": "ok",
+    "formula": "other income / total income x 100",
+    "inputs": {
+     "other_income": "15",
+     "total_income": "25.06"
+    },
+    "unit": "%",
+    "ev": [
+     "ev13",
+     "ev3"
+    ]
+   },
+   "current_ratio": {
+    "value": "6.3814",
+    "state": "ok",
+    "formula": "current assets / current liabilities",
+    "inputs": {
+     "current_assets": "321.05",
+     "current_liabilities": "50.31"
+    },
+    "unit": "x",
+    "ev": [
+     "ev63",
+     "ev68"
+    ]
+   },
+   "quick_ratio": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "(current assets - inventories) / current liabilities",
+    "inputs": {
+     "current_assets": "321.05",
+     "inventories": null,
+     "current_liabilities": "50.31"
+    },
+    "note": "inventories not disclosed in the available source; quick ratio withheld",
+    "unit": "x",
+    "ev": [
+     "ev63",
+     "ev68"
+    ]
+   },
+   "roe": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "PAT / average of opening and closing equity x 100",
+    "inputs": {
+     "pat": "-31.67",
+     "average_equity": null
+    },
+    "unit": "%",
+    "ev": [
+     "ev43",
+     "ev53"
+    ]
+   },
+   "roce": {
+    "value": "-7.6524",
+    "state": "ok",
+    "formula": "(PBT + finance cost) / (total assets - current liabilities) x 100",
+    "inputs": {
+     "ebit": "-30.66",
+     "capital_employed": "400.66"
+    },
+    "unit": "%",
+    "ev": [
+     "ev33",
+     "ev23",
+     "ev48",
+     "ev68"
+    ]
+   },
+   "cfo_to_pat": {
+    "value": "1.4080",
+    "state": "ok",
+    "formula": "cash from operations / PAT",
+    "inputs": {
+     "cfo": "-44.59",
+     "pat": "-31.67"
+    },
+    "unit": "x",
+    "ev": [
+     "ev73",
+     "ev43"
+    ],
+    "note": "exchange/broker CFO includes member settlement and margin flows; swings are not earnings quality by themselves"
+   }
+  },
+  "FY2023": {
+   "revenue_growth": {
+    "value": "-8.4493",
+    "state": "ok",
+    "formula": "(current / previous) - 1",
+    "inputs": {
+     "current": "9.21",
+     "previous": "10.06"
+    },
+    "unit": "%",
+    "ev": [
+     "ev9",
+     "ev8"
+    ]
+   },
+   "pat_margin": {
+    "value": "-34.1629",
+    "state": "ok",
+    "formula": "PAT / total income x 100",
+    "inputs": {
+     "pat": "-18.67",
+     "total_income": "54.65"
+    },
+    "unit": "%",
+    "ev": [
+     "ev44",
+     "ev4"
+    ]
+   },
+   "net_profit_ratio": {
+    "value": "-202.7144",
+    "state": "ok",
+    "formula": "PAT / revenue from operations x 100",
+    "inputs": {
+     "pat": "-18.67",
+     "revenue_ops": "9.21"
+    },
+    "unit": "%",
+    "ev": [
+     "ev44",
+     "ev9"
+    ]
+   },
+   "other_income_share": {
+    "value": "83.1473",
+    "state": "ok",
+    "formula": "other income / total income x 100",
+    "inputs": {
+     "other_income": "45.44",
+     "total_income": "54.65"
+    },
+    "unit": "%",
+    "ev": [
+     "ev14",
+     "ev4"
+    ]
+   },
+   "current_ratio": {
+    "value": "5.6736",
+    "state": "ok",
+    "formula": "current assets / current liabilities",
+    "inputs": {
+     "current_assets": "202.66",
+     "current_liabilities": "35.72"
+    },
+    "unit": "x",
+    "ev": [
+     "ev64",
+     "ev69"
+    ]
+   },
+   "quick_ratio": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "(current assets - inventories) / current liabilities",
+    "inputs": {
+     "current_assets": "202.66",
+     "inventories": null,
+     "current_liabilities": "35.72"
+    },
+    "note": "inventories not disclosed in the available source; quick ratio withheld",
+    "unit": "x",
+    "ev": [
+     "ev64",
+     "ev69"
+    ]
+   },
+   "roe": {
+    "value": "-7.2388",
+    "state": "ok",
+    "formula": "PAT / average of opening and closing equity x 100",
+    "inputs": {
+     "pat": "-18.67",
+     "average_equity": "257.915"
+    },
+    "unit": "%",
+    "ev": [
+     "ev44",
+     "ev54",
+     "ev53"
+    ]
+   },
+   "roce": {
+    "value": "-7.4149",
+    "state": "ok",
+    "formula": "(PBT + finance cost) / (total assets - current liabilities) x 100",
+    "inputs": {
+     "ebit": "-19.55",
+     "capital_employed": "263.66"
+    },
+    "unit": "%",
+    "ev": [
+     "ev34",
+     "ev24",
+     "ev49",
+     "ev69"
+    ]
+   },
+   "cfo_to_pat": {
+    "value": "9.2185",
+    "state": "ok",
+    "formula": "cash from operations / PAT",
+    "inputs": {
+     "cfo": "-172.11",
+     "pat": "-18.67"
+    },
+    "unit": "x",
+    "ev": [
+     "ev74",
+     "ev44"
+    ],
+    "note": "exchange/broker CFO includes member settlement and margin flows; swings are not earnings quality by themselves"
+   }
+  },
+  "FY2024": {
+   "revenue_growth": {
+    "value": "-20.0869",
+    "state": "ok",
+    "formula": "(current / previous) - 1",
+    "inputs": {
+     "current": "7.36",
+     "previous": "9.21"
+    },
+    "unit": "%",
+    "ev": [
+     "ev10",
+     "ev9"
+    ]
+   },
+   "pat_margin": {
+    "value": "-231.5439",
+    "state": "ok",
+    "formula": "PAT / total income x 100",
+    "inputs": {
+     "pat": "-48.74",
+     "total_income": "21.05"
+    },
+    "unit": "%",
+    "ev": [
+     "ev45",
+     "ev5"
+    ]
+   },
+   "net_profit_ratio": {
+    "value": "-662.2283",
+    "state": "ok",
+    "formula": "PAT / revenue from operations x 100",
+    "inputs": {
+     "pat": "-48.74",
+     "revenue_ops": "7.36"
+    },
+    "unit": "%",
+    "ev": [
+     "ev45",
+     "ev10"
+    ]
+   },
+   "other_income_share": {
+    "value": "65.0356",
+    "state": "ok",
+    "formula": "other income / total income x 100",
+    "inputs": {
+     "other_income": "13.69",
+     "total_income": "21.05"
+    },
+    "unit": "%",
+    "ev": [
+     "ev15",
+     "ev5"
+    ]
+   },
+   "current_ratio": {
+    "value": "5.0443",
+    "state": "ok",
+    "formula": "current assets / current liabilities",
+    "inputs": {
+     "current_assets": "161.57",
+     "current_liabilities": "32.03"
+    },
+    "unit": "x",
+    "ev": [
+     "ev65",
+     "ev70"
+    ]
+   },
+   "quick_ratio": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "(current assets - inventories) / current liabilities",
+    "inputs": {
+     "current_assets": "161.57",
+     "inventories": null,
+     "current_liabilities": "32.03"
+    },
+    "note": "inventories not disclosed in the available source; quick ratio withheld",
+    "unit": "x",
+    "ev": [
+     "ev65",
+     "ev70"
+    ]
+   },
+   "roe": {
+    "value": "-22.4505",
+    "state": "ok",
+    "formula": "PAT / average of opening and closing equity x 100",
+    "inputs": {
+     "pat": "-48.74",
+     "average_equity": "217.10"
+    },
+    "unit": "%",
+    "ev": [
+     "ev45",
+     "ev55",
+     "ev54"
+    ]
+   },
+   "roce": {
+    "value": "-21.4644",
+    "state": "ok",
+    "formula": "(PBT + finance cost) / (total assets - current liabilities) x 100",
+    "inputs": {
+     "ebit": "-46.61",
+     "capital_employed": "217.15"
+    },
+    "unit": "%",
+    "ev": [
+     "ev35",
+     "ev25",
+     "ev50",
+     "ev70"
+    ]
+   },
+   "cfo_to_pat": {
+    "value": "1.1648",
+    "state": "ok",
+    "formula": "cash from operations / PAT",
+    "inputs": {
+     "cfo": "-56.77",
+     "pat": "-48.74"
+    },
+    "unit": "x",
+    "ev": [
+     "ev75",
+     "ev45"
+    ],
+    "note": "exchange/broker CFO includes member settlement and margin flows; swings are not earnings quality by themselves"
+   }
+  },
+  "FY2025": {
+   "revenue_growth": {
+    "value": "-41.4402",
+    "state": "ok",
+    "formula": "(current / previous) - 1",
+    "inputs": {
+     "current": "4.31",
+     "previous": "7.36"
+    },
+    "unit": "%",
+    "ev": [
+     "ev11",
+     "ev10"
+    ]
+   },
+   "pat_margin": {
+    "value": "-196.8930",
+    "state": "ok",
+    "formula": "PAT / total income x 100",
+    "inputs": {
+     "pat": "-34.22",
+     "total_income": "17.38"
+    },
+    "unit": "%",
+    "ev": [
+     "ev46",
+     "ev6"
+    ]
+   },
+   "net_profit_ratio": {
+    "value": "-793.9675",
+    "state": "ok",
+    "formula": "PAT / revenue from operations x 100",
+    "inputs": {
+     "pat": "-34.22",
+     "revenue_ops": "4.31"
+    },
+    "unit": "%",
+    "ev": [
+     "ev46",
+     "ev11"
+    ]
+   },
+   "other_income_share": {
+    "value": "75.2014",
+    "state": "ok",
+    "formula": "other income / total income x 100",
+    "inputs": {
+     "other_income": "13.07",
+     "total_income": "17.38"
+    },
+    "unit": "%",
+    "ev": [
+     "ev16",
+     "ev6"
+    ]
+   },
+   "current_ratio": {
+    "value": "15.1630",
+    "state": "ok",
+    "formula": "current assets / current liabilities",
+    "inputs": {
+     "current_assets": "258.53",
+     "current_liabilities": "17.05"
+    },
+    "unit": "x",
+    "ev": [
+     "ev66",
+     "ev71"
+    ]
+   },
+   "quick_ratio": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "(current assets - inventories) / current liabilities",
+    "inputs": {
+     "current_assets": "258.53",
+     "inventories": null,
+     "current_liabilities": "17.05"
+    },
+    "note": "inventories not disclosed in the available source; quick ratio withheld",
+    "unit": "x",
+    "ev": [
+     "ev66",
+     "ev71"
+    ]
+   },
+   "roe": {
+    "value": "-11.6102",
+    "state": "ok",
+    "formula": "PAT / average of opening and closing equity x 100",
+    "inputs": {
+     "pat": "-34.22",
+     "average_equity": "294.74"
+    },
+    "unit": "%",
+    "ev": [
+     "ev46",
+     "ev56",
+     "ev55"
+    ]
+   },
+   "roce": {
+    "value": "-8.1045",
+    "state": "ok",
+    "formula": "(PBT + finance cost) / (total assets - current liabilities) x 100",
+    "inputs": {
+     "ebit": "-34.59",
+     "capital_employed": "426.80"
+    },
+    "unit": "%",
+    "ev": [
+     "ev36",
+     "ev26",
+     "ev51",
+     "ev71"
+    ]
+   },
+   "cfo_to_pat": {
+    "value": "2.0000",
+    "state": "ok",
+    "formula": "cash from operations / PAT",
+    "inputs": {
+     "cfo": "-68.44",
+     "pat": "-34.22"
+    },
+    "unit": "x",
+    "ev": [
+     "ev76",
+     "ev46"
+    ],
+    "note": "exchange/broker CFO includes member settlement and margin flows; swings are not earnings quality by themselves"
+   }
+  },
+  "FY2026": {
+   "revenue_growth": {
+    "value": "-21.5777",
+    "state": "ok",
+    "formula": "(current / previous) - 1",
+    "inputs": {
+     "current": "3.38",
+     "previous": "4.31"
+    },
+    "unit": "%",
+    "ev": [
+     "ev12",
+     "ev11"
+    ]
+   },
+   "pat_margin": {
+    "value": "-43.7447",
+    "state": "ok",
+    "formula": "PAT / total income x 100",
+    "inputs": {
+     "pat": "-25.84",
+     "total_income": "59.07"
+    },
+    "unit": "%",
+    "ev": [
+     "ev47",
+     "ev7"
+    ]
+   },
+   "net_profit_ratio": {
+    "value": "-764.4970",
+    "state": "ok",
+    "formula": "PAT / revenue from operations x 100",
+    "inputs": {
+     "pat": "-25.84",
+     "revenue_ops": "3.38"
+    },
+    "unit": "%",
+    "ev": [
+     "ev47",
+     "ev12"
+    ]
+   },
+   "other_income_share": {
+    "value": "94.2780",
+    "state": "ok",
+    "formula": "other income / total income x 100",
+    "inputs": {
+     "other_income": "55.69",
+     "total_income": "59.07"
+    },
+    "unit": "%",
+    "ev": [
+     "ev17",
+     "ev7"
+    ]
+   },
+   "current_ratio": {
+    "value": "15.4345",
+    "state": "ok",
+    "formula": "current assets / current liabilities",
+    "inputs": {
+     "current_assets": "519.37",
+     "current_liabilities": "33.65"
+    },
+    "unit": "x",
+    "ev": [
+     "ev67",
+     "ev72"
+    ]
+   },
+   "quick_ratio": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "(current assets - inventories) / current liabilities",
+    "inputs": {
+     "current_assets": "519.37",
+     "inventories": null,
+     "current_liabilities": "33.65"
+    },
+    "note": "inventories not disclosed in the available source; quick ratio withheld",
+    "unit": "x",
+    "ev": [
+     "ev67",
+     "ev72"
+    ]
+   },
+   "roe": {
+    "value": "-2.9264",
+    "state": "ok",
+    "formula": "PAT / average of opening and closing equity x 100",
+    "inputs": {
+     "pat": "-25.84",
+     "average_equity": "882.99"
+    },
+    "unit": "%",
+    "ev": [
+     "ev47",
+     "ev57",
+     "ev56"
+    ]
+   },
+   "roce": {
+    "value": "-1.7961",
+    "state": "ok",
+    "formula": "(PBT + finance cost) / (total assets - current liabilities) x 100",
+    "inputs": {
+     "ebit": "-25.16",
+     "capital_employed": "1400.83"
+    },
+    "unit": "%",
+    "ev": [
+     "ev37",
+     "ev27",
+     "ev52",
+     "ev72"
+    ]
+   },
+   "cfo_to_pat": {
+    "value": "5.7666",
+    "state": "ok",
+    "formula": "cash from operations / PAT",
+    "inputs": {
+     "cfo": "-149.01",
+     "pat": "-25.84"
+    },
+    "unit": "x",
+    "ev": [
+     "ev77",
+     "ev47"
+    ],
+    "note": "exchange/broker CFO includes member settlement and margin flows; swings are not earnings quality by themselves"
+   }
+  }
+ },
+ "valuation": {
+  "period": "FY2026",
+  "shares_used": "10995239362",
+  "shares_source": "summary_latest_fy",
+  "market_cap": {
+   "value": "6981.9770",
+   "state": "ok",
+   "formula": "price (INR) x shares outstanding / 1e7",
+   "inputs": {
+    "price_inr": "6.35",
+    "shares": "10995239362"
+   },
+   "unit": "INR crore"
+  },
+  "eps": {
+   "value": "-0.0235",
+   "state": "ok",
+   "formula": "PAT (INR crore) x 1e7 / shares outstanding",
+   "inputs": {
+    "pat_cr": "-25.84",
+    "shares": "10995239362"
+   },
+   "unit": "INR"
+  },
+  "eps_reported_basic": null,
+  "eps_reported_diluted": null,
+  "pe": {
+   "value": null,
+   "state": "negative_base",
+   "formula": "price / EPS",
+   "inputs": {
+    "price_inr": "6.35",
+    "eps": "-0.02350108001223157000699772488"
+   },
+   "note": "Uses a calculated proxy of annual PAT divided by shares outstanding. loss-making: P/E not meaningful",
+   "unit": "x",
+   "eps_basis": "pat_share_proxy",
+   "ev": [
+    "ev47",
+    "ev1"
+   ]
+  },
+  "pe_reported": {
+   "value": null,
+   "state": "missing_input",
+   "formula": "price / EPS",
+   "inputs": {
+    "price_inr": "6.35",
+    "eps": null
+   },
+   "unit": "x",
+   "eps_basis": "reported_basic",
+   "ev": [
+    "ev1"
+   ]
+  },
+  "pe_proxy": {
+   "value": null,
+   "state": "negative_base",
+   "formula": "price / EPS",
+   "inputs": {
+    "price_inr": "6.35",
+    "eps": "-0.02350108001223157000699772488"
+   },
+   "note": "loss-making: P/E not meaningful",
+   "unit": "x",
+   "eps_basis": "pat_share_proxy",
+   "ev": [
+    "ev47",
+    "ev1"
+   ]
+  },
+  "pb": {
+   "value": "5.0990",
+   "state": "ok",
+   "formula": "market cap / total equity",
+   "inputs": {
+    "market_cap": "6981.97699487",
+    "total_equity": "1369.29"
+   },
+   "unit": "x"
+  },
+  "ps": {
+   "value": "2065.6737",
+   "state": "ok",
+   "formula": "market cap / operating revenue",
+   "inputs": {
+    "market_cap": "6981.97699487",
+    "operating_revenue": "3.38"
+   },
+   "unit": "x"
+  },
+  "provider": {
+   "pe": "-",
+   "mcap": "6,981.98 Crore",
+   "eps": "-0.02"
+  },
+  "note": "Valued at an indicative unlisted dealer quote against the latest fiscal-year PAT; not a traded market price."
+ },
+ "coverage_gaps": [
+  {
+   "field": "inventories",
+   "state": "not_in_source",
+   "label": "Inventories"
+  },
+  {
+   "field": "cash",
+   "state": "not_in_source",
+   "label": "Cash & equivalents"
+  }
+ ],
+ "checks": [
+  {
+   "check": "balance_identity",
+   "period": "FY2022",
+   "result": "pass",
+   "detail": "assets 450.97 - (equity 274.42 + liabilities 176.55) = 0.00"
+  },
+  {
+   "check": "income_identity",
+   "period": "FY2022",
+   "result": "pass",
+   "detail": "total income 25.06 - (operations 10.06 + other 15 + separate income lines 0) = 0.00"
+  },
+  {
+   "check": "balance_identity",
+   "period": "FY2023",
+   "result": "pass",
+   "detail": "assets 299.38 - (equity 241.41 + liabilities 57.97) = 0.00"
+  },
+  {
+   "check": "income_identity",
+   "period": "FY2023",
+   "result": "pass",
+   "detail": "total income 54.65 - (operations 9.21 + other 45.44 + separate income lines 0) = 0.00"
+  },
+  {
+   "check": "balance_identity",
+   "period": "FY2024",
+   "result": "pass",
+   "detail": "assets 249.18 - (equity 192.79 + liabilities 56.39) = 0.00"
+  },
+  {
+   "check": "income_identity",
+   "period": "FY2024",
+   "result": "pass",
+   "detail": "total income 21.05 - (operations 7.36 + other 13.69 + separate income lines 0) = 0.00"
+  },
+  {
+   "check": "balance_identity",
+   "period": "FY2025",
+   "result": "pass",
+   "detail": "assets 443.85 - (equity 396.69 + liabilities 47.16) = 0.00"
+  },
+  {
+   "check": "income_identity",
+   "period": "FY2025",
+   "result": "pass",
+   "detail": "total income 17.38 - (operations 4.31 + other 13.07 + separate income lines 0) = 0.00"
+  },
+  {
+   "check": "balance_identity",
+   "period": "FY2026",
+   "result": "pass",
+   "detail": "assets 1434.48 - (equity 1369.29 + liabilities 65.19) = 0.00"
+  },
+  {
+   "check": "income_identity",
+   "period": "FY2026",
+   "result": "pass",
+   "detail": "total income 59.07 - (operations 3.38 + other 55.69 + separate income lines 0) = 0.00"
+  }
+ ],
+ "provider_ratios": {
+  "EBITDA Margin": {
+   "FY2026": {
+    "raw_text": "-21.33%",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "-169.68%",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "-192.64%",
+    "state": "reported"
+   },
+   "FY2023": {
+    "raw_text": "-16.29%",
+    "state": "reported"
+   },
+   "FY2022": {
+    "raw_text": "-80.53%",
+    "state": "reported"
+   }
+  },
+  "EBIT Margin": {
+   "FY2026": {
+    "raw_text": "-42.59%",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "-199.02%",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "-221.43%",
+    "state": "reported"
+   },
+   "FY2023": {
+    "raw_text": "-35.77%",
+    "state": "reported"
+   },
+   "FY2022": {
+    "raw_text": "-122.35%",
+    "state": "reported"
+   }
+  },
+  "Return on Equity (ROE)": {
+   "FY2026": {
+    "raw_text": "-1.89%",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "-8.63%",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "-25.28%",
+    "state": "reported"
+   },
+   "FY2023": {
+    "raw_text": "-7.73%",
+    "state": "reported"
+   },
+   "FY2022": {
+    "raw_text": "-11.54%",
+    "state": "reported"
+   }
+  },
+  "Return on Capital Employed (ROCE)": {
+   "FY2026": {
+    "raw_text": "-1.80%",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "-8.10%",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "-21.46%",
+    "state": "reported"
+   },
+   "FY2023": {
+    "raw_text": "-7.41%",
+    "state": "reported"
+   },
+   "FY2022": {
+    "raw_text": "-7.65%",
+    "state": "reported"
+   }
+  },
+  "Assets Turnover Ratio": {
+   "FY2026": {
+    "raw_text": "0.04",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "0.04",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "0.08",
+    "state": "reported"
+   },
+   "FY2023": {
+    "raw_text": "0.18",
+    "state": "reported"
+   },
+   "FY2022": {
+    "raw_text": "0.06",
+    "state": "reported"
+   }
+  },
+  "Return on Assets": {
+   "FY2026": {
+    "raw_text": "-1.80%",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "-7.71%",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "-19.56%",
+    "state": "reported"
+   },
+   "FY2023": {
+    "raw_text": "-6.24%",
+    "state": "reported"
+   },
+   "FY2022": {
+    "raw_text": "-7.02%",
+    "state": "reported"
+   }
+  },
+  "Net Profit Margin": {
+   "FY2026": {
+    "raw_text": "-43.74%",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "-196.89%",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "-231.54%",
+    "state": "reported"
+   },
+   "FY2023": {
+    "raw_text": "-34.16%",
+    "state": "reported"
+   },
+   "FY2022": {
+    "raw_text": "-126.38%",
+    "state": "reported"
+   }
+  },
+  "Interest Coverage Ratio": {
+   "FY2026": {
+    "raw_text": "-37.00",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "-133.04",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "-47.56",
+    "state": "reported"
+   },
+   "FY2023": {
+    "raw_text": "-50.13",
+    "state": "reported"
+   },
+   "FY2022": {
+    "raw_text": "-51.10",
+    "state": "reported"
+   }
+  },
+  "Revenue Growth Rate (CAGR)": {
+   "FY2026": {
+    "raw_text": "239.87%",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "-17.43%",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "-61.48%",
+    "state": "reported"
+   },
+   "FY2023": {
+    "raw_text": "118.08%",
+    "state": "reported"
+   },
+   "FY2022": {
+    "raw_text": "-22.77%",
+    "state": "reported"
+   }
+  },
+  "EPS Growth Rate (CAGR)": {
+   "FY2026": {
+    "raw_text": "-58.79%",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "-43.72%",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "161.06%",
+    "state": "reported"
+   },
+   "FY2023": {
+    "raw_text": "-41.05%",
+    "state": "reported"
+   },
+   "FY2022": {
+    "raw_text": "9.73%",
+    "state": "reported"
+   }
+  }
+ },
+ "evidence": {
+  "ev1": {
+   "source": "WWIPL company overview",
+   "url": "https://wwipl.com/unlisted-shares/msei-unlisted-share-price-today",
+   "retrieved_at": "2026-11-23T16:44:39+00:00",
+   "sha256": "99ea31491064b7bee1fcb40e0c2c26ecc597595bbb42ceac054beb7279d95de1",
+   "capture_run": "20261123T164433Z",
+   "file": "msei-overview.html",
+   "raw_label": "Last Traded Price",
+   "raw_text": "6.35"
+  },
+  "ev2": {
+   "source": "WWIPL company overview",
+   "url": "https://wwipl.com/unlisted-shares/msei-unlisted-share-price-today",
+   "retrieved_at": "2026-11-23T16:44:39+00:00",
+   "sha256": "99ea31491064b7bee1fcb40e0c2c26ecc597595bbb42ceac054beb7279d95de1",
+   "capture_run": "20261123T164433Z",
+   "file": "msei-overview.html",
+   "raw_label": "Company fundamentals block"
+  },
+  "ev3": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/msei-unlisted-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:41+00:00",
+   "sha256": "71a58ddfd80a3f14229fd180e7dcde1954585048e28da10c4614917470a4f2d8",
+   "capture_run": "20261123T164433Z",
+   "file": "msei-financial.html",
+   "raw_label": "Revenue",
+   "raw_text": "25.06",
+   "raw_unit": "INR crore",
+   "period": "FY2022",
+   "period_label": "2021-22",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "msei-financial.html",
+    "table_index": 4,
+    "row_index": 1,
+    "heading": "Metropolitan Stock Exchange Of India Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev4": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/msei-unlisted-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:41+00:00",
+   "sha256": "71a58ddfd80a3f14229fd180e7dcde1954585048e28da10c4614917470a4f2d8",
+   "capture_run": "20261123T164433Z",
+   "file": "msei-financial.html",
+   "raw_label": "Revenue",
+   "raw_text": "54.65",
+   "raw_unit": "INR crore",
+   "period": "FY2023",
+   "period_label": "2022-23",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "msei-financial.html",
+    "table_index": 4,
+    "row_index": 1,
+    "heading": "Metropolitan Stock Exchange Of India Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev5": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/msei-unlisted-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:41+00:00",
+   "sha256": "71a58ddfd80a3f14229fd180e7dcde1954585048e28da10c4614917470a4f2d8",
+   "capture_run": "20261123T164433Z",
+   "file": "msei-financial.html",
+   "raw_label": "Revenue",
+   "raw_text": "21.05",
+   "raw_unit": "INR crore",
+   "period": "FY2024",
+   "period_label": "2023-24",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "msei-financial.html",
+    "table_index": 4,
+    "row_index": 1,
+    "heading": "Metropolitan Stock Exchange Of India Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev6": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/msei-unlisted-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:41+00:00",
+   "sha256": "71a58ddfd80a3f14229fd180e7dcde1954585048e28da10c4614917470a4f2d8",
+   "capture_run": "20261123T164433Z",
+   "file": "msei-financial.html",
+   "raw_label": "Revenue",
+   "raw_text": "17.38",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "2024-25",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "msei-financial.html",
+    "table_index": 4,
+    "row_index": 1,
+    "heading": "Metropolitan Stock Exchange Of India Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev7": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/msei-unlisted-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:41+00:00",
+   "sha256": "71a58ddfd80a3f14229fd180e7dcde1954585048e28da10c4614917470a4f2d8",
+   "capture_run": "20261123T164433Z",
+   "file": "msei-financial.html",
+   "raw_label": "Revenue",
+   "raw_text": "59.07",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "2025-26",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "msei-financial.html",
+    "table_index": 4,
+    "row_index": 1,
+    "heading": "Metropolitan Stock Exchange Of India Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev8": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/msei-unlisted-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:41+00:00",
+   "sha256": "71a58ddfd80a3f14229fd180e7dcde1954585048e28da10c4614917470a4f2d8",
+   "capture_run": "20261123T164433Z",
+   "file": "msei-financial.html",
+   "raw_label": "Revenue from operations",
+   "raw_text": "10.06",
+   "raw_unit": "INR crore",
+   "period": "FY2022",
+   "period_label": "2021-22",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "msei-financial.html",
+    "table_index": 4,
+    "row_index": 2,
+    "heading": "Metropolitan Stock Exchange Of India Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev9": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/msei-unlisted-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:41+00:00",
+   "sha256": "71a58ddfd80a3f14229fd180e7dcde1954585048e28da10c4614917470a4f2d8",
+   "capture_run": "20261123T164433Z",
+   "file": "msei-financial.html",
+   "raw_label": "Revenue from operations",
+   "raw_text": "9.21",
+   "raw_unit": "INR crore",
+   "period": "FY2023",
+   "period_label": "2022-23",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "msei-financial.html",
+    "table_index": 4,
+    "row_index": 2,
+    "heading": "Metropolitan Stock Exchange Of India Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev10": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/msei-unlisted-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:41+00:00",
+   "sha256": "71a58ddfd80a3f14229fd180e7dcde1954585048e28da10c4614917470a4f2d8",
+   "capture_run": "20261123T164433Z",
+   "file": "msei-financial.html",
+   "raw_label": "Revenue from operations",
+   "raw_text": "7.36",
+   "raw_unit": "INR crore",
+   "period": "FY2024",
+   "period_label": "2023-24",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "msei-financial.html",
+    "table_index": 4,
+    "row_index": 2,
+    "heading": "Metropolitan Stock Exchange Of India Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev11": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/msei-unlisted-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:41+00:00",
+   "sha256": "71a58ddfd80a3f14229fd180e7dcde1954585048e28da10c4614917470a4f2d8",
+   "capture_run": "20261123T164433Z",
+   "file": "msei-financial.html",
+   "raw_label": "Revenue from operations",
+   "raw_text": "4.31",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "2024-25",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "msei-financial.html",
+    "table_index": 4,
+    "row_index": 2,
+    "heading": "Metropolitan Stock Exchange Of India Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev12": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/msei-unlisted-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:41+00:00",
+   "sha256": "71a58ddfd80a3f14229fd180e7dcde1954585048e28da10c4614917470a4f2d8",
+   "capture_run": "20261123T164433Z",
+   "file": "msei-financial.html",
+   "raw_label": "Revenue from operations",
+   "raw_text": "3.38",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "2025-26",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "msei-financial.html",
+    "table_index": 4,
+    "row_index": 2,
+    "heading": "Metropolitan Stock Exchange Of India Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev13": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/msei-unlisted-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:41+00:00",
+   "sha256": "71a58ddfd80a3f14229fd180e7dcde1954585048e28da10c4614917470a4f2d8",
+   "capture_run": "20261123T164433Z",
+   "file": "msei-financial.html",
+   "raw_label": "Other income",
+   "raw_text": "15.00",
+   "raw_unit": "INR crore",
+   "period": "FY2022",
+   "period_label": "2021-22",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "msei-financial.html",
+    "table_index": 4,
+    "row_index": 3,
+    "heading": "Metropolitan Stock Exchange Of India Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev14": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/msei-unlisted-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:41+00:00",
+   "sha256": "71a58ddfd80a3f14229fd180e7dcde1954585048e28da10c4614917470a4f2d8",
+   "capture_run": "20261123T164433Z",
+   "file": "msei-financial.html",
+   "raw_label": "Other income",
+   "raw_text": "45.44",
+   "raw_unit": "INR crore",
+   "period": "FY2023",
+   "period_label": "2022-23",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "msei-financial.html",
+    "table_index": 4,
+    "row_index": 3,
+    "heading": "Metropolitan Stock Exchange Of India Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev15": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/msei-unlisted-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:41+00:00",
+   "sha256": "71a58ddfd80a3f14229fd180e7dcde1954585048e28da10c4614917470a4f2d8",
+   "capture_run": "20261123T164433Z",
+   "file": "msei-financial.html",
+   "raw_label": "Other income",
+   "raw_text": "13.69",
+   "raw_unit": "INR crore",
+   "period": "FY2024",
+   "period_label": "2023-24",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "msei-financial.html",
+    "table_index": 4,
+    "row_index": 3,
+    "heading": "Metropolitan Stock Exchange Of India Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev16": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/msei-unlisted-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:41+00:00",
+   "sha256": "71a58ddfd80a3f14229fd180e7dcde1954585048e28da10c4614917470a4f2d8",
+   "capture_run": "20261123T164433Z",
+   "file": "msei-financial.html",
+   "raw_label": "Other income",
+   "raw_text": "13.07",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "2024-25",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "msei-financial.html",
+    "table_index": 4,
+    "row_index": 3,
+    "heading": "Metropolitan Stock Exchange Of India Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev17": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/msei-unlisted-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:41+00:00",
+   "sha256": "71a58ddfd80a3f14229fd180e7dcde1954585048e28da10c4614917470a4f2d8",
+   "capture_run": "20261123T164433Z",
+   "file": "msei-financial.html",
+   "raw_label": "Other income",
+   "raw_text": "55.69",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "2025-26",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "msei-financial.html",
+    "table_index": 4,
+    "row_index": 3,
+    "heading": "Metropolitan Stock Exchange Of India Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev18": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/msei-unlisted-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:41+00:00",
+   "sha256": "71a58ddfd80a3f14229fd180e7dcde1954585048e28da10c4614917470a4f2d8",
+   "capture_run": "20261123T164433Z",
+   "file": "msei-financial.html",
+   "raw_label": "Expenses",
+   "raw_text": "56.32",
+   "raw_unit": "INR crore",
+   "period": "FY2022",
+   "period_label": "2021-22",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "msei-financial.html",
+    "table_index": 4,
+    "row_index": 4,
+    "heading": "Metropolitan Stock Exchange Of India Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev19": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/msei-unlisted-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:41+00:00",
+   "sha256": "71a58ddfd80a3f14229fd180e7dcde1954585048e28da10c4614917470a4f2d8",
+   "capture_run": "20261123T164433Z",
+   "file": "msei-financial.html",
+   "raw_label": "Expenses",
+   "raw_text": "69.38",
+   "raw_unit": "INR crore",
+   "period": "FY2023",
+   "period_label": "2022-23",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "msei-financial.html",
+    "table_index": 4,
+    "row_index": 4,
+    "heading": "Metropolitan Stock Exchange Of India Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev20": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/msei-unlisted-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:41+00:00",
+   "sha256": "71a58ddfd80a3f14229fd180e7dcde1954585048e28da10c4614917470a4f2d8",
+   "capture_run": "20261123T164433Z",
+   "file": "msei-financial.html",
+   "raw_label": "Expenses",
+   "raw_text": "68.64",
+   "raw_unit": "INR crore",
+   "period": "FY2024",
+   "period_label": "2023-24",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "msei-financial.html",
+    "table_index": 4,
+    "row_index": 4,
+    "heading": "Metropolitan Stock Exchange Of India Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev21": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/msei-unlisted-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:41+00:00",
+   "sha256": "71a58ddfd80a3f14229fd180e7dcde1954585048e28da10c4614917470a4f2d8",
+   "capture_run": "20261123T164433Z",
+   "file": "msei-financial.html",
+   "raw_label": "Expenses",
+   "raw_text": "52.23",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "2024-25",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "msei-financial.html",
+    "table_index": 4,
+    "row_index": 4,
+    "heading": "Metropolitan Stock Exchange Of India Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev22": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/msei-unlisted-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:41+00:00",
+   "sha256": "71a58ddfd80a3f14229fd180e7dcde1954585048e28da10c4614917470a4f2d8",
+   "capture_run": "20261123T164433Z",
+   "file": "msei-financial.html",
+   "raw_label": "Expenses",
+   "raw_text": "84.91",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "2025-26",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "msei-financial.html",
+    "table_index": 4,
+    "row_index": 4,
+    "heading": "Metropolitan Stock Exchange Of India Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev23": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/msei-unlisted-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:41+00:00",
+   "sha256": "71a58ddfd80a3f14229fd180e7dcde1954585048e28da10c4614917470a4f2d8",
+   "capture_run": "20261123T164433Z",
+   "file": "msei-financial.html",
+   "raw_label": "Finance cost",
+   "raw_text": "0.60",
+   "raw_unit": "INR crore",
+   "period": "FY2022",
+   "period_label": "2021-22",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "msei-financial.html",
+    "table_index": 4,
+    "row_index": 5,
+    "heading": "Metropolitan Stock Exchange Of India Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev24": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/msei-unlisted-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:41+00:00",
+   "sha256": "71a58ddfd80a3f14229fd180e7dcde1954585048e28da10c4614917470a4f2d8",
+   "capture_run": "20261123T164433Z",
+   "file": "msei-financial.html",
+   "raw_label": "Finance cost",
+   "raw_text": "0.39",
+   "raw_unit": "INR crore",
+   "period": "FY2023",
+   "period_label": "2022-23",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "msei-financial.html",
+    "table_index": 4,
+    "row_index": 5,
+    "heading": "Metropolitan Stock Exchange Of India Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev25": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/msei-unlisted-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:41+00:00",
+   "sha256": "71a58ddfd80a3f14229fd180e7dcde1954585048e28da10c4614917470a4f2d8",
+   "capture_run": "20261123T164433Z",
+   "file": "msei-financial.html",
+   "raw_label": "Finance cost",
+   "raw_text": "0.98",
+   "raw_unit": "INR crore",
+   "period": "FY2024",
+   "period_label": "2023-24",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "msei-financial.html",
+    "table_index": 4,
+    "row_index": 5,
+    "heading": "Metropolitan Stock Exchange Of India Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev26": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/msei-unlisted-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:41+00:00",
+   "sha256": "71a58ddfd80a3f14229fd180e7dcde1954585048e28da10c4614917470a4f2d8",
+   "capture_run": "20261123T164433Z",
+   "file": "msei-financial.html",
+   "raw_label": "Finance cost",
+   "raw_text": "0.26",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "2024-25",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "msei-financial.html",
+    "table_index": 4,
+    "row_index": 5,
+    "heading": "Metropolitan Stock Exchange Of India Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev27": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/msei-unlisted-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:41+00:00",
+   "sha256": "71a58ddfd80a3f14229fd180e7dcde1954585048e28da10c4614917470a4f2d8",
+   "capture_run": "20261123T164433Z",
+   "file": "msei-financial.html",
+   "raw_label": "Finance cost",
+   "raw_text": "0.68",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "2025-26",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "msei-financial.html",
+    "table_index": 4,
+    "row_index": 5,
+    "heading": "Metropolitan Stock Exchange Of India Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev28": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/msei-unlisted-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:41+00:00",
+   "sha256": "71a58ddfd80a3f14229fd180e7dcde1954585048e28da10c4614917470a4f2d8",
+   "capture_run": "20261123T164433Z",
+   "file": "msei-financial.html",
+   "raw_label": "Depreciation and Amortisation expense",
+   "raw_text": "10.48",
+   "raw_unit": "INR crore",
+   "period": "FY2022",
+   "period_label": "2021-22",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "msei-financial.html",
+    "table_index": 4,
+    "row_index": 7,
+    "heading": "Metropolitan Stock Exchange Of India Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev29": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/msei-unlisted-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:41+00:00",
+   "sha256": "71a58ddfd80a3f14229fd180e7dcde1954585048e28da10c4614917470a4f2d8",
+   "capture_run": "20261123T164433Z",
+   "file": "msei-financial.html",
+   "raw_label": "Depreciation and Amortisation expense",
+   "raw_text": "10.65",
+   "raw_unit": "INR crore",
+   "period": "FY2023",
+   "period_label": "2022-23",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "msei-financial.html",
+    "table_index": 4,
+    "row_index": 7,
+    "heading": "Metropolitan Stock Exchange Of India Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev30": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/msei-unlisted-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:41+00:00",
+   "sha256": "71a58ddfd80a3f14229fd180e7dcde1954585048e28da10c4614917470a4f2d8",
+   "capture_run": "20261123T164433Z",
+   "file": "msei-financial.html",
+   "raw_label": "Depreciation and Amortisation expense",
+   "raw_text": "6.06",
+   "raw_unit": "INR crore",
+   "period": "FY2024",
+   "period_label": "2023-24",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "msei-financial.html",
+    "table_index": 4,
+    "row_index": 7,
+    "heading": "Metropolitan Stock Exchange Of India Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev31": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/msei-unlisted-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:41+00:00",
+   "sha256": "71a58ddfd80a3f14229fd180e7dcde1954585048e28da10c4614917470a4f2d8",
+   "capture_run": "20261123T164433Z",
+   "file": "msei-financial.html",
+   "raw_label": "Depreciation and Amortisation expense",
+   "raw_text": "5.10",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "2024-25",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "msei-financial.html",
+    "table_index": 4,
+    "row_index": 7,
+    "heading": "Metropolitan Stock Exchange Of India Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev32": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/msei-unlisted-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:41+00:00",
+   "sha256": "71a58ddfd80a3f14229fd180e7dcde1954585048e28da10c4614917470a4f2d8",
+   "capture_run": "20261123T164433Z",
+   "file": "msei-financial.html",
+   "raw_label": "Depreciation and Amortisation expense",
+   "raw_text": "12.56",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "2025-26",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "msei-financial.html",
+    "table_index": 4,
+    "row_index": 7,
+    "heading": "Metropolitan Stock Exchange Of India Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev33": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/msei-unlisted-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:41+00:00",
+   "sha256": "71a58ddfd80a3f14229fd180e7dcde1954585048e28da10c4614917470a4f2d8",
+   "capture_run": "20261123T164433Z",
+   "file": "msei-financial.html",
+   "raw_label": "Profit/(loss) before tax",
+   "raw_text": "-31.26",
+   "raw_unit": "INR crore",
+   "period": "FY2022",
+   "period_label": "2021-22",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "msei-financial.html",
+    "table_index": 4,
+    "row_index": 9,
+    "heading": "Metropolitan Stock Exchange Of India Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev34": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/msei-unlisted-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:41+00:00",
+   "sha256": "71a58ddfd80a3f14229fd180e7dcde1954585048e28da10c4614917470a4f2d8",
+   "capture_run": "20261123T164433Z",
+   "file": "msei-financial.html",
+   "raw_label": "Profit/(loss) before tax",
+   "raw_text": "-19.94",
+   "raw_unit": "INR crore",
+   "period": "FY2023",
+   "period_label": "2022-23",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "msei-financial.html",
+    "table_index": 4,
+    "row_index": 9,
+    "heading": "Metropolitan Stock Exchange Of India Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev35": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/msei-unlisted-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:41+00:00",
+   "sha256": "71a58ddfd80a3f14229fd180e7dcde1954585048e28da10c4614917470a4f2d8",
+   "capture_run": "20261123T164433Z",
+   "file": "msei-financial.html",
+   "raw_label": "Profit/(loss) before tax",
+   "raw_text": "-47.59",
+   "raw_unit": "INR crore",
+   "period": "FY2024",
+   "period_label": "2023-24",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "msei-financial.html",
+    "table_index": 4,
+    "row_index": 9,
+    "heading": "Metropolitan Stock Exchange Of India Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev36": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/msei-unlisted-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:41+00:00",
+   "sha256": "71a58ddfd80a3f14229fd180e7dcde1954585048e28da10c4614917470a4f2d8",
+   "capture_run": "20261123T164433Z",
+   "file": "msei-financial.html",
+   "raw_label": "Profit/(loss) before tax",
+   "raw_text": "-34.85",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "2024-25",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "msei-financial.html",
+    "table_index": 4,
+    "row_index": 9,
+    "heading": "Metropolitan Stock Exchange Of India Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev37": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/msei-unlisted-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:41+00:00",
+   "sha256": "71a58ddfd80a3f14229fd180e7dcde1954585048e28da10c4614917470a4f2d8",
+   "capture_run": "20261123T164433Z",
+   "file": "msei-financial.html",
+   "raw_label": "Profit/(loss) before tax",
+   "raw_text": "-25.84",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "2025-26",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "msei-financial.html",
+    "table_index": 4,
+    "row_index": 9,
+    "heading": "Metropolitan Stock Exchange Of India Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev38": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/msei-unlisted-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:41+00:00",
+   "sha256": "71a58ddfd80a3f14229fd180e7dcde1954585048e28da10c4614917470a4f2d8",
+   "capture_run": "20261123T164433Z",
+   "file": "msei-financial.html",
+   "raw_label": "Tax Expense",
+   "raw_text": "0.41",
+   "raw_unit": "INR crore",
+   "period": "FY2022",
+   "period_label": "2021-22",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "msei-financial.html",
+    "table_index": 4,
+    "row_index": 10,
+    "heading": "Metropolitan Stock Exchange Of India Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev39": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/msei-unlisted-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:41+00:00",
+   "sha256": "71a58ddfd80a3f14229fd180e7dcde1954585048e28da10c4614917470a4f2d8",
+   "capture_run": "20261123T164433Z",
+   "file": "msei-financial.html",
+   "raw_label": "Tax Expense",
+   "raw_text": "-1.27",
+   "raw_unit": "INR crore",
+   "period": "FY2023",
+   "period_label": "2022-23",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "msei-financial.html",
+    "table_index": 4,
+    "row_index": 10,
+    "heading": "Metropolitan Stock Exchange Of India Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev40": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/msei-unlisted-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:41+00:00",
+   "sha256": "71a58ddfd80a3f14229fd180e7dcde1954585048e28da10c4614917470a4f2d8",
+   "capture_run": "20261123T164433Z",
+   "file": "msei-financial.html",
+   "raw_label": "Tax Expense",
+   "raw_text": "1.15",
+   "raw_unit": "INR crore",
+   "period": "FY2024",
+   "period_label": "2023-24",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "msei-financial.html",
+    "table_index": 4,
+    "row_index": 10,
+    "heading": "Metropolitan Stock Exchange Of India Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev41": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/msei-unlisted-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:41+00:00",
+   "sha256": "71a58ddfd80a3f14229fd180e7dcde1954585048e28da10c4614917470a4f2d8",
+   "capture_run": "20261123T164433Z",
+   "file": "msei-financial.html",
+   "raw_label": "Tax Expense",
+   "raw_text": "-0.63",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "2024-25",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "msei-financial.html",
+    "table_index": 4,
+    "row_index": 10,
+    "heading": "Metropolitan Stock Exchange Of India Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev42": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/msei-unlisted-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:41+00:00",
+   "sha256": "71a58ddfd80a3f14229fd180e7dcde1954585048e28da10c4614917470a4f2d8",
+   "capture_run": "20261123T164433Z",
+   "file": "msei-financial.html",
+   "raw_label": "Tax Expense",
+   "raw_text": "0.00",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "2025-26",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "msei-financial.html",
+    "table_index": 4,
+    "row_index": 10,
+    "heading": "Metropolitan Stock Exchange Of India Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev43": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/msei-unlisted-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:41+00:00",
+   "sha256": "71a58ddfd80a3f14229fd180e7dcde1954585048e28da10c4614917470a4f2d8",
+   "capture_run": "20261123T164433Z",
+   "file": "msei-financial.html",
+   "raw_label": "Profit (Loss) for the period from continuing Operations",
+   "raw_text": "-31.67",
+   "raw_unit": "INR crore",
+   "period": "FY2022",
+   "period_label": "2021-22",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "msei-financial.html",
+    "table_index": 4,
+    "row_index": 13,
+    "heading": "Metropolitan Stock Exchange Of India Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev44": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/msei-unlisted-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:41+00:00",
+   "sha256": "71a58ddfd80a3f14229fd180e7dcde1954585048e28da10c4614917470a4f2d8",
+   "capture_run": "20261123T164433Z",
+   "file": "msei-financial.html",
+   "raw_label": "Profit (Loss) for the period from continuing Operations",
+   "raw_text": "-18.67",
+   "raw_unit": "INR crore",
+   "period": "FY2023",
+   "period_label": "2022-23",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "msei-financial.html",
+    "table_index": 4,
+    "row_index": 13,
+    "heading": "Metropolitan Stock Exchange Of India Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev45": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/msei-unlisted-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:41+00:00",
+   "sha256": "71a58ddfd80a3f14229fd180e7dcde1954585048e28da10c4614917470a4f2d8",
+   "capture_run": "20261123T164433Z",
+   "file": "msei-financial.html",
+   "raw_label": "Profit (Loss) for the period from continuing Operations",
+   "raw_text": "-48.74",
+   "raw_unit": "INR crore",
+   "period": "FY2024",
+   "period_label": "2023-24",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "msei-financial.html",
+    "table_index": 4,
+    "row_index": 13,
+    "heading": "Metropolitan Stock Exchange Of India Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev46": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/msei-unlisted-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:41+00:00",
+   "sha256": "71a58ddfd80a3f14229fd180e7dcde1954585048e28da10c4614917470a4f2d8",
+   "capture_run": "20261123T164433Z",
+   "file": "msei-financial.html",
+   "raw_label": "Profit (Loss) for the period from continuing Operations",
+   "raw_text": "-34.22",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "2024-25",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "msei-financial.html",
+    "table_index": 4,
+    "row_index": 13,
+    "heading": "Metropolitan Stock Exchange Of India Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev47": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/msei-unlisted-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:41+00:00",
+   "sha256": "71a58ddfd80a3f14229fd180e7dcde1954585048e28da10c4614917470a4f2d8",
+   "capture_run": "20261123T164433Z",
+   "file": "msei-financial.html",
+   "raw_label": "Profit (Loss) for the period from continuing Operations",
+   "raw_text": "-25.84",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "2025-26",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "msei-financial.html",
+    "table_index": 4,
+    "row_index": 13,
+    "heading": "Metropolitan Stock Exchange Of India Limited Income Statement(Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev48": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/msei-unlisted-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:41+00:00",
+   "sha256": "71a58ddfd80a3f14229fd180e7dcde1954585048e28da10c4614917470a4f2d8",
+   "capture_run": "20261123T164433Z",
+   "file": "msei-financial.html",
+   "raw_label": "ASSETS",
+   "raw_text": "450.97",
+   "raw_unit": "INR crore",
+   "period": "FY2022",
+   "period_label": "2021-22",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "msei-financial.html",
+    "table_index": 1,
+    "row_index": 6,
+    "heading": "Metropolitan Stock Exchange Of India Limited Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev49": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/msei-unlisted-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:41+00:00",
+   "sha256": "71a58ddfd80a3f14229fd180e7dcde1954585048e28da10c4614917470a4f2d8",
+   "capture_run": "20261123T164433Z",
+   "file": "msei-financial.html",
+   "raw_label": "ASSETS",
+   "raw_text": "299.38",
+   "raw_unit": "INR crore",
+   "period": "FY2023",
+   "period_label": "2022-23",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "msei-financial.html",
+    "table_index": 1,
+    "row_index": 6,
+    "heading": "Metropolitan Stock Exchange Of India Limited Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev50": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/msei-unlisted-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:41+00:00",
+   "sha256": "71a58ddfd80a3f14229fd180e7dcde1954585048e28da10c4614917470a4f2d8",
+   "capture_run": "20261123T164433Z",
+   "file": "msei-financial.html",
+   "raw_label": "ASSETS",
+   "raw_text": "249.18",
+   "raw_unit": "INR crore",
+   "period": "FY2024",
+   "period_label": "2023-24",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "msei-financial.html",
+    "table_index": 1,
+    "row_index": 6,
+    "heading": "Metropolitan Stock Exchange Of India Limited Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev51": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/msei-unlisted-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:41+00:00",
+   "sha256": "71a58ddfd80a3f14229fd180e7dcde1954585048e28da10c4614917470a4f2d8",
+   "capture_run": "20261123T164433Z",
+   "file": "msei-financial.html",
+   "raw_label": "ASSETS",
+   "raw_text": "443.85",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "2024-25",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "msei-financial.html",
+    "table_index": 1,
+    "row_index": 6,
+    "heading": "Metropolitan Stock Exchange Of India Limited Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev52": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/msei-unlisted-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:41+00:00",
+   "sha256": "71a58ddfd80a3f14229fd180e7dcde1954585048e28da10c4614917470a4f2d8",
+   "capture_run": "20261123T164433Z",
+   "file": "msei-financial.html",
+   "raw_label": "ASSETS",
+   "raw_text": "1,434.48",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "2025-26",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "msei-financial.html",
+    "table_index": 1,
+    "row_index": 6,
+    "heading": "Metropolitan Stock Exchange Of India Limited Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev53": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/msei-unlisted-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:41+00:00",
+   "sha256": "71a58ddfd80a3f14229fd180e7dcde1954585048e28da10c4614917470a4f2d8",
+   "capture_run": "20261123T164433Z",
+   "file": "msei-financial.html",
+   "raw_label": "Total equity",
+   "raw_text": "274.42",
+   "raw_unit": "INR crore",
+   "period": "FY2022",
+   "period_label": "2021-22",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "msei-financial.html",
+    "table_index": 1,
+    "row_index": 2,
+    "heading": "Metropolitan Stock Exchange Of India Limited Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev54": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/msei-unlisted-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:41+00:00",
+   "sha256": "71a58ddfd80a3f14229fd180e7dcde1954585048e28da10c4614917470a4f2d8",
+   "capture_run": "20261123T164433Z",
+   "file": "msei-financial.html",
+   "raw_label": "Total equity",
+   "raw_text": "241.41",
+   "raw_unit": "INR crore",
+   "period": "FY2023",
+   "period_label": "2022-23",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "msei-financial.html",
+    "table_index": 1,
+    "row_index": 2,
+    "heading": "Metropolitan Stock Exchange Of India Limited Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev55": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/msei-unlisted-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:41+00:00",
+   "sha256": "71a58ddfd80a3f14229fd180e7dcde1954585048e28da10c4614917470a4f2d8",
+   "capture_run": "20261123T164433Z",
+   "file": "msei-financial.html",
+   "raw_label": "Total equity",
+   "raw_text": "192.79",
+   "raw_unit": "INR crore",
+   "period": "FY2024",
+   "period_label": "2023-24",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "msei-financial.html",
+    "table_index": 1,
+    "row_index": 2,
+    "heading": "Metropolitan Stock Exchange Of India Limited Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev56": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/msei-unlisted-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:41+00:00",
+   "sha256": "71a58ddfd80a3f14229fd180e7dcde1954585048e28da10c4614917470a4f2d8",
+   "capture_run": "20261123T164433Z",
+   "file": "msei-financial.html",
+   "raw_label": "Total equity",
+   "raw_text": "396.69",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "2024-25",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "msei-financial.html",
+    "table_index": 1,
+    "row_index": 2,
+    "heading": "Metropolitan Stock Exchange Of India Limited Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev57": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/msei-unlisted-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:41+00:00",
+   "sha256": "71a58ddfd80a3f14229fd180e7dcde1954585048e28da10c4614917470a4f2d8",
+   "capture_run": "20261123T164433Z",
+   "file": "msei-financial.html",
+   "raw_label": "Total equity",
+   "raw_text": "1,369.29",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "2025-26",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "msei-financial.html",
+    "table_index": 1,
+    "row_index": 2,
+    "heading": "Metropolitan Stock Exchange Of India Limited Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev58": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/msei-unlisted-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:41+00:00",
+   "sha256": "71a58ddfd80a3f14229fd180e7dcde1954585048e28da10c4614917470a4f2d8",
+   "capture_run": "20261123T164433Z",
+   "file": "msei-financial.html",
+   "raw_label": "Total liabilities",
+   "raw_text": "176.55",
+   "raw_unit": "INR crore",
+   "period": "FY2022",
+   "period_label": "2021-22",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "msei-financial.html",
+    "table_index": 1,
+    "row_index": 3,
+    "heading": "Metropolitan Stock Exchange Of India Limited Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev59": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/msei-unlisted-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:41+00:00",
+   "sha256": "71a58ddfd80a3f14229fd180e7dcde1954585048e28da10c4614917470a4f2d8",
+   "capture_run": "20261123T164433Z",
+   "file": "msei-financial.html",
+   "raw_label": "Total liabilities",
+   "raw_text": "57.97",
+   "raw_unit": "INR crore",
+   "period": "FY2023",
+   "period_label": "2022-23",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "msei-financial.html",
+    "table_index": 1,
+    "row_index": 3,
+    "heading": "Metropolitan Stock Exchange Of India Limited Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev60": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/msei-unlisted-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:41+00:00",
+   "sha256": "71a58ddfd80a3f14229fd180e7dcde1954585048e28da10c4614917470a4f2d8",
+   "capture_run": "20261123T164433Z",
+   "file": "msei-financial.html",
+   "raw_label": "Total liabilities",
+   "raw_text": "56.39",
+   "raw_unit": "INR crore",
+   "period": "FY2024",
+   "period_label": "2023-24",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "msei-financial.html",
+    "table_index": 1,
+    "row_index": 3,
+    "heading": "Metropolitan Stock Exchange Of India Limited Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev61": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/msei-unlisted-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:41+00:00",
+   "sha256": "71a58ddfd80a3f14229fd180e7dcde1954585048e28da10c4614917470a4f2d8",
+   "capture_run": "20261123T164433Z",
+   "file": "msei-financial.html",
+   "raw_label": "Total liabilities",
+   "raw_text": "47.16",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "2024-25",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "msei-financial.html",
+    "table_index": 1,
+    "row_index": 3,
+    "heading": "Metropolitan Stock Exchange Of India Limited Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev62": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/msei-unlisted-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:41+00:00",
+   "sha256": "71a58ddfd80a3f14229fd180e7dcde1954585048e28da10c4614917470a4f2d8",
+   "capture_run": "20261123T164433Z",
+   "file": "msei-financial.html",
+   "raw_label": "Total liabilities",
+   "raw_text": "65.19",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "2025-26",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "msei-financial.html",
+    "table_index": 1,
+    "row_index": 3,
+    "heading": "Metropolitan Stock Exchange Of India Limited Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev63": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/msei-unlisted-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:41+00:00",
+   "sha256": "71a58ddfd80a3f14229fd180e7dcde1954585048e28da10c4614917470a4f2d8",
+   "capture_run": "20261123T164433Z",
+   "file": "msei-financial.html",
+   "raw_label": "Current assets",
+   "raw_text": "321.05",
+   "raw_unit": "INR crore",
+   "period": "FY2022",
+   "period_label": "2021-22",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "msei-financial.html",
+    "table_index": 1,
+    "row_index": 8,
+    "heading": "Metropolitan Stock Exchange Of India Limited Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev64": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/msei-unlisted-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:41+00:00",
+   "sha256": "71a58ddfd80a3f14229fd180e7dcde1954585048e28da10c4614917470a4f2d8",
+   "capture_run": "20261123T164433Z",
+   "file": "msei-financial.html",
+   "raw_label": "Current assets",
+   "raw_text": "202.66",
+   "raw_unit": "INR crore",
+   "period": "FY2023",
+   "period_label": "2022-23",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "msei-financial.html",
+    "table_index": 1,
+    "row_index": 8,
+    "heading": "Metropolitan Stock Exchange Of India Limited Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev65": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/msei-unlisted-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:41+00:00",
+   "sha256": "71a58ddfd80a3f14229fd180e7dcde1954585048e28da10c4614917470a4f2d8",
+   "capture_run": "20261123T164433Z",
+   "file": "msei-financial.html",
+   "raw_label": "Current assets",
+   "raw_text": "161.57",
+   "raw_unit": "INR crore",
+   "period": "FY2024",
+   "period_label": "2023-24",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "msei-financial.html",
+    "table_index": 1,
+    "row_index": 8,
+    "heading": "Metropolitan Stock Exchange Of India Limited Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev66": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/msei-unlisted-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:41+00:00",
+   "sha256": "71a58ddfd80a3f14229fd180e7dcde1954585048e28da10c4614917470a4f2d8",
+   "capture_run": "20261123T164433Z",
+   "file": "msei-financial.html",
+   "raw_label": "Current assets",
+   "raw_text": "258.53",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "2024-25",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "msei-financial.html",
+    "table_index": 1,
+    "row_index": 8,
+    "heading": "Metropolitan Stock Exchange Of India Limited Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev67": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/msei-unlisted-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:41+00:00",
+   "sha256": "71a58ddfd80a3f14229fd180e7dcde1954585048e28da10c4614917470a4f2d8",
+   "capture_run": "20261123T164433Z",
+   "file": "msei-financial.html",
+   "raw_label": "Current assets",
+   "raw_text": "519.37",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "2025-26",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "msei-financial.html",
+    "table_index": 1,
+    "row_index": 8,
+    "heading": "Metropolitan Stock Exchange Of India Limited Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev68": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/msei-unlisted-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:41+00:00",
+   "sha256": "71a58ddfd80a3f14229fd180e7dcde1954585048e28da10c4614917470a4f2d8",
+   "capture_run": "20261123T164433Z",
+   "file": "msei-financial.html",
+   "raw_label": "Current liabilities",
+   "raw_text": "50.31",
+   "raw_unit": "INR crore",
+   "period": "FY2022",
+   "period_label": "2021-22",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "msei-financial.html",
+    "table_index": 1,
+    "row_index": 5,
+    "heading": "Metropolitan Stock Exchange Of India Limited Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev69": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/msei-unlisted-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:41+00:00",
+   "sha256": "71a58ddfd80a3f14229fd180e7dcde1954585048e28da10c4614917470a4f2d8",
+   "capture_run": "20261123T164433Z",
+   "file": "msei-financial.html",
+   "raw_label": "Current liabilities",
+   "raw_text": "35.72",
+   "raw_unit": "INR crore",
+   "period": "FY2023",
+   "period_label": "2022-23",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "msei-financial.html",
+    "table_index": 1,
+    "row_index": 5,
+    "heading": "Metropolitan Stock Exchange Of India Limited Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev70": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/msei-unlisted-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:41+00:00",
+   "sha256": "71a58ddfd80a3f14229fd180e7dcde1954585048e28da10c4614917470a4f2d8",
+   "capture_run": "20261123T164433Z",
+   "file": "msei-financial.html",
+   "raw_label": "Current liabilities",
+   "raw_text": "32.03",
+   "raw_unit": "INR crore",
+   "period": "FY2024",
+   "period_label": "2023-24",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "msei-financial.html",
+    "table_index": 1,
+    "row_index": 5,
+    "heading": "Metropolitan Stock Exchange Of India Limited Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev71": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/msei-unlisted-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:41+00:00",
+   "sha256": "71a58ddfd80a3f14229fd180e7dcde1954585048e28da10c4614917470a4f2d8",
+   "capture_run": "20261123T164433Z",
+   "file": "msei-financial.html",
+   "raw_label": "Current liabilities",
+   "raw_text": "17.05",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "2024-25",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "msei-financial.html",
+    "table_index": 1,
+    "row_index": 5,
+    "heading": "Metropolitan Stock Exchange Of India Limited Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev72": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/msei-unlisted-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:41+00:00",
+   "sha256": "71a58ddfd80a3f14229fd180e7dcde1954585048e28da10c4614917470a4f2d8",
+   "capture_run": "20261123T164433Z",
+   "file": "msei-financial.html",
+   "raw_label": "Current liabilities",
+   "raw_text": "33.65",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "2025-26",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "msei-financial.html",
+    "table_index": 1,
+    "row_index": 5,
+    "heading": "Metropolitan Stock Exchange Of India Limited Balance Sheet(Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev73": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/msei-unlisted-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:41+00:00",
+   "sha256": "71a58ddfd80a3f14229fd180e7dcde1954585048e28da10c4614917470a4f2d8",
+   "capture_run": "20261123T164433Z",
+   "file": "msei-financial.html",
+   "raw_label": "Net cash from/(used in) operating activities",
+   "raw_text": "-44.59",
+   "raw_unit": "INR crore",
+   "period": "FY2022",
+   "period_label": "2021-22",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "msei-financial.html",
+    "table_index": 2,
+    "row_index": 1,
+    "heading": "Metropolitan Stock Exchange Of India Limited CashFlow Statement(Rs in Crores)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev74": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/msei-unlisted-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:41+00:00",
+   "sha256": "71a58ddfd80a3f14229fd180e7dcde1954585048e28da10c4614917470a4f2d8",
+   "capture_run": "20261123T164433Z",
+   "file": "msei-financial.html",
+   "raw_label": "Net cash from/(used in) operating activities",
+   "raw_text": "-172.11",
+   "raw_unit": "INR crore",
+   "period": "FY2023",
+   "period_label": "2022-23",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "msei-financial.html",
+    "table_index": 2,
+    "row_index": 1,
+    "heading": "Metropolitan Stock Exchange Of India Limited CashFlow Statement(Rs in Crores)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev75": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/msei-unlisted-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:41+00:00",
+   "sha256": "71a58ddfd80a3f14229fd180e7dcde1954585048e28da10c4614917470a4f2d8",
+   "capture_run": "20261123T164433Z",
+   "file": "msei-financial.html",
+   "raw_label": "Net cash from/(used in) operating activities",
+   "raw_text": "-56.77",
+   "raw_unit": "INR crore",
+   "period": "FY2024",
+   "period_label": "2023-24",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "msei-financial.html",
+    "table_index": 2,
+    "row_index": 1,
+    "heading": "Metropolitan Stock Exchange Of India Limited CashFlow Statement(Rs in Crores)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev76": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/msei-unlisted-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:41+00:00",
+   "sha256": "71a58ddfd80a3f14229fd180e7dcde1954585048e28da10c4614917470a4f2d8",
+   "capture_run": "20261123T164433Z",
+   "file": "msei-financial.html",
+   "raw_label": "Net cash from/(used in) operating activities",
+   "raw_text": "-68.44",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "2024-25",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "msei-financial.html",
+    "table_index": 2,
+    "row_index": 1,
+    "heading": "Metropolitan Stock Exchange Of India Limited CashFlow Statement(Rs in Crores)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev77": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/msei-unlisted-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:41+00:00",
+   "sha256": "71a58ddfd80a3f14229fd180e7dcde1954585048e28da10c4614917470a4f2d8",
+   "capture_run": "20261123T164433Z",
+   "file": "msei-financial.html",
+   "raw_label": "Net cash from/(used in) operating activities",
+   "raw_text": "-149.01",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "2025-26",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "msei-financial.html",
+    "table_index": 2,
+    "row_index": 1,
+    "heading": "Metropolitan Stock Exchange Of India Limited CashFlow Statement(Rs in Crores)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev78": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/msei-unlisted-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:41+00:00",
+   "sha256": "71a58ddfd80a3f14229fd180e7dcde1954585048e28da10c4614917470a4f2d8",
+   "capture_run": "20261123T164433Z",
+   "file": "msei-financial.html",
+   "raw_label": "Net cash from/(used in) investing activities",
+   "raw_text": "60.50",
+   "raw_unit": "INR crore",
+   "period": "FY2022",
+   "period_label": "2021-22",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "msei-financial.html",
+    "table_index": 2,
+    "row_index": 2,
+    "heading": "Metropolitan Stock Exchange Of India Limited CashFlow Statement(Rs in Crores)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev79": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/msei-unlisted-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:41+00:00",
+   "sha256": "71a58ddfd80a3f14229fd180e7dcde1954585048e28da10c4614917470a4f2d8",
+   "capture_run": "20261123T164433Z",
+   "file": "msei-financial.html",
+   "raw_label": "Net cash from/(used in) investing activities",
+   "raw_text": "223.99",
+   "raw_unit": "INR crore",
+   "period": "FY2023",
+   "period_label": "2022-23",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "msei-financial.html",
+    "table_index": 2,
+    "row_index": 2,
+    "heading": "Metropolitan Stock Exchange Of India Limited CashFlow Statement(Rs in Crores)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev80": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/msei-unlisted-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:41+00:00",
+   "sha256": "71a58ddfd80a3f14229fd180e7dcde1954585048e28da10c4614917470a4f2d8",
+   "capture_run": "20261123T164433Z",
+   "file": "msei-financial.html",
+   "raw_label": "Net cash from/(used in) investing activities",
+   "raw_text": "9.39",
+   "raw_unit": "INR crore",
+   "period": "FY2024",
+   "period_label": "2023-24",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "msei-financial.html",
+    "table_index": 2,
+    "row_index": 2,
+    "heading": "Metropolitan Stock Exchange Of India Limited CashFlow Statement(Rs in Crores)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev81": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/msei-unlisted-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:41+00:00",
+   "sha256": "71a58ddfd80a3f14229fd180e7dcde1954585048e28da10c4614917470a4f2d8",
+   "capture_run": "20261123T164433Z",
+   "file": "msei-financial.html",
+   "raw_label": "Net cash from/(used in) investing activities",
+   "raw_text": "-133.45",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "2024-25",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "msei-financial.html",
+    "table_index": 2,
+    "row_index": 2,
+    "heading": "Metropolitan Stock Exchange Of India Limited CashFlow Statement(Rs in Crores)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev82": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/msei-unlisted-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:41+00:00",
+   "sha256": "71a58ddfd80a3f14229fd180e7dcde1954585048e28da10c4614917470a4f2d8",
+   "capture_run": "20261123T164433Z",
+   "file": "msei-financial.html",
+   "raw_label": "Net cash from/(used in) investing activities",
+   "raw_text": "-881.79",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "2025-26",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "msei-financial.html",
+    "table_index": 2,
+    "row_index": 2,
+    "heading": "Metropolitan Stock Exchange Of India Limited CashFlow Statement(Rs in Crores)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev83": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/msei-unlisted-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:41+00:00",
+   "sha256": "71a58ddfd80a3f14229fd180e7dcde1954585048e28da10c4614917470a4f2d8",
+   "capture_run": "20261123T164433Z",
+   "file": "msei-financial.html",
+   "raw_label": "Net cash from/(used) in financing activities",
+   "raw_text": "-2.98",
+   "raw_unit": "INR crore",
+   "period": "FY2022",
+   "period_label": "2021-22",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "msei-financial.html",
+    "table_index": 2,
+    "row_index": 3,
+    "heading": "Metropolitan Stock Exchange Of India Limited CashFlow Statement(Rs in Crores)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev84": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/msei-unlisted-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:41+00:00",
+   "sha256": "71a58ddfd80a3f14229fd180e7dcde1954585048e28da10c4614917470a4f2d8",
+   "capture_run": "20261123T164433Z",
+   "file": "msei-financial.html",
+   "raw_label": "Net cash from/(used) in financing activities",
+   "raw_text": "-3.28",
+   "raw_unit": "INR crore",
+   "period": "FY2023",
+   "period_label": "2022-23",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "msei-financial.html",
+    "table_index": 2,
+    "row_index": 3,
+    "heading": "Metropolitan Stock Exchange Of India Limited CashFlow Statement(Rs in Crores)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev85": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/msei-unlisted-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:41+00:00",
+   "sha256": "71a58ddfd80a3f14229fd180e7dcde1954585048e28da10c4614917470a4f2d8",
+   "capture_run": "20261123T164433Z",
+   "file": "msei-financial.html",
+   "raw_label": "Net cash from/(used) in financing activities",
+   "raw_text": "-2.31",
+   "raw_unit": "INR crore",
+   "period": "FY2024",
+   "period_label": "2023-24",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "msei-financial.html",
+    "table_index": 2,
+    "row_index": 3,
+    "heading": "Metropolitan Stock Exchange Of India Limited CashFlow Statement(Rs in Crores)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev86": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/msei-unlisted-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:41+00:00",
+   "sha256": "71a58ddfd80a3f14229fd180e7dcde1954585048e28da10c4614917470a4f2d8",
+   "capture_run": "20261123T164433Z",
+   "file": "msei-financial.html",
+   "raw_label": "Net cash from/(used) in financing activities",
+   "raw_text": "235.68",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "2024-25",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "msei-financial.html",
+    "table_index": 2,
+    "row_index": 3,
+    "heading": "Metropolitan Stock Exchange Of India Limited CashFlow Statement(Rs in Crores)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev87": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/msei-unlisted-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:41+00:00",
+   "sha256": "71a58ddfd80a3f14229fd180e7dcde1954585048e28da10c4614917470a4f2d8",
+   "capture_run": "20261123T164433Z",
+   "file": "msei-financial.html",
+   "raw_label": "Net cash from/(used) in financing activities",
+   "raw_text": "996.02",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "2025-26",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "msei-financial.html",
+    "table_index": 2,
+    "row_index": 3,
+    "heading": "Metropolitan Stock Exchange Of India Limited CashFlow Statement(Rs in Crores)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev88": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/msei-unlisted-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:41+00:00",
+   "sha256": "71a58ddfd80a3f14229fd180e7dcde1954585048e28da10c4614917470a4f2d8",
+   "capture_run": "20261123T164433Z",
+   "file": "msei-financial.html",
+   "raw_label": "EBITDA",
+   "raw_text": "-20.18",
+   "raw_unit": "INR crore",
+   "period": "FY2022",
+   "period_label": "2021-22",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "msei-financial.html",
+    "table_index": 5,
+    "row_index": 8,
+    "heading": "Metropolitan Stock Exchange Of India Limited Summary(Rs in Crores)"
+   },
+   "statement": "summary",
+   "derived": false,
+   "components": null
+  },
+  "ev89": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/msei-unlisted-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:41+00:00",
+   "sha256": "71a58ddfd80a3f14229fd180e7dcde1954585048e28da10c4614917470a4f2d8",
+   "capture_run": "20261123T164433Z",
+   "file": "msei-financial.html",
+   "raw_label": "EBITDA",
+   "raw_text": "-8.90",
+   "raw_unit": "INR crore",
+   "period": "FY2023",
+   "period_label": "2022-23",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "msei-financial.html",
+    "table_index": 5,
+    "row_index": 8,
+    "heading": "Metropolitan Stock Exchange Of India Limited Summary(Rs in Crores)"
+   },
+   "statement": "summary",
+   "derived": false,
+   "components": null
+  },
+  "ev90": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/msei-unlisted-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:41+00:00",
+   "sha256": "71a58ddfd80a3f14229fd180e7dcde1954585048e28da10c4614917470a4f2d8",
+   "capture_run": "20261123T164433Z",
+   "file": "msei-financial.html",
+   "raw_label": "EBITDA",
+   "raw_text": "-40.55",
+   "raw_unit": "INR crore",
+   "period": "FY2024",
+   "period_label": "2023-24",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "msei-financial.html",
+    "table_index": 5,
+    "row_index": 8,
+    "heading": "Metropolitan Stock Exchange Of India Limited Summary(Rs in Crores)"
+   },
+   "statement": "summary",
+   "derived": false,
+   "components": null
+  },
+  "ev91": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/msei-unlisted-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:41+00:00",
+   "sha256": "71a58ddfd80a3f14229fd180e7dcde1954585048e28da10c4614917470a4f2d8",
+   "capture_run": "20261123T164433Z",
+   "file": "msei-financial.html",
+   "raw_label": "EBITDA",
+   "raw_text": "-29.49",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "2024-25",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "msei-financial.html",
+    "table_index": 5,
+    "row_index": 8,
+    "heading": "Metropolitan Stock Exchange Of India Limited Summary(Rs in Crores)"
+   },
+   "statement": "summary",
+   "derived": false,
+   "components": null
+  },
+  "ev92": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/msei-unlisted-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:41+00:00",
+   "sha256": "71a58ddfd80a3f14229fd180e7dcde1954585048e28da10c4614917470a4f2d8",
+   "capture_run": "20261123T164433Z",
+   "file": "msei-financial.html",
+   "raw_label": "EBITDA",
+   "raw_text": "-12.60",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "2025-26",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "msei-financial.html",
+    "table_index": 5,
+    "row_index": 8,
+    "heading": "Metropolitan Stock Exchange Of India Limited Summary(Rs in Crores)"
+   },
+   "statement": "summary",
+   "derived": false,
+   "components": null
+  },
+  "ev93": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/msei-unlisted-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:41+00:00",
+   "sha256": "71a58ddfd80a3f14229fd180e7dcde1954585048e28da10c4614917470a4f2d8",
+   "capture_run": "20261123T164433Z",
+   "file": "msei-financial.html",
+   "raw_label": "Earnings Per Share (EPS)",
+   "raw_text": "-0.07",
+   "raw_unit": "INR per share",
+   "period": "FY2022",
+   "period_label": "2021-22",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "msei-financial.html",
+    "table_index": 5,
+    "row_index": 12,
+    "heading": "Metropolitan Stock Exchange Of India Limited Summary(Rs in Crores)"
+   },
+   "statement": "summary",
+   "derived": false,
+   "components": null
+  },
+  "ev94": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/msei-unlisted-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:41+00:00",
+   "sha256": "71a58ddfd80a3f14229fd180e7dcde1954585048e28da10c4614917470a4f2d8",
+   "capture_run": "20261123T164433Z",
+   "file": "msei-financial.html",
+   "raw_label": "Earnings Per Share (EPS)",
+   "raw_text": "-0.04",
+   "raw_unit": "INR per share",
+   "period": "FY2023",
+   "period_label": "2022-23",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "msei-financial.html",
+    "table_index": 5,
+    "row_index": 12,
+    "heading": "Metropolitan Stock Exchange Of India Limited Summary(Rs in Crores)"
+   },
+   "statement": "summary",
+   "derived": false,
+   "components": null
+  },
+  "ev95": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/msei-unlisted-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:41+00:00",
+   "sha256": "71a58ddfd80a3f14229fd180e7dcde1954585048e28da10c4614917470a4f2d8",
+   "capture_run": "20261123T164433Z",
+   "file": "msei-financial.html",
+   "raw_label": "Earnings Per Share (EPS)",
+   "raw_text": "-0.10",
+   "raw_unit": "INR per share",
+   "period": "FY2024",
+   "period_label": "2023-24",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "msei-financial.html",
+    "table_index": 5,
+    "row_index": 12,
+    "heading": "Metropolitan Stock Exchange Of India Limited Summary(Rs in Crores)"
+   },
+   "statement": "summary",
+   "derived": false,
+   "components": null
+  },
+  "ev96": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/msei-unlisted-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:41+00:00",
+   "sha256": "71a58ddfd80a3f14229fd180e7dcde1954585048e28da10c4614917470a4f2d8",
+   "capture_run": "20261123T164433Z",
+   "file": "msei-financial.html",
+   "raw_label": "Earnings Per Share (EPS)",
+   "raw_text": "-0.06",
+   "raw_unit": "INR per share",
+   "period": "FY2025",
+   "period_label": "2024-25",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "msei-financial.html",
+    "table_index": 5,
+    "row_index": 12,
+    "heading": "Metropolitan Stock Exchange Of India Limited Summary(Rs in Crores)"
+   },
+   "statement": "summary",
+   "derived": false,
+   "components": null
+  },
+  "ev97": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/msei-unlisted-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:41+00:00",
+   "sha256": "71a58ddfd80a3f14229fd180e7dcde1954585048e28da10c4614917470a4f2d8",
+   "capture_run": "20261123T164433Z",
+   "file": "msei-financial.html",
+   "raw_label": "Earnings Per Share (EPS)",
+   "raw_text": "-0.02",
+   "raw_unit": "INR per share",
+   "period": "FY2026",
+   "period_label": "2025-26",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "msei-financial.html",
+    "table_index": 5,
+    "row_index": 12,
+    "heading": "Metropolitan Stock Exchange Of India Limited Summary(Rs in Crores)"
+   },
+   "statement": "summary",
+   "derived": false,
+   "components": null
+  },
+  "ev98": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/msei-unlisted-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:41+00:00",
+   "sha256": "71a58ddfd80a3f14229fd180e7dcde1954585048e28da10c4614917470a4f2d8",
+   "capture_run": "20261123T164433Z",
+   "file": "msei-financial.html",
+   "raw_label": "Outstanding Shares",
+   "raw_text": "4,810,217,033.00",
+   "raw_unit": "shares",
+   "period": "FY2022",
+   "period_label": "2021-22",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "msei-financial.html",
+    "table_index": 5,
+    "row_index": 11,
+    "heading": "Metropolitan Stock Exchange Of India Limited Summary(Rs in Crores)"
+   },
+   "statement": "summary",
+   "derived": false,
+   "components": null
+  },
+  "ev99": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/msei-unlisted-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:41+00:00",
+   "sha256": "71a58ddfd80a3f14229fd180e7dcde1954585048e28da10c4614917470a4f2d8",
+   "capture_run": "20261123T164433Z",
+   "file": "msei-financial.html",
+   "raw_label": "Outstanding Shares",
+   "raw_text": "4,810,217,033.00",
+   "raw_unit": "shares",
+   "period": "FY2023",
+   "period_label": "2022-23",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "msei-financial.html",
+    "table_index": 5,
+    "row_index": 11,
+    "heading": "Metropolitan Stock Exchange Of India Limited Summary(Rs in Crores)"
+   },
+   "statement": "summary",
+   "derived": false,
+   "components": null
+  },
+  "ev100": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/msei-unlisted-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:41+00:00",
+   "sha256": "71a58ddfd80a3f14229fd180e7dcde1954585048e28da10c4614917470a4f2d8",
+   "capture_run": "20261123T164433Z",
+   "file": "msei-financial.html",
+   "raw_label": "Outstanding Shares",
+   "raw_text": "4,810,217,033.00",
+   "raw_unit": "shares",
+   "period": "FY2024",
+   "period_label": "2023-24",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "msei-financial.html",
+    "table_index": 5,
+    "row_index": 11,
+    "heading": "Metropolitan Stock Exchange Of India Limited Summary(Rs in Crores)"
+   },
+   "statement": "summary",
+   "derived": false,
+   "components": null
+  },
+  "ev101": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/msei-unlisted-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:41+00:00",
+   "sha256": "71a58ddfd80a3f14229fd180e7dcde1954585048e28da10c4614917470a4f2d8",
+   "capture_run": "20261123T164433Z",
+   "file": "msei-financial.html",
+   "raw_label": "Outstanding Shares",
+   "raw_text": "6,000,217,033.00",
+   "raw_unit": "shares",
+   "period": "FY2025",
+   "period_label": "2024-25",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "msei-financial.html",
+    "table_index": 5,
+    "row_index": 11,
+    "heading": "Metropolitan Stock Exchange Of India Limited Summary(Rs in Crores)"
+   },
+   "statement": "summary",
+   "derived": false,
+   "components": null
+  },
+  "ev102": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/msei-unlisted-share-price-today/financial",
+   "retrieved_at": "2026-11-23T16:44:41+00:00",
+   "sha256": "71a58ddfd80a3f14229fd180e7dcde1954585048e28da10c4614917470a4f2d8",
+   "capture_run": "20261123T164433Z",
+   "file": "msei-financial.html",
+   "raw_label": "Outstanding Shares",
+   "raw_text": "10,995,239,362.00",
+   "raw_unit": "shares",
+   "period": "FY2026",
+   "period_label": "2025-26",
+   "basis": "unspecified",
+   "anchor": {
+    "file": "msei-financial.html",
+    "table_index": 5,
+    "row_index": 11,
+    "heading": "Metropolitan Stock Exchange Of India Limited Summary(Rs in Crores)"
+   },
+   "statement": "summary",
+   "derived": false,
+   "components": null
+  }
+ },
+ "news": {
+  "query": "\"Metropolitan Stock Exchange\"",
+  "retrieved_at": "2026-11-23T16:46:06+00:00",
+  "items": [
+   {
+    "title": "Crystal Business System to delist from MSEI due to low trading",
+    "publisher": "scanx.trade",
+    "date": "2026-11-18",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSGNnLWdINHdxM0V0VC1jd0JEcWNhaGNNZDN3MzB1VnZiU2JyZGRJNnlERWZ5V0Q3VV9fZFI0RHgyZzZPR1FsRWtDdk5mcVYzSVhzSFBTbC1QTENUaU8tdUEyck1vSUhNZGR6WkpqTC02TXNoOGg3TjV1anFXSEhMZFdkSERXLUNzeGRHd0hXOXZGcHJjVHk4czh0bE9ZSEd0UFBfZmZTTlFiR0FWZmpvQjB3WVJScFB4SUNPWnMtaFV3ekJDRGNz?oc=5"
+   },
+   {
+    "title": "MSEI F&O Launch: 6 Stocks from Oct 28, 2026",
+    "publisher": "UnlistedZone",
+    "date": "2026-10-19",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9qVW8ySmJpUDdNWllPb3FNeTdaV2hFa2d5SjNRbjdHdWF1eG50ckNMNWtOelJsZDBxRXo4aW1OajhPZUlsTWFhdWh3ckhaTlhteGlxZV81TTdMaWZSVjItdURJWlhIRUY5SEt6aWQtdHRITG8?oc=5"
+   },
+   {
+    "title": "NSE Shares Win Admission to Tiny Indian Bourse Ahead of Debut",
+    "publisher": "Bloomberg.com",
+    "date": "2026-09-23",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcjRxMFpVUzh3bzVfU0VnU200WkVlTG5kYWlObmExN2gxaDd4M3p3eUw2VGMxcnRUM3owb3l1Y1VYM2JJaThKYmlrMVhlc19oU2hNMnZQNmJDLXExYzlOUDRCbVpwNWxFMmFXLXdSandkbWdMWTNYQU9qcGdNRVp3Tjh0dXpEekp1Rlp6a0thLWVmMzhWdEpLZjBraTQ1WEM5Q2w3M0N5ak9YZDNiZEZabXpn?oc=5"
+   },
+   {
+    "title": "NSE Stock Set for Additional Listing on Metropolitan Stock Exchange of India Starting September 24",
+    "publisher": "NiftyTrader",
+    "date": "2026-09-23",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1fa0FEc0pKN3FudFJyRGh1ZS12cDV0VzZ6VWhUNXBkRUtoWXZaVXBlOE5samJTQ3hVd3RkQWtSWkdlYnpIbDhzSFVWLTlURzFvbUFkMXR2SFc3T3ptbF9TZE9qR2NwaVA0c2JTdUtLNEV1ZF9GQ3lJR2dLVnA?oc=5"
+   },
+   {
+    "title": "NSE shares to trade on Metropolitan Stock Exchange of India from tomorrow",
+    "publisher": "Moneycontrol.com",
+    "date": "2026-09-23",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZ21vaUwtZE01Y3g5RU14bl9xUDZDc1d2N1RpTlc5c1RqOGlLcERPbmt5Wm9ISE45MnNaUFEyZ1BiS3M5WVIwS1MtMVRsQi1jMEhRc21sNS1hMG9EYXBNemlSZ3VjeTBvY1QyWWlTUlVPbU9HbXlUZDJYa2VrWE9ta2xIdi03RW5iOTFGM2tIamc1aUY1UXF3czIwU1g4SGFfRU5zaDJ3TUxUek9NNm5NYTRpLXFwTjI3bDFKekhoQ0lMR3lLWDdKTWhRVWljUdIB0wFBVV95cUxPaEFKSDVPaTlBcGR1SzR0MHpUMDh2R0lBZ1FjX0p5a3kyODV6NkJsclhRdTAxTThvTHZ5dXBTRnA2MjdBV2lFSHhON1dQMFlGekhKeEtQdUxDdTVnaGJ5Nmw1bEFvTlowTHNrSnZDYzhoS0JKVDVzcFFma2QwdmU4TjdSTGRMUkhFT0FXT2YyX242eVdEaEYtMms0RElsZ19yNmI1c3JaTXFyYVFFNTM5V19HNW1KX08teWVQYktNeGlWUXIzT2h4SWhvalBQT0RLaWU4?oc=5"
+   },
+   {
+    "title": "In addition to BSE, NSE shares to also trade on Metropolitan Stock Exchange",
+    "publisher": "Business Standard",
+    "date": "2026-09-23",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVWhoUlkyb2lFWWpEbUNtS1RMbDJrZ3lmcFJvd18yeTJaa1pxQXRnblJoZmkzSHBVRG5PeTJ1UU9aUzAzSUNJYm5VdTdzMHlIQy1vd2luME5feUZmdzZhSl8xSkwwTGw4d082cXY3UFM2NVRxME9JMnhKZEUwV1dHSTJXVUVxbDkxSGZrWm9zVGlJSUpXTWE0WUxpODE4SE9jQWVGdHQtcUlVOXNMWEgtYUdWM3VMdW1hbENaS1JsLVRIbjkxSDdoLVBqdGJGT19yS1HSAdcBQVVfeXFMUDR0NU9mcGQ1aWxjbHhwLWt6VHJYNkl3Z2hUTHZfcWlhLUw4WkI5QllUc3kzbk0xSThkOW5wX3VSTjFmTENJTmZqOThxS3JjTXFNLU9Jcm02aEJVVTJhUE1CX2NkN2huTXMxNUVsQXdnMUV4bVRCaS1PQngxN2xHLUZlRlI3YmlJdnZvQUVzSTVraHAtMkU5ckJ1aTRfYUwxbkIxbXlKSTFNWGxRbVpaT0RqdmcwMmlQRDJMODFEWDhUVktLbFlZNG03UG4wc3o2SEUyd3NreE0?oc=5"
+   },
+   {
+    "title": "Zee Business. . #BreakingNews | MSE पर NSE के शेयरों की ट्रेडिंग होगी MSE: Metropolitan Stock Exchange #BreakingNews #MSE #MetropolitanStockExchange #NSE #NSEShares",
+    "publisher": "Facebook",
+    "date": "2026-09-23",
+    "link": "https://news.google.com/rss/articles/CBMi4ANBVV95cUxQYkpEUlk4MkU0X1QtaGwxdW5kY2N3QTRLckdVS3FxbGhTNmZGVm9jcFlyd0xTajdtOFFKX0Fqbk5URTVmbURNWERBZ2dSdUhPdDJfTFZKSjItTFhVNFpJNE0tZTZidmJiLXBrdk5IWTh2cmJ3aDFBRTJHUHc3QWhZQ0duT1JONjZLVGxiQmFaUjVDdFZ1Y001Xy1INkM2VFlpNGpXa3NGaUdCZVVrM3dtUDhGS1VjeTJfaWZVV2E0Mmg2bi13LWhoU3lidTVnUkVDQUJ0MXdlN3poSWdmX0xWSURDenBLckNIaTlsMlh1ZDVMVXYxQ1lIUGdqa3JJdjNrNzJqZ2NkZGF1c1J1QlJKcUFuVnBMaFdmU0tNRG9naHBjS2FRbkNQdVdoNVNBMzNtWklhMGtRQjh4ZGdBekk1ZGlpdVY1QWk4MDRvNUcyYVhfWURhU2xmVmRRSVByU3dOQmI3RG1XYzNFdjREX0E5TjJ0eC00NDFjZG84MFJKbm5jRUdvQmJXbVoyQmJFeEh5N25mUk43eWVURkpVNzg1b0RxdjVJU2JFam9ucDdwNHU1em5Ua3VvaXJmNDFTR3BVX0YtZl9fQlhfT3B6NnpBQi1xLWV5d2JWaFFqNzlzblQ?oc=5"
+   },
+   {
+    "title": "NSE IPO: NSE shares to debut on Metropolitan Stock Exchange along with BSE tomorrow",
+    "publisher": "The Economic Times",
+    "date": "2026-09-23",
+    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQeHFGeUhXY0JsTWtLWGtubUZmbkVrTC15cHZxdXB2b1VXbi1OWUhBTGxKdUlxcUd1NHhwbEVKTDV6bFlYSUQ5MmxJMzI5ME1ra3dpd1lXakFrd0Ezcm5JaVVTWllodzRVS2RjZ1RVTWtnMzdTbWJNWTNhOVFTTzhJaE1hSk93TzhhenljMWxZODVYZ0REVjFjTjZMSElWQlV3VTJaMTFuV0drWmRZTDlpYWZwWTMwbm9mLXFRaktIT3VubTJYLVVRUUdZTzhfMml5bnI5aVpjNWtaZ2FuOW1DcEVOaGVlLVRfT0HSAe8BQVVfeXFMTTRRY3lRSnptUUVxYjYtSFZ6Tk1PajlZYkZTWGJCU21udXhqUmp5N2FGU3JtZFNYVjd5VTl1OFNVQjNGY3dLbW1qSkltdk5ZbXc1SVA0Vk40RXRuUjRWZVNxTnA5dElPLVNiZFU2QnFZdFpVSDNaZVktcExYRWhsc3BXSzRqVE1XVTBrbmpROVR6NGNXbXI5c19KcklNTHlWdkx4LU9RQ3JlaS1oeFhCNFFvTTBSRm5ZRDlvWTQ5cXA2enZiZF9zSXFudEw0QWhDVXNaNkJrSThJMm9CS0d4M251QzFhOEtVeVRTMVphOTQ?oc=5"
+   }
+  ],
+  "source": {
+   "name": "Google News RSS search",
+   "url": "https://news.google.com/rss/search?q=%22Metropolitan+Stock+Exchange%22&hl=en-IN&gl=IN&ceid=IN:en",
+   "sha256": "e7fe19aa8db108449fe3705359f04d4ffdc474760517ebaa16b8d04f103f0781",
+   "run": "20261123T164603Z"
+  }
+ },
+ "peer_reviewed": true,
+ "discovery": [
+  {
+   "id": "ncdex",
+   "short": "NCDEX",
+   "name": "National Commodity & Derivatives Exchange Ltd",
+   "reasons": [
+    "same business: Exchanges & Trading Platforms",
+    "provider reports DRHP filed (IPO research lead)",
+    "in the news 2026-11-11"
+   ],
+   "score": 6,
+   "price_inr": 253.0,
+   "latest_period": "FY2026"
+  },
+  {
+   "id": "hpx",
+   "short": "HPX",
+   "name": "Hindustan Power Exchange Ltd",
+   "reasons": [
+    "same business: Exchanges & Trading Platforms",
+    "in the news 2026-11-10"
+   ],
+   "score": 4,
+   "price_inr": 22.8,
+   "latest_period": "FY2026"
+  },
+  {
+   "id": "igx",
+   "short": "IGX",
+   "name": "Indian Gas Exchange Ltd",
+   "reasons": [
+    "same business: Exchanges & Trading Platforms",
+    "in the news 2026-11-16"
+   ],
+   "score": 4,
+   "price_inr": 488.0,
+   "latest_period": "FY2026"
+  },
+  {
+   "id": "icex",
+   "short": "ICEX",
+   "name": "Indian Commodity Exchange Ltd",
+   "reasons": [
+    "same business: Exchanges & Trading Platforms"
+   ],
+   "score": 3,
+   "price_inr": 4.0,
+   "latest_period": "FY2025"
+  },
+  {
+   "id": "oyo",
+   "short": "OYO",
+   "name": "Oravel Stays Ltd (OYO)",
+   "reasons": [
+    "provider reports DRHP filed (IPO research lead)",
+    "in the news 2026-11-23"
+   ],
+   "score": 3,
+   "price_inr": 20.45,
+   "latest_period": "FY2026"
+  },
+  {
+   "id": "pharmeasy",
+   "short": "PharmEasy",
+   "name": "API Holdings Ltd (PharmEasy)",
+   "reasons": [
+    "provider reports DRHP filed (IPO research lead)",
+    "in the news 2026-10-28"
+   ],
+   "score": 3,
+   "price_inr": 6.15,
+   "latest_period": "FY2026"
+  }
+ ],
+ "fallbacks": []
+}

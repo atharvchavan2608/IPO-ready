@@ -1,0 +1,10 @@
+{
+  "url": "https://nsearchives.nseindia.com/content/equities/EQUITY_L.csv",
+  "retrieved_at": "2026-11-24T18:13:20+00:00",
+  "run": "20261124T181320817830Z",
+  "status": 200,
+  "content_type": "text/csv",
+  "file": "source.csv",
+  "sha256": "9df2b889a70ed123c60b81fce8ecf4b9ef7b3cca94e8abc6a9ea6216da386ed2",
+  "bytes": 186709
+}

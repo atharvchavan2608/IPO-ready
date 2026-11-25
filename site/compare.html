@@ -1,0 +1,137 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>IPO-Ready · Compare & invest</title>
+<meta name="description" content="Compare listed and unlisted issuers, inspect their evidence and model an illustrative allocation.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 viewBox=%270 0 32 32%27%3E%3Crect width=%2732%27 height=%2732%27 rx=%276%27 fill=%27%2313203b%27/%3E%3Cpath d=%27M7 22l6-7 5 4 7-9%27 stroke=%27%23d97a14%27 stroke-width=%273%27 fill=%27none%27/%3E%3C/svg%3E">
+<link rel="stylesheet" href="assets/app.css">
+<link rel="stylesheet" href="assets/company-lookup.css">
+</head>
+<body data-page="compare">
+<div class="ticker" id="ticker" aria-label="Market ticker"><div class="ticker-inner"><span class="tick">Loading market data…</span></div></div>
+<header class="site">
+  <div class="site-inner">
+    <a class="brand" href="index.html"><span class="mark">IPO<span>·</span>Ready</span><span class="tag">Unlisted research desk</span></a>
+    <nav class="main" aria-label="Pages">
+      <a href="index.html"><span class="pg">1</span>Company</a>
+      <a href="compare.html" aria-current="page"><span class="pg">2</span>Compare &amp; invest</a>
+    </nav>
+    <div class="build-stamp" id="build-stamp"></div>
+  </div>
+</header>
+
+<main class="page single">
+  <div class="col-main">
+    <section class="card workspace" id="workspace" aria-labelledby="workspace-title" hidden>
+      <div class="workspace-head">
+        <h1 class="co-name" id="workspace-title">Comparison workspace</h1>
+        <nav aria-label="Workspace sections"><a href="#unlisted-screen">Run a query</a><a href="#allocation">Model an allocation</a></nav>
+      </div>
+      <div class="compare-setup"><div class="compare-discovery">
+      <label for="workspace-search">Find a company or sector</label>
+      <input type="search" id="workspace-search" placeholder="Name, symbol, ISIN, or sector" autocomplete="off">
+      <div id="workspace-matches" class="workspace-matches"></div>
+      <details class="company-lookup" id="company-lookup"></details>
+      <details class="attach">
+        <summary>Attach a sourced company</summary>
+        <form id="workspace-attach" class="workspace-form">
+          <label>Company name <input name="name" required maxlength="100"></label>
+          <label>Identifier <input name="identity" required maxlength="32" placeholder="NSE:SYMBOL, BSE:code, CIN or ISIN"></label>
+          <label>Sector <input name="sector" required maxlength="64"></label>
+          <label>Listing <select name="listing"><option value="listed">Listed</option><option value="unlisted">Unlisted</option></select></label>
+          <label>Source URL <input name="source" type="url" required maxlength="500" placeholder="https://…"></label>
+          <button class="btn" type="submit">Attach and compare</button>
+        </form>
+        <p class="small muted">Attached records use your source for identity. Financials and quotes require reviewed data.</p>
+      </details>
+      <p id="workspace-status" class="small muted" role="status"></p></div>
+      <div id="workspace-benchmarks" class="workspace-benchmarks" hidden></div>
+      </div>
+      <details class="ratio-controls" id="compare-ratio-controls" hidden>
+        <summary>Choose ratios <span class="small muted" id="compare-ratio-count"></span></summary>
+        <div class="compare-ratio-actions">
+          <label>Filter ratios <input type="search" id="compare-ratio-filter" placeholder="Search by name or formula"></label>
+          <button class="btn ghost small" id="compare-ratio-reset" type="button">Reset to defaults</button>
+        </div>
+        <p class="small muted">Each choice adds the same measure to every company column.</p>
+        <div class="ratio-groups" id="compare-ratio-options"></div>
+      </details>
+      <p id="compare-scroll-hint" class="compare-scroll-hint tiny muted" hidden>Scroll the comparison to see the other companies.</p>
+      <div id="compare-columns" class="compare-columns" role="region" tabindex="0" aria-label="Selected companies"></div>
+    </section>
+    <dialog id="company-details" class="workspace-detail" aria-labelledby="company-details-title">
+      <div class="drawer-head"><h2 id="company-details-title">Company detail</h2><button id="company-details-close" class="btn ghost">Close</button></div>
+      <div id="attached-detail" class="drawer-body" hidden></div>
+      <iframe id="company-frame" title="Company dashboard" hidden></iframe>
+    </dialog>
+
+    <section class="card" id="unlisted-screen" aria-labelledby="screen-title">
+      <h2 id="screen-title">Company screener</h2>
+      <div class="screen-workspace">
+        <form id="screen-form">
+          <label for="screen-market">Universe</label>
+          <select id="screen-market"><option value="unlisted">Unlisted</option><option value="listed">Listed</option><option value="mixed">Listed and unlisted</option></select>
+          <label for="screen-query">Screen query</label>
+          <textarea id="screen-query" rows="4" maxlength="500" spellcheck="false" autocomplete="off" aria-describedby="screen-syntax">Market capitalization &gt; 500 AND
+Price to earning &lt; 15 AND
+Return on capital employed &gt; 22%</textarea>
+          <div class="screen-actions">
+            <button class="btn" type="submit">Run screen</button>
+            <button class="btn ghost" type="button" id="screen-example">Use CEO example</button>
+          </div>
+        </form>
+        <aside class="screen-guide" aria-labelledby="screen-syntax">
+          <h2 id="screen-syntax">Query syntax</h2>
+          <p>Use <code>&gt; &lt; &gt;= &lt;= =</code> with plain numbers. Join conditions with <code>AND</code> or <code>OR</code>. <code>AND</code> is evaluated first.</p>
+          <p>Optionally start with <code>SELECT company FROM companies WHERE</code>. Attached identity-only records have no numeric fields to query.</p>
+          <p>Enter market cap in ₹ crore, P/E as a multiple, and ROCE as a percentage such as <code>22%</code> or <code>22</code>.</p>
+          <p><code>P/E</code> uses reported annual basic EPS when available and labels the proxy fallback. Use <code>Reported P/E</code> or <code>Proxy P/E</code> to require one definition.</p>
+          <details id="screen-field-guide" hidden>
+            <summary>Fields and units</summary>
+            <dl id="screen-fields"></dl>
+          </details>
+        </aside>
+      </div>
+    </section>
+
+    <section class="card screen-results" aria-labelledby="screen-results-title">
+      <h2 id="screen-results-title">Screen results</h2>
+      <p id="screen-status" role="status">Loading the example screen…</p>
+      <div id="screen-output"></div>
+      <details id="screen-coverage" hidden>
+        <summary>Data coverage and exclusions</summary>
+        <div id="screen-coverage-body"></div>
+      </details>
+      <p class="src-line">Sources include retained issuer filings, WWIPL, Screener.in and NSE closes. Unlisted prices are indicative. Check the period, accounting basis and EPS definition beside each result.</p>
+    </section>
+
+    <section class="card workspace" id="allocation" aria-labelledby="allocation-title" hidden>
+      <h2 id="allocation-title">Illustrative allocation</h2>
+      <form id="workspace-allocation" class="workspace-form">
+        <label>Starting point
+          <select name="path"><option value="budget">Budget and shortlist</option><option value="company">Company in mind</option></select>
+        </label>
+        <label id="requested-label" hidden>Requested company <select name="company"></select></label>
+        <label>Budget (₹) <input name="amount" inputmode="decimal" value="1000000" required></label>
+        <label>Risk tolerance <select name="tolerance"><option value="conservative">Conservative</option><option value="balanced" selected>Balanced</option><option value="growth">Growth</option></select></label>
+        <label>Time horizon (months) <input name="horizon" type="number" min="1" max="120" value="36" required></label>
+        <label>Cash to keep aside (%) <input name="cash_reserve" type="number" min="0" max="90" value="0" required></label>
+        <label class="allocation-checkbox"><input type="checkbox" name="include_unlisted" checked> Allow unlisted lots</label>
+        <button class="btn" type="submit">Calculate scenario</button>
+      </form>
+      <div class="shortlist-bar"><h3>Shortlist</h3><div id="workspace-shortlist"></div><a href="#unlisted-screen">Find companies</a></div>
+      <p id="allocation-status" class="small muted" role="status"></p>
+      <div id="allocation-result"></div>
+    </section>
+
+  </div>
+</main>
+<footer class="site">IPO-Ready prototype · <a href="portfolio.html?legacy=1">V1 Portfolio Lab</a></footer>
+<script src="assets/core.js"></script>
+<script src="assets/company-lookup.js"></script>
+<script src="assets/workspace.js"></script>
+<script src="assets/page2.js"></script>
+</body>
+</html>

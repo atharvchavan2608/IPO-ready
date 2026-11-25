@@ -1,0 +1,5007 @@
+{
+ "id": "kial",
+ "name": "Kannur International Airport Ltd",
+ "short": "KIAL",
+ "hierarchy": [
+  "Industrials",
+  "Transport Infrastructure",
+  "Airports",
+  "Airport Operators"
+ ],
+ "model": "infrastructure",
+ "listed_peers": [
+  "GMRAIRPORT"
+ ],
+ "status_note": null,
+ "market_status": null,
+ "quote": {
+  "price_inr": "126.00",
+  "state": "reported",
+  "change_raw": "+ 0.00 %",
+  "kind": "unlisted dealer quote (indicative, not an exchange trade)",
+  "as_of": "2026-11-23T17:58:42+00:00",
+  "high_52w": "128.00 (24/04/26)",
+  "low_52w": "118.00 (05/10/26)",
+  "ev": "ev1"
+ },
+ "profile": {
+  "provider_sector": "Airport",
+  "isin": "INE02Y401013",
+  "cin": "U63033KL2009PLC025103",
+  "registration_date": "03/12/2009",
+  "face_value": "100",
+  "lot_size": "500",
+  "drhp_filed": "No",
+  "depository": "nsdl",
+  "rofr": "No",
+  "description": null,
+  "share_details_as_of": null,
+  "ev": "ev2"
+ },
+ "periods": [
+  "FY2024",
+  "FY2025"
+ ],
+ "basis": "consolidated",
+ "raw_units": [
+  "INR lakh"
+ ],
+ "layout": "detailed statements",
+ "fields": {
+  "total_income": {
+   "label": "Total income",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2024": {
+     "value": "101.6228",
+     "state": "reported",
+     "ev": "ev3"
+    },
+    "FY2025": {
+     "value": "195.2214",
+     "state": "reported",
+     "ev": "ev4"
+    }
+   }
+  },
+  "revenue_ops": {
+   "label": "Revenue from operations",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2024": {
+     "value": "99.2362",
+     "state": "reported",
+     "ev": "ev5"
+    },
+    "FY2025": {
+     "value": "190.9333",
+     "state": "reported",
+     "ev": "ev6"
+    }
+   }
+  },
+  "other_income": {
+   "label": "Other income",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2024": {
+     "value": "2.3866",
+     "state": "reported",
+     "ev": "ev7"
+    },
+    "FY2025": {
+     "value": "4.2881",
+     "state": "reported",
+     "ev": "ev8"
+    }
+   }
+  },
+  "other_gains": {
+   "label": "Other gains / losses",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "job_work_revenue": {
+   "label": "Revenue from job work",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "total_expenses": {
+   "label": "Total expenses",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2024": {
+     "value": "275.2659",
+     "state": "reported",
+     "ev": "ev9"
+    },
+    "FY2025": {
+     "value": "296.9072",
+     "state": "reported",
+     "ev": "ev10"
+    }
+   }
+  },
+  "finance_cost": {
+   "label": "Finance cost",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2024": {
+     "value": "117.1193",
+     "state": "reported",
+     "ev": "ev11"
+    },
+    "FY2025": {
+     "value": "125.4254",
+     "state": "reported",
+     "ev": "ev12"
+    }
+   }
+  },
+  "depreciation": {
+   "label": "Depreciation",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2024": {
+     "value": "69.505",
+     "state": "reported",
+     "ev": "ev13"
+    },
+    "FY2025": {
+     "value": "71.4959",
+     "state": "reported",
+     "ev": "ev14"
+    }
+   }
+  },
+  "pbt": {
+   "label": "Profit before tax",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "tax": {
+   "label": "Tax",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "pat": {
+   "label": "Profit after tax",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2024": {
+     "value": "-168.516",
+     "state": "reported",
+     "ev": "ev15"
+    },
+    "FY2025": {
+     "value": "-93.7896",
+     "state": "reported",
+     "ev": "ev16"
+    }
+   }
+  },
+  "total_assets": {
+   "label": "Total assets",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2024": {
+     "value": "1904.0135",
+     "state": "reported",
+     "ev": "ev17"
+    },
+    "FY2025": {
+     "value": "190110.09",
+     "state": "reported",
+     "ev": "ev18"
+    }
+   }
+  },
+  "total_equity": {
+   "label": "Total equity",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2024": {
+     "value": "594.6801",
+     "state": "derived",
+     "ev": "ev19"
+    },
+    "FY2025": {
+     "value": "500.7693",
+     "state": "derived",
+     "ev": "ev20"
+    }
+   }
+  },
+  "total_liabilities": {
+   "label": "Total liabilities",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "current_assets": {
+   "label": "Current assets",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2024": {
+     "value": "1904.0135",
+     "state": "derived",
+     "ev": "ev21"
+    },
+    "FY2025": {
+     "value": "1901.1004",
+     "state": "derived",
+     "ev": "ev22"
+    }
+   }
+  },
+  "current_liabilities": {
+   "label": "Current liabilities",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2024": {
+     "value": "146.3076",
+     "state": "derived",
+     "ev": "ev23"
+    },
+    "FY2025": {
+     "value": "138.5944",
+     "state": "derived",
+     "ev": "ev24"
+    }
+   }
+  },
+  "inventories": {
+   "label": "Inventories",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2024": {
+     "value": "0.6039",
+     "state": "reported",
+     "ev": "ev25"
+    },
+    "FY2025": {
+     "value": "0.6938",
+     "state": "reported",
+     "ev": "ev26"
+    }
+   }
+  },
+  "cash": {
+   "label": "Cash & equivalents",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2024": {
+     "value": "2.4303",
+     "state": "reported",
+     "ev": "ev27"
+    },
+    "FY2025": {
+     "value": "16.6883",
+     "state": "reported",
+     "ev": "ev28"
+    }
+   }
+  },
+  "loans": {
+   "label": "Loans",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "cfo": {
+   "label": "Cash from operations",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2024": {
+     "value": "19.13",
+     "state": "reported",
+     "ev": "ev29"
+    },
+    "FY2025": {
+     "value": "82.9132",
+     "state": "reported",
+     "ev": "ev30"
+    }
+   }
+  },
+  "cfi": {
+   "label": "Cash from investing",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2024": {
+     "value": "-6.3576",
+     "state": "reported",
+     "ev": "ev31"
+    },
+    "FY2025": {
+     "value": "-1.1076",
+     "state": "reported",
+     "ev": "ev32"
+    }
+   }
+  },
+  "cff": {
+   "label": "Cash from financing",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2024": {
+     "value": "-38.2729",
+     "state": "reported",
+     "ev": "ev33"
+    },
+    "FY2025": {
+     "value": "-67.5476",
+     "state": "reported",
+     "ev": "ev34"
+    }
+   }
+  },
+  "ebitda": {
+   "label": "EBITDA",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "eps": {
+   "label": "EPS (provider)",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "shares_outstanding": {
+   "label": "Shares outstanding",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "pat_pre_associate": {
+   "label": "Profit after tax before associate contribution",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "pat_owners": {
+   "label": "Profit attributable to owners",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "associate_profit": {
+   "label": "Share of associate profit",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "eps_basic": {
+   "label": "Reported basic EPS",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "eps_diluted": {
+   "label": "Reported diluted EPS",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "gross_profit": {
+   "label": "Gross profit",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "operating_profit": {
+   "label": "Operating profit",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "cost_of_sales": {
+   "label": "Cost of sales",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "trade_receivables": {
+   "label": "Trade receivables",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2024": {
+     "value": "15.7233",
+     "state": "reported",
+     "ev": "ev35"
+    },
+    "FY2025": {
+     "value": "11.3171",
+     "state": "reported",
+     "ev": "ev36"
+    }
+   }
+  },
+  "trade_payables": {
+   "label": "Trade payables",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "fixed_assets": {
+   "label": "Fixed assets",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2024": {
+     "value": "1694.2715",
+     "state": "reported",
+     "ev": "ev37"
+    },
+    "FY2025": {
+     "value": "1681.3227",
+     "state": "reported",
+     "ev": "ev38"
+    }
+   }
+  },
+  "borrowings": {
+   "label": "Borrowings",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "dividend_per_share": {
+   "label": "Dividend per share",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "gross_npa": {
+   "label": "Gross NPA",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "net_npa": {
+   "label": "Net NPA",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "nim": {
+   "label": "Net interest margin",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "provision_coverage": {
+   "label": "Provision coverage",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "capital_adequacy": {
+   "label": "Capital adequacy",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "claims_ratio": {
+   "label": "Incurred claims ratio",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "combined_ratio": {
+   "label": "Combined ratio",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "solvency_ratio": {
+   "label": "Solvency ratio",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  }
+ },
+ "cash_flow": {
+  "unit": "INR crore",
+  "by_period": {
+   "FY2024": {
+    "basis": "consolidated",
+    "origin": "provider",
+    "provider_name": "WWIPL",
+    "lines": {
+     "opening": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "cfo": {
+      "value": "19.13",
+      "state": "reported",
+      "ev": "ev29"
+     },
+     "cfi": {
+      "value": "-6.3576",
+      "state": "reported",
+      "ev": "ev31"
+     },
+     "cff": {
+      "value": "-38.2729",
+      "state": "reported",
+      "ev": "ev33"
+     },
+     "other_effects": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "net_change": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "closing": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "before_working_capital": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "receivables": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "other_assets": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "payables_and_liabilities": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "tax_paid": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "capex": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "net_investment_purchases": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "debt_principal": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "lease_principal": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "lease_interest": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "overdraft_interest": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "share_proceeds": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "dividends": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "current_accounts": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "settlement_accounts": {
+      "state": "not_in_source",
+      "value": null
+     }
+    },
+    "reconciliation": {
+     "state": "partial"
+    },
+    "provider_comparison": null
+   },
+   "FY2025": {
+    "basis": "consolidated",
+    "origin": "provider",
+    "provider_name": "WWIPL",
+    "lines": {
+     "opening": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "cfo": {
+      "value": "82.9132",
+      "state": "reported",
+      "ev": "ev30"
+     },
+     "cfi": {
+      "value": "-1.1076",
+      "state": "reported",
+      "ev": "ev32"
+     },
+     "cff": {
+      "value": "-67.5476",
+      "state": "reported",
+      "ev": "ev34"
+     },
+     "other_effects": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "net_change": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "closing": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "before_working_capital": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "receivables": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "other_assets": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "payables_and_liabilities": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "tax_paid": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "capex": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "net_investment_purchases": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "debt_principal": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "lease_principal": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "lease_interest": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "overdraft_interest": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "share_proceeds": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "dividends": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "current_accounts": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "settlement_accounts": {
+      "state": "not_in_source",
+      "value": null
+     }
+    },
+    "reconciliation": {
+     "state": "partial"
+    },
+    "provider_comparison": null
+   }
+  }
+ },
+ "documents": [],
+ "reconciliation": null,
+ "agent": {
+  "inventories": {
+   "company": "kial",
+   "field": "inventories",
+   "status": "found_in_provider",
+   "summary": "Inventories reported by the provider for FY2024, FY2025.",
+   "how_to_verify": "Open the provider row from the evidence drawer; reconcile with the issuer's annual report before relying on it.",
+   "expectation": {
+    "level": "possible",
+    "reason": "Operators may carry stores and spares."
+   },
+   "evidence": [],
+   "evidence_total": 0,
+   "next_checks": [
+    "Audited annual report: balance sheet 'Inventories' line and note on valuation"
+   ],
+   "trace": [
+    {
+     "step": 1,
+     "tool": "provider_lookup",
+     "input": {
+      "company": "kial",
+      "field": "inventories"
+     },
+     "output": {
+      "found": true,
+      "periods": [
+       "FY2024",
+       "FY2025"
+      ],
+      "detail": "line present in provider statements"
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 2,
+     "tool": "applicability_rule",
+     "input": {
+      "field": "inventories",
+      "business_model": "infrastructure"
+     },
+     "output": {
+      "expectation": "possible",
+      "reason": "Operators may carry stores and spares."
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 3,
+     "tool": "statement_line_check",
+     "input": {
+      "document": null
+     },
+     "output": {
+      "skipped": true,
+      "why": "no retained issuer balance sheet for this company"
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 4,
+     "tool": "document_search",
+     "input": {
+      "documents": [],
+      "patterns": [
+       "\\binventor(?:y|ies)\\b"
+      ]
+     },
+     "output": {
+      "documents_searched": [],
+      "pages_with_word_matches": 0,
+      "pages_with_naive_substring": 0,
+      "note": "naive substring 'inventor' also matches unrelated words (e.g. 'COMPANY' contains 'NPA'); word-boundary patterns used"
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 5,
+     "tool": "classify_passages",
+     "input": {
+      "passages": 0
+     },
+     "output": {
+      "by_kind": {}
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 6,
+     "tool": "verdict",
+     "input": {
+      "signals": {
+       "provider": true,
+       "numeric": 0,
+       "explicit_na": 0,
+       "line_check": null,
+       "expectation": "possible"
+      }
+     },
+     "output": {
+      "status": "found_in_provider",
+      "summary": "Inventories reported by the provider for FY2024, FY2025.",
+      "how_to_verify": "Open the provider row from the evidence drawer; reconcile with the issuer's annual report before relying on it."
+     },
+     "ms": 0.0
+    }
+   ],
+   "executed": "deterministic tool sequence (no language model call)"
+  },
+  "npa": {
+   "company": "kial",
+   "field": "npa",
+   "status": "inapplicable",
+   "summary": "Not applicable by business model: NPA is a lender asset-quality measure; this business has no loan book to classify.",
+   "how_to_verify": "No mentions to review; the business-model rule decides.",
+   "expectation": {
+    "level": "not_applicable",
+    "reason": "NPA is a lender asset-quality measure; this business has no loan book to classify."
+   },
+   "evidence": [],
+   "evidence_total": 0,
+   "next_checks": [
+    "Annual report notes: 'Stage 3 assets', 'Gross NPA', 'Net NPA' (RBI disclosure for NBFCs)"
+   ],
+   "trace": [
+    {
+     "step": 1,
+     "tool": "provider_lookup",
+     "input": {
+      "company": "kial",
+      "field": "gross_npa"
+     },
+     "output": {
+      "found": false,
+      "periods": [],
+      "detail": "no matching line in the provider's parsed statements"
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 2,
+     "tool": "applicability_rule",
+     "input": {
+      "field": "npa",
+      "business_model": "infrastructure"
+     },
+     "output": {
+      "expectation": "not_applicable",
+      "reason": "NPA is a lender asset-quality measure; this business has no loan book to classify."
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 3,
+     "tool": "statement_line_check",
+     "input": {
+      "document": null
+     },
+     "output": {
+      "skipped": true,
+      "why": "no retained issuer balance sheet for this company"
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 4,
+     "tool": "document_search",
+     "input": {
+      "documents": [],
+      "patterns": [
+       "\\bG?N?NPAs?\\b",
+       "\\bnon[- ]performing (?:assets?|loans?)\\b",
+       "\\bstage\\s*(?:3|III)\\s+(?:assets|loans)\\b"
+      ]
+     },
+     "output": {
+      "documents_searched": [],
+      "pages_with_word_matches": 0,
+      "pages_with_naive_substring": 0,
+      "note": "naive substring 'npa' also matches unrelated words (e.g. 'COMPANY' contains 'NPA'); word-boundary patterns used"
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 5,
+     "tool": "classify_passages",
+     "input": {
+      "passages": 0
+     },
+     "output": {
+      "by_kind": {}
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 6,
+     "tool": "verdict",
+     "input": {
+      "signals": {
+       "provider": false,
+       "numeric": 0,
+       "explicit_na": 0,
+       "line_check": null,
+       "expectation": "not_applicable"
+      }
+     },
+     "output": {
+      "status": "inapplicable",
+      "summary": "Not applicable by business model: NPA is a lender asset-quality measure; this business has no loan book to classify.",
+      "how_to_verify": "No mentions to review; the business-model rule decides."
+     },
+     "ms": 0.0
+    }
+   ],
+   "executed": "deterministic tool sequence (no language model call)"
+  }
+ },
+ "metrics": {
+  "FY2024": {
+   "revenue_growth": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "(current / previous) - 1",
+    "inputs": {
+     "current": "99.2362",
+     "previous": null
+    },
+    "unit": "%",
+    "ev": [
+     "ev5"
+    ]
+   },
+   "pat_margin": {
+    "value": "-165.8250",
+    "state": "ok",
+    "formula": "PAT / total income x 100",
+    "inputs": {
+     "pat": "-168.516",
+     "total_income": "101.6228"
+    },
+    "unit": "%",
+    "ev": [
+     "ev15",
+     "ev3"
+    ]
+   },
+   "net_profit_ratio": {
+    "value": "-169.8130",
+    "state": "ok",
+    "formula": "PAT / revenue from operations x 100",
+    "inputs": {
+     "pat": "-168.516",
+     "revenue_ops": "99.2362"
+    },
+    "unit": "%",
+    "ev": [
+     "ev15",
+     "ev5"
+    ]
+   },
+   "other_income_share": {
+    "value": "2.3485",
+    "state": "ok",
+    "formula": "other income / total income x 100",
+    "inputs": {
+     "other_income": "2.3866",
+     "total_income": "101.6228"
+    },
+    "unit": "%",
+    "ev": [
+     "ev7",
+     "ev3"
+    ]
+   },
+   "current_ratio": {
+    "value": "13.0138",
+    "state": "ok",
+    "formula": "current assets / current liabilities",
+    "inputs": {
+     "current_assets": "1904.0135",
+     "current_liabilities": "146.3076"
+    },
+    "unit": "x",
+    "ev": [
+     "ev21",
+     "ev23"
+    ]
+   },
+   "quick_ratio": {
+    "value": "13.0096",
+    "state": "ok",
+    "formula": "(current assets - inventories) / current liabilities",
+    "inputs": {
+     "current_assets": "1904.0135",
+     "inventories": "0.6039",
+     "current_liabilities": "146.3076"
+    },
+    "unit": "x",
+    "ev": [
+     "ev21",
+     "ev23",
+     "ev25"
+    ]
+   },
+   "roe": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "PAT / average of opening and closing equity x 100",
+    "inputs": {
+     "pat": "-168.516",
+     "average_equity": null
+    },
+    "unit": "%",
+    "ev": [
+     "ev15",
+     "ev19"
+    ]
+   },
+   "roce": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "(PBT + finance cost) / (total assets - current liabilities) x 100",
+    "inputs": {
+     "ebit": null,
+     "capital_employed": "1757.7059"
+    },
+    "unit": "%",
+    "ev": [
+     "ev11",
+     "ev17",
+     "ev23"
+    ]
+   },
+   "cfo_to_pat": {
+    "value": "-0.1135",
+    "state": "ok",
+    "formula": "cash from operations / PAT",
+    "inputs": {
+     "cfo": "19.13",
+     "pat": "-168.516"
+    },
+    "unit": "x",
+    "ev": [
+     "ev29",
+     "ev15"
+    ]
+   }
+  },
+  "FY2025": {
+   "revenue_growth": {
+    "value": "92.4029",
+    "state": "ok",
+    "formula": "(current / previous) - 1",
+    "inputs": {
+     "current": "190.9333",
+     "previous": "99.2362"
+    },
+    "unit": "%",
+    "ev": [
+     "ev6",
+     "ev5"
+    ]
+   },
+   "pat_margin": {
+    "value": "-48.0427",
+    "state": "ok",
+    "formula": "PAT / total income x 100",
+    "inputs": {
+     "pat": "-93.7896",
+     "total_income": "195.2214"
+    },
+    "unit": "%",
+    "ev": [
+     "ev16",
+     "ev4"
+    ]
+   },
+   "net_profit_ratio": {
+    "value": "-49.1217",
+    "state": "ok",
+    "formula": "PAT / revenue from operations x 100",
+    "inputs": {
+     "pat": "-93.7896",
+     "revenue_ops": "190.9333"
+    },
+    "unit": "%",
+    "ev": [
+     "ev16",
+     "ev6"
+    ]
+   },
+   "other_income_share": {
+    "value": "2.1965",
+    "state": "ok",
+    "formula": "other income / total income x 100",
+    "inputs": {
+     "other_income": "4.2881",
+     "total_income": "195.2214"
+    },
+    "unit": "%",
+    "ev": [
+     "ev8",
+     "ev4"
+    ]
+   },
+   "current_ratio": {
+    "value": "13.7170",
+    "state": "ok",
+    "formula": "current assets / current liabilities",
+    "inputs": {
+     "current_assets": "1901.1004",
+     "current_liabilities": "138.5944"
+    },
+    "unit": "x",
+    "ev": [
+     "ev22",
+     "ev24"
+    ]
+   },
+   "quick_ratio": {
+    "value": "13.7120",
+    "state": "ok",
+    "formula": "(current assets - inventories) / current liabilities",
+    "inputs": {
+     "current_assets": "1901.1004",
+     "inventories": "0.6938",
+     "current_liabilities": "138.5944"
+    },
+    "unit": "x",
+    "ev": [
+     "ev22",
+     "ev24",
+     "ev26"
+    ]
+   },
+   "roe": {
+    "value": "-17.1235",
+    "state": "ok",
+    "formula": "PAT / average of opening and closing equity x 100",
+    "inputs": {
+     "pat": "-93.7896",
+     "average_equity": "547.7247"
+    },
+    "unit": "%",
+    "ev": [
+     "ev16",
+     "ev20",
+     "ev19"
+    ]
+   },
+   "roce": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "(PBT + finance cost) / (total assets - current liabilities) x 100",
+    "inputs": {
+     "ebit": null,
+     "capital_employed": "189971.4956"
+    },
+    "unit": "%",
+    "ev": [
+     "ev12",
+     "ev18",
+     "ev24"
+    ]
+   },
+   "cfo_to_pat": {
+    "value": "-0.8840",
+    "state": "ok",
+    "formula": "cash from operations / PAT",
+    "inputs": {
+     "cfo": "82.9132",
+     "pat": "-93.7896"
+    },
+    "unit": "x",
+    "ev": [
+     "ev30",
+     "ev16"
+    ]
+   }
+  }
+ },
+ "valuation": {
+  "period": "FY2025",
+  "shares_used": "133838900",
+  "shares_source": "shares_details",
+  "market_cap": {
+   "value": "1686.3701",
+   "state": "ok",
+   "formula": "price (INR) x shares outstanding / 1e7",
+   "inputs": {
+    "price_inr": "126.00",
+    "shares": "133838900"
+   },
+   "unit": "INR crore"
+  },
+  "eps": {
+   "value": "-7.0076",
+   "state": "ok",
+   "formula": "PAT (INR crore) x 1e7 / shares outstanding",
+   "inputs": {
+    "pat_cr": "-93.7896",
+    "shares": "133838900"
+   },
+   "unit": "INR"
+  },
+  "eps_reported_basic": null,
+  "eps_reported_diluted": null,
+  "pe": {
+   "value": null,
+   "state": "negative_base",
+   "formula": "price / EPS",
+   "inputs": {
+    "price_inr": "126.00",
+    "eps": "-7.007648747860300704802564875"
+   },
+   "note": "Uses a calculated proxy of annual PAT divided by shares outstanding. loss-making: P/E not meaningful",
+   "unit": "x",
+   "eps_basis": "pat_share_proxy",
+   "ev": [
+    "ev16",
+    "ev1"
+   ]
+  },
+  "pe_reported": {
+   "value": null,
+   "state": "missing_input",
+   "formula": "price / EPS",
+   "inputs": {
+    "price_inr": "126.00",
+    "eps": null
+   },
+   "unit": "x",
+   "eps_basis": "reported_basic",
+   "ev": [
+    "ev1"
+   ]
+  },
+  "pe_proxy": {
+   "value": null,
+   "state": "negative_base",
+   "formula": "price / EPS",
+   "inputs": {
+    "price_inr": "126.00",
+    "eps": "-7.007648747860300704802564875"
+   },
+   "note": "loss-making: P/E not meaningful",
+   "unit": "x",
+   "eps_basis": "pat_share_proxy",
+   "ev": [
+    "ev16",
+    "ev1"
+   ]
+  },
+  "pb": {
+   "value": "3.3676",
+   "state": "ok",
+   "formula": "market cap / total equity",
+   "inputs": {
+    "market_cap": "1686.37014",
+    "total_equity": "500.7693"
+   },
+   "unit": "x"
+  },
+  "ps": {
+   "value": "8.8322",
+   "state": "ok",
+   "formula": "market cap / operating revenue",
+   "inputs": {
+    "market_cap": "1686.37014",
+    "operating_revenue": "190.9333"
+   },
+   "unit": "x"
+  },
+  "provider": {
+   "pe": "-",
+   "mcap": "1,686.37 Crore",
+   "eps": "-7.01"
+  },
+  "note": "Valued at an indicative unlisted dealer quote against the latest fiscal-year PAT; not a traded market price."
+ },
+ "coverage_gaps": [
+  {
+   "field": "eps",
+   "state": "not_in_source",
+   "label": "EPS (provider)"
+  },
+  {
+   "field": "shares_outstanding",
+   "state": "not_in_source",
+   "label": "Shares outstanding"
+  }
+ ],
+ "checks": [
+  {
+   "check": "income_identity",
+   "period": "FY2024",
+   "result": "pass",
+   "detail": "total income 101.6228 - (operations 99.2362 + other 2.3866 + separate income lines 0) = 0.0000"
+  },
+  {
+   "check": "income_identity",
+   "period": "FY2025",
+   "result": "pass",
+   "detail": "total income 195.2214 - (operations 190.9333 + other 4.2881 + separate income lines 0) = 0.0000"
+  }
+ ],
+ "provider_ratios": {
+  "Current Ratio": {
+   "FY2025": {
+    "raw_text": "0.35",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "0.23",
+    "state": "reported"
+   }
+  },
+  "Debt Equity Ratio": {
+   "FY2025": {
+    "raw_text": "2.43",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "1.96",
+    "state": "reported"
+   }
+  },
+  "Return on Equity Ratio": {
+   "FY2025": {
+    "raw_text": "(0.04)",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "(0.06)",
+    "state": "reported"
+   }
+  },
+  "Trade receivable turnover ratio": {
+   "FY2025": {
+    "raw_text": "14.12",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "5.75",
+    "state": "reported"
+   }
+  },
+  "Trade payables turnover ratio": {
+   "FY2025": {
+    "raw_text": "0.51",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "0.36",
+    "state": "reported"
+   }
+  },
+  "Net Capital Turnover Ratio": {
+   "FY2025": {
+    "raw_text": "(1.07)",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "(0.44)",
+    "state": "reported"
+   }
+  },
+  "Net Profit/(loss) Ratio": {
+   "FY2025": {
+    "raw_text": "(0.49)",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "(1.70)",
+    "state": "reported"
+   }
+  },
+  "Return on Capital Employed": {
+   "FY2025": {
+    "raw_text": "0.01",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "(0.03)",
+    "state": "reported"
+   }
+  }
+ },
+ "evidence": {
+  "ev1": {
+   "source": "WWIPL company overview",
+   "url": "https://wwipl.com/unlisted-shares/kannur-international-airport-share-price",
+   "retrieved_at": "2026-11-23T17:58:42+00:00",
+   "sha256": "80d40fc86ac82e4ae20f4251d6a13bfec5d70e439d0a4b1909cc021922611883",
+   "capture_run": "20261123T175837Z",
+   "file": "kial-overview.html",
+   "raw_label": "Last Traded Price",
+   "raw_text": "126.00"
+  },
+  "ev2": {
+   "source": "WWIPL company overview",
+   "url": "https://wwipl.com/unlisted-shares/kannur-international-airport-share-price",
+   "retrieved_at": "2026-11-23T17:58:42+00:00",
+   "sha256": "80d40fc86ac82e4ae20f4251d6a13bfec5d70e439d0a4b1909cc021922611883",
+   "capture_run": "20261123T175837Z",
+   "file": "kial-overview.html",
+   "raw_label": "Company fundamentals block"
+  },
+  "ev3": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/kannur-international-airport-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:43+00:00",
+   "sha256": "c2f03142f8b9ab5264f23969c9273009c87d306ce74a9e66e4afdd96a1a7a431",
+   "capture_run": "20261123T175837Z",
+   "file": "kial-financial.html",
+   "raw_label": "Total income",
+   "raw_text": "10,162.28",
+   "raw_unit": "INR lakh",
+   "period": "FY2024",
+   "period_label": "31-03-2024",
+   "basis": "consolidated",
+   "anchor": {
+    "file": "kial-financial.html",
+    "table_index": 2,
+    "row_index": 3,
+    "heading": "Kannur International Airport Limited Consolidated Profit & Loss (Rs. In Lakhs)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev4": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/kannur-international-airport-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:43+00:00",
+   "sha256": "c2f03142f8b9ab5264f23969c9273009c87d306ce74a9e66e4afdd96a1a7a431",
+   "capture_run": "20261123T175837Z",
+   "file": "kial-financial.html",
+   "raw_label": "Total income",
+   "raw_text": "19,522.14",
+   "raw_unit": "INR lakh",
+   "period": "FY2025",
+   "period_label": "31-03-2025",
+   "basis": "consolidated",
+   "anchor": {
+    "file": "kial-financial.html",
+    "table_index": 2,
+    "row_index": 3,
+    "heading": "Kannur International Airport Limited Consolidated Profit & Loss (Rs. In Lakhs)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev5": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/kannur-international-airport-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:43+00:00",
+   "sha256": "c2f03142f8b9ab5264f23969c9273009c87d306ce74a9e66e4afdd96a1a7a431",
+   "capture_run": "20261123T175837Z",
+   "file": "kial-financial.html",
+   "raw_label": "Revenue from operations",
+   "raw_text": "9,923.62",
+   "raw_unit": "INR lakh",
+   "period": "FY2024",
+   "period_label": "31-03-2024",
+   "basis": "consolidated",
+   "anchor": {
+    "file": "kial-financial.html",
+    "table_index": 2,
+    "row_index": 1,
+    "heading": "Kannur International Airport Limited Consolidated Profit & Loss (Rs. In Lakhs)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev6": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/kannur-international-airport-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:43+00:00",
+   "sha256": "c2f03142f8b9ab5264f23969c9273009c87d306ce74a9e66e4afdd96a1a7a431",
+   "capture_run": "20261123T175837Z",
+   "file": "kial-financial.html",
+   "raw_label": "Revenue from operations",
+   "raw_text": "19,093.33",
+   "raw_unit": "INR lakh",
+   "period": "FY2025",
+   "period_label": "31-03-2025",
+   "basis": "consolidated",
+   "anchor": {
+    "file": "kial-financial.html",
+    "table_index": 2,
+    "row_index": 1,
+    "heading": "Kannur International Airport Limited Consolidated Profit & Loss (Rs. In Lakhs)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev7": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/kannur-international-airport-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:43+00:00",
+   "sha256": "c2f03142f8b9ab5264f23969c9273009c87d306ce74a9e66e4afdd96a1a7a431",
+   "capture_run": "20261123T175837Z",
+   "file": "kial-financial.html",
+   "raw_label": "Other Income",
+   "raw_text": "238.66",
+   "raw_unit": "INR lakh",
+   "period": "FY2024",
+   "period_label": "31-03-2024",
+   "basis": "consolidated",
+   "anchor": {
+    "file": "kial-financial.html",
+    "table_index": 2,
+    "row_index": 2,
+    "heading": "Kannur International Airport Limited Consolidated Profit & Loss (Rs. In Lakhs)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev8": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/kannur-international-airport-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:43+00:00",
+   "sha256": "c2f03142f8b9ab5264f23969c9273009c87d306ce74a9e66e4afdd96a1a7a431",
+   "capture_run": "20261123T175837Z",
+   "file": "kial-financial.html",
+   "raw_label": "Other Income",
+   "raw_text": "428.81",
+   "raw_unit": "INR lakh",
+   "period": "FY2025",
+   "period_label": "31-03-2025",
+   "basis": "consolidated",
+   "anchor": {
+    "file": "kial-financial.html",
+    "table_index": 2,
+    "row_index": 2,
+    "heading": "Kannur International Airport Limited Consolidated Profit & Loss (Rs. In Lakhs)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev9": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/kannur-international-airport-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:43+00:00",
+   "sha256": "c2f03142f8b9ab5264f23969c9273009c87d306ce74a9e66e4afdd96a1a7a431",
+   "capture_run": "20261123T175837Z",
+   "file": "kial-financial.html",
+   "raw_label": "Total expenses",
+   "raw_text": "27,526.59",
+   "raw_unit": "INR lakh",
+   "period": "FY2024",
+   "period_label": "31-03-2024",
+   "basis": "consolidated",
+   "anchor": {
+    "file": "kial-financial.html",
+    "table_index": 2,
+    "row_index": 10,
+    "heading": "Kannur International Airport Limited Consolidated Profit & Loss (Rs. In Lakhs)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev10": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/kannur-international-airport-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:43+00:00",
+   "sha256": "c2f03142f8b9ab5264f23969c9273009c87d306ce74a9e66e4afdd96a1a7a431",
+   "capture_run": "20261123T175837Z",
+   "file": "kial-financial.html",
+   "raw_label": "Total expenses",
+   "raw_text": "29,690.72",
+   "raw_unit": "INR lakh",
+   "period": "FY2025",
+   "period_label": "31-03-2025",
+   "basis": "consolidated",
+   "anchor": {
+    "file": "kial-financial.html",
+    "table_index": 2,
+    "row_index": 10,
+    "heading": "Kannur International Airport Limited Consolidated Profit & Loss (Rs. In Lakhs)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev11": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/kannur-international-airport-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:43+00:00",
+   "sha256": "c2f03142f8b9ab5264f23969c9273009c87d306ce74a9e66e4afdd96a1a7a431",
+   "capture_run": "20261123T175837Z",
+   "file": "kial-financial.html",
+   "raw_label": "Finance costs",
+   "raw_text": "11,711.93",
+   "raw_unit": "INR lakh",
+   "period": "FY2024",
+   "period_label": "31-03-2024",
+   "basis": "consolidated",
+   "anchor": {
+    "file": "kial-financial.html",
+    "table_index": 2,
+    "row_index": 7,
+    "heading": "Kannur International Airport Limited Consolidated Profit & Loss (Rs. In Lakhs)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev12": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/kannur-international-airport-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:43+00:00",
+   "sha256": "c2f03142f8b9ab5264f23969c9273009c87d306ce74a9e66e4afdd96a1a7a431",
+   "capture_run": "20261123T175837Z",
+   "file": "kial-financial.html",
+   "raw_label": "Finance costs",
+   "raw_text": "12,542.54",
+   "raw_unit": "INR lakh",
+   "period": "FY2025",
+   "period_label": "31-03-2025",
+   "basis": "consolidated",
+   "anchor": {
+    "file": "kial-financial.html",
+    "table_index": 2,
+    "row_index": 7,
+    "heading": "Kannur International Airport Limited Consolidated Profit & Loss (Rs. In Lakhs)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev13": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/kannur-international-airport-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:43+00:00",
+   "sha256": "c2f03142f8b9ab5264f23969c9273009c87d306ce74a9e66e4afdd96a1a7a431",
+   "capture_run": "20261123T175837Z",
+   "file": "kial-financial.html",
+   "raw_label": "Depreciation and amortization expense",
+   "raw_text": "6,950.50",
+   "raw_unit": "INR lakh",
+   "period": "FY2024",
+   "period_label": "31-03-2024",
+   "basis": "consolidated",
+   "anchor": {
+    "file": "kial-financial.html",
+    "table_index": 2,
+    "row_index": 8,
+    "heading": "Kannur International Airport Limited Consolidated Profit & Loss (Rs. In Lakhs)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev14": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/kannur-international-airport-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:43+00:00",
+   "sha256": "c2f03142f8b9ab5264f23969c9273009c87d306ce74a9e66e4afdd96a1a7a431",
+   "capture_run": "20261123T175837Z",
+   "file": "kial-financial.html",
+   "raw_label": "Depreciation and amortization expense",
+   "raw_text": "7,149.59",
+   "raw_unit": "INR lakh",
+   "period": "FY2025",
+   "period_label": "31-03-2025",
+   "basis": "consolidated",
+   "anchor": {
+    "file": "kial-financial.html",
+    "table_index": 2,
+    "row_index": 8,
+    "heading": "Kannur International Airport Limited Consolidated Profit & Loss (Rs. In Lakhs)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev15": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/kannur-international-airport-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:43+00:00",
+   "sha256": "c2f03142f8b9ab5264f23969c9273009c87d306ce74a9e66e4afdd96a1a7a431",
+   "capture_run": "20261123T175837Z",
+   "file": "kial-financial.html",
+   "raw_label": "Loss for the year",
+   "raw_text": "(16,851.60)",
+   "raw_unit": "INR lakh",
+   "period": "FY2024",
+   "period_label": "31-03-2024",
+   "basis": "consolidated",
+   "anchor": {
+    "file": "kial-financial.html",
+    "table_index": 2,
+    "row_index": 18,
+    "heading": "Kannur International Airport Limited Consolidated Profit & Loss (Rs. In Lakhs)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev16": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/kannur-international-airport-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:43+00:00",
+   "sha256": "c2f03142f8b9ab5264f23969c9273009c87d306ce74a9e66e4afdd96a1a7a431",
+   "capture_run": "20261123T175837Z",
+   "file": "kial-financial.html",
+   "raw_label": "Loss for the year",
+   "raw_text": "(9,378.96)",
+   "raw_unit": "INR lakh",
+   "period": "FY2025",
+   "period_label": "31-03-2025",
+   "basis": "consolidated",
+   "anchor": {
+    "file": "kial-financial.html",
+    "table_index": 2,
+    "row_index": 18,
+    "heading": "Kannur International Airport Limited Consolidated Profit & Loss (Rs. In Lakhs)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev17": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/kannur-international-airport-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:43+00:00",
+   "sha256": "c2f03142f8b9ab5264f23969c9273009c87d306ce74a9e66e4afdd96a1a7a431",
+   "capture_run": "20261123T175837Z",
+   "file": "kial-financial.html",
+   "raw_label": "Total Assets",
+   "raw_text": "1,90,401.35",
+   "raw_unit": "INR lakh",
+   "period": "FY2024",
+   "period_label": "31-03-2024",
+   "basis": "consolidated",
+   "anchor": {
+    "file": "kial-financial.html",
+    "table_index": 1,
+    "row_index": 17,
+    "heading": "Kannur International Airport Limited Consolidated Balance Sheet (Rs. In Lakhs)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev18": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/kannur-international-airport-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:43+00:00",
+   "sha256": "c2f03142f8b9ab5264f23969c9273009c87d306ce74a9e66e4afdd96a1a7a431",
+   "capture_run": "20261123T175837Z",
+   "file": "kial-financial.html",
+   "raw_label": "Total Assets",
+   "raw_text": "1,90,110,09",
+   "raw_unit": "INR lakh",
+   "period": "FY2025",
+   "period_label": "31-03-2025",
+   "basis": "consolidated",
+   "anchor": {
+    "file": "kial-financial.html",
+    "table_index": 1,
+    "row_index": 17,
+    "heading": "Kannur International Airport Limited Consolidated Balance Sheet (Rs. In Lakhs)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev19": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/kannur-international-airport-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:43+00:00",
+   "sha256": "c2f03142f8b9ab5264f23969c9273009c87d306ce74a9e66e4afdd96a1a7a431",
+   "capture_run": "20261123T175837Z",
+   "file": "kial-financial.html",
+   "raw_label": "Sum of 2 lines under 'equity'",
+   "raw_text": null,
+   "raw_unit": "INR lakh",
+   "period": "FY2024",
+   "period_label": null,
+   "basis": "consolidated",
+   "anchor": {
+    "file": "kial-financial.html",
+    "table_index": 1,
+    "row_index": 19,
+    "heading": "Kannur International Airport Limited Consolidated Balance Sheet (Rs. In Lakhs)"
+   },
+   "statement": "balance_sheet",
+   "derived": true,
+   "components": [
+    {
+     "label": "Equity Share Capital",
+     "value": "1338.389"
+    },
+    {
+     "label": "Other Equity",
+     "value": "-743.7089"
+    }
+   ]
+  },
+  "ev20": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/kannur-international-airport-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:43+00:00",
+   "sha256": "c2f03142f8b9ab5264f23969c9273009c87d306ce74a9e66e4afdd96a1a7a431",
+   "capture_run": "20261123T175837Z",
+   "file": "kial-financial.html",
+   "raw_label": "Sum of 2 lines under 'equity'",
+   "raw_text": null,
+   "raw_unit": "INR lakh",
+   "period": "FY2025",
+   "period_label": null,
+   "basis": "consolidated",
+   "anchor": {
+    "file": "kial-financial.html",
+    "table_index": 1,
+    "row_index": 19,
+    "heading": "Kannur International Airport Limited Consolidated Balance Sheet (Rs. In Lakhs)"
+   },
+   "statement": "balance_sheet",
+   "derived": true,
+   "components": [
+    {
+     "label": "Equity Share Capital",
+     "value": "1338.389"
+    },
+    {
+     "label": "Other Equity",
+     "value": "-837.6197"
+    }
+   ]
+  },
+  "ev21": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/kannur-international-airport-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:43+00:00",
+   "sha256": "c2f03142f8b9ab5264f23969c9273009c87d306ce74a9e66e4afdd96a1a7a431",
+   "capture_run": "20261123T175837Z",
+   "file": "kial-financial.html",
+   "raw_label": "Sum of 14 lines under 'current assets'",
+   "raw_text": null,
+   "raw_unit": "INR lakh",
+   "period": "FY2024",
+   "period_label": null,
+   "basis": "consolidated",
+   "anchor": {
+    "file": "kial-financial.html",
+    "table_index": 1,
+    "row_index": 2,
+    "heading": "Kannur International Airport Limited Consolidated Balance Sheet (Rs. In Lakhs)"
+   },
+   "statement": "balance_sheet",
+   "derived": true,
+   "components": [
+    {
+     "label": "Property, Plant and Equipment",
+     "value": "1694.2715"
+    },
+    {
+     "label": "Capital work-in-progress",
+     "value": "48.6156"
+    },
+    {
+     "label": "Intangible assets",
+     "value": "0.2609"
+    },
+    {
+     "label": "intangible assets under development",
+     "value": "6.3725"
+    },
+    {
+     "label": "Investment in joint venture",
+     "value": "0.0442"
+    },
+    {
+     "label": "Other financial assets",
+     "value": "24.936"
+    },
+    {
+     "label": "Deferred tax assets (net)",
+     "value": "82.4882"
+    },
+    {
+     "label": "Non-current tax assets (net)",
+     "value": "13.4529"
+    },
+    {
+     "label": "Inventories",
+     "value": "0.6039"
+    },
+    {
+     "label": "Trade receivables",
+     "value": "15.7233"
+    },
+    {
+     "label": "Cash and cash equivalents",
+     "value": "2.4303"
+    },
+    {
+     "label": "Bank balances other than above",
+     "value": "0.4406"
+    },
+    {
+     "label": "Other financial assets",
+     "value": "5.0715"
+    },
+    {
+     "label": "Other current assets",
+     "value": "9.3021"
+    }
+   ]
+  },
+  "ev22": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/kannur-international-airport-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:43+00:00",
+   "sha256": "c2f03142f8b9ab5264f23969c9273009c87d306ce74a9e66e4afdd96a1a7a431",
+   "capture_run": "20261123T175837Z",
+   "file": "kial-financial.html",
+   "raw_label": "Sum of 13 lines under 'current assets'",
+   "raw_text": null,
+   "raw_unit": "INR lakh",
+   "period": "FY2025",
+   "period_label": null,
+   "basis": "consolidated",
+   "anchor": {
+    "file": "kial-financial.html",
+    "table_index": 1,
+    "row_index": 2,
+    "heading": "Kannur International Airport Limited Consolidated Balance Sheet (Rs. In Lakhs)"
+   },
+   "statement": "balance_sheet",
+   "derived": true,
+   "components": [
+    {
+     "label": "Property, Plant and Equipment",
+     "value": "1681.3227"
+    },
+    {
+     "label": "Intangible assets",
+     "value": "2.3368"
+    },
+    {
+     "label": "intangible assets under development",
+     "value": "3.5477"
+    },
+    {
+     "label": "Investment in joint venture",
+     "value": "0.6323"
+    },
+    {
+     "label": "Other financial assets",
+     "value": "59.8384"
+    },
+    {
+     "label": "Deferred tax assets (net)",
+     "value": "89.8384"
+    },
+    {
+     "label": "Non-current tax assets (net)",
+     "value": "14.5996"
+    },
+    {
+     "label": "Inventories",
+     "value": "0.6938"
+    },
+    {
+     "label": "Trade receivables",
+     "value": "11.3171"
+    },
+    {
+     "label": "Cash and cash equivalents",
+     "value": "16.6883"
+    },
+    {
+     "label": "Bank balances other than above",
+     "value": "10.59"
+    },
+    {
+     "label": "Other financial assets",
+     "value": "0.1375"
+    },
+    {
+     "label": "Other current assets",
+     "value": "9.5578"
+    }
+   ]
+  },
+  "ev23": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/kannur-international-airport-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:43+00:00",
+   "sha256": "c2f03142f8b9ab5264f23969c9273009c87d306ce74a9e66e4afdd96a1a7a431",
+   "capture_run": "20261123T175837Z",
+   "file": "kial-financial.html",
+   "raw_label": "Sum of 6 lines under 'current liabilities'",
+   "raw_text": null,
+   "raw_unit": "INR lakh",
+   "period": "FY2024",
+   "period_label": null,
+   "basis": "consolidated",
+   "anchor": {
+    "file": "kial-financial.html",
+    "table_index": 1,
+    "row_index": 27,
+    "heading": "Kannur International Airport Limited Consolidated Balance Sheet (Rs. In Lakhs)"
+   },
+   "statement": "balance_sheet",
+   "derived": true,
+   "components": [
+    {
+     "label": "Short term borrowings",
+     "value": "40.7105"
+    },
+    {
+     "label": "Dues of micro and small enterprises",
+     "value": "0.9599"
+    },
+    {
+     "label": "Dues of other than micro and small enterprises",
+     "value": "80.0941"
+    },
+    {
+     "label": "Other financial liabilities",
+     "value": "18.1866"
+    },
+    {
+     "label": "Other current liabilities",
+     "value": "6.0524"
+    },
+    {
+     "label": "Provisions",
+     "value": "0.3041"
+    }
+   ]
+  },
+  "ev24": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/kannur-international-airport-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:43+00:00",
+   "sha256": "c2f03142f8b9ab5264f23969c9273009c87d306ce74a9e66e4afdd96a1a7a431",
+   "capture_run": "20261123T175837Z",
+   "file": "kial-financial.html",
+   "raw_label": "Sum of 6 lines under 'current liabilities'",
+   "raw_text": null,
+   "raw_unit": "INR lakh",
+   "period": "FY2025",
+   "period_label": null,
+   "basis": "consolidated",
+   "anchor": {
+    "file": "kial-financial.html",
+    "table_index": 1,
+    "row_index": 27,
+    "heading": "Kannur International Airport Limited Consolidated Balance Sheet (Rs. In Lakhs)"
+   },
+   "statement": "balance_sheet",
+   "derived": true,
+   "components": [
+    {
+     "label": "Short term borrowings",
+     "value": "3.3219"
+    },
+    {
+     "label": "Dues of micro and small enterprises",
+     "value": "0.4001"
+    },
+    {
+     "label": "Dues of other than micro and small enterprises",
+     "value": "104.9462"
+    },
+    {
+     "label": "Other financial liabilities",
+     "value": "22.0663"
+    },
+    {
+     "label": "Other current liabilities",
+     "value": "7.4427"
+    },
+    {
+     "label": "Provisions",
+     "value": "0.4172"
+    }
+   ]
+  },
+  "ev25": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/kannur-international-airport-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:43+00:00",
+   "sha256": "c2f03142f8b9ab5264f23969c9273009c87d306ce74a9e66e4afdd96a1a7a431",
+   "capture_run": "20261123T175837Z",
+   "file": "kial-financial.html",
+   "raw_label": "Inventories",
+   "raw_text": "60.39",
+   "raw_unit": "INR lakh",
+   "period": "FY2024",
+   "period_label": "31-03-2024",
+   "basis": "consolidated",
+   "anchor": {
+    "file": "kial-financial.html",
+    "table_index": 1,
+    "row_index": 11,
+    "heading": "Kannur International Airport Limited Consolidated Balance Sheet (Rs. In Lakhs)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev26": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/kannur-international-airport-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:43+00:00",
+   "sha256": "c2f03142f8b9ab5264f23969c9273009c87d306ce74a9e66e4afdd96a1a7a431",
+   "capture_run": "20261123T175837Z",
+   "file": "kial-financial.html",
+   "raw_label": "Inventories",
+   "raw_text": "69.38",
+   "raw_unit": "INR lakh",
+   "period": "FY2025",
+   "period_label": "31-03-2025",
+   "basis": "consolidated",
+   "anchor": {
+    "file": "kial-financial.html",
+    "table_index": 1,
+    "row_index": 11,
+    "heading": "Kannur International Airport Limited Consolidated Balance Sheet (Rs. In Lakhs)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev27": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/kannur-international-airport-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:43+00:00",
+   "sha256": "c2f03142f8b9ab5264f23969c9273009c87d306ce74a9e66e4afdd96a1a7a431",
+   "capture_run": "20261123T175837Z",
+   "file": "kial-financial.html",
+   "raw_label": "Cash and cash equivalents",
+   "raw_text": "243.03",
+   "raw_unit": "INR lakh",
+   "period": "FY2024",
+   "period_label": "31-03-2024",
+   "basis": "consolidated",
+   "anchor": {
+    "file": "kial-financial.html",
+    "table_index": 1,
+    "row_index": 13,
+    "heading": "Kannur International Airport Limited Consolidated Balance Sheet (Rs. In Lakhs)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev28": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/kannur-international-airport-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:43+00:00",
+   "sha256": "c2f03142f8b9ab5264f23969c9273009c87d306ce74a9e66e4afdd96a1a7a431",
+   "capture_run": "20261123T175837Z",
+   "file": "kial-financial.html",
+   "raw_label": "Cash and cash equivalents",
+   "raw_text": "1,668.83",
+   "raw_unit": "INR lakh",
+   "period": "FY2025",
+   "period_label": "31-03-2025",
+   "basis": "consolidated",
+   "anchor": {
+    "file": "kial-financial.html",
+    "table_index": 1,
+    "row_index": 13,
+    "heading": "Kannur International Airport Limited Consolidated Balance Sheet (Rs. In Lakhs)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev29": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/kannur-international-airport-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:43+00:00",
+   "sha256": "c2f03142f8b9ab5264f23969c9273009c87d306ce74a9e66e4afdd96a1a7a431",
+   "capture_run": "20261123T175837Z",
+   "file": "kial-financial.html",
+   "raw_label": "Net cash flow from (used in) / generated from operating activities",
+   "raw_text": "1,913.00",
+   "raw_unit": "INR lakh",
+   "period": "FY2024",
+   "period_label": "31-03-2024",
+   "basis": "consolidated",
+   "anchor": {
+    "file": "kial-financial.html",
+    "table_index": 3,
+    "row_index": 28,
+    "heading": "Kannur International Airport Limited Consolidated Cash Flow Statement (Rs. In Lakhs)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev30": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/kannur-international-airport-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:43+00:00",
+   "sha256": "c2f03142f8b9ab5264f23969c9273009c87d306ce74a9e66e4afdd96a1a7a431",
+   "capture_run": "20261123T175837Z",
+   "file": "kial-financial.html",
+   "raw_label": "Net cash flow from (used in) / generated from operating activities",
+   "raw_text": "8,291.32",
+   "raw_unit": "INR lakh",
+   "period": "FY2025",
+   "period_label": "31-03-2025",
+   "basis": "consolidated",
+   "anchor": {
+    "file": "kial-financial.html",
+    "table_index": 3,
+    "row_index": 28,
+    "heading": "Kannur International Airport Limited Consolidated Cash Flow Statement (Rs. In Lakhs)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev31": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/kannur-international-airport-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:43+00:00",
+   "sha256": "c2f03142f8b9ab5264f23969c9273009c87d306ce74a9e66e4afdd96a1a7a431",
+   "capture_run": "20261123T175837Z",
+   "file": "kial-financial.html",
+   "raw_label": "Net Cash Flow Used In Investing Activities",
+   "raw_text": "(635.76)",
+   "raw_unit": "INR lakh",
+   "period": "FY2024",
+   "period_label": "31-03-2024",
+   "basis": "consolidated",
+   "anchor": {
+    "file": "kial-financial.html",
+    "table_index": 3,
+    "row_index": 34,
+    "heading": "Kannur International Airport Limited Consolidated Cash Flow Statement (Rs. In Lakhs)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev32": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/kannur-international-airport-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:43+00:00",
+   "sha256": "c2f03142f8b9ab5264f23969c9273009c87d306ce74a9e66e4afdd96a1a7a431",
+   "capture_run": "20261123T175837Z",
+   "file": "kial-financial.html",
+   "raw_label": "Net Cash Flow Used In Investing Activities",
+   "raw_text": "(110.76)",
+   "raw_unit": "INR lakh",
+   "period": "FY2025",
+   "period_label": "31-03-2025",
+   "basis": "consolidated",
+   "anchor": {
+    "file": "kial-financial.html",
+    "table_index": 3,
+    "row_index": 34,
+    "heading": "Kannur International Airport Limited Consolidated Cash Flow Statement (Rs. In Lakhs)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev33": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/kannur-international-airport-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:43+00:00",
+   "sha256": "c2f03142f8b9ab5264f23969c9273009c87d306ce74a9e66e4afdd96a1a7a431",
+   "capture_run": "20261123T175837Z",
+   "file": "kial-financial.html",
+   "raw_label": "Net Cash Flow Generated From Financing Activities",
+   "raw_text": "(3,827.29)",
+   "raw_unit": "INR lakh",
+   "period": "FY2024",
+   "period_label": "31-03-2024",
+   "basis": "consolidated",
+   "anchor": {
+    "file": "kial-financial.html",
+    "table_index": 3,
+    "row_index": 40,
+    "heading": "Kannur International Airport Limited Consolidated Cash Flow Statement (Rs. In Lakhs)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev34": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/kannur-international-airport-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:43+00:00",
+   "sha256": "c2f03142f8b9ab5264f23969c9273009c87d306ce74a9e66e4afdd96a1a7a431",
+   "capture_run": "20261123T175837Z",
+   "file": "kial-financial.html",
+   "raw_label": "Net Cash Flow Generated From Financing Activities",
+   "raw_text": "(6,754.76)",
+   "raw_unit": "INR lakh",
+   "period": "FY2025",
+   "period_label": "31-03-2025",
+   "basis": "consolidated",
+   "anchor": {
+    "file": "kial-financial.html",
+    "table_index": 3,
+    "row_index": 40,
+    "heading": "Kannur International Airport Limited Consolidated Cash Flow Statement (Rs. In Lakhs)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev35": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/kannur-international-airport-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:43+00:00",
+   "sha256": "c2f03142f8b9ab5264f23969c9273009c87d306ce74a9e66e4afdd96a1a7a431",
+   "capture_run": "20261123T175837Z",
+   "file": "kial-financial.html",
+   "raw_label": "Trade receivables",
+   "raw_text": "1,572.33",
+   "raw_unit": "INR lakh",
+   "period": "FY2024",
+   "period_label": "31-03-2024",
+   "basis": "consolidated",
+   "anchor": {
+    "file": "kial-financial.html",
+    "table_index": 1,
+    "row_index": 12,
+    "heading": "Kannur International Airport Limited Consolidated Balance Sheet (Rs. In Lakhs)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev36": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/kannur-international-airport-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:43+00:00",
+   "sha256": "c2f03142f8b9ab5264f23969c9273009c87d306ce74a9e66e4afdd96a1a7a431",
+   "capture_run": "20261123T175837Z",
+   "file": "kial-financial.html",
+   "raw_label": "Trade receivables",
+   "raw_text": "1,131.71",
+   "raw_unit": "INR lakh",
+   "period": "FY2025",
+   "period_label": "31-03-2025",
+   "basis": "consolidated",
+   "anchor": {
+    "file": "kial-financial.html",
+    "table_index": 1,
+    "row_index": 12,
+    "heading": "Kannur International Airport Limited Consolidated Balance Sheet (Rs. In Lakhs)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev37": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/kannur-international-airport-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:43+00:00",
+   "sha256": "c2f03142f8b9ab5264f23969c9273009c87d306ce74a9e66e4afdd96a1a7a431",
+   "capture_run": "20261123T175837Z",
+   "file": "kial-financial.html",
+   "raw_label": "Property, Plant and Equipment",
+   "raw_text": "1,69,427.15",
+   "raw_unit": "INR lakh",
+   "period": "FY2024",
+   "period_label": "31-03-2024",
+   "basis": "consolidated",
+   "anchor": {
+    "file": "kial-financial.html",
+    "table_index": 1,
+    "row_index": 2,
+    "heading": "Kannur International Airport Limited Consolidated Balance Sheet (Rs. In Lakhs)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev38": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/kannur-international-airport-share-price/financial",
+   "retrieved_at": "2026-11-23T17:58:43+00:00",
+   "sha256": "c2f03142f8b9ab5264f23969c9273009c87d306ce74a9e66e4afdd96a1a7a431",
+   "capture_run": "20261123T175837Z",
+   "file": "kial-financial.html",
+   "raw_label": "Property, Plant and Equipment",
+   "raw_text": "1,68,132.27",
+   "raw_unit": "INR lakh",
+   "period": "FY2025",
+   "period_label": "31-03-2025",
+   "basis": "consolidated",
+   "anchor": {
+    "file": "kial-financial.html",
+    "table_index": 1,
+    "row_index": 2,
+    "heading": "Kannur International Airport Limited Consolidated Balance Sheet (Rs. In Lakhs)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  }
+ },
+ "news": {
+  "query": "\"Kannur International Airport\"",
+  "retrieved_at": "2026-11-23T17:59:05+00:00",
+  "items": [
+   {
+    "title": "Kannur airport to undergo major transformation within year, says CM Satheesan",
+    "publisher": "ET Infra",
+    "date": "2026-09-29",
+    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQYnd2R1hIUkEyNWZuZXNZb0lNd01CcEhfbGRreUVsVlNIeGE4M0ZhenRZcnFvR2h2N3BhU2l5akRwTnhNeTZQOUkxN0tvQUd0ZDdDNzJtRDdscHdBd3FldlZxZXpxQXpucEEtbWI0NzRhRnNuOUFYUHlWZXlCSnhQOE95UmhJUmZ5WU5ta3puQzNPaW1vRlFRNE5ZUkRyT1FvSkRnMkhrUUhjWXhLZUdaV29LUmRsQUt6cEZGZUx3dEpnY3dOMzZ6Rm4xaTRLaVp6bWFLSHk2Q1lUZ9IB3wFBVV95cUxNN3lSbjNFTDJfdW5kZ1R2Yzc1cUdwLVh3dTlJNTJHZTl4V1NEWG0yVE94UDNGckYxNEVzdkFJVGx2enk0UndpS0Y3cGYtbnk0MjN0YXlaVWNlUWNFY21Mb3NnNXNmcG52VWZHMWJxSy1jV2lXNWx0dEYwTE9HM1hrbjY2aGVGZUxZUGhTeVQtUnJTVFFMM0xnQVRvX0JLOXY5WlhsWlhqSDYtUk1pTXpMcVViWWhFWTllR2ZIQ0F3amtzMFYyVEtVVmFpVnJxSW50OUJjY1cxNHdacjBZeGtB?oc=5"
+   },
+   {
+    "title": "Kannur airport to get major transformation within one year, says Chief Minister V.D. Satheesan",
+    "publisher": "The Hindu",
+    "date": "2026-09-28",
+    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOWGV2NF9iU2EzbUJoMjFHQ3phanlNcm93VkVDMWFrVWdoOThnNFMxQS1kcm5PeVhsXzY5Y1A5a0xwQzhnMGNMN1dvSFFzMkNpLWoydFJsbnhTcHdXN19lQmFHWjZHbjdTSDNnOUFWOXVFSk0yUTkyeVZlZG9wUTZBR3B3cGNDc2NuUVBqd0lLTDRzN3NoMUhKNDlpU3lDV2hFdE1sYjVOTXI2enFzaHRaLW9qOXpraThfWGtpRzBXR2lpZWNJYWtESEswVzVhN19iaTIwYjMwNTRsajNHcEVPRW1GOFhCN2dLUDZOTEZB0gH0AUFVX3lxTE03Q3hMYlQ2eG00QjdJdWpKTTExTmtQLUs2TWVnRmlfbmI3M0pDYnBob3VjTFhFV1d1VlAwTV9Nb3JDUHdFQy1UVGt6YlNWMk1ueEpnU0ZEeGtKVzZMSlpSZUlyU1NXa2c5amFTbkFjRTNrUW51cmNWVDJBNm5qdkdKVmxWOXVNUFJCV1BxSDdGTVI4QmltZVdJandESmdKRHh3cE8zMmd5Z3FzZUVRMXp4MkF6WVJ3cU0yd3FLYmJZZDM3NzRGWlRTQ2tOcXl5MWlCMy1PZTlhRlVseW5zalJwMlY4Z2wtc1Uwd003M05SMjNmNGs?oc=5"
+   },
+   {
+    "title": "Kannur Airport to Restore International Services",
+    "publisher": "Deshabhimani",
+    "date": "2026-06-21",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQUZDQmZJbVlzOG5ZMktjYjRFM05JSkZCb2JTQV9ZaFNNVzIyVzU3eDlyMGI3eW9NbDBpMGx5eUZuT2RFd0Zvc29OTTNhamZYVVFfV0s4cUl1RDFQYUdIcFc5c1pfODZrQnl6S0d5NGRhdUJxOU9lbEx6UHVqblpseFl0Q3FCUHREUVpwS3FpS0JqNU5HRk1EbDZCTW1KOEVhYUYxdjdOb0daN2ZfOEFLQ0p4TmEzRGl4a2xQMkpLVWxVOXhz?oc=5"
+   },
+   {
+    "title": "Kannur International Airport sets new passenger record in CY 2025",
+    "publisher": "ACI Asia-Pacific",
+    "date": "2026-02-20",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZmd5ZnFrS01wdC1IdjhpYl96dFZDQTFUSVFRdzVtNVM2RFRtU3lEbUlZSFRPU1hTQmRYMFN5MGFjRWc5WEJGMk9kclRFTHZzVy05UkhvelZ0UHdudkxBczBYeXF6dlFFbkNvUnBaSWRtZFlINVN5R1IwZmYyN0FOTF9YZUlvaUtaM1VsbXRhQzNmS0hrX1JBeXRRM1ZlTmFPS3F6NzlTSmNWRDhHeEZsTENR?oc=5"
+   },
+   {
+    "title": "Kannur airport's international services to go up, more airline companies to start operations, reveals MD: Details",
+    "publisher": "Onmanorama",
+    "date": "2026-02-18",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWkhXcF9IRFVGWThWVkNET0NqbUJQQTJCejJwMU5JbFV5ekV5c1NNZWdNbjg4UUNFdUduSGg4Y21nb0JoV0k3ZXlwUmRkZG0zbmlsb2ZWZDlsUHRNVllwbTZhWjhKQXBmZkNwc1o2djlNbWJ2a3RoeFEyVnpPZ2Fvd1JFNndoLVdkZWQ2X0QwN0hLMzJyYWhBdVMyVjd6Q3VwN1lhRHlGa04zdzBF?oc=5"
+   },
+   {
+    "title": "Kannur airport recorded highest ever passenger traffic in 2025",
+    "publisher": "The Hindu",
+    "date": "2026-01-12",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTVRnaEZpZE4zS2o2ZV9TaHlrWFREeGw2c0QzaTRQS3FUcEVEMHYwY3J1b2wzYndsek84YUozVTVvS3g1T080cWNjTjZSSFNVSnVyRGdTUm45WTRDQnFMdXJGWmpmNEpCNjRBeG1WY0tMTUcyTGhuRnFHZ3Q2Y2o4eDRlTlZxdk5Lbkd5d0dnWmtUUGtwZF9GU0NmcWN1S2Q5clltT2JCaUlkVWVZUkxfOXhhUWN4OEdfb0xUank5akRGUzF0cHlV0gHOAUFVX3lxTE5LS1Z3Vi1fOVFscEpxZFNFT2pSN3F0MU0zbHl4WDRwWE9rNG8tZkNGaVFoVFVzRGhpdDlHSzFmWGoxaHEtNDR2VGZvVjh4WXZ1ODl4Y1Noa29zVWhRbThRWDdHb3FVeE0wQzFWQnB5UDB6QU9SWS1XMjNwQ0lWbTRJZnBHNTMwWDk4Q2lhc2lCVWVOTy1vZFp0dkdnLW1vb0xfTW5fQ0pVSXY5WDJpQjB0Uk1INkJjdjJuQ0VDeEdHLVBqbTBjUDd5aGdnbHFR?oc=5"
+   },
+   {
+    "title": "CBIC designates Kannur International Airport as new entry point for food imports",
+    "publisher": "Maritime Gateway",
+    "date": "2025-11-06",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPS2NxUmUzeGZmZ3hyaUJVeTNxd201dTBWSlpQVDdDUk9LZXZRMnVPVFk4akdQM0FvYjEyN0Zybk9Dek5ScHNzaGh3WFgwVUplQU5VTVoxVnhjODhINjFwOS1HQTVDNUJlMWhvUWNDeFhXS1lTX1c2WENweXh4WUk1VVM4SzJKQXF3UDE0aDI5M2ViT1hfYVA4UjhWdU9ESTgxdXZvc29TNUxWUDJvSjJkMGJRYw?oc=5"
+   },
+   {
+    "title": "Kannur airport on threshold of transformation as land acquisition and road upgrades gain pace",
+    "publisher": "The Hindu",
+    "date": "2025-10-09",
+    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQTlVsUVlTS21uR3ZqelBhWmgwRUxwNF8zS3NMV04yc0tqc0R3ckZOOGJ4ZG1oUUpwRDRfY2psT0V2a1hHNW9WWEFWUE9HbmZYaURwekd6emoybU9oblRQSTZ6bmU1aG9SZlFJMnZyd29UMTF5aURFcGdCQWpWVE5pbHNROW9yVC14dDljRGRxaURack5FSWV3ZFN3WGF3b2ZoaDdfQnRNRnR2QW5yY3FQdkI0Vl84Vm5NVW0zZzBMQUJEUlY2YW1qenZmb09OTHluS1k0OWs1dG1yS1QzWE4tYTg4UDNFdFN0TVRyQkVYV2fSAfcBQVVfeXFMTkpCeXg3SVNDanpoazQwbjdxVVk0NWtMY0NuNEdRTlB3TVMyNWV2NG9JNHZwRlJZaE9FU1NRSS1rQWFYY2R3aTNKT0JTc3dzN0ptQUt4OGltMHkxX2tvVG80UjVLZFZHV3F6MHhqZHJMdy03UElIZHkxMlRianZEb0pZbVFadHJDWjlSa1FueXhJUE53SndsT2tYdU11OVl2VDJPS3c2dTk0V1lGdllEOFZyZjdHZHVnS1ZYNGJhX3lfb0FsU3VuZWNvTjZobUtvdkt4RThiNENCZ1pJQ3ltTjlfSWhzdDkyU212SWY2WWR0dDh6YjcyUQ?oc=5"
+   }
+  ],
+  "source": {
+   "name": "Google News RSS search",
+   "url": "https://news.google.com/rss/search?q=%22Kannur+International+Airport%22&hl=en-IN&gl=IN&ceid=IN:en",
+   "sha256": "a5bcd0e56b94ebd5da67bdb0236d90970c510dd6d0f0a1400ebdbf6a992419d8",
+   "run": "20261123T175837Z"
+  }
+ },
+ "peer_reviewed": true,
+ "analysis": {
+  "FY2024": {
+   "basis": "consolidated",
+   "facts": {
+    "total_income": {
+     "value": "101.6228",
+     "state": "reported",
+     "ev": "ev3"
+    },
+    "revenue_ops": {
+     "value": "99.2362",
+     "state": "reported",
+     "ev": "ev5"
+    },
+    "other_income": {
+     "value": "2.3866",
+     "state": "reported",
+     "ev": "ev7"
+    },
+    "other_gains": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "job_work_revenue": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "total_expenses": {
+     "value": "275.2659",
+     "state": "reported",
+     "ev": "ev9"
+    },
+    "finance_cost": {
+     "value": "117.1193",
+     "state": "reported",
+     "ev": "ev11"
+    },
+    "depreciation": {
+     "value": "69.505",
+     "state": "reported",
+     "ev": "ev13"
+    },
+    "pbt": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "tax": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "pat": {
+     "value": "-168.516",
+     "state": "reported",
+     "ev": "ev15"
+    },
+    "total_assets": {
+     "value": "1904.0135",
+     "state": "reported",
+     "ev": "ev17"
+    },
+    "total_equity": {
+     "value": "594.6801",
+     "state": "derived",
+     "ev": "ev19"
+    },
+    "total_liabilities": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "current_assets": {
+     "value": "1904.0135",
+     "state": "derived",
+     "ev": "ev21"
+    },
+    "current_liabilities": {
+     "value": "146.3076",
+     "state": "derived",
+     "ev": "ev23"
+    },
+    "inventories": {
+     "value": "0.6039",
+     "state": "reported",
+     "ev": "ev25"
+    },
+    "cash": {
+     "value": "2.4303",
+     "state": "reported",
+     "ev": "ev27"
+    },
+    "loans": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "cfo": {
+     "value": "19.13",
+     "state": "reported",
+     "ev": "ev29"
+    },
+    "cfi": {
+     "value": "-6.3576",
+     "state": "reported",
+     "ev": "ev31"
+    },
+    "cff": {
+     "value": "-38.2729",
+     "state": "reported",
+     "ev": "ev33"
+    },
+    "ebitda": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "eps": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "shares_outstanding": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "pat_pre_associate": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "pat_owners": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "associate_profit": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "eps_basic": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "eps_diluted": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "gross_profit": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "operating_profit": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "cost_of_sales": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "trade_receivables": {
+     "value": "15.7233",
+     "state": "reported",
+     "ev": "ev35"
+    },
+    "trade_payables": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "fixed_assets": {
+     "value": "1694.2715",
+     "state": "reported",
+     "ev": "ev37"
+    },
+    "borrowings": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "dividend_per_share": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "gross_npa": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "net_npa": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "nim": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "provision_coverage": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "capital_adequacy": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "claims_ratio": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "combined_ratio": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "solvency_ratio": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "capex": {
+     "state": "not_in_source",
+     "value": null
+    }
+   }
+  },
+  "FY2025": {
+   "basis": "consolidated",
+   "facts": {
+    "total_income": {
+     "value": "195.2214",
+     "state": "reported",
+     "ev": "ev4"
+    },
+    "revenue_ops": {
+     "value": "190.9333",
+     "state": "reported",
+     "ev": "ev6"
+    },
+    "other_income": {
+     "value": "4.2881",
+     "state": "reported",
+     "ev": "ev8"
+    },
+    "other_gains": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "job_work_revenue": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "total_expenses": {
+     "value": "296.9072",
+     "state": "reported",
+     "ev": "ev10"
+    },
+    "finance_cost": {
+     "value": "125.4254",
+     "state": "reported",
+     "ev": "ev12"
+    },
+    "depreciation": {
+     "value": "71.4959",
+     "state": "reported",
+     "ev": "ev14"
+    },
+    "pbt": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "tax": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "pat": {
+     "value": "-93.7896",
+     "state": "reported",
+     "ev": "ev16"
+    },
+    "total_assets": {
+     "value": "190110.09",
+     "state": "reported",
+     "ev": "ev18"
+    },
+    "total_equity": {
+     "value": "500.7693",
+     "state": "derived",
+     "ev": "ev20"
+    },
+    "total_liabilities": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "current_assets": {
+     "value": "1901.1004",
+     "state": "derived",
+     "ev": "ev22"
+    },
+    "current_liabilities": {
+     "value": "138.5944",
+     "state": "derived",
+     "ev": "ev24"
+    },
+    "inventories": {
+     "value": "0.6938",
+     "state": "reported",
+     "ev": "ev26"
+    },
+    "cash": {
+     "value": "16.6883",
+     "state": "reported",
+     "ev": "ev28"
+    },
+    "loans": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "cfo": {
+     "value": "82.9132",
+     "state": "reported",
+     "ev": "ev30"
+    },
+    "cfi": {
+     "value": "-1.1076",
+     "state": "reported",
+     "ev": "ev32"
+    },
+    "cff": {
+     "value": "-67.5476",
+     "state": "reported",
+     "ev": "ev34"
+    },
+    "ebitda": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "eps": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "shares_outstanding": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "pat_pre_associate": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "pat_owners": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "associate_profit": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "eps_basic": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "eps_diluted": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "gross_profit": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "operating_profit": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "cost_of_sales": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "trade_receivables": {
+     "value": "11.3171",
+     "state": "reported",
+     "ev": "ev36"
+    },
+    "trade_payables": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "fixed_assets": {
+     "value": "1681.3227",
+     "state": "reported",
+     "ev": "ev38"
+    },
+    "borrowings": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "dividend_per_share": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "gross_npa": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "net_npa": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "nim": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "provision_coverage": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "capital_adequacy": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "claims_ratio": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "combined_ratio": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "solvency_ratio": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "capex": {
+     "state": "not_in_source",
+     "value": null
+    }
+   }
+  }
+ },
+ "ratios": {
+  "defaults": [
+   "revenue_growth",
+   "ebitda_margin",
+   "roce",
+   "cfo_to_pat",
+   "net_debt_ebitda",
+   "pe"
+  ],
+  "groups": {
+   "Profitability": [
+    {
+     "id": "pat_margin",
+     "label": "PAT margin",
+     "unit": "%",
+     "formula": "PAT / total income"
+    },
+    {
+     "id": "net_profit_ratio",
+     "label": "Net profit ratio",
+     "unit": "%",
+     "formula": "PAT / operating revenue"
+    },
+    {
+     "id": "gross_margin",
+     "label": "Gross margin",
+     "unit": "%",
+     "formula": "gross profit / operating revenue"
+    },
+    {
+     "id": "operating_margin",
+     "label": "Operating margin",
+     "unit": "%",
+     "formula": "operating profit / operating revenue"
+    },
+    {
+     "id": "ebitda_margin",
+     "label": "EBITDA margin",
+     "unit": "%",
+     "formula": "EBITDA / operating revenue"
+    },
+    {
+     "id": "roe",
+     "label": "Return on equity",
+     "unit": "%",
+     "formula": "PAT / average equity"
+    },
+    {
+     "id": "roa",
+     "label": "Return on assets",
+     "unit": "%",
+     "formula": "PAT / average assets"
+    },
+    {
+     "id": "roce",
+     "label": "ROCE",
+     "unit": "%",
+     "formula": "(PBT + finance costs) / (total assets − current liabilities)"
+    },
+    {
+     "id": "other_income_share",
+     "label": "Other-income share",
+     "unit": "%",
+     "formula": "other income / total income"
+    }
+   ],
+   "Growth and per share": [
+    {
+     "id": "revenue_growth",
+     "label": "Revenue growth",
+     "unit": "%",
+     "formula": "operating revenue / prior-year operating revenue − 1"
+    },
+    {
+     "id": "revenue_cagr",
+     "label": "Three-year revenue CAGR",
+     "unit": "%",
+     "formula": "(operating revenue / operating revenue three years earlier)^(1/3) − 1"
+    },
+    {
+     "id": "diluted_growth",
+     "label": "Diluted EPS growth",
+     "unit": "%",
+     "formula": "diluted EPS / prior-year diluted EPS − 1"
+    },
+    {
+     "id": "eps_basic",
+     "label": "Reported basic EPS",
+     "unit": "₹/share",
+     "formula": "reported basic EPS"
+    },
+    {
+     "id": "eps_diluted",
+     "label": "Reported diluted EPS",
+     "unit": "₹/share",
+     "formula": "reported diluted EPS"
+    },
+    {
+     "id": "book_per_share",
+     "label": "Book value per share",
+     "unit": "₹/share",
+     "formula": "equity (₹ crore) × 10,000,000 / period-end shares"
+    }
+   ],
+   "Liquidity and debt": [
+    {
+     "id": "current_ratio",
+     "label": "Current ratio",
+     "unit": "×",
+     "formula": "current assets / current liabilities"
+    },
+    {
+     "id": "quick_ratio",
+     "label": "Quick ratio",
+     "unit": "×",
+     "formula": "(current assets − inventories) / current liabilities"
+    },
+    {
+     "id": "cash_ratio",
+     "label": "Cash ratio",
+     "unit": "×",
+     "formula": "cash and equivalents / current liabilities"
+    },
+    {
+     "id": "debt_equity",
+     "label": "Debt-to-equity",
+     "unit": "×",
+     "formula": "reported debt / equity"
+    },
+    {
+     "id": "interest_cover",
+     "label": "Interest coverage",
+     "unit": "×",
+     "formula": "(PBT + finance costs) / finance costs"
+    },
+    {
+     "id": "net_debt_ebitda",
+     "label": "Net debt / EBITDA",
+     "unit": "×",
+     "formula": "(reported debt − cash and equivalents) / EBITDA"
+    },
+    {
+     "id": "debt_cover",
+     "label": "Debt service coverage",
+     "unit": "×",
+     "formula": "operating cash flow / scheduled principal and interest"
+    }
+   ],
+   "Cash generation": [
+    {
+     "id": "cfo_to_pat",
+     "label": "Operating cash flow / profit",
+     "unit": "×",
+     "formula": "operating cash flow / PAT"
+    },
+    {
+     "id": "cfo_margin",
+     "label": "Operating cash flow margin",
+     "unit": "%",
+     "formula": "operating cash flow / operating revenue"
+    },
+    {
+     "id": "cfo_current",
+     "label": "Operating cash flow / current liabilities",
+     "unit": "×",
+     "formula": "operating cash flow / current liabilities"
+    },
+    {
+     "id": "fcf_margin",
+     "label": "Free cash flow margin",
+     "unit": "%",
+     "formula": "(operating cash flow + signed cash capex) / operating revenue"
+    }
+   ],
+   "Asset and working-capital efficiency": [
+    {
+     "id": "asset_turnover",
+     "label": "Asset turnover",
+     "unit": "×",
+     "formula": "operating revenue / average total assets"
+    },
+    {
+     "id": "fixed_turnover",
+     "label": "Fixed-asset turnover",
+     "unit": "×",
+     "formula": "operating revenue / average fixed assets"
+    },
+    {
+     "id": "inventory_days",
+     "label": "Inventory days",
+     "unit": "days",
+     "formula": "365 × average inventory / cost of sales"
+    },
+    {
+     "id": "receivable_days",
+     "label": "Receivable days",
+     "unit": "days",
+     "formula": "365 × average trade receivables / operating revenue"
+    },
+    {
+     "id": "payable_days",
+     "label": "Payable days",
+     "unit": "days",
+     "formula": "365 × average trade payables / cost of sales"
+    },
+    {
+     "id": "cash_cycle",
+     "label": "Cash conversion cycle",
+     "unit": "days",
+     "formula": "inventory days + receivable days − payable days"
+    }
+   ],
+   "Valuation and distributions": [
+    {
+     "id": "pe",
+     "label": "P/E at quote",
+     "unit": "×",
+     "formula": "dated price / annual EPS"
+    },
+    {
+     "id": "pb",
+     "label": "Price-to-book",
+     "unit": "×",
+     "formula": "indicative market cap / equity"
+    },
+    {
+     "id": "ps",
+     "label": "Price-to-sales",
+     "unit": "×",
+     "formula": "indicative market cap / operating revenue"
+    },
+    {
+     "id": "ev_ebitda",
+     "label": "EV / EBITDA",
+     "unit": "×",
+     "formula": "(market cap + debt − cash) / EBITDA"
+    },
+    {
+     "id": "ev_revenue",
+     "label": "EV / revenue",
+     "unit": "×",
+     "formula": "(market cap + debt − cash) / operating revenue"
+    },
+    {
+     "id": "dividend_payout",
+     "label": "Dividend payout ratio",
+     "unit": "%",
+     "formula": "reported dividend per share / annual basic EPS"
+    },
+    {
+     "id": "dividend_yield",
+     "label": "Indicative dividend yield",
+     "unit": "%",
+     "formula": "reported dividend per share / quoted price"
+    },
+    {
+     "id": "dividend_per_share",
+     "label": "Dividend per share",
+     "unit": "₹/share",
+     "formula": "reported dividend per share"
+    }
+   ],
+   "Lender measures": [
+    {
+     "id": "nim",
+     "label": "Net interest margin",
+     "unit": "%",
+     "formula": "issuer's reported NIM"
+    },
+    {
+     "id": "gross_npa",
+     "label": "Gross NPA ratio",
+     "unit": "%",
+     "formula": "issuer's reported gross NPA ratio"
+    },
+    {
+     "id": "net_npa",
+     "label": "Net NPA ratio",
+     "unit": "%",
+     "formula": "issuer's reported net NPA ratio"
+    },
+    {
+     "id": "provision_coverage",
+     "label": "Provision coverage",
+     "unit": "%",
+     "formula": "issuer's reported coverage"
+    },
+    {
+     "id": "capital_adequacy",
+     "label": "Capital adequacy",
+     "unit": "%",
+     "formula": "issuer's reported capital adequacy"
+    }
+   ],
+   "Insurer measures": [
+    {
+     "id": "claims_ratio",
+     "label": "Incurred claims ratio",
+     "unit": "%",
+     "formula": "issuer's reported claims ratio"
+    },
+    {
+     "id": "combined_ratio",
+     "label": "Combined ratio",
+     "unit": "%",
+     "formula": "issuer's reported combined ratio"
+    },
+    {
+     "id": "solvency_ratio",
+     "label": "Solvency ratio",
+     "unit": "×",
+     "formula": "issuer's reported solvency ratio"
+    }
+   ],
+   "Exchange measures": [
+    {
+     "id": "volume_growth",
+     "label": "Traded-volume growth",
+     "unit": "%",
+     "formula": "matched-contract volume / prior-year volume − 1"
+    },
+    {
+     "id": "fee_per_unit",
+     "label": "Transaction fee per unit",
+     "unit": "₹/unit",
+     "formula": "transaction fee / same-contract traded volume"
+    }
+   ]
+  },
+  "by_period": {
+   "FY2024": {
+    "pat_margin": {
+     "value": "-165.8250",
+     "state": "ok",
+     "formula": "PAT / total income",
+     "inputs": {
+      "numerator": "-168.516",
+      "denominator": "101.6228"
+     },
+     "unit": "%",
+     "ev": [
+      "ev15",
+      "ev3",
+      "ev5",
+      "ev7"
+     ],
+     "basis": "consolidated"
+    },
+    "other_income_share": {
+     "value": "2.3485",
+     "state": "ok",
+     "formula": "other income / total income",
+     "inputs": {
+      "numerator": "2.3866",
+      "denominator": "101.6228"
+     },
+     "unit": "%",
+     "ev": [
+      "ev7",
+      "ev3",
+      "ev5"
+     ],
+     "basis": "consolidated"
+    },
+    "net_profit_ratio": {
+     "value": "-169.8130",
+     "state": "ok",
+     "formula": "PAT / operating revenue",
+     "inputs": {
+      "numerator": "-168.516",
+      "denominator": "99.2362"
+     },
+     "unit": "%",
+     "ev": [
+      "ev15",
+      "ev5"
+     ],
+     "basis": "consolidated"
+    },
+    "gross_margin": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "gross profit / operating revenue",
+     "inputs": {
+      "numerator": null,
+      "denominator": "99.2362"
+     },
+     "unit": "%",
+     "ev": [
+      "ev5"
+     ],
+     "basis": "consolidated",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "operating_margin": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "operating profit / operating revenue",
+     "inputs": {
+      "numerator": null,
+      "denominator": "99.2362"
+     },
+     "unit": "%",
+     "ev": [
+      "ev5"
+     ],
+     "basis": "consolidated",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "ebitda_margin": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "EBITDA / operating revenue",
+     "inputs": {
+      "numerator": null,
+      "denominator": "99.2362"
+     },
+     "unit": "%",
+     "ev": [
+      "ev5"
+     ],
+     "basis": "consolidated",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "cfo_margin": {
+     "value": "19.2772",
+     "state": "ok",
+     "formula": "operating cash flow / operating revenue",
+     "inputs": {
+      "numerator": "19.13",
+      "denominator": "99.2362"
+     },
+     "unit": "%",
+     "ev": [
+      "ev29",
+      "ev5"
+     ],
+     "basis": "consolidated"
+    },
+    "roa": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "PAT / average assets",
+     "inputs": {
+      "numerator": "-168.516",
+      "denominator": null
+     },
+     "unit": "%",
+     "ev": [
+      "ev15",
+      "ev17"
+     ],
+     "basis": "consolidated",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "roe": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "PAT / average equity",
+     "inputs": {
+      "numerator": "-168.516",
+      "denominator": null
+     },
+     "unit": "%",
+     "ev": [
+      "ev15",
+      "ev19"
+     ],
+     "basis": "consolidated",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "asset_turnover": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "operating revenue / average total assets",
+     "inputs": {
+      "numerator": "99.2362",
+      "denominator": null
+     },
+     "unit": "×",
+     "ev": [
+      "ev5",
+      "ev17"
+     ],
+     "basis": "consolidated",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "fixed_turnover": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "operating revenue / average fixed assets",
+     "inputs": {
+      "numerator": "99.2362",
+      "denominator": null
+     },
+     "unit": "×",
+     "ev": [
+      "ev5",
+      "ev37"
+     ],
+     "basis": "consolidated",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "current_ratio": {
+     "value": "13.0138",
+     "state": "ok",
+     "formula": "current assets / current liabilities",
+     "inputs": {
+      "numerator": "1904.0135",
+      "denominator": "146.3076"
+     },
+     "unit": "×",
+     "ev": [
+      "ev21",
+      "ev23"
+     ],
+     "basis": "consolidated"
+    },
+    "cash_ratio": {
+     "value": "0.0166",
+     "state": "ok",
+     "formula": "cash and equivalents / current liabilities",
+     "inputs": {
+      "numerator": "2.4303",
+      "denominator": "146.3076"
+     },
+     "unit": "×",
+     "ev": [
+      "ev27",
+      "ev23"
+     ],
+     "basis": "consolidated"
+    },
+    "debt_equity": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "reported debt / equity",
+     "inputs": {
+      "numerator": null,
+      "denominator": "594.6801"
+     },
+     "unit": "×",
+     "ev": [
+      "ev19"
+     ],
+     "basis": "consolidated",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "cfo_current": {
+     "value": "0.1308",
+     "state": "ok",
+     "formula": "operating cash flow / current liabilities",
+     "inputs": {
+      "numerator": "19.13",
+      "denominator": "146.3076"
+     },
+     "unit": "×",
+     "ev": [
+      "ev29",
+      "ev23"
+     ],
+     "basis": "consolidated"
+    },
+    "cfo_to_pat": {
+     "value": null,
+     "state": "negative_base",
+     "formula": "operating cash flow / PAT",
+     "inputs": {
+      "numerator": "19.13",
+      "denominator": "-168.516"
+     },
+     "note": "Requires a positive denominator.",
+     "unit": "×",
+     "ev": [
+      "ev29",
+      "ev15"
+     ],
+     "basis": "consolidated"
+    },
+    "dividend_payout": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "reported dividend per share / annual basic EPS",
+     "inputs": {
+      "numerator": null,
+      "denominator": null
+     },
+     "unit": "%",
+     "ev": [],
+     "basis": "consolidated",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "roce": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "(PBT + finance costs) / (total assets − current liabilities)",
+     "inputs": {
+      "numerator": null,
+      "denominator": "1757.7059"
+     },
+     "unit": "%",
+     "ev": [
+      "ev11",
+      "ev17",
+      "ev23"
+     ],
+     "basis": "consolidated",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "interest_cover": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "(PBT + finance costs) / finance costs",
+     "inputs": {
+      "numerator": null,
+      "denominator": "117.1193"
+     },
+     "unit": "×",
+     "ev": [
+      "ev11"
+     ],
+     "basis": "consolidated",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "net_debt_ebitda": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "(reported debt − cash and equivalents) / EBITDA",
+     "inputs": {
+      "numerator": null,
+      "denominator": null
+     },
+     "unit": "×",
+     "ev": [
+      "ev27"
+     ],
+     "basis": "consolidated",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "fcf_margin": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "(operating cash flow + signed cash capex) / operating revenue",
+     "inputs": {
+      "numerator": null,
+      "denominator": "99.2362"
+     },
+     "unit": "%",
+     "ev": [
+      "ev29",
+      "ev5"
+     ],
+     "basis": "consolidated",
+     "note": "Requires operating cash flow and paid cash capex for the same period and basis."
+    },
+    "quick_ratio": {
+     "value": "13.0096",
+     "state": "ok",
+     "formula": "(current assets - inventories) / current liabilities",
+     "inputs": {
+      "current_assets": "1904.0135",
+      "inventories": "0.6039",
+      "current_liabilities": "146.3076"
+     },
+     "unit": "x",
+     "ev": [
+      "ev21",
+      "ev23",
+      "ev25"
+     ],
+     "basis": "consolidated"
+    },
+    "revenue_growth": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "(current / previous) - 1",
+     "inputs": {
+      "current": "99.2362",
+      "previous": null
+     },
+     "unit": "%",
+     "basis": "consolidated",
+     "ev": [
+      "ev5"
+     ],
+     "note": "Required comparable inputs are unavailable."
+    },
+    "revenue_cagr": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "(end / start)^(1/3) - 1",
+     "inputs": {
+      "end": "99.2362",
+      "start": null,
+      "years": 3
+     },
+     "unit": "%",
+     "basis": "consolidated",
+     "ev": [
+      "ev5"
+     ],
+     "note": "Required comparable inputs are unavailable."
+    },
+    "diluted_growth": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "(current / previous) - 1",
+     "inputs": {
+      "current": null,
+      "previous": null
+     },
+     "unit": "%",
+     "basis": "consolidated",
+     "ev": [],
+     "note": "Required comparable inputs are unavailable."
+    },
+    "inventory_days": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "365 × average inventory / cost of sales",
+     "inputs": {
+      "numerator": null,
+      "denominator": null
+     },
+     "unit": "days",
+     "ev": [
+      "ev25"
+     ],
+     "basis": "consolidated",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "payable_days": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "365 × average trade payables / cost of sales",
+     "inputs": {
+      "numerator": null,
+      "denominator": null
+     },
+     "unit": "days",
+     "ev": [],
+     "basis": "consolidated",
+     "note": "Cost of sales proxies for supplier purchases; uses 365 days."
+    },
+    "receivable_days": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "365 × average trade receivables / operating revenue",
+     "inputs": {
+      "numerator": null,
+      "denominator": "99.2362"
+     },
+     "unit": "days",
+     "ev": [
+      "ev35",
+      "ev5"
+     ],
+     "basis": "consolidated",
+     "note": "Operating revenue proxies for credit sales; uses 365 days."
+    },
+    "book_per_share": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "equity (₹ crore) × 10,000,000 / period-end shares",
+     "inputs": {
+      "numerator": "5946801000.0000",
+      "denominator": null
+     },
+     "unit": "₹/share",
+     "ev": [
+      "ev19"
+     ],
+     "basis": "consolidated",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "eps_basic": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "reported basic EPS",
+     "inputs": {
+      "eps_basic": null
+     },
+     "unit": "₹/share",
+     "ev": [],
+     "basis": "consolidated",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "eps_diluted": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "reported diluted EPS",
+     "inputs": {
+      "eps_diluted": null
+     },
+     "unit": "₹/share",
+     "ev": [],
+     "basis": "consolidated",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "dividend_per_share": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "reported dividend per share",
+     "inputs": {
+      "dividend_per_share": null
+     },
+     "unit": "₹/share",
+     "ev": [],
+     "basis": "consolidated",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "nim": {
+     "value": null,
+     "state": "inapplicable",
+     "formula": "issuer's reported NIM",
+     "inputs": {},
+     "note": "The measure does not apply to this business model.",
+     "unit": "%",
+     "basis": "consolidated"
+    },
+    "gross_npa": {
+     "value": null,
+     "state": "inapplicable",
+     "formula": "issuer's reported gross NPA ratio",
+     "inputs": {},
+     "note": "The measure does not apply to this business model.",
+     "unit": "%",
+     "basis": "consolidated"
+    },
+    "net_npa": {
+     "value": null,
+     "state": "inapplicable",
+     "formula": "issuer's reported net NPA ratio",
+     "inputs": {},
+     "note": "The measure does not apply to this business model.",
+     "unit": "%",
+     "basis": "consolidated"
+    },
+    "provision_coverage": {
+     "value": null,
+     "state": "inapplicable",
+     "formula": "issuer's reported coverage",
+     "inputs": {},
+     "note": "The measure does not apply to this business model.",
+     "unit": "%",
+     "basis": "consolidated"
+    },
+    "capital_adequacy": {
+     "value": null,
+     "state": "inapplicable",
+     "formula": "issuer's reported capital adequacy",
+     "inputs": {},
+     "note": "The measure does not apply to this business model.",
+     "unit": "%",
+     "basis": "consolidated"
+    },
+    "claims_ratio": {
+     "value": null,
+     "state": "inapplicable",
+     "formula": "issuer's reported claims ratio",
+     "inputs": {},
+     "note": "The measure does not apply to this business model.",
+     "unit": "%",
+     "basis": "consolidated"
+    },
+    "combined_ratio": {
+     "value": null,
+     "state": "inapplicable",
+     "formula": "issuer's reported combined ratio",
+     "inputs": {},
+     "note": "The measure does not apply to this business model.",
+     "unit": "%",
+     "basis": "consolidated"
+    },
+    "solvency_ratio": {
+     "value": null,
+     "state": "inapplicable",
+     "formula": "issuer's reported solvency ratio",
+     "inputs": {},
+     "note": "The measure does not apply to this business model.",
+     "unit": "×",
+     "basis": "consolidated"
+    },
+    "debt_cover": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "operating cash flow / scheduled principal and interest",
+     "inputs": {},
+     "unit": "×",
+     "basis": "consolidated",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "cash_cycle": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "inventory days + receivable days − payable days",
+     "inputs": {},
+     "unit": "days",
+     "basis": "consolidated",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "pe": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "dated price / annual EPS",
+     "inputs": {},
+     "unit": "×",
+     "basis": "consolidated",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "pb": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "indicative market cap / equity",
+     "inputs": {},
+     "unit": "×",
+     "basis": "consolidated",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "ps": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "indicative market cap / operating revenue",
+     "inputs": {},
+     "unit": "×",
+     "basis": "consolidated",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "ev_ebitda": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "(market cap + debt − cash) / EBITDA",
+     "inputs": {},
+     "unit": "×",
+     "basis": "consolidated",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "ev_revenue": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "(market cap + debt − cash) / operating revenue",
+     "inputs": {},
+     "unit": "×",
+     "basis": "consolidated",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "dividend_yield": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "reported dividend per share / quoted price",
+     "inputs": {},
+     "unit": "%",
+     "basis": "consolidated",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "volume_growth": {
+     "value": null,
+     "state": "inapplicable",
+     "formula": "matched-contract volume / prior-year volume − 1",
+     "inputs": {},
+     "note": "The measure does not apply to this business model.",
+     "unit": "%",
+     "basis": "consolidated"
+    },
+    "fee_per_unit": {
+     "value": null,
+     "state": "inapplicable",
+     "formula": "transaction fee / same-contract traded volume",
+     "inputs": {},
+     "note": "The measure does not apply to this business model.",
+     "unit": "₹/unit",
+     "basis": "consolidated"
+    }
+   },
+   "FY2025": {
+    "pat_margin": {
+     "value": "-48.0427",
+     "state": "ok",
+     "formula": "PAT / total income",
+     "inputs": {
+      "numerator": "-93.7896",
+      "denominator": "195.2214"
+     },
+     "unit": "%",
+     "ev": [
+      "ev16",
+      "ev4",
+      "ev6",
+      "ev8"
+     ],
+     "basis": "consolidated"
+    },
+    "other_income_share": {
+     "value": "2.1965",
+     "state": "ok",
+     "formula": "other income / total income",
+     "inputs": {
+      "numerator": "4.2881",
+      "denominator": "195.2214"
+     },
+     "unit": "%",
+     "ev": [
+      "ev8",
+      "ev4",
+      "ev6"
+     ],
+     "basis": "consolidated"
+    },
+    "net_profit_ratio": {
+     "value": "-49.1217",
+     "state": "ok",
+     "formula": "PAT / operating revenue",
+     "inputs": {
+      "numerator": "-93.7896",
+      "denominator": "190.9333"
+     },
+     "unit": "%",
+     "ev": [
+      "ev16",
+      "ev6"
+     ],
+     "basis": "consolidated"
+    },
+    "gross_margin": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "gross profit / operating revenue",
+     "inputs": {
+      "numerator": null,
+      "denominator": "190.9333"
+     },
+     "unit": "%",
+     "ev": [
+      "ev6"
+     ],
+     "basis": "consolidated",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "operating_margin": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "operating profit / operating revenue",
+     "inputs": {
+      "numerator": null,
+      "denominator": "190.9333"
+     },
+     "unit": "%",
+     "ev": [
+      "ev6"
+     ],
+     "basis": "consolidated",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "ebitda_margin": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "EBITDA / operating revenue",
+     "inputs": {
+      "numerator": null,
+      "denominator": "190.9333"
+     },
+     "unit": "%",
+     "ev": [
+      "ev6"
+     ],
+     "basis": "consolidated",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "cfo_margin": {
+     "value": "43.4252",
+     "state": "ok",
+     "formula": "operating cash flow / operating revenue",
+     "inputs": {
+      "numerator": "82.9132",
+      "denominator": "190.9333"
+     },
+     "unit": "%",
+     "ev": [
+      "ev30",
+      "ev6"
+     ],
+     "basis": "consolidated"
+    },
+    "roa": {
+     "value": "-0.0977",
+     "state": "ok",
+     "formula": "PAT / average assets",
+     "inputs": {
+      "numerator": "-93.7896",
+      "denominator": "96007.05175"
+     },
+     "unit": "%",
+     "ev": [
+      "ev16",
+      "ev18",
+      "ev17"
+     ],
+     "basis": "consolidated"
+    },
+    "roe": {
+     "value": "-17.1235",
+     "state": "ok",
+     "formula": "PAT / average equity",
+     "inputs": {
+      "numerator": "-93.7896",
+      "denominator": "547.7247"
+     },
+     "unit": "%",
+     "ev": [
+      "ev16",
+      "ev20",
+      "ev19"
+     ],
+     "basis": "consolidated"
+    },
+    "asset_turnover": {
+     "value": "0.0020",
+     "state": "ok",
+     "formula": "operating revenue / average total assets",
+     "inputs": {
+      "numerator": "190.9333",
+      "denominator": "96007.05175"
+     },
+     "unit": "×",
+     "ev": [
+      "ev6",
+      "ev18",
+      "ev17"
+     ],
+     "basis": "consolidated"
+    },
+    "fixed_turnover": {
+     "value": "0.1131",
+     "state": "ok",
+     "formula": "operating revenue / average fixed assets",
+     "inputs": {
+      "numerator": "190.9333",
+      "denominator": "1687.7971"
+     },
+     "unit": "×",
+     "ev": [
+      "ev6",
+      "ev38",
+      "ev37"
+     ],
+     "basis": "consolidated"
+    },
+    "current_ratio": {
+     "value": "13.7170",
+     "state": "ok",
+     "formula": "current assets / current liabilities",
+     "inputs": {
+      "numerator": "1901.1004",
+      "denominator": "138.5944"
+     },
+     "unit": "×",
+     "ev": [
+      "ev22",
+      "ev24"
+     ],
+     "basis": "consolidated"
+    },
+    "cash_ratio": {
+     "value": "0.1204",
+     "state": "ok",
+     "formula": "cash and equivalents / current liabilities",
+     "inputs": {
+      "numerator": "16.6883",
+      "denominator": "138.5944"
+     },
+     "unit": "×",
+     "ev": [
+      "ev28",
+      "ev24"
+     ],
+     "basis": "consolidated"
+    },
+    "debt_equity": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "reported debt / equity",
+     "inputs": {
+      "numerator": null,
+      "denominator": "500.7693"
+     },
+     "unit": "×",
+     "ev": [
+      "ev20"
+     ],
+     "basis": "consolidated",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "cfo_current": {
+     "value": "0.5982",
+     "state": "ok",
+     "formula": "operating cash flow / current liabilities",
+     "inputs": {
+      "numerator": "82.9132",
+      "denominator": "138.5944"
+     },
+     "unit": "×",
+     "ev": [
+      "ev30",
+      "ev24"
+     ],
+     "basis": "consolidated"
+    },
+    "cfo_to_pat": {
+     "value": null,
+     "state": "negative_base",
+     "formula": "operating cash flow / PAT",
+     "inputs": {
+      "numerator": "82.9132",
+      "denominator": "-93.7896"
+     },
+     "note": "Requires a positive denominator.",
+     "unit": "×",
+     "ev": [
+      "ev30",
+      "ev16"
+     ],
+     "basis": "consolidated"
+    },
+    "dividend_payout": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "reported dividend per share / annual basic EPS",
+     "inputs": {
+      "numerator": null,
+      "denominator": null
+     },
+     "unit": "%",
+     "ev": [],
+     "basis": "consolidated",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "roce": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "(PBT + finance costs) / (total assets − current liabilities)",
+     "inputs": {
+      "numerator": null,
+      "denominator": "189971.4956"
+     },
+     "unit": "%",
+     "ev": [
+      "ev12",
+      "ev18",
+      "ev24"
+     ],
+     "basis": "consolidated",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "interest_cover": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "(PBT + finance costs) / finance costs",
+     "inputs": {
+      "numerator": null,
+      "denominator": "125.4254"
+     },
+     "unit": "×",
+     "ev": [
+      "ev12"
+     ],
+     "basis": "consolidated",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "net_debt_ebitda": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "(reported debt − cash and equivalents) / EBITDA",
+     "inputs": {
+      "numerator": null,
+      "denominator": null
+     },
+     "unit": "×",
+     "ev": [
+      "ev28"
+     ],
+     "basis": "consolidated",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "fcf_margin": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "(operating cash flow + signed cash capex) / operating revenue",
+     "inputs": {
+      "numerator": null,
+      "denominator": "190.9333"
+     },
+     "unit": "%",
+     "ev": [
+      "ev30",
+      "ev6"
+     ],
+     "basis": "consolidated",
+     "note": "Requires operating cash flow and paid cash capex for the same period and basis."
+    },
+    "quick_ratio": {
+     "value": "13.7120",
+     "state": "ok",
+     "formula": "(current assets - inventories) / current liabilities",
+     "inputs": {
+      "current_assets": "1901.1004",
+      "inventories": "0.6938",
+      "current_liabilities": "138.5944"
+     },
+     "unit": "x",
+     "ev": [
+      "ev22",
+      "ev24",
+      "ev26"
+     ],
+     "basis": "consolidated"
+    },
+    "revenue_growth": {
+     "value": "92.4029",
+     "state": "ok",
+     "formula": "(current / previous) - 1",
+     "inputs": {
+      "current": "190.9333",
+      "previous": "99.2362"
+     },
+     "unit": "%",
+     "basis": "consolidated",
+     "ev": [
+      "ev6",
+      "ev5"
+     ]
+    },
+    "revenue_cagr": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "(end / start)^(1/3) - 1",
+     "inputs": {
+      "end": "190.9333",
+      "start": null,
+      "years": 3
+     },
+     "unit": "%",
+     "basis": "consolidated",
+     "ev": [
+      "ev6"
+     ],
+     "note": "Required comparable inputs are unavailable."
+    },
+    "diluted_growth": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "(current / previous) - 1",
+     "inputs": {
+      "current": null,
+      "previous": null
+     },
+     "unit": "%",
+     "basis": "consolidated",
+     "ev": [],
+     "note": "Required comparable inputs are unavailable."
+    },
+    "inventory_days": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "365 × average inventory / cost of sales",
+     "inputs": {
+      "numerator": "236.83025",
+      "denominator": null
+     },
+     "unit": "days",
+     "ev": [
+      "ev26",
+      "ev25"
+     ],
+     "basis": "consolidated",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "payable_days": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "365 × average trade payables / cost of sales",
+     "inputs": {
+      "numerator": null,
+      "denominator": null
+     },
+     "unit": "days",
+     "ev": [],
+     "basis": "consolidated",
+     "note": "Cost of sales proxies for supplier purchases; uses 365 days."
+    },
+    "receivable_days": {
+     "value": "25.8461",
+     "state": "ok",
+     "formula": "365 × average trade receivables / operating revenue",
+     "inputs": {
+      "numerator": "4934.8730",
+      "denominator": "190.9333"
+     },
+     "unit": "days",
+     "ev": [
+      "ev36",
+      "ev35",
+      "ev6"
+     ],
+     "basis": "consolidated",
+     "note": "Operating revenue proxies for credit sales; uses 365 days."
+    },
+    "book_per_share": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "equity (₹ crore) × 10,000,000 / period-end shares",
+     "inputs": {
+      "numerator": "5007693000.0000",
+      "denominator": null
+     },
+     "unit": "₹/share",
+     "ev": [
+      "ev20"
+     ],
+     "basis": "consolidated",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "eps_basic": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "reported basic EPS",
+     "inputs": {
+      "eps_basic": null
+     },
+     "unit": "₹/share",
+     "ev": [],
+     "basis": "consolidated",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "eps_diluted": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "reported diluted EPS",
+     "inputs": {
+      "eps_diluted": null
+     },
+     "unit": "₹/share",
+     "ev": [],
+     "basis": "consolidated",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "dividend_per_share": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "reported dividend per share",
+     "inputs": {
+      "dividend_per_share": null
+     },
+     "unit": "₹/share",
+     "ev": [],
+     "basis": "consolidated",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "nim": {
+     "value": null,
+     "state": "inapplicable",
+     "formula": "issuer's reported NIM",
+     "inputs": {},
+     "note": "The measure does not apply to this business model.",
+     "unit": "%",
+     "basis": "consolidated"
+    },
+    "gross_npa": {
+     "value": null,
+     "state": "inapplicable",
+     "formula": "issuer's reported gross NPA ratio",
+     "inputs": {},
+     "note": "The measure does not apply to this business model.",
+     "unit": "%",
+     "basis": "consolidated"
+    },
+    "net_npa": {
+     "value": null,
+     "state": "inapplicable",
+     "formula": "issuer's reported net NPA ratio",
+     "inputs": {},
+     "note": "The measure does not apply to this business model.",
+     "unit": "%",
+     "basis": "consolidated"
+    },
+    "provision_coverage": {
+     "value": null,
+     "state": "inapplicable",
+     "formula": "issuer's reported coverage",
+     "inputs": {},
+     "note": "The measure does not apply to this business model.",
+     "unit": "%",
+     "basis": "consolidated"
+    },
+    "capital_adequacy": {
+     "value": null,
+     "state": "inapplicable",
+     "formula": "issuer's reported capital adequacy",
+     "inputs": {},
+     "note": "The measure does not apply to this business model.",
+     "unit": "%",
+     "basis": "consolidated"
+    },
+    "claims_ratio": {
+     "value": null,
+     "state": "inapplicable",
+     "formula": "issuer's reported claims ratio",
+     "inputs": {},
+     "note": "The measure does not apply to this business model.",
+     "unit": "%",
+     "basis": "consolidated"
+    },
+    "combined_ratio": {
+     "value": null,
+     "state": "inapplicable",
+     "formula": "issuer's reported combined ratio",
+     "inputs": {},
+     "note": "The measure does not apply to this business model.",
+     "unit": "%",
+     "basis": "consolidated"
+    },
+    "solvency_ratio": {
+     "value": null,
+     "state": "inapplicable",
+     "formula": "issuer's reported solvency ratio",
+     "inputs": {},
+     "note": "The measure does not apply to this business model.",
+     "unit": "×",
+     "basis": "consolidated"
+    },
+    "pe": {
+     "value": null,
+     "state": "negative_base",
+     "formula": "price / EPS",
+     "inputs": {
+      "price_inr": "126.00",
+      "eps": "-7.007648747860300704802564875"
+     },
+     "note": "Uses a calculated proxy of annual PAT divided by shares outstanding. loss-making: P/E not meaningful",
+     "unit": "x",
+     "eps_basis": "pat_share_proxy",
+     "ev": [
+      "ev16",
+      "ev1"
+     ],
+     "basis": "consolidated"
+    },
+    "pb": {
+     "value": "3.3676",
+     "state": "ok",
+     "formula": "market cap / total equity",
+     "inputs": {
+      "market_cap": "1686.37014",
+      "total_equity": "500.7693"
+     },
+     "unit": "x",
+     "basis": "consolidated"
+    },
+    "ps": {
+     "value": "8.8322",
+     "state": "ok",
+     "formula": "market cap / operating revenue",
+     "inputs": {
+      "market_cap": "1686.37014",
+      "operating_revenue": "190.9333"
+     },
+     "unit": "x",
+     "basis": "consolidated"
+    },
+    "dividend_yield": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "reported dividend per share / quoted price",
+     "inputs": {
+      "numerator": null,
+      "denominator": "126.00"
+     },
+     "unit": "%",
+     "ev": [
+      "ev1"
+     ],
+     "basis": "consolidated",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "ev_ebitda": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "(market cap + debt − cash) / EBITDA",
+     "inputs": {
+      "numerator": null,
+      "denominator": null
+     },
+     "unit": "×",
+     "ev": [
+      "ev28"
+     ],
+     "basis": "consolidated",
+     "note": "Requires market cap and debt/cash on the same basis; no adjustment for undisclosed debt."
+    },
+    "ev_revenue": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "(market cap + debt − cash) / operating revenue",
+     "inputs": {
+      "numerator": null,
+      "denominator": "190.9333"
+     },
+     "unit": "×",
+     "ev": [
+      "ev28",
+      "ev6"
+     ],
+     "basis": "consolidated",
+     "note": "Requires market cap and debt/cash on the same basis; no adjustment for undisclosed debt."
+    },
+    "debt_cover": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "operating cash flow / scheduled principal and interest",
+     "inputs": {},
+     "unit": "×",
+     "basis": "consolidated",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "cash_cycle": {
+     "value": null,
+     "state": "missing_input",
+     "formula": "inventory days + receivable days − payable days",
+     "inputs": {},
+     "unit": "days",
+     "basis": "consolidated",
+     "note": "Required comparable inputs are unavailable."
+    },
+    "volume_growth": {
+     "value": null,
+     "state": "inapplicable",
+     "formula": "matched-contract volume / prior-year volume − 1",
+     "inputs": {},
+     "note": "The measure does not apply to this business model.",
+     "unit": "%",
+     "basis": "consolidated"
+    },
+    "fee_per_unit": {
+     "value": null,
+     "state": "inapplicable",
+     "formula": "transaction fee / same-contract traded volume",
+     "inputs": {},
+     "note": "The measure does not apply to this business model.",
+     "unit": "₹/unit",
+     "basis": "consolidated"
+    }
+   }
+  }
+ },
+ "identity": {
+  "key": "INE02Y401013",
+  "isin": "INE02Y401013",
+  "cin": "U63033KL2009PLC025103",
+  "listing": "unlisted",
+  "state": "provider_identity",
+  "ev": "ev2"
+ },
+ "research": {
+  "by_period": {
+   "FY2024": {
+    "comparison": {
+     "revenue": {
+      "value": "99.2362",
+      "state": "reported",
+      "basis": "consolidated",
+      "match_basis": "consolidated",
+      "definition": "revenue",
+      "ev": [
+       "ev5"
+      ]
+     },
+     "margin": {
+      "value": "-169.8130",
+      "state": "ok",
+      "basis": "consolidated",
+      "match_basis": "consolidated",
+      "definition": "margin",
+      "ev": [
+       "ev15",
+       "ev5"
+      ]
+     },
+     "cfo": {
+      "value": "19.13",
+      "state": "reported",
+      "basis": "consolidated",
+      "match_basis": "consolidated",
+      "definition": "cfo",
+      "ev": [
+       "ev29"
+      ]
+     },
+     "pe": {
+      "value": null,
+      "state": "missing_input",
+      "basis": "consolidated",
+      "match_basis": "consolidated",
+      "definition": "pe",
+      "ev": []
+     }
+    },
+    "claims": [],
+    "scenario": {
+     "base": "99.24",
+     "upside": "109.16",
+     "downside": "89.31",
+     "note": "Illustrative sensitivity of operating revenue to a ±10% change. Review price, volume and margin assumptions after results."
+    },
+    "event": null,
+    "financial_risk": "Review cash versus profit and working capital.",
+    "valuation_risk": "Comparable price and/or annual earnings are unavailable."
+   },
+   "FY2025": {
+    "comparison": {
+     "revenue": {
+      "value": "190.9333",
+      "state": "reported",
+      "basis": "consolidated",
+      "match_basis": "consolidated",
+      "definition": "revenue",
+      "ev": [
+       "ev6"
+      ]
+     },
+     "margin": {
+      "value": "-49.1217",
+      "state": "ok",
+      "basis": "consolidated",
+      "match_basis": "consolidated",
+      "definition": "margin",
+      "ev": [
+       "ev16",
+       "ev6"
+      ]
+     },
+     "cfo": {
+      "value": "82.9132",
+      "state": "reported",
+      "basis": "consolidated",
+      "match_basis": "consolidated",
+      "definition": "cfo",
+      "ev": [
+       "ev30"
+      ]
+     },
+     "pe": {
+      "value": null,
+      "state": "negative_base",
+      "basis": "consolidated",
+      "match_basis": "consolidated",
+      "definition": "pat_share_proxy",
+      "ev": [
+       "ev16",
+       "ev1"
+      ]
+     }
+    },
+    "claims": [
+     {
+      "category": "Pro",
+      "title": "Operating revenue changed 92.40% year on year",
+      "interpretation": "Use the matched annual revenue series and check whether volumes, pricing or a one-off drove the movement.",
+      "ev": [
+       "ev6",
+       "ev5"
+      ]
+     }
+    ],
+    "scenario": {
+     "base": "190.93",
+     "upside": "210.03",
+     "downside": "171.84",
+     "note": "Illustrative sensitivity of operating revenue to a ±10% change. Review price, volume and margin assumptions after results."
+    },
+    "event": null,
+    "financial_risk": "Review cash versus profit and working capital.",
+    "valuation_risk": "Comparable price and/or annual earnings are unavailable."
+   }
+  },
+  "risk": {
+   "summary": "Off-exchange exit risk",
+   "business": "Follow revenue drivers, cash needs and business-specific disclosures.",
+   "liquidity": "Ask for an executable lot and confirm counterparty, settlement and transfer terms.",
+   "restriction": "Verified transfer restrictions are unavailable in this scenario.",
+   "horizon": "Three years is an illiquidity planning assumption. Review at each relevant filing, quote or transfer change."
+  }
+ },
+ "discovery": [
+  {
+   "id": "cial",
+   "short": "CIAL",
+   "name": "Cochin International Airport Ltd",
+   "reasons": [
+    "same business: Airports",
+    "in the news 2026-11-21"
+   ],
+   "score": 4,
+   "price_inr": 440.0,
+   "latest_period": "FY2026"
+  },
+  {
+   "id": "ncdex",
+   "short": "NCDEX",
+   "name": "National Commodity & Derivatives Exchange Ltd",
+   "reasons": [
+    "provider reports DRHP filed (IPO research lead)",
+    "in the news 2026-11-11"
+   ],
+   "score": 3,
+   "price_inr": 253.0,
+   "latest_period": "FY2026"
+  },
+  {
+   "id": "oyo",
+   "short": "OYO",
+   "name": "Oravel Stays Ltd (OYO)",
+   "reasons": [
+    "provider reports DRHP filed (IPO research lead)",
+    "in the news 2026-11-23"
+   ],
+   "score": 3,
+   "price_inr": 20.45,
+   "latest_period": "FY2026"
+  },
+  {
+   "id": "pharmeasy",
+   "short": "PharmEasy",
+   "name": "API Holdings Ltd (PharmEasy)",
+   "reasons": [
+    "provider reports DRHP filed (IPO research lead)",
+    "in the news 2026-10-28"
+   ],
+   "score": 3,
+   "price_inr": 6.15,
+   "latest_period": "FY2026"
+  },
+  {
+   "id": "axlesindia",
+   "short": "Axles India",
+   "name": "Axles India Ltd",
+   "reasons": [
+    "in the news 2026-11-20"
+   ],
+   "score": 1,
+   "price_inr": 525.0,
+   "latest_period": "FY2026"
+  },
+  {
+   "id": "csk",
+   "short": "CSK",
+   "name": "Chennai Super Kings Cricket Ltd",
+   "reasons": [
+    "in the news 2026-11-20"
+   ],
+   "score": 1,
+   "price_inr": 245.0,
+   "latest_period": "FY2026"
+  }
+ ],
+ "fallbacks": []
+}

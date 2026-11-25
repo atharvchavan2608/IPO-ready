@@ -1,0 +1,2599 @@
+{
+ "id": "indiacarbon",
+ "name": "India Carbon Ltd",
+ "short": "India Carbon",
+ "hierarchy": [
+  "Commodities",
+  "Chemicals",
+  "Carbon Products",
+  "Calcined Petroleum Coke"
+ ],
+ "model": "manufacturer",
+ "listed_peers": [
+  "GOACARBON",
+  "PCBL",
+  "RAIN"
+ ],
+ "status_note": null,
+ "market_status": null,
+ "quote": {
+  "price_inr": "867.00",
+  "state": "reported",
+  "change_raw": "+ 0.00 %",
+  "kind": "unlisted dealer quote (indicative, not an exchange trade)",
+  "as_of": "2026-11-23T16:45:20+00:00",
+  "high_52w": "872.00 (18/08/26)",
+  "low_52w": "810.00 (11/03/26)",
+  "ev": "ev1"
+ },
+ "profile": {
+  "provider_sector": "Chemical",
+  "isin": "INE743B01015",
+  "cin": "L23101AS1961PLC001173",
+  "registration_date": "12/06/1961",
+  "face_value": "10",
+  "lot_size": "100",
+  "drhp_filed": "No",
+  "depository": "nsdl",
+  "rofr": "No",
+  "description": null,
+  "share_details_as_of": "March 31, 2026",
+  "ev": "ev2"
+ },
+ "periods": [
+  "FY2025",
+  "FY2026"
+ ],
+ "basis": "standalone",
+ "raw_units": [
+  "INR crore"
+ ],
+ "layout": "detailed statements",
+ "fields": {
+  "total_income": {
+   "label": "Total income",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": "190.88",
+     "state": "reported",
+     "ev": "ev3"
+    },
+    "FY2026": {
+     "value": "173.42",
+     "state": "reported",
+     "ev": "ev4"
+    }
+   }
+  },
+  "revenue_ops": {
+   "label": "Revenue from operations",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": "174.53",
+     "state": "reported",
+     "ev": "ev5"
+    },
+    "FY2026": {
+     "value": "168.3",
+     "state": "reported",
+     "ev": "ev6"
+    }
+   }
+  },
+  "other_income": {
+   "label": "Other income",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": "16.35",
+     "state": "reported",
+     "ev": "ev7"
+    },
+    "FY2026": {
+     "value": "5.12",
+     "state": "reported",
+     "ev": "ev8"
+    }
+   }
+  },
+  "other_gains": {
+   "label": "Other gains / losses",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "job_work_revenue": {
+   "label": "Revenue from job work",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "total_expenses": {
+   "label": "Total expenses",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": "201.94",
+     "state": "reported",
+     "ev": "ev9"
+    },
+    "FY2026": {
+     "value": "194.24",
+     "state": "reported",
+     "ev": "ev10"
+    }
+   }
+  },
+  "finance_cost": {
+   "label": "Finance cost",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": "1.77",
+     "state": "reported",
+     "ev": "ev11"
+    },
+    "FY2026": {
+     "value": "4.91",
+     "state": "reported",
+     "ev": "ev12"
+    }
+   }
+  },
+  "depreciation": {
+   "label": "Depreciation",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": "2.44",
+     "state": "reported",
+     "ev": "ev13"
+    },
+    "FY2026": {
+     "value": "2.35",
+     "state": "reported",
+     "ev": "ev14"
+    }
+   }
+  },
+  "pbt": {
+   "label": "Profit before tax",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": "-11.06",
+     "state": "reported",
+     "ev": "ev15"
+    },
+    "FY2026": {
+     "value": "-20.82",
+     "state": "reported",
+     "ev": "ev16"
+    }
+   }
+  },
+  "tax": {
+   "label": "Tax",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "pat": {
+   "label": "Profit after tax",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": "-12.74",
+     "state": "reported",
+     "ev": "ev17"
+    },
+    "FY2026": {
+     "value": "-20.28",
+     "state": "reported",
+     "ev": "ev18"
+    }
+   }
+  },
+  "total_assets": {
+   "label": "Total assets",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": "607.53",
+     "state": "reported",
+     "ev": "ev19"
+    },
+    "FY2026": {
+     "value": "548.38",
+     "state": "reported",
+     "ev": "ev20"
+    }
+   }
+  },
+  "total_equity": {
+   "label": "Total equity",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": "534.50",
+     "state": "derived",
+     "ev": "ev21"
+    },
+    "FY2026": {
+     "value": "463.34",
+     "state": "derived",
+     "ev": "ev22"
+    }
+   }
+  },
+  "total_liabilities": {
+   "label": "Total liabilities",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "current_assets": {
+   "label": "Current assets",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": "120.49",
+     "state": "derived",
+     "ev": "ev23"
+    },
+    "FY2026": {
+     "value": "145.70",
+     "state": "derived",
+     "ev": "ev24"
+    }
+   }
+  },
+  "current_liabilities": {
+   "label": "Current liabilities",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": "52",
+     "state": "derived",
+     "ev": "ev25"
+    },
+    "FY2026": {
+     "value": "74",
+     "state": "derived",
+     "ev": "ev26"
+    }
+   }
+  },
+  "inventories": {
+   "label": "Inventories",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": "82.83",
+     "state": "reported",
+     "ev": "ev27"
+    },
+    "FY2026": {
+     "value": "71.69",
+     "state": "reported",
+     "ev": "ev28"
+    }
+   }
+  },
+  "cash": {
+   "label": "Cash & equivalents",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": "7.92",
+     "state": "reported",
+     "ev": "ev29"
+    },
+    "FY2026": {
+     "value": "3.89",
+     "state": "reported",
+     "ev": "ev30"
+    }
+   }
+  },
+  "loans": {
+   "label": "Loans",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "cfo": {
+   "label": "Cash from operations",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": "8.78",
+     "state": "reported",
+     "ev": "ev31"
+    },
+    "FY2026": {
+     "value": "-13.9",
+     "state": "reported",
+     "ev": "ev32"
+    }
+   }
+  },
+  "cfi": {
+   "label": "Cash from investing",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": "-79.76",
+     "state": "reported",
+     "ev": "ev33"
+    },
+    "FY2026": {
+     "value": "-7.23",
+     "state": "reported",
+     "ev": "ev34"
+    }
+   }
+  },
+  "cff": {
+   "label": "Cash from financing",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": "49.7",
+     "state": "reported",
+     "ev": "ev35"
+    },
+    "FY2026": {
+     "value": "17.09",
+     "state": "reported",
+     "ev": "ev36"
+    }
+   }
+  },
+  "ebitda": {
+   "label": "EBITDA",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "eps": {
+   "label": "EPS (provider)",
+   "unit": "INR per share",
+   "by_period": {
+    "FY2025": {
+     "value": "-48.08",
+     "state": "reported",
+     "ev": "ev37"
+    },
+    "FY2026": {
+     "value": "-76.52",
+     "state": "reported",
+     "ev": "ev38"
+    }
+   }
+  },
+  "shares_outstanding": {
+   "label": "Shares outstanding",
+   "unit": "shares",
+   "by_period": {
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "pat_pre_associate": {
+   "label": "Profit after tax before associate contribution",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "pat_owners": {
+   "label": "Profit attributable to owners",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "associate_profit": {
+   "label": "Share of associate profit",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "eps_basic": {
+   "label": "Reported basic EPS",
+   "unit": "INR per share",
+   "by_period": {
+    "FY2025": {
+     "value": "-48.08",
+     "state": "reported",
+     "ev": "ev39"
+    },
+    "FY2026": {
+     "value": "-76.52",
+     "state": "reported",
+     "ev": "ev40"
+    }
+   }
+  },
+  "eps_diluted": {
+   "label": "Reported diluted EPS",
+   "unit": "INR per share",
+   "by_period": {
+    "FY2025": {
+     "value": "-48.08",
+     "state": "reported",
+     "ev": "ev41"
+    },
+    "FY2026": {
+     "value": "-76.52",
+     "state": "reported",
+     "ev": "ev42"
+    }
+   }
+  }
+ },
+ "cash_flow": {
+  "unit": "INR crore",
+  "by_period": {
+   "FY2025": {
+    "basis": "standalone",
+    "origin": "provider",
+    "lines": {
+     "opening": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "cfo": {
+      "value": "8.78",
+      "state": "reported",
+      "ev": "ev31"
+     },
+     "cfi": {
+      "value": "-79.76",
+      "state": "reported",
+      "ev": "ev33"
+     },
+     "cff": {
+      "value": "49.7",
+      "state": "reported",
+      "ev": "ev35"
+     },
+     "other_effects": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "net_change": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "closing": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "before_working_capital": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "receivables": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "other_assets": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "payables_and_liabilities": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "tax_paid": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "capex": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "net_investment_purchases": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "debt_principal": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "lease_principal": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "lease_interest": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "overdraft_interest": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "share_proceeds": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "dividends": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "current_accounts": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "settlement_accounts": {
+      "state": "not_in_source",
+      "value": null
+     }
+    },
+    "reconciliation": {
+     "state": "partial"
+    },
+    "provider_comparison": null
+   },
+   "FY2026": {
+    "basis": "standalone",
+    "origin": "provider",
+    "lines": {
+     "opening": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "cfo": {
+      "value": "-13.9",
+      "state": "reported",
+      "ev": "ev32"
+     },
+     "cfi": {
+      "value": "-7.23",
+      "state": "reported",
+      "ev": "ev34"
+     },
+     "cff": {
+      "value": "17.09",
+      "state": "reported",
+      "ev": "ev36"
+     },
+     "other_effects": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "net_change": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "closing": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "before_working_capital": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "receivables": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "other_assets": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "payables_and_liabilities": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "tax_paid": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "capex": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "net_investment_purchases": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "debt_principal": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "lease_principal": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "lease_interest": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "overdraft_interest": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "share_proceeds": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "dividends": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "current_accounts": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "settlement_accounts": {
+      "state": "not_in_source",
+      "value": null
+     }
+    },
+    "reconciliation": {
+     "state": "partial"
+    },
+    "provider_comparison": null
+   }
+  }
+ },
+ "documents": [],
+ "reconciliation": null,
+ "agent": {
+  "inventories": {
+   "company": "indiacarbon",
+   "field": "inventories",
+   "status": "found_in_provider",
+   "summary": "Inventories reported by the provider for FY2025, FY2026.",
+   "how_to_verify": "Open the provider row from the evidence drawer; reconcile with the issuer's annual report before relying on it.",
+   "expectation": {
+    "level": "expected",
+    "reason": "Manufacturers carry raw material, work-in-progress and finished goods."
+   },
+   "evidence": [],
+   "evidence_total": 0,
+   "next_checks": [
+    "Audited annual report: balance sheet 'Inventories' line and note on valuation"
+   ],
+   "trace": [
+    {
+     "step": 1,
+     "tool": "provider_lookup",
+     "input": {
+      "company": "indiacarbon",
+      "field": "inventories"
+     },
+     "output": {
+      "found": true,
+      "periods": [
+       "FY2025",
+       "FY2026"
+      ],
+      "detail": "line present in provider statements"
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 2,
+     "tool": "applicability_rule",
+     "input": {
+      "field": "inventories",
+      "business_model": "manufacturer"
+     },
+     "output": {
+      "expectation": "expected",
+      "reason": "Manufacturers carry raw material, work-in-progress and finished goods."
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 3,
+     "tool": "statement_line_check",
+     "input": {
+      "document": null
+     },
+     "output": {
+      "skipped": true,
+      "why": "no retained issuer balance sheet for this company"
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 4,
+     "tool": "document_search",
+     "input": {
+      "documents": [],
+      "patterns": [
+       "\\binventor(?:y|ies)\\b"
+      ]
+     },
+     "output": {
+      "documents_searched": [],
+      "pages_with_word_matches": 0,
+      "pages_with_naive_substring": 0,
+      "note": "naive substring 'inventor' also matches unrelated words (e.g. 'COMPANY' contains 'NPA'); word-boundary patterns used"
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 5,
+     "tool": "classify_passages",
+     "input": {
+      "passages": 0
+     },
+     "output": {
+      "by_kind": {}
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 6,
+     "tool": "verdict",
+     "input": {
+      "signals": {
+       "provider": true,
+       "numeric": 0,
+       "explicit_na": 0,
+       "line_check": null,
+       "expectation": "expected"
+      }
+     },
+     "output": {
+      "status": "found_in_provider",
+      "summary": "Inventories reported by the provider for FY2025, FY2026.",
+      "how_to_verify": "Open the provider row from the evidence drawer; reconcile with the issuer's annual report before relying on it."
+     },
+     "ms": 0.0
+    }
+   ],
+   "executed": "deterministic tool sequence (no language model call)"
+  },
+  "npa": {
+   "company": "indiacarbon",
+   "field": "npa",
+   "status": "inapplicable",
+   "summary": "Not applicable by business model: NPA is a lender asset-quality measure; this business has no loan book to classify.",
+   "how_to_verify": "No mentions to review; the business-model rule decides.",
+   "expectation": {
+    "level": "not_applicable",
+    "reason": "NPA is a lender asset-quality measure; this business has no loan book to classify."
+   },
+   "evidence": [],
+   "evidence_total": 0,
+   "next_checks": [
+    "Annual report notes: 'Stage 3 assets', 'Gross NPA', 'Net NPA' (RBI disclosure for NBFCs)"
+   ],
+   "trace": [
+    {
+     "step": 1,
+     "tool": "provider_lookup",
+     "input": {
+      "company": "indiacarbon",
+      "field": "gross_npa"
+     },
+     "output": {
+      "found": false,
+      "periods": [],
+      "detail": "no matching line in the provider's parsed statements"
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 2,
+     "tool": "applicability_rule",
+     "input": {
+      "field": "npa",
+      "business_model": "manufacturer"
+     },
+     "output": {
+      "expectation": "not_applicable",
+      "reason": "NPA is a lender asset-quality measure; this business has no loan book to classify."
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 3,
+     "tool": "statement_line_check",
+     "input": {
+      "document": null
+     },
+     "output": {
+      "skipped": true,
+      "why": "no retained issuer balance sheet for this company"
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 4,
+     "tool": "document_search",
+     "input": {
+      "documents": [],
+      "patterns": [
+       "\\bG?N?NPAs?\\b",
+       "\\bnon[- ]performing (?:assets?|loans?)\\b",
+       "\\bstage\\s*(?:3|III)\\s+(?:assets|loans)\\b"
+      ]
+     },
+     "output": {
+      "documents_searched": [],
+      "pages_with_word_matches": 0,
+      "pages_with_naive_substring": 0,
+      "note": "naive substring 'npa' also matches unrelated words (e.g. 'COMPANY' contains 'NPA'); word-boundary patterns used"
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 5,
+     "tool": "classify_passages",
+     "input": {
+      "passages": 0
+     },
+     "output": {
+      "by_kind": {}
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 6,
+     "tool": "verdict",
+     "input": {
+      "signals": {
+       "provider": false,
+       "numeric": 0,
+       "explicit_na": 0,
+       "line_check": null,
+       "expectation": "not_applicable"
+      }
+     },
+     "output": {
+      "status": "inapplicable",
+      "summary": "Not applicable by business model: NPA is a lender asset-quality measure; this business has no loan book to classify.",
+      "how_to_verify": "No mentions to review; the business-model rule decides."
+     },
+     "ms": 0.0
+    }
+   ],
+   "executed": "deterministic tool sequence (no language model call)"
+  }
+ },
+ "metrics": {
+  "FY2025": {
+   "revenue_growth": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "(current / previous) - 1",
+    "inputs": {
+     "current": "174.53",
+     "previous": null
+    },
+    "unit": "%",
+    "ev": [
+     "ev5"
+    ]
+   },
+   "pat_margin": {
+    "value": "-6.6744",
+    "state": "ok",
+    "formula": "PAT / total income x 100",
+    "inputs": {
+     "pat": "-12.74",
+     "total_income": "190.88"
+    },
+    "unit": "%",
+    "ev": [
+     "ev17",
+     "ev3"
+    ]
+   },
+   "net_profit_ratio": {
+    "value": "-7.2996",
+    "state": "ok",
+    "formula": "PAT / revenue from operations x 100",
+    "inputs": {
+     "pat": "-12.74",
+     "revenue_ops": "174.53"
+    },
+    "unit": "%",
+    "ev": [
+     "ev17",
+     "ev5"
+    ]
+   },
+   "other_income_share": {
+    "value": "8.5656",
+    "state": "ok",
+    "formula": "other income / total income x 100",
+    "inputs": {
+     "other_income": "16.35",
+     "total_income": "190.88"
+    },
+    "unit": "%",
+    "ev": [
+     "ev7",
+     "ev3"
+    ]
+   },
+   "current_ratio": {
+    "value": "2.3171",
+    "state": "ok",
+    "formula": "current assets / current liabilities",
+    "inputs": {
+     "current_assets": "120.49",
+     "current_liabilities": "52"
+    },
+    "unit": "x",
+    "ev": [
+     "ev23",
+     "ev25"
+    ]
+   },
+   "quick_ratio": {
+    "value": "0.7242",
+    "state": "ok",
+    "formula": "(current assets - inventories) / current liabilities",
+    "inputs": {
+     "current_assets": "120.49",
+     "inventories": "82.83",
+     "current_liabilities": "52"
+    },
+    "unit": "x",
+    "ev": [
+     "ev23",
+     "ev25",
+     "ev27"
+    ]
+   },
+   "roe": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "PAT / average of opening and closing equity x 100",
+    "inputs": {
+     "pat": "-12.74",
+     "average_equity": null
+    },
+    "unit": "%",
+    "ev": [
+     "ev17",
+     "ev21"
+    ]
+   },
+   "roce": {
+    "value": "-1.6723",
+    "state": "ok",
+    "formula": "(PBT + finance cost) / (total assets - current liabilities) x 100",
+    "inputs": {
+     "ebit": "-9.29",
+     "capital_employed": "555.53"
+    },
+    "unit": "%",
+    "ev": [
+     "ev15",
+     "ev11",
+     "ev19",
+     "ev25"
+    ]
+   },
+   "cfo_to_pat": {
+    "value": "-0.6892",
+    "state": "ok",
+    "formula": "cash from operations / PAT",
+    "inputs": {
+     "cfo": "8.78",
+     "pat": "-12.74"
+    },
+    "unit": "x",
+    "ev": [
+     "ev31",
+     "ev17"
+    ]
+   }
+  },
+  "FY2026": {
+   "revenue_growth": {
+    "value": "-3.5696",
+    "state": "ok",
+    "formula": "(current / previous) - 1",
+    "inputs": {
+     "current": "168.3",
+     "previous": "174.53"
+    },
+    "unit": "%",
+    "ev": [
+     "ev6",
+     "ev5"
+    ]
+   },
+   "pat_margin": {
+    "value": "-11.6942",
+    "state": "ok",
+    "formula": "PAT / total income x 100",
+    "inputs": {
+     "pat": "-20.28",
+     "total_income": "173.42"
+    },
+    "unit": "%",
+    "ev": [
+     "ev18",
+     "ev4"
+    ]
+   },
+   "net_profit_ratio": {
+    "value": "-12.0499",
+    "state": "ok",
+    "formula": "PAT / revenue from operations x 100",
+    "inputs": {
+     "pat": "-20.28",
+     "revenue_ops": "168.3"
+    },
+    "unit": "%",
+    "ev": [
+     "ev18",
+     "ev6"
+    ]
+   },
+   "other_income_share": {
+    "value": "2.9524",
+    "state": "ok",
+    "formula": "other income / total income x 100",
+    "inputs": {
+     "other_income": "5.12",
+     "total_income": "173.42"
+    },
+    "unit": "%",
+    "ev": [
+     "ev8",
+     "ev4"
+    ]
+   },
+   "current_ratio": {
+    "value": "1.9689",
+    "state": "ok",
+    "formula": "current assets / current liabilities",
+    "inputs": {
+     "current_assets": "145.70",
+     "current_liabilities": "74"
+    },
+    "unit": "x",
+    "ev": [
+     "ev24",
+     "ev26"
+    ]
+   },
+   "quick_ratio": {
+    "value": "1.0001",
+    "state": "ok",
+    "formula": "(current assets - inventories) / current liabilities",
+    "inputs": {
+     "current_assets": "145.70",
+     "inventories": "71.69",
+     "current_liabilities": "74"
+    },
+    "unit": "x",
+    "ev": [
+     "ev24",
+     "ev26",
+     "ev28"
+    ]
+   },
+   "roe": {
+    "value": "-4.0648",
+    "state": "ok",
+    "formula": "PAT / average of opening and closing equity x 100",
+    "inputs": {
+     "pat": "-20.28",
+     "average_equity": "498.92"
+    },
+    "unit": "%",
+    "ev": [
+     "ev18",
+     "ev22",
+     "ev21"
+    ]
+   },
+   "roce": {
+    "value": "-3.3539",
+    "state": "ok",
+    "formula": "(PBT + finance cost) / (total assets - current liabilities) x 100",
+    "inputs": {
+     "ebit": "-15.91",
+     "capital_employed": "474.38"
+    },
+    "unit": "%",
+    "ev": [
+     "ev16",
+     "ev12",
+     "ev20",
+     "ev26"
+    ]
+   },
+   "cfo_to_pat": {
+    "value": "0.6854",
+    "state": "ok",
+    "formula": "cash from operations / PAT",
+    "inputs": {
+     "cfo": "-13.9",
+     "pat": "-20.28"
+    },
+    "unit": "x",
+    "ev": [
+     "ev32",
+     "ev18"
+    ]
+   }
+  }
+ },
+ "valuation": {
+  "period": "FY2026",
+  "shares_used": "2650000",
+  "shares_source": "shares_details",
+  "market_cap": {
+   "value": "229.7550",
+   "state": "ok",
+   "formula": "price (INR) x shares outstanding / 1e7",
+   "inputs": {
+    "price_inr": "867.00",
+    "shares": "2650000"
+   },
+   "unit": "INR crore"
+  },
+  "eps": {
+   "value": "-76.5283",
+   "state": "ok",
+   "formula": "PAT (INR crore) x 1e7 / shares outstanding",
+   "inputs": {
+    "pat_cr": "-20.28",
+    "shares": "2650000"
+   },
+   "unit": "INR"
+  },
+  "eps_reported_basic": "-76.52",
+  "eps_reported_diluted": "-76.52",
+  "pe": {
+   "value": null,
+   "state": "negative_base",
+   "formula": "price / EPS",
+   "inputs": {
+    "price_inr": "867.00",
+    "eps": "-76.52"
+   },
+   "note": "Uses reported annual basic EPS. loss-making: P/E not meaningful",
+   "unit": "x",
+   "eps_basis": "reported_basic",
+   "ev": [
+    "ev40",
+    "ev1"
+   ]
+  },
+  "pe_reported": {
+   "value": null,
+   "state": "negative_base",
+   "formula": "price / EPS",
+   "inputs": {
+    "price_inr": "867.00",
+    "eps": "-76.52"
+   },
+   "note": "loss-making: P/E not meaningful",
+   "unit": "x",
+   "eps_basis": "reported_basic",
+   "ev": [
+    "ev40",
+    "ev1"
+   ]
+  },
+  "pe_proxy": {
+   "value": null,
+   "state": "negative_base",
+   "formula": "price / EPS",
+   "inputs": {
+    "price_inr": "867.00",
+    "eps": "-76.52830188679245283018867925"
+   },
+   "note": "loss-making: P/E not meaningful",
+   "unit": "x",
+   "eps_basis": "pat_share_proxy",
+   "ev": [
+    "ev18",
+    "ev1"
+   ]
+  },
+  "pb": {
+   "value": "0.4959",
+   "state": "ok",
+   "formula": "market cap / total equity",
+   "inputs": {
+    "market_cap": "229.755",
+    "total_equity": "463.34"
+   },
+   "unit": "x"
+  },
+  "ps": {
+   "value": "1.3652",
+   "state": "ok",
+   "formula": "market cap / operating revenue",
+   "inputs": {
+    "market_cap": "229.755",
+    "operating_revenue": "168.3"
+   },
+   "unit": "x"
+  },
+  "provider": {
+   "pe": "-",
+   "mcap": "229.76 Crore",
+   "eps": "-76.52"
+  },
+  "note": "Valued at an indicative unlisted dealer quote against the latest fiscal-year PAT; not a traded market price."
+ },
+ "coverage_gaps": [
+  {
+   "field": "shares_outstanding",
+   "state": "not_in_source",
+   "label": "Shares outstanding"
+  }
+ ],
+ "checks": [
+  {
+   "check": "income_identity",
+   "period": "FY2025",
+   "result": "pass",
+   "detail": "total income 190.88 - (operations 174.53 + other 16.35 + separate income lines 0) = 0.00"
+  },
+  {
+   "check": "income_identity",
+   "period": "FY2026",
+   "result": "pass",
+   "detail": "total income 173.42 - (operations 168.3 + other 5.12 + separate income lines 0) = 0.00"
+  }
+ ],
+ "provider_ratios": {
+  "Current Ratio": {
+   "FY2026": {
+    "raw_text": "1.77",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "1.97",
+    "state": "reported"
+   }
+  },
+  "Debt-Equity Ratio": {
+   "FY2026": {
+    "raw_text": "0.16",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "0.10",
+    "state": "reported"
+   }
+  },
+  "Return on Equity Ratio": {
+   "FY2026": {
+    "raw_text": "-7.65",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "-4.81",
+    "state": "reported"
+   }
+  },
+  "Inventory turnover ratio": {
+   "FY2026": {
+    "raw_text": "2.18",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "2.44",
+    "state": "reported"
+   }
+  },
+  "Trade Receivables turnover ratio": {
+   "FY2026": {
+    "raw_text": "12.13",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "11.36",
+    "state": "reported"
+   }
+  },
+  "Trade payables turnover ratio": {
+   "FY2026": {
+    "raw_text": "8.70",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "11.39",
+    "state": "reported"
+   }
+  },
+  "Net capital turnover ratio": {
+   "FY2026": {
+    "raw_text": "2.77",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "1.78",
+    "state": "reported"
+   }
+  },
+  "Net profit ratio": {
+   "FY2026": {
+    "raw_text": "-0.12",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "-0.07",
+    "state": "reported"
+   }
+  },
+  "Return on Capital employed": {
+   "FY2026": {
+    "raw_text": "-0.03",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "-0.02",
+    "state": "reported"
+   }
+  },
+  "Interest Coverage ratio": {
+   "FY2026": {
+    "raw_text": "-3.24",
+    "state": "reported"
+   },
+   "FY2025": {
+    "raw_text": "-5.26",
+    "state": "reported"
+   }
+  }
+ },
+ "evidence": {
+  "ev1": {
+   "source": "WWIPL company overview",
+   "url": "https://wwipl.com/unlisted-shares/india-carbon-unlisted-share-price",
+   "retrieved_at": "2026-11-23T16:45:20+00:00",
+   "sha256": "778da9ea0ff00571eb6e14f46b995294aa1ff2a082b7f341e8cca5939c17f0f2",
+   "capture_run": "20261123T164433Z",
+   "file": "indiacarbon-overview.html",
+   "raw_label": "Last Traded Price",
+   "raw_text": "867.00"
+  },
+  "ev2": {
+   "source": "WWIPL company overview",
+   "url": "https://wwipl.com/unlisted-shares/india-carbon-unlisted-share-price",
+   "retrieved_at": "2026-11-23T16:45:20+00:00",
+   "sha256": "778da9ea0ff00571eb6e14f46b995294aa1ff2a082b7f341e8cca5939c17f0f2",
+   "capture_run": "20261123T164433Z",
+   "file": "indiacarbon-overview.html",
+   "raw_label": "Company fundamentals block"
+  },
+  "ev3": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/india-carbon-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:21+00:00",
+   "sha256": "172316e043c624e8abb61a279dea61f6f404a5e646280d70e1a8e102cf045a07",
+   "capture_run": "20261123T164433Z",
+   "file": "indiacarbon-financial.html",
+   "raw_label": "Total Income",
+   "raw_text": "190.88",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "31-03-2025",
+   "basis": "standalone",
+   "anchor": {
+    "file": "indiacarbon-financial.html",
+    "table_index": 2,
+    "row_index": 3,
+    "heading": "India Carbon Limited Standalone Profit & Loss Statement (Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev4": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/india-carbon-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:21+00:00",
+   "sha256": "172316e043c624e8abb61a279dea61f6f404a5e646280d70e1a8e102cf045a07",
+   "capture_run": "20261123T164433Z",
+   "file": "indiacarbon-financial.html",
+   "raw_label": "Total Income",
+   "raw_text": "173.42",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "31-03-2026",
+   "basis": "standalone",
+   "anchor": {
+    "file": "indiacarbon-financial.html",
+    "table_index": 2,
+    "row_index": 3,
+    "heading": "India Carbon Limited Standalone Profit & Loss Statement (Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev5": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/india-carbon-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:21+00:00",
+   "sha256": "172316e043c624e8abb61a279dea61f6f404a5e646280d70e1a8e102cf045a07",
+   "capture_run": "20261123T164433Z",
+   "file": "indiacarbon-financial.html",
+   "raw_label": "Revenue from Operations",
+   "raw_text": "174.53",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "31-03-2025",
+   "basis": "standalone",
+   "anchor": {
+    "file": "indiacarbon-financial.html",
+    "table_index": 2,
+    "row_index": 1,
+    "heading": "India Carbon Limited Standalone Profit & Loss Statement (Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev6": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/india-carbon-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:21+00:00",
+   "sha256": "172316e043c624e8abb61a279dea61f6f404a5e646280d70e1a8e102cf045a07",
+   "capture_run": "20261123T164433Z",
+   "file": "indiacarbon-financial.html",
+   "raw_label": "Revenue from Operations",
+   "raw_text": "168.30",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "31-03-2026",
+   "basis": "standalone",
+   "anchor": {
+    "file": "indiacarbon-financial.html",
+    "table_index": 2,
+    "row_index": 1,
+    "heading": "India Carbon Limited Standalone Profit & Loss Statement (Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev7": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/india-carbon-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:21+00:00",
+   "sha256": "172316e043c624e8abb61a279dea61f6f404a5e646280d70e1a8e102cf045a07",
+   "capture_run": "20261123T164433Z",
+   "file": "indiacarbon-financial.html",
+   "raw_label": "Other Income",
+   "raw_text": "16.35",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "31-03-2025",
+   "basis": "standalone",
+   "anchor": {
+    "file": "indiacarbon-financial.html",
+    "table_index": 2,
+    "row_index": 2,
+    "heading": "India Carbon Limited Standalone Profit & Loss Statement (Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev8": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/india-carbon-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:21+00:00",
+   "sha256": "172316e043c624e8abb61a279dea61f6f404a5e646280d70e1a8e102cf045a07",
+   "capture_run": "20261123T164433Z",
+   "file": "indiacarbon-financial.html",
+   "raw_label": "Other Income",
+   "raw_text": "5.12",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "31-03-2026",
+   "basis": "standalone",
+   "anchor": {
+    "file": "indiacarbon-financial.html",
+    "table_index": 2,
+    "row_index": 2,
+    "heading": "India Carbon Limited Standalone Profit & Loss Statement (Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev9": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/india-carbon-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:21+00:00",
+   "sha256": "172316e043c624e8abb61a279dea61f6f404a5e646280d70e1a8e102cf045a07",
+   "capture_run": "20261123T164433Z",
+   "file": "indiacarbon-financial.html",
+   "raw_label": "Total Expenses",
+   "raw_text": "201.94",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "31-03-2025",
+   "basis": "standalone",
+   "anchor": {
+    "file": "indiacarbon-financial.html",
+    "table_index": 2,
+    "row_index": 11,
+    "heading": "India Carbon Limited Standalone Profit & Loss Statement (Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev10": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/india-carbon-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:21+00:00",
+   "sha256": "172316e043c624e8abb61a279dea61f6f404a5e646280d70e1a8e102cf045a07",
+   "capture_run": "20261123T164433Z",
+   "file": "indiacarbon-financial.html",
+   "raw_label": "Total Expenses",
+   "raw_text": "194.24",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "31-03-2026",
+   "basis": "standalone",
+   "anchor": {
+    "file": "indiacarbon-financial.html",
+    "table_index": 2,
+    "row_index": 11,
+    "heading": "India Carbon Limited Standalone Profit & Loss Statement (Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev11": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/india-carbon-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:21+00:00",
+   "sha256": "172316e043c624e8abb61a279dea61f6f404a5e646280d70e1a8e102cf045a07",
+   "capture_run": "20261123T164433Z",
+   "file": "indiacarbon-financial.html",
+   "raw_label": "Finance Costs",
+   "raw_text": "1.77",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "31-03-2025",
+   "basis": "standalone",
+   "anchor": {
+    "file": "indiacarbon-financial.html",
+    "table_index": 2,
+    "row_index": 8,
+    "heading": "India Carbon Limited Standalone Profit & Loss Statement (Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev12": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/india-carbon-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:21+00:00",
+   "sha256": "172316e043c624e8abb61a279dea61f6f404a5e646280d70e1a8e102cf045a07",
+   "capture_run": "20261123T164433Z",
+   "file": "indiacarbon-financial.html",
+   "raw_label": "Finance Costs",
+   "raw_text": "4.91",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "31-03-2026",
+   "basis": "standalone",
+   "anchor": {
+    "file": "indiacarbon-financial.html",
+    "table_index": 2,
+    "row_index": 8,
+    "heading": "India Carbon Limited Standalone Profit & Loss Statement (Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev13": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/india-carbon-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:21+00:00",
+   "sha256": "172316e043c624e8abb61a279dea61f6f404a5e646280d70e1a8e102cf045a07",
+   "capture_run": "20261123T164433Z",
+   "file": "indiacarbon-financial.html",
+   "raw_label": "Depreciation and Amortization Expense",
+   "raw_text": "2.44",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "31-03-2025",
+   "basis": "standalone",
+   "anchor": {
+    "file": "indiacarbon-financial.html",
+    "table_index": 2,
+    "row_index": 9,
+    "heading": "India Carbon Limited Standalone Profit & Loss Statement (Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev14": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/india-carbon-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:21+00:00",
+   "sha256": "172316e043c624e8abb61a279dea61f6f404a5e646280d70e1a8e102cf045a07",
+   "capture_run": "20261123T164433Z",
+   "file": "indiacarbon-financial.html",
+   "raw_label": "Depreciation and Amortization Expense",
+   "raw_text": "2.35",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "31-03-2026",
+   "basis": "standalone",
+   "anchor": {
+    "file": "indiacarbon-financial.html",
+    "table_index": 2,
+    "row_index": 9,
+    "heading": "India Carbon Limited Standalone Profit & Loss Statement (Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev15": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/india-carbon-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:21+00:00",
+   "sha256": "172316e043c624e8abb61a279dea61f6f404a5e646280d70e1a8e102cf045a07",
+   "capture_run": "20261123T164433Z",
+   "file": "indiacarbon-financial.html",
+   "raw_label": "Profit (Loss) Before Tax",
+   "raw_text": "-11.06",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "31-03-2025",
+   "basis": "standalone",
+   "anchor": {
+    "file": "indiacarbon-financial.html",
+    "table_index": 2,
+    "row_index": 12,
+    "heading": "India Carbon Limited Standalone Profit & Loss Statement (Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev16": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/india-carbon-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:21+00:00",
+   "sha256": "172316e043c624e8abb61a279dea61f6f404a5e646280d70e1a8e102cf045a07",
+   "capture_run": "20261123T164433Z",
+   "file": "indiacarbon-financial.html",
+   "raw_label": "Profit (Loss) Before Tax",
+   "raw_text": "-20.82",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "31-03-2026",
+   "basis": "standalone",
+   "anchor": {
+    "file": "indiacarbon-financial.html",
+    "table_index": 2,
+    "row_index": 12,
+    "heading": "India Carbon Limited Standalone Profit & Loss Statement (Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev17": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/india-carbon-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:21+00:00",
+   "sha256": "172316e043c624e8abb61a279dea61f6f404a5e646280d70e1a8e102cf045a07",
+   "capture_run": "20261123T164433Z",
+   "file": "indiacarbon-financial.html",
+   "raw_label": "Profit (Loss) for the Year",
+   "raw_text": "-12.74",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "31-03-2025",
+   "basis": "standalone",
+   "anchor": {
+    "file": "indiacarbon-financial.html",
+    "table_index": 2,
+    "row_index": 15,
+    "heading": "India Carbon Limited Standalone Profit & Loss Statement (Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev18": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/india-carbon-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:21+00:00",
+   "sha256": "172316e043c624e8abb61a279dea61f6f404a5e646280d70e1a8e102cf045a07",
+   "capture_run": "20261123T164433Z",
+   "file": "indiacarbon-financial.html",
+   "raw_label": "Profit (Loss) for the Year",
+   "raw_text": "-20.28",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "31-03-2026",
+   "basis": "standalone",
+   "anchor": {
+    "file": "indiacarbon-financial.html",
+    "table_index": 2,
+    "row_index": 15,
+    "heading": "India Carbon Limited Standalone Profit & Loss Statement (Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev19": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/india-carbon-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:21+00:00",
+   "sha256": "172316e043c624e8abb61a279dea61f6f404a5e646280d70e1a8e102cf045a07",
+   "capture_run": "20261123T164433Z",
+   "file": "indiacarbon-financial.html",
+   "raw_label": "Total Assets",
+   "raw_text": "607.53",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "31-03-2025",
+   "basis": "standalone",
+   "anchor": {
+    "file": "indiacarbon-financial.html",
+    "table_index": 1,
+    "row_index": 19,
+    "heading": "India Carbon Limited Standalone Balance Sheet (Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev20": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/india-carbon-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:21+00:00",
+   "sha256": "172316e043c624e8abb61a279dea61f6f404a5e646280d70e1a8e102cf045a07",
+   "capture_run": "20261123T164433Z",
+   "file": "indiacarbon-financial.html",
+   "raw_label": "Total Assets",
+   "raw_text": "548.38",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "31-03-2026",
+   "basis": "standalone",
+   "anchor": {
+    "file": "indiacarbon-financial.html",
+    "table_index": 1,
+    "row_index": 19,
+    "heading": "India Carbon Limited Standalone Balance Sheet (Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev21": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/india-carbon-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:21+00:00",
+   "sha256": "172316e043c624e8abb61a279dea61f6f404a5e646280d70e1a8e102cf045a07",
+   "capture_run": "20261123T164433Z",
+   "file": "indiacarbon-financial.html",
+   "raw_label": "Sum of 2 lines under 'equity'",
+   "raw_text": null,
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": null,
+   "basis": "standalone",
+   "anchor": {
+    "file": "indiacarbon-financial.html",
+    "table_index": 1,
+    "row_index": 21,
+    "heading": "India Carbon Limited Standalone Balance Sheet (Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": true,
+   "components": [
+    {
+     "label": "Equity Share Capital",
+     "value": "2.65"
+    },
+    {
+     "label": "Other Equity",
+     "value": "531.85"
+    }
+   ]
+  },
+  "ev22": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/india-carbon-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:21+00:00",
+   "sha256": "172316e043c624e8abb61a279dea61f6f404a5e646280d70e1a8e102cf045a07",
+   "capture_run": "20261123T164433Z",
+   "file": "indiacarbon-financial.html",
+   "raw_label": "Sum of 2 lines under 'equity'",
+   "raw_text": null,
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": null,
+   "basis": "standalone",
+   "anchor": {
+    "file": "indiacarbon-financial.html",
+    "table_index": 1,
+    "row_index": 21,
+    "heading": "India Carbon Limited Standalone Balance Sheet (Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": true,
+   "components": [
+    {
+     "label": "Equity Share Capital",
+     "value": "2.65"
+    },
+    {
+     "label": "Other Equity",
+     "value": "460.69"
+    }
+   ]
+  },
+  "ev23": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/india-carbon-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:21+00:00",
+   "sha256": "172316e043c624e8abb61a279dea61f6f404a5e646280d70e1a8e102cf045a07",
+   "capture_run": "20261123T164433Z",
+   "file": "indiacarbon-financial.html",
+   "raw_label": "Sum of 8 lines under 'current assets'",
+   "raw_text": null,
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": null,
+   "basis": "standalone",
+   "anchor": {
+    "file": "indiacarbon-financial.html",
+    "table_index": 1,
+    "row_index": 10,
+    "heading": "India Carbon Limited Standalone Balance Sheet (Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": true,
+   "components": [
+    {
+     "label": "Inventories",
+     "value": "82.83"
+    },
+    {
+     "label": "Investments",
+     "value": "5.19"
+    },
+    {
+     "label": "Trade Receivables",
+     "value": "8.78"
+    },
+    {
+     "label": "Cash and cash equivalents",
+     "value": "7.92"
+    },
+    {
+     "label": "Other Bank Balances",
+     "value": "0.34"
+    },
+    {
+     "label": "Other financial assets",
+     "value": "0.83"
+    },
+    {
+     "label": "Current Tax Assets (Net)",
+     "value": "1.31"
+    },
+    {
+     "label": "Other Current Assets",
+     "value": "13.29"
+    }
+   ]
+  },
+  "ev24": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/india-carbon-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:21+00:00",
+   "sha256": "172316e043c624e8abb61a279dea61f6f404a5e646280d70e1a8e102cf045a07",
+   "capture_run": "20261123T164433Z",
+   "file": "indiacarbon-financial.html",
+   "raw_label": "Sum of 8 lines under 'current assets'",
+   "raw_text": null,
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": null,
+   "basis": "standalone",
+   "anchor": {
+    "file": "indiacarbon-financial.html",
+    "table_index": 1,
+    "row_index": 10,
+    "heading": "India Carbon Limited Standalone Balance Sheet (Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": true,
+   "components": [
+    {
+     "label": "Inventories",
+     "value": "71.69"
+    },
+    {
+     "label": "Investments",
+     "value": "37.98"
+    },
+    {
+     "label": "Trade Receivables",
+     "value": "18.96"
+    },
+    {
+     "label": "Cash and cash equivalents",
+     "value": "3.89"
+    },
+    {
+     "label": "Other Bank Balances",
+     "value": "0.47"
+    },
+    {
+     "label": "Other financial assets",
+     "value": "0.36"
+    },
+    {
+     "label": "Current Tax Assets (Net)",
+     "value": "0.88"
+    },
+    {
+     "label": "Other Current Assets",
+     "value": "11.47"
+    }
+   ]
+  },
+  "ev25": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/india-carbon-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:21+00:00",
+   "sha256": "172316e043c624e8abb61a279dea61f6f404a5e646280d70e1a8e102cf045a07",
+   "capture_run": "20261123T164433Z",
+   "file": "indiacarbon-financial.html",
+   "raw_label": "Sum of 1 lines under 'current liabilities'",
+   "raw_text": null,
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": null,
+   "basis": "standalone",
+   "anchor": {
+    "file": "indiacarbon-financial.html",
+    "table_index": 1,
+    "row_index": 29,
+    "heading": "India Carbon Limited Standalone Balance Sheet (Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": true,
+   "components": [
+    {
+     "label": "Borrowings",
+     "value": "52"
+    }
+   ]
+  },
+  "ev26": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/india-carbon-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:21+00:00",
+   "sha256": "172316e043c624e8abb61a279dea61f6f404a5e646280d70e1a8e102cf045a07",
+   "capture_run": "20261123T164433Z",
+   "file": "indiacarbon-financial.html",
+   "raw_label": "Sum of 1 lines under 'current liabilities'",
+   "raw_text": null,
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": null,
+   "basis": "standalone",
+   "anchor": {
+    "file": "indiacarbon-financial.html",
+    "table_index": 1,
+    "row_index": 29,
+    "heading": "India Carbon Limited Standalone Balance Sheet (Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": true,
+   "components": [
+    {
+     "label": "Borrowings",
+     "value": "74"
+    }
+   ]
+  },
+  "ev27": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/india-carbon-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:21+00:00",
+   "sha256": "172316e043c624e8abb61a279dea61f6f404a5e646280d70e1a8e102cf045a07",
+   "capture_run": "20261123T164433Z",
+   "file": "indiacarbon-financial.html",
+   "raw_label": "Inventories",
+   "raw_text": "82.83",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "31-03-2025",
+   "basis": "standalone",
+   "anchor": {
+    "file": "indiacarbon-financial.html",
+    "table_index": 1,
+    "row_index": 10,
+    "heading": "India Carbon Limited Standalone Balance Sheet (Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev28": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/india-carbon-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:21+00:00",
+   "sha256": "172316e043c624e8abb61a279dea61f6f404a5e646280d70e1a8e102cf045a07",
+   "capture_run": "20261123T164433Z",
+   "file": "indiacarbon-financial.html",
+   "raw_label": "Inventories",
+   "raw_text": "71.69",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "31-03-2026",
+   "basis": "standalone",
+   "anchor": {
+    "file": "indiacarbon-financial.html",
+    "table_index": 1,
+    "row_index": 10,
+    "heading": "India Carbon Limited Standalone Balance Sheet (Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev29": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/india-carbon-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:21+00:00",
+   "sha256": "172316e043c624e8abb61a279dea61f6f404a5e646280d70e1a8e102cf045a07",
+   "capture_run": "20261123T164433Z",
+   "file": "indiacarbon-financial.html",
+   "raw_label": "Cash and cash equivalents",
+   "raw_text": "7.92",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "31-03-2025",
+   "basis": "standalone",
+   "anchor": {
+    "file": "indiacarbon-financial.html",
+    "table_index": 1,
+    "row_index": 14,
+    "heading": "India Carbon Limited Standalone Balance Sheet (Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev30": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/india-carbon-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:21+00:00",
+   "sha256": "172316e043c624e8abb61a279dea61f6f404a5e646280d70e1a8e102cf045a07",
+   "capture_run": "20261123T164433Z",
+   "file": "indiacarbon-financial.html",
+   "raw_label": "Cash and cash equivalents",
+   "raw_text": "3.89",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "31-03-2026",
+   "basis": "standalone",
+   "anchor": {
+    "file": "indiacarbon-financial.html",
+    "table_index": 1,
+    "row_index": 14,
+    "heading": "India Carbon Limited Standalone Balance Sheet (Rs in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev31": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/india-carbon-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:21+00:00",
+   "sha256": "172316e043c624e8abb61a279dea61f6f404a5e646280d70e1a8e102cf045a07",
+   "capture_run": "20261123T164433Z",
+   "file": "indiacarbon-financial.html",
+   "raw_label": "Net Cash Flow from Operating Activities",
+   "raw_text": "8.78",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "31-03-2025",
+   "basis": "standalone",
+   "anchor": {
+    "file": "indiacarbon-financial.html",
+    "table_index": 3,
+    "row_index": 21,
+    "heading": "India Carbon Limited Standalone Cash Flow Statement (Rs in Crores)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev32": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/india-carbon-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:21+00:00",
+   "sha256": "172316e043c624e8abb61a279dea61f6f404a5e646280d70e1a8e102cf045a07",
+   "capture_run": "20261123T164433Z",
+   "file": "indiacarbon-financial.html",
+   "raw_label": "Net Cash Flow from Operating Activities",
+   "raw_text": "-13.90",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "31-03-2026",
+   "basis": "standalone",
+   "anchor": {
+    "file": "indiacarbon-financial.html",
+    "table_index": 3,
+    "row_index": 21,
+    "heading": "India Carbon Limited Standalone Cash Flow Statement (Rs in Crores)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev33": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/india-carbon-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:21+00:00",
+   "sha256": "172316e043c624e8abb61a279dea61f6f404a5e646280d70e1a8e102cf045a07",
+   "capture_run": "20261123T164433Z",
+   "file": "indiacarbon-financial.html",
+   "raw_label": "Net Cash Flow from Investing Activities",
+   "raw_text": "-79.76",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "31-03-2025",
+   "basis": "standalone",
+   "anchor": {
+    "file": "indiacarbon-financial.html",
+    "table_index": 3,
+    "row_index": 30,
+    "heading": "India Carbon Limited Standalone Cash Flow Statement (Rs in Crores)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev34": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/india-carbon-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:21+00:00",
+   "sha256": "172316e043c624e8abb61a279dea61f6f404a5e646280d70e1a8e102cf045a07",
+   "capture_run": "20261123T164433Z",
+   "file": "indiacarbon-financial.html",
+   "raw_label": "Net Cash Flow from Investing Activities",
+   "raw_text": "-7.23",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "31-03-2026",
+   "basis": "standalone",
+   "anchor": {
+    "file": "indiacarbon-financial.html",
+    "table_index": 3,
+    "row_index": 30,
+    "heading": "India Carbon Limited Standalone Cash Flow Statement (Rs in Crores)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev35": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/india-carbon-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:21+00:00",
+   "sha256": "172316e043c624e8abb61a279dea61f6f404a5e646280d70e1a8e102cf045a07",
+   "capture_run": "20261123T164433Z",
+   "file": "indiacarbon-financial.html",
+   "raw_label": "Net Cash Used in Financing Activities",
+   "raw_text": "49.70",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "31-03-2025",
+   "basis": "standalone",
+   "anchor": {
+    "file": "indiacarbon-financial.html",
+    "table_index": 3,
+    "row_index": 35,
+    "heading": "India Carbon Limited Standalone Cash Flow Statement (Rs in Crores)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev36": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/india-carbon-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:21+00:00",
+   "sha256": "172316e043c624e8abb61a279dea61f6f404a5e646280d70e1a8e102cf045a07",
+   "capture_run": "20261123T164433Z",
+   "file": "indiacarbon-financial.html",
+   "raw_label": "Net Cash Used in Financing Activities",
+   "raw_text": "17.09",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "31-03-2026",
+   "basis": "standalone",
+   "anchor": {
+    "file": "indiacarbon-financial.html",
+    "table_index": 3,
+    "row_index": 35,
+    "heading": "India Carbon Limited Standalone Cash Flow Statement (Rs in Crores)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev37": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/india-carbon-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:21+00:00",
+   "sha256": "172316e043c624e8abb61a279dea61f6f404a5e646280d70e1a8e102cf045a07",
+   "capture_run": "20261123T164433Z",
+   "file": "indiacarbon-financial.html",
+   "raw_label": "Basic",
+   "raw_text": "-48.08",
+   "raw_unit": "INR per share",
+   "period": "FY2025",
+   "period_label": "31-03-2025",
+   "basis": "standalone",
+   "anchor": {
+    "file": "indiacarbon-financial.html",
+    "table_index": 2,
+    "row_index": 23,
+    "heading": "India Carbon Limited Standalone Profit & Loss Statement (Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev38": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/india-carbon-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:21+00:00",
+   "sha256": "172316e043c624e8abb61a279dea61f6f404a5e646280d70e1a8e102cf045a07",
+   "capture_run": "20261123T164433Z",
+   "file": "indiacarbon-financial.html",
+   "raw_label": "Basic",
+   "raw_text": "-76.52",
+   "raw_unit": "INR per share",
+   "period": "FY2026",
+   "period_label": "31-03-2026",
+   "basis": "standalone",
+   "anchor": {
+    "file": "indiacarbon-financial.html",
+    "table_index": 2,
+    "row_index": 23,
+    "heading": "India Carbon Limited Standalone Profit & Loss Statement (Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev39": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/india-carbon-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:21+00:00",
+   "sha256": "172316e043c624e8abb61a279dea61f6f404a5e646280d70e1a8e102cf045a07",
+   "capture_run": "20261123T164433Z",
+   "file": "indiacarbon-financial.html",
+   "raw_label": "Basic",
+   "raw_text": "-48.08",
+   "raw_unit": "INR per share",
+   "period": "FY2025",
+   "period_label": "31-03-2025",
+   "basis": "standalone",
+   "anchor": {
+    "file": "indiacarbon-financial.html",
+    "table_index": 2,
+    "row_index": 23,
+    "heading": "India Carbon Limited Standalone Profit & Loss Statement (Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev40": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/india-carbon-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:21+00:00",
+   "sha256": "172316e043c624e8abb61a279dea61f6f404a5e646280d70e1a8e102cf045a07",
+   "capture_run": "20261123T164433Z",
+   "file": "indiacarbon-financial.html",
+   "raw_label": "Basic",
+   "raw_text": "-76.52",
+   "raw_unit": "INR per share",
+   "period": "FY2026",
+   "period_label": "31-03-2026",
+   "basis": "standalone",
+   "anchor": {
+    "file": "indiacarbon-financial.html",
+    "table_index": 2,
+    "row_index": 23,
+    "heading": "India Carbon Limited Standalone Profit & Loss Statement (Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev41": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/india-carbon-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:21+00:00",
+   "sha256": "172316e043c624e8abb61a279dea61f6f404a5e646280d70e1a8e102cf045a07",
+   "capture_run": "20261123T164433Z",
+   "file": "indiacarbon-financial.html",
+   "raw_label": "Diluted",
+   "raw_text": "-48.08",
+   "raw_unit": "INR per share",
+   "period": "FY2025",
+   "period_label": "31-03-2025",
+   "basis": "standalone",
+   "anchor": {
+    "file": "indiacarbon-financial.html",
+    "table_index": 2,
+    "row_index": 24,
+    "heading": "India Carbon Limited Standalone Profit & Loss Statement (Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev42": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/india-carbon-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T16:45:21+00:00",
+   "sha256": "172316e043c624e8abb61a279dea61f6f404a5e646280d70e1a8e102cf045a07",
+   "capture_run": "20261123T164433Z",
+   "file": "indiacarbon-financial.html",
+   "raw_label": "Diluted",
+   "raw_text": "-76.52",
+   "raw_unit": "INR per share",
+   "period": "FY2026",
+   "period_label": "31-03-2026",
+   "basis": "standalone",
+   "anchor": {
+    "file": "indiacarbon-financial.html",
+    "table_index": 2,
+    "row_index": 24,
+    "heading": "India Carbon Limited Standalone Profit & Loss Statement (Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  }
+ },
+ "news": {
+  "query": "\"India Carbon\" coke",
+  "retrieved_at": "2026-11-23T16:46:25+00:00",
+  "items": [
+   {
+    "title": "India Carbon Black Market Size & Growth Report 2035",
+    "publisher": "Market Research Future",
+    "date": "2026-10-27",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcVJvZUpFUFh3UnpyMi0wcnF0dndFQTVLczBwQjR2UmI4TEhIZFFZNmxfczBiVWxjV3VXUmFxVXNJUkhxT2pKQUxZOGp6N1RQdmRHZHZQNzh6cEdpUWEydzdjd3NnaTB6TFZUcU9FanEtVDUwTW1RVUZGRU43Zkx6Umhn?oc=5"
+   },
+   {
+    "title": "Ban Of Petroleum Coke And Furnace Oil By Supreme Court",
+    "publisher": "Legal 500",
+    "date": "2026-09-26",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOLXgzVDFxWVRud2hqa0x1RVQwcEg2SkZheUxBVDJyZGtnbWlXRGtDWS1MUkpEaUpwd2pUTDVWQm5jQW95Q0lobVE3N3NkTWxnbmpiaXl2ZURfWW5FQ3ZvdEhvalB2WVRyRmpUaDJ3MFZ2NXJrcG1CbEhZdnAxYnJNY0RWNk50a1dpRGZsVlJ5bHpvR1RTQlBUbk9JeEZ2ajBrTWluZGJud05XV0tERDdF?oc=5"
+   },
+   {
+    "title": "Regulated Use Of Pet Coke By Industries",
+    "publisher": "Legal 500",
+    "date": "2026-09-24",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQ0hmSll1Nk5nbkl0bTZWZ2w3LXg4TjJoTDB5X1dHZE8taE9NVVpJQTFXUHhKWno3Ty1hbGthekFTZG5LUHloblhNSjZrTXhXYTMyR0ZndjZTRFBEOVBZSXd1QTBIang2ZWtEZTY2MGs2V0RhWmJDLTB5QWw3UjcxRWV2VkYwRlV2dF8zekJoZ3NzMnliQXcxN2JOaw?oc=5"
+   },
+   {
+    "title": "NMDC targets net-zero operational emissions by 2047, plans 90% reduction",
+    "publisher": "Business Standard",
+    "date": "2026-09-18",
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTzlSMVotTC1uWFJhVE9WaVFjSkNqeFRpbEJNNzNWVURiNHVWNHNOa0t6V2JKcEpaV2h4d0hhRE5hUmRVWVNoNU1VSnVqMlNKYjF4RHNTQkVmeUVLWEp6YzJzQ1dicHBnM09aRWpZckJUYk1pYmFDazdGVTZWdEF4alBoV2RWZEtybDNUdV9LR3VLTUV4UzZJVmhUVENvNHBnSXN0ZmNkRndiYlNRN215dHBSSkFQZk1KODYtNkJZSS1TcURPaThvLWtlb193MWJwd2luStIB2gFBVV95cUxNZ0RhRmxxMVo1SkRPa2NNVXpMVi1jYXJKSEZBdEZsc1Q0dlh1SWhFSW1iV2lfMGcyS1pEaFBCUF9HVFlSS1huZlk1Y1RSYldpZFNKRXJWWVdJbWRPaTBxdmNxbE1uRWlnZ1BudXV0ME90Nk40UUZhb0ViT190bzdBZGNxZDhmNWhkUG4wc2RfZm9rRWV2SUNydjZZQ3M3Wk0tenI2Ym9XRjlZMUlDSllJbVdiRU5DeXVBYm1iOVFXX2RRUmszcG43SHJFRjVveF9IYS01T0Z1azhFdw?oc=5"
+   },
+   {
+    "title": "Tata Steel commissions India's first coke oven gas injection project",
+    "publisher": "Business Standard",
+    "date": "2026-09-10",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVDZwQW4tRWlzTy1UNGtUekl1UXBFdzdsdGpGNEYzeVB5a3NlMTdqSFBBTXJvbXJNZW40RTZxREh5eUlwamJQTlg1UEFZMXVMX3ZhSHhqU1FnaF9sV3BnQlowOTZRaEstUVBKdXEwQ1p2UnJhN0JTVVRFOGNmZjF4WHAzb0QxTzA1bHIyRGlBMUdPVlUtVG5FTVFsX081TGdCaU02aDlmRXV2V25JMDkxMzBWS0pDSDVXazlzZURLaTF1TWoyR0l3ZkU4TkJpMkFHemFV0gHYAUFVX3lxTE45NkFsLWwyd3lxb2ZfM1BOYWJwTWtOZm91VS1nX242STd4aDVzU2RXUG10Mi1SZG1PUmZMc0pFRkJ6Um9rNWpqdG5pMzNQOVh2aGFQbzJ1NUxzaU5LVTRwYVFGYWIzNm1UQ3hLelJZZHJLWE9SQ0pvTVlQTm9NUjZSM0hLd1NKVDl0UzRuN01NMnVoRkhNTDBtRFprNG83bUJmaUxyRU5YZ2dNS1R1S2otZTB3a09nYnAxemtSTFVjVXdXTmMyaGNRTl9vQVJBVl9hTzZVQ0p0Rw?oc=5"
+   },
+   {
+    "title": "From Farm Waste To Fuels: How Indias Carbon Economy Can Drive Next Phase Of Industrial Transformation",
+    "publisher": "Free Press Journal",
+    "date": "2026-04-06",
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNQ011Tk8tNDE0aE80bEF1ZGFiaXpUanJzUGtTTDlzaUlzNE1yUVF6cVhLcVVvYkZHMWo4Tk00MU9PTHFObHc4QmZwQk9IaE5sS09WMmtaM2R0ZnZjYWxRVk1ZQmxnUldOUmUyWU5VMXBReFlwN3duLU82ZFQzNDg4VzFuRkZfejlUYXRadk00eDBCWDhZV25XZ25yMWpJc3BZeW1MMzZPNnpyY19aYk9vUHRpUDU2SmZXTHkxYVFzaTZqNnE5aV9sUHB0YTk4N1EzYktxME1TWDDSAd4BQVVfeXFMTmJsNVZmYW1wbDQxUnFXUmJNeG9TYmc1bTF0djE5OWRIdzdlTGttWDdZWDh4UFVDNGNPYmxvdnNTZVhuUUh1eUJOVkVHaFUtTjdBWTJGMkcyOG5taWgyN3JQU0Y1WHJFMmZWTm13cEk3b0piVXhhY0hiUVhJLTF5d0RNMlF6d1ppUEthQWFuaFRxVmM2X2NRV24wMVpXY2pndWdJQjFrRFRDR1pnSXdrbklubjhTNERGZ3NDeXo4UWxqcC14cmwxZzdyVVFQWjVXbnNsenR6ZnZIMjdrXzFR?oc=5"
+   },
+   {
+    "title": "Analysis: India’s CO2 emissions in 2025 grew at slowest rate in two decades",
+    "publisher": "Carbon Brief",
+    "date": "2026-03-26",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPa0xSX0gweWxCc3VRZzVubDd6OUxPNUFra3RKM2YtS1pGU09qWUo0dE5DT0RZdXpkeG1DaEZIOFMxcTVaT3plVVN2XzljY0twSDdPbExfcHgybXhCVUNJYktLdjRIclpuVUg0MmMzNGdmMzZQSmt0YzdHTUVLdmJzT1VIYlZfcHU0SUxzVjZScDN3Mk5RRUkwSHVXTEFmV3Qya2tj?oc=5"
+   },
+   {
+    "title": "India imposes provisional anti-dumping duty on low ash metallurgical coke imports",
+    "publisher": "The Economic Times",
+    "date": "2025-12-31",
+    "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNZGEtSGFmd29SM1JOWkdSVFkxclhFeXNQeTAtQ3BiVDNIWDd3SXVjMXZmeFZQZ2VYbEVQRTJDNEJaRkp3XzdGYzBsMkFFUkh4a09TcFNnTFlva2pQWXRYXy1NeFlyYmJSWVdTSHpJQVVzd1I3NG5iQVNnTjI5OE1RM1QxaU5NOVdrSnd1NmV6Y2VvdlhkSnZ6QlRxVUtWbTIxRHphTGF3YXhvNEsyT2tESm45elExVlR6RHFnc2xJbTNkZDlud3B2dHpnY05KT1FTM2p1ck4xT2dZS1o3N0dYWHh0R3ZtSVBhTWZqZmhqY3NjbWh0U1pxZE9HVdIBgAJBVV95cUxNZWJjSGJnNXdWVmJGd0djZ2J4RGZjZWR5QlV4UWJYQWxBOHc5NUdaTkRtZEJrTHMzaHd3ZjRuLXVPWWR3SUxMM2cyMFEyajVXOUJrMG1qMVhYek5zS0FHZWpvVzFTdTFhOHNMY2NpQVUzUk1JeGtvcHRJY2tzX2NkNHBNbTBkWU1JbGItTUdiTnVuWWZTdG1hczRlMEotZ2xEcEQxeHZITWhERE1lb1N3SjJpY2hjbU1YZV9SZ3hPbUNTNmhZN1RlM0RRUzFJQlJCeEVsamltX09zUG40b1ZBdDE5X2JzRkdNVDhMLTJ3R3I1SFljdnVkU1ZVNVZsLVht?oc=5"
+   }
+  ],
+  "source": {
+   "name": "Google News RSS search",
+   "url": "https://news.google.com/rss/search?q=%22India+Carbon%22+coke&hl=en-IN&gl=IN&ceid=IN:en",
+   "sha256": "2f694c8be3bd58ac612d077dbd74886e875dc32ebc71de56a586078f1ca4ba9b",
+   "run": "20261123T164603Z"
+  }
+ },
+ "peer_reviewed": true,
+ "discovery": [
+  {
+   "id": "ncdex",
+   "short": "NCDEX",
+   "name": "National Commodity & Derivatives Exchange Ltd",
+   "reasons": [
+    "provider reports DRHP filed (IPO research lead)",
+    "in the news 2026-11-11"
+   ],
+   "score": 3,
+   "price_inr": 253.0,
+   "latest_period": "FY2026"
+  },
+  {
+   "id": "oyo",
+   "short": "OYO",
+   "name": "Oravel Stays Ltd (OYO)",
+   "reasons": [
+    "provider reports DRHP filed (IPO research lead)",
+    "in the news 2026-11-23"
+   ],
+   "score": 3,
+   "price_inr": 20.45,
+   "latest_period": "FY2026"
+  },
+  {
+   "id": "pharmeasy",
+   "short": "PharmEasy",
+   "name": "API Holdings Ltd (PharmEasy)",
+   "reasons": [
+    "provider reports DRHP filed (IPO research lead)",
+    "in the news 2026-10-28"
+   ],
+   "score": 3,
+   "price_inr": 6.15,
+   "latest_period": "FY2026"
+  },
+  {
+   "id": "haldia",
+   "short": "Haldia Petro",
+   "name": "Haldia Petrochemicals Ltd",
+   "reasons": [
+    "same industry: Chemicals",
+    "in the news 2026-11-04"
+   ],
+   "score": 2,
+   "price_inr": 0.1,
+   "latest_period": "FY2025"
+  },
+  {
+   "id": "axlesindia",
+   "short": "Axles India",
+   "name": "Axles India Ltd",
+   "reasons": [
+    "in the news 2026-11-20"
+   ],
+   "score": 1,
+   "price_inr": 525.0,
+   "latest_period": "FY2026"
+  },
+  {
+   "id": "cial",
+   "short": "CIAL",
+   "name": "Cochin International Airport Ltd",
+   "reasons": [
+    "in the news 2026-11-21"
+   ],
+   "score": 1,
+   "price_inr": 440.0,
+   "latest_period": "FY2026"
+  }
+ ],
+ "fallbacks": []
+}

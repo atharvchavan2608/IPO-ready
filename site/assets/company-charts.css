@@ -1,0 +1,17 @@
+.chart-menu { margin: 0 0 14px; }
+.chart-menu > summary { cursor: pointer; }
+.chart-options { display: flex; gap: 8px 16px; flex-wrap: wrap; margin: 9px 0 0; }
+.chart-options label { display: inline-flex; align-items: center; gap: 5px; font-size: 13px; }
+.company-chart-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 260px), 1fr)); gap: 12px; }
+.company-plot, .insight-history { padding: 12px; min-width: 0; border: 1px solid var(--line); border-radius: 10px; background: var(--card); }
+.insight-history { margin: 12px 0; }
+.company-plot h3, .insight-history h3 { margin: 0; }
+.chart-unit, .chart-caption { margin: 4px 0; }
+.chart-empty { min-height: 82px; display: flex; align-items: center; margin: 0; }
+.company-line { width: 100%; height: auto; display: block; }
+.company-line text { font: 12px system-ui, sans-serif; fill: var(--muted); }
+.chart-values { margin-top: 6px; }
+.chart-values summary { font-size: 11px; }
+.chart-values ul { padding-left: 17px; font-size: 12px; }
+.chart-key { display: flex; flex-wrap: wrap; gap: 9px; margin: 6px 0; }
+.chart-key span::before { content: ""; display: inline-block; width: .65em; height: .65em; border-radius: 50%; margin-inline-end: 4px; background: var(--chart-key); }

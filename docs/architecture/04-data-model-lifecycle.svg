@@ -1,0 +1,103 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="1200" viewBox="0 0 1700 1200">
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="context-stroke"/></marker></defs>
+<rect x="0" y="0" width="1700" height="1200" rx="0" fill="#FFFFFF" stroke="none" stroke-width="1.2"/>
+<rect x="0" y="0" width="1700" height="10" rx="0" fill="#117F82" stroke="none" stroke-width="1.2"/>
+<text x="48" y="52.3" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" fill="#117F82" font-weight="700">IPO-READY  /  PRODUCT ARCHITECTURE</text>
+<text x="48" y="102.06" font-family="DejaVu Sans, Arial, sans-serif" font-size="33" fill="#142B43" font-weight="700">Research production | Data and model lifecycle</text>
+<text x="48" y="134.12" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" fill="#52677C" font-weight="400">Asynchronous processing turns the listed data into reusable intelligence; user browsing reads prepared research products.</text>
+<polyline points="48,163 1652,163" fill="none" stroke="#B8C7D5" stroke-width="1"/>
+<polyline points="48,1148 1652,1148" fill="none" stroke="#B8C7D5" stroke-width="1"/>
+<text x="48" y="1174.84" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" fill="#52677C" font-weight="400">MBA (Business Analytics) | Programming Analytics Lab | Target product design | 29 Oct 2026</text>
+<text x="1535" y="1174.84" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" fill="#52677C" font-weight="700">04 / 07</text>
+<rect x="48" y="222" width="368" height="135" rx="12" fill="#FFF5DE" stroke="#A36B12" stroke-width="1.2"/>
+<rect x="48" y="237" width="4" height="105" rx="0" fill="#A36B12" stroke="none" stroke-width="1.2"/>
+<text x="66" y="254.94" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" fill="#142B43" font-weight="700">Filing indexes / metadata</text>
+<text x="66" y="282.3" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" fill="#52677C" font-weight="400">Issuer IDs, forms, accessions, dates and</text>
+<text x="66" y="303.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" fill="#52677C" font-weight="400">amendment links</text>
+<polyline points="232,357 232,397" fill="none" stroke="#A36B12" stroke-width="1.5"/>
+<rect x="460" y="222" width="368" height="135" rx="12" fill="#FFF5DE" stroke="#A36B12" stroke-width="1.2"/>
+<rect x="460" y="237" width="4" height="105" rx="0" fill="#A36B12" stroke="none" stroke-width="1.2"/>
+<text x="478" y="254.94" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" fill="#142B43" font-weight="700">Prospectus / issuer reports</text>
+<text x="478" y="282.3" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" fill="#52677C" font-weight="400">Statements, business, risks, offer structure</text>
+<text x="478" y="303.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" fill="#52677C" font-weight="400">and narrative</text>
+<polyline points="644,357 644,397" fill="none" stroke="#A36B12" stroke-width="1.5"/>
+<rect x="872" y="222" width="368" height="135" rx="12" fill="#FFF5DE" stroke="#A36B12" stroke-width="1.2"/>
+<rect x="872" y="237" width="4" height="105" rx="0" fill="#A36B12" stroke="none" stroke-width="1.2"/>
+<text x="890" y="254.94" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" fill="#142B43" font-weight="700">Peer financial disclosures</text>
+<text x="890" y="282.3" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" fill="#52677C" font-weight="400">Annual/interim facts; XML/XBRL/JSON</text>
+<text x="890" y="303.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" fill="#52677C" font-weight="400">contexts; notes and accounting basis</text>
+<polyline points="1056,357 1056,397" fill="none" stroke="#A36B12" stroke-width="1.5"/>
+<rect x="1284" y="222" width="368" height="135" rx="12" fill="#FFF5DE" stroke="#A36B12" stroke-width="1.2"/>
+<rect x="1284" y="237" width="4" height="105" rx="0" fill="#A36B12" stroke="none" stroke-width="1.2"/>
+<text x="1302" y="254.94" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" fill="#142B43" font-weight="700">Offer terms / market data</text>
+<text x="1302" y="282.3" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" fill="#52677C" font-weight="400">Dated price bands, prices, shares, dilution</text>
+<text x="1302" y="303.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" fill="#52677C" font-weight="400">and corporate actions</text>
+<polyline points="1468,357 1468,397" fill="none" stroke="#A36B12" stroke-width="1.5"/>
+<polyline points="232,397 1468,397" fill="none" stroke="#A36B12" stroke-width="1.5"/>
+<polyline points="232,397 232,459" fill="none" stroke="#A36B12" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="246" y="415" width="189.99609375" height="18" rx="2" fill="#FFFFFF" stroke="none" stroke-width="1.2"/>
+<text x="250" y="426.84" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" fill="#A36B12" font-weight="400">adapters or controlled upload</text>
+<rect x="48" y="459" width="296" height="180" rx="12" fill="#EAF2FD" stroke="#2463AA" stroke-width="1.2"/>
+<rect x="48" y="474" width="4" height="150" rx="0" fill="#2463AA" stroke="none" stroke-width="1.2"/>
+<text x="66" y="493.58" font-family="DejaVu Sans, Arial, sans-serif" font-size="19" fill="#142B43" font-weight="700">Acquire + preserve</text>
+<text x="66" y="521.3" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" fill="#52677C" font-weight="400">Source version, public time,</text>
+<text x="66" y="542.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" fill="#52677C" font-weight="400">retrieval time, checksums and</text>
+<text x="66" y="562.6999999999999" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" fill="#52677C" font-weight="400">original bytes</text>
+<polyline points="344,549 375,549" fill="none" stroke="#117F82" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="375" y="459" width="296" height="180" rx="12" fill="#EAF2FD" stroke="#2463AA" stroke-width="1.2"/>
+<rect x="375" y="474" width="4" height="150" rx="0" fill="#2463AA" stroke="none" stroke-width="1.2"/>
+<text x="393" y="493.58" font-family="DejaVu Sans, Arial, sans-serif" font-size="19" fill="#142B43" font-weight="700">Extract + map</text>
+<text x="393" y="521.3" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" fill="#52677C" font-weight="400">Tables / facts / text; source</text>
+<text x="393" y="542.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" fill="#52677C" font-weight="400">anchors; concepts, periods,</text>
+<text x="393" y="562.6999999999999" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" fill="#52677C" font-weight="400">dimensions and units</text>
+<polyline points="671,549 702,549" fill="none" stroke="#117F82" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="702" y="459" width="296" height="180" rx="12" fill="#EAF2FD" stroke="#2463AA" stroke-width="1.2"/>
+<rect x="702" y="474" width="4" height="150" rx="0" fill="#2463AA" stroke="none" stroke-width="1.2"/>
+<text x="720" y="493.58" font-family="DejaVu Sans, Arial, sans-serif" font-size="19" fill="#142B43" font-weight="700">Normalize + reconcile</text>
+<text x="720" y="521.3" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" fill="#52677C" font-weight="400">Canonical financial definitions;</text>
+<text x="720" y="542.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" fill="#52677C" font-weight="400">basis checks; conflicts and</text>
+<text x="720" y="562.6999999999999" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" fill="#52677C" font-weight="400">missing states</text>
+<polyline points="998,549 1029,549" fill="none" stroke="#117F82" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="1029" y="459" width="296" height="180" rx="12" fill="#E9F6F3" stroke="#117F82" stroke-width="1.2"/>
+<rect x="1029" y="474" width="4" height="150" rx="0" fill="#117F82" stroke="none" stroke-width="1.2"/>
+<text x="1047" y="493.58" font-family="DejaVu Sans, Arial, sans-serif" font-size="19" fill="#142B43" font-weight="700">Quality gates + review</text>
+<text x="1047" y="521.3" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" fill="#52677C" font-weight="400">Automated acceptance rules;</text>
+<text x="1047" y="542.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" fill="#52677C" font-weight="400">material ambiguity to analyst</text>
+<text x="1047" y="562.6999999999999" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" fill="#52677C" font-weight="400">queue; decisions audited</text>
+<polyline points="1325,549 1356,549" fill="none" stroke="#117F82" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="1356" y="459" width="296" height="180" rx="12" fill="#E9F6F3" stroke="#117F82" stroke-width="1.2"/>
+<rect x="1356" y="474" width="4" height="150" rx="0" fill="#117F82" stroke="none" stroke-width="1.2"/>
+<text x="1374" y="493.58" font-family="DejaVu Sans, Arial, sans-serif" font-size="19" fill="#142B43" font-weight="700">Approve fact snapshot</text>
+<text x="1374" y="521.3" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" fill="#52677C" font-weight="400">Eligible versioned data; coverage</text>
+<text x="1374" y="542.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" fill="#52677C" font-weight="400">manifest; exclusions; source and</text>
+<text x="1374" y="562.6999999999999" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" fill="#52677C" font-weight="400">mapping versions</text>
+<rect x="48" y="733" width="500" height="198" rx="12" fill="#EAF2FD" stroke="#2463AA" stroke-width="1.2"/>
+<rect x="48" y="748" width="4" height="168" rx="0" fill="#2463AA" stroke="none" stroke-width="1.2"/>
+<text x="66" y="767.58" font-family="DejaVu Sans, Arial, sans-serif" font-size="19" fill="#142B43" font-weight="700">Financial / feature jobs</text>
+<text x="66" y="796.94" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" fill="#52677C" font-weight="400">Compute deterministic metrics and comparable</text>
+<text x="66" y="820.4000000000001" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" fill="#52677C" font-weight="400">features. Use matched reporting periods. Store</text>
+<text x="66" y="843.86" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" fill="#52677C" font-weight="400">formula versions and operand fact IDs.</text>
+<rect x="600" y="733" width="500" height="198" rx="12" fill="#EAF2FD" stroke="#2463AA" stroke-width="1.2"/>
+<rect x="600" y="748" width="4" height="168" rx="0" fill="#2463AA" stroke="none" stroke-width="1.2"/>
+<text x="618" y="767.58" font-family="DejaVu Sans, Arial, sans-serif" font-size="19" fill="#142B43" font-weight="700">Models + research evaluation</text>
+<text x="618" y="796.94" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" fill="#52677C" font-weight="400">Approve peer sets; execute factor/ranking policies</text>
+<text x="618" y="820.4000000000001" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" fill="#52677C" font-weight="400">and valuation scenarios; test outputs and drift in</text>
+<text x="618" y="843.86" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" fill="#52677C" font-weight="400">input coverage / distributions.</text>
+<rect x="1152" y="733" width="500" height="198" rx="12" fill="#E9F6F3" stroke="#117F82" stroke-width="1.2"/>
+<rect x="1152" y="748" width="4" height="168" rx="0" fill="#117F82" stroke="none" stroke-width="1.2"/>
+<text x="1170" y="767.58" font-family="DejaVu Sans, Arial, sans-serif" font-size="19" fill="#142B43" font-weight="700">Publish research package</text>
+<text x="1170" y="796.94" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" fill="#52677C" font-weight="400">Atomically release company, screener, comparison,</text>
+<text x="1170" y="820.4000000000001" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" fill="#52677C" font-weight="400">scenario and evidence projections under one research</text>
+<text x="1170" y="843.86" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" fill="#52677C" font-weight="400">snapshot ID.</text>
+<polyline points="1504,639 1504,683 298,683 298,733" fill="none" stroke="#117F82" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="670" y="656" width="225.421875" height="18" rx="2" fill="#FFFFFF" stroke="none" stroke-width="1.2"/>
+<text x="674" y="667.84" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" fill="#117F82" font-weight="400">approved snapshot -&gt; computation</text>
+<polyline points="548,832 600,832" fill="none" stroke="#2463AA" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="1100,832 1152,832" fill="none" stroke="#117F82" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="48" y="975" width="1604" height="63" rx="10" fill="#FFF5DE" stroke="none" stroke-width="1.2"/>
+<text x="66" y="1001.3" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" fill="#A36B12" font-weight="700">EXCEPTIONS DO NOT DISAPPEAR</text>
+<text x="66" y="1023.66" font-family="DejaVu Sans, Arial, sans-serif" font-size="13" fill="#52677C" font-weight="400">Failed retrieval / extraction -&gt; bounded retry or repair. Conflicting / ambiguous facts -&gt; review. Incomplete metrics -&gt; explicit unavailable states.</text>
+<rect x="48" y="1062" width="1604" height="72" rx="10" fill="#E9F6F3" stroke="none" stroke-width="1.2"/>
+<text x="66" y="1088.3" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" fill="#117F82" font-weight="700">REFRESH LOOP</text>
+<text x="66" y="1110.66" font-family="DejaVu Sans, Arial, sans-serif" font-size="13" fill="#52677C" font-weight="400">New filing, price refresh, correction or policy change -&gt; identify dependencies -&gt; recompute affected research -&gt; release successor snapshot -&gt; refresh watchlists.</text>
+</svg>

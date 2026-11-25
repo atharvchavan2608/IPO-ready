@@ -1,0 +1,31 @@
+{
+  "items": [
+    {
+      "id": "igx-angel",
+      "path": "igx-angel.html",
+      "url": "https://oga-prod.angelone.in/ipo/indian-gas-exchange-ipo",
+      "sha256": "1b26b7b60585f741e34309178e5480ce1122d24bd9f85c4e693ec8760fbc27e3",
+      "retrieved_at": "2026-11-25T06:45:26.811276+00:00",
+      "bytes": 553024,
+      "status": 200
+    },
+    {
+      "id": "oyo-stopdown",
+      "path": "oyo-stopdown.html",
+      "url": "https://stopdown.in/learn/oyo-ipo-drhp-decoded",
+      "sha256": "8ddfc2991e2770d8cdbdc72966f73ac719a877876d5e8b3803b9e64aa48ae9fd",
+      "retrieved_at": "2026-11-25T06:45:27.203594+00:00",
+      "bytes": 87096,
+      "status": 200
+    },
+    {
+      "id": "oyo-priveq",
+      "path": "oyo-priveq.html",
+      "url": "https://priveq.in/blog/prism-oyo-ipo-drhp-decode-issue-share-count-and-valuation",
+      "sha256": "ec5a7c07ac1205ebb694c75ff33715ec2e919bdbbc4b61cba811fb4bb55c80f5",
+      "retrieved_at": "2026-11-25T06:45:27.032769+00:00",
+      "bytes": 320338,
+      "status": 200
+    }
+  ]
+}

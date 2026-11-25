@@ -1,0 +1,1954 @@
+{
+ "id": "herofincorp",
+ "name": "Hero FinCorp Ltd",
+ "short": "Hero FinCorp",
+ "hierarchy": [
+  "Financials",
+  "Lending",
+  "Non-Banking Finance Companies",
+  "Diversified Retail & MSME Lending"
+ ],
+ "model": "lender",
+ "listed_peers": [
+  "BAJFINANCE",
+  "CHOLAFIN",
+  "LTF"
+ ],
+ "status_note": null,
+ "market_status": null,
+ "quote": {
+  "price_inr": "910.00",
+  "state": "reported",
+  "change_raw": "+ 0.00 %",
+  "kind": "unlisted dealer quote (indicative, not an exchange trade)",
+  "as_of": "2026-11-23T16:44:48+00:00",
+  "high_52w": "1,200.00 (13/12/25)",
+  "low_52w": "910.00 (22/10/26)",
+  "ev": "ev1"
+ },
+ "profile": {
+  "provider_sector": "Financial Service",
+  "isin": "INE957N01016",
+  "cin": "U74899DL1991PLC046774",
+  "registration_date": "16/12/1981",
+  "face_value": "10",
+  "lot_size": null,
+  "drhp_filed": "No",
+  "depository": "nsdl",
+  "rofr": "No",
+  "description": null,
+  "share_details_as_of": "March 31, 2026",
+  "ev": "ev2"
+ },
+ "periods": [
+  "FY2025",
+  "FY2026"
+ ],
+ "basis": "consolidated",
+ "raw_units": [
+  "INR crore"
+ ],
+ "layout": "detailed statements",
+ "fields": {
+  "total_income": {
+   "label": "Total income",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": "9903.33",
+     "state": "reported",
+     "ev": "ev3"
+    },
+    "FY2026": {
+     "value": "9593.41",
+     "state": "reported",
+     "ev": "ev4"
+    }
+   }
+  },
+  "revenue_ops": {
+   "label": "Revenue from operations",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": "9832.73",
+     "state": "reported",
+     "ev": "ev5"
+    },
+    "FY2026": {
+     "value": "9583.26",
+     "state": "reported",
+     "ev": "ev6"
+    }
+   }
+  },
+  "other_income": {
+   "label": "Other income",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": "70.6",
+     "state": "reported",
+     "ev": "ev7"
+    },
+    "FY2026": {
+     "value": "10.15",
+     "state": "reported",
+     "ev": "ev8"
+    }
+   }
+  },
+  "other_gains": {
+   "label": "Other gains / losses",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "job_work_revenue": {
+   "label": "Revenue from job work",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "total_expenses": {
+   "label": "Total expenses",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": "9647.24",
+     "state": "reported",
+     "ev": "ev9"
+    },
+    "FY2026": {
+     "value": "9668.54",
+     "state": "reported",
+     "ev": "ev10"
+    }
+   }
+  },
+  "finance_cost": {
+   "label": "Finance cost",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": "3827.71",
+     "state": "reported",
+     "ev": "ev11"
+    },
+    "FY2026": {
+     "value": "3766.43",
+     "state": "reported",
+     "ev": "ev12"
+    }
+   }
+  },
+  "depreciation": {
+   "label": "Depreciation",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": "95.97",
+     "state": "reported",
+     "ev": "ev13"
+    },
+    "FY2026": {
+     "value": "100.87",
+     "state": "reported",
+     "ev": "ev14"
+    }
+   }
+  },
+  "pbt": {
+   "label": "Profit before tax",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": "256.09",
+     "state": "reported",
+     "ev": "ev15"
+    },
+    "FY2026": {
+     "value": "-75.13",
+     "state": "reported",
+     "ev": "ev16"
+    }
+   }
+  },
+  "tax": {
+   "label": "Tax",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "pat": {
+   "label": "Profit after tax",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": "109.95",
+     "state": "reported",
+     "ev": "ev17"
+    },
+    "FY2026": {
+     "value": "-226.01",
+     "state": "reported",
+     "ev": "ev18"
+    }
+   }
+  },
+  "total_assets": {
+   "label": "Total assets",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": "60042.39",
+     "state": "reported",
+     "ev": "ev19"
+    },
+    "FY2026": {
+     "value": "60191.64",
+     "state": "reported",
+     "ev": "ev20"
+    }
+   }
+  },
+  "total_equity": {
+   "label": "Total equity",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": "59862.73",
+     "state": "derived",
+     "ev": "ev21"
+    },
+    "FY2026": {
+     "value": "59971.91",
+     "state": "derived",
+     "ev": "ev22"
+    }
+   }
+  },
+  "total_liabilities": {
+   "label": "Total liabilities",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "current_assets": {
+   "label": "Current assets",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "current_liabilities": {
+   "label": "Current liabilities",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "inventories": {
+   "label": "Inventories",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "cash": {
+   "label": "Cash & equivalents",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": "1064.6",
+     "state": "reported",
+     "ev": "ev23"
+    },
+    "FY2026": {
+     "value": "416.03",
+     "state": "reported",
+     "ev": "ev24"
+    }
+   }
+  },
+  "loans": {
+   "label": "Loans",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": "53815.3",
+     "state": "reported",
+     "ev": "ev25"
+    },
+    "FY2026": {
+     "value": "54322.68",
+     "state": "reported",
+     "ev": "ev26"
+    }
+   }
+  },
+  "cfo": {
+   "label": "Cash from operations",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": "-3913.66",
+     "state": "reported",
+     "ev": "ev27"
+    },
+    "FY2026": {
+     "value": "85.46",
+     "state": "reported",
+     "ev": "ev28"
+    }
+   }
+  },
+  "cfi": {
+   "label": "Cash from investing",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": "-593.15",
+     "state": "reported",
+     "ev": "ev29"
+    },
+    "FY2026": {
+     "value": "-493.13",
+     "state": "reported",
+     "ev": "ev30"
+    }
+   }
+  },
+  "cff": {
+   "label": "Cash from financing",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": "6372.63",
+     "state": "reported",
+     "ev": "ev31"
+    },
+    "FY2026": {
+     "value": "-1140.9",
+     "state": "reported",
+     "ev": "ev32"
+    }
+   }
+  },
+  "ebitda": {
+   "label": "EBITDA",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "eps": {
+   "label": "EPS (provider)",
+   "unit": "INR",
+   "by_period": {
+    "FY2025": {
+     "value": "8.63",
+     "state": "reported",
+     "ev": "ev33"
+    },
+    "FY2026": {
+     "value": "-17.56",
+     "state": "reported",
+     "ev": "ev34"
+    }
+   }
+  },
+  "shares_outstanding": {
+   "label": "Shares outstanding",
+   "unit": "shares",
+   "by_period": {
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2026": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  }
+ },
+ "documents": [],
+ "reconciliation": null,
+ "agent": {
+  "inventories": {
+   "company": "herofincorp",
+   "field": "inventories",
+   "status": "not_found_no_documents",
+   "summary": "No issuer documents retained for Hero FinCorp; the provider does not report inventories. Expectation: not_expected.",
+   "how_to_verify": "Not verifiable from retained evidence.",
+   "expectation": {
+    "level": "not_expected",
+    "reason": "A lender's assets are loans and investments; inventory is not a working-capital item."
+   },
+   "evidence": [],
+   "evidence_total": 0,
+   "next_checks": [
+    "Audited annual report: balance sheet 'Inventories' line and note on valuation",
+    "MCA AOC-4 financial statement filing (paid access)",
+    "DRHP 'Restated financial information' if the company files for an IPO"
+   ],
+   "trace": [
+    {
+     "step": 1,
+     "tool": "provider_lookup",
+     "input": {
+      "company": "herofincorp",
+      "field": "inventories"
+     },
+     "output": {
+      "found": false,
+      "periods": [],
+      "detail": "no matching line in the provider's parsed statements"
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 2,
+     "tool": "applicability_rule",
+     "input": {
+      "field": "inventories",
+      "business_model": "lender"
+     },
+     "output": {
+      "expectation": "not_expected",
+      "reason": "A lender's assets are loans and investments; inventory is not a working-capital item."
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 3,
+     "tool": "statement_line_check",
+     "input": {
+      "document": null
+     },
+     "output": {
+      "skipped": true,
+      "why": "no retained issuer balance sheet for this company"
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 4,
+     "tool": "document_search",
+     "input": {
+      "documents": [],
+      "patterns": [
+       "\\binventor(?:y|ies)\\b"
+      ]
+     },
+     "output": {
+      "documents_searched": [],
+      "pages_with_word_matches": 0,
+      "pages_with_naive_substring": 0,
+      "note": "naive substring 'inventor' also matches unrelated words (e.g. 'COMPANY' contains 'NPA'); word-boundary patterns used"
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 5,
+     "tool": "classify_passages",
+     "input": {
+      "passages": 0
+     },
+     "output": {
+      "by_kind": {}
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 6,
+     "tool": "verdict",
+     "input": {
+      "signals": {
+       "provider": false,
+       "numeric": 0,
+       "explicit_na": 0,
+       "line_check": null,
+       "expectation": "not_expected"
+      }
+     },
+     "output": {
+      "status": "not_found_no_documents",
+      "summary": "No issuer documents retained for Hero FinCorp; the provider does not report inventories. Expectation: not_expected.",
+      "how_to_verify": "Not verifiable from retained evidence."
+     },
+     "ms": 0.0
+    }
+   ],
+   "executed": "deterministic tool sequence (no language model call)"
+  },
+  "npa": {
+   "company": "herofincorp",
+   "field": "npa",
+   "status": "not_found_no_documents",
+   "summary": "No issuer documents retained for Hero FinCorp; the provider does not report npa. Expectation: expected.",
+   "how_to_verify": "Not verifiable from retained evidence.",
+   "expectation": {
+    "level": "expected",
+    "reason": "Non-performing assets measure a lender's asset quality; NBFCs disclose Stage 3 / GNPA."
+   },
+   "evidence": [],
+   "evidence_total": 0,
+   "next_checks": [
+    "Annual report notes: 'Stage 3 assets', 'Gross NPA', 'Net NPA' (RBI disclosure for NBFCs)",
+    "Investor presentation or credit-rating rationale (ICRA/CRISIL/CARE) for asset-quality figures",
+    "DRHP 'Key performance indicators' section if an IPO is filed"
+   ],
+   "trace": [
+    {
+     "step": 1,
+     "tool": "provider_lookup",
+     "input": {
+      "company": "herofincorp",
+      "field": "gross_npa"
+     },
+     "output": {
+      "found": false,
+      "periods": [],
+      "detail": "no matching line in the provider's parsed statements"
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 2,
+     "tool": "applicability_rule",
+     "input": {
+      "field": "npa",
+      "business_model": "lender"
+     },
+     "output": {
+      "expectation": "expected",
+      "reason": "Non-performing assets measure a lender's asset quality; NBFCs disclose Stage 3 / GNPA."
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 3,
+     "tool": "statement_line_check",
+     "input": {
+      "document": null
+     },
+     "output": {
+      "skipped": true,
+      "why": "no retained issuer balance sheet for this company"
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 4,
+     "tool": "document_search",
+     "input": {
+      "documents": [],
+      "patterns": [
+       "\\bG?N?NPAs?\\b",
+       "\\bnon[- ]performing (?:assets?|loans?)\\b",
+       "\\bstage\\s*(?:3|III)\\s+(?:assets|loans)\\b"
+      ]
+     },
+     "output": {
+      "documents_searched": [],
+      "pages_with_word_matches": 0,
+      "pages_with_naive_substring": 0,
+      "note": "naive substring 'npa' also matches unrelated words (e.g. 'COMPANY' contains 'NPA'); word-boundary patterns used"
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 5,
+     "tool": "classify_passages",
+     "input": {
+      "passages": 0
+     },
+     "output": {
+      "by_kind": {}
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 6,
+     "tool": "verdict",
+     "input": {
+      "signals": {
+       "provider": false,
+       "numeric": 0,
+       "explicit_na": 0,
+       "line_check": null,
+       "expectation": "expected"
+      }
+     },
+     "output": {
+      "status": "not_found_no_documents",
+      "summary": "No issuer documents retained for Hero FinCorp; the provider does not report npa. Expectation: expected.",
+      "how_to_verify": "Not verifiable from retained evidence."
+     },
+     "ms": 0.0
+    }
+   ],
+   "executed": "deterministic tool sequence (no language model call)"
+  }
+ },
+ "metrics": {
+  "FY2025": {
+   "revenue_growth": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "(current / previous) - 1",
+    "inputs": {
+     "current": "9832.73",
+     "previous": null
+    },
+    "unit": "%",
+    "ev": [
+     "ev5"
+    ]
+   },
+   "pat_margin": {
+    "value": "1.1102",
+    "state": "ok",
+    "formula": "PAT / total income x 100",
+    "inputs": {
+     "pat": "109.95",
+     "total_income": "9903.33"
+    },
+    "unit": "%",
+    "ev": [
+     "ev17",
+     "ev3"
+    ]
+   },
+   "net_profit_ratio": {
+    "value": "1.1182",
+    "state": "ok",
+    "formula": "PAT / revenue from operations x 100",
+    "inputs": {
+     "pat": "109.95",
+     "revenue_ops": "9832.73"
+    },
+    "unit": "%",
+    "ev": [
+     "ev17",
+     "ev5"
+    ]
+   },
+   "other_income_share": {
+    "value": "0.7129",
+    "state": "ok",
+    "formula": "other income / total income x 100",
+    "inputs": {
+     "other_income": "70.6",
+     "total_income": "9903.33"
+    },
+    "unit": "%",
+    "ev": [
+     "ev7",
+     "ev3"
+    ]
+   },
+   "current_ratio": {
+    "value": null,
+    "state": "inapplicable",
+    "formula": "current assets / current liabilities",
+    "inputs": {},
+    "note": "lenders and insurers present the balance sheet by liquidity without a current / non-current split",
+    "unit": "x",
+    "ev": []
+   },
+   "quick_ratio": {
+    "value": null,
+    "state": "inapplicable",
+    "formula": "current assets / current liabilities",
+    "inputs": {},
+    "note": "lenders and insurers present the balance sheet by liquidity without a current / non-current split",
+    "unit": "x",
+    "ev": []
+   },
+   "roe": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "PAT / average of opening and closing equity x 100",
+    "inputs": {
+     "pat": "109.95",
+     "average_equity": null
+    },
+    "unit": "%",
+    "ev": [
+     "ev17",
+     "ev21"
+    ]
+   },
+   "roce": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "(PBT + finance cost) / (total assets - current liabilities) x 100",
+    "inputs": {
+     "ebit": "4083.80",
+     "capital_employed": null
+    },
+    "unit": "%",
+    "ev": [
+     "ev15",
+     "ev11",
+     "ev19"
+    ]
+   },
+   "cfo_to_pat": {
+    "value": "-35.5949",
+    "state": "ok",
+    "formula": "cash from operations / PAT",
+    "inputs": {
+     "cfo": "-3913.66",
+     "pat": "109.95"
+    },
+    "unit": "x",
+    "ev": [
+     "ev27",
+     "ev17"
+    ]
+   }
+  },
+  "FY2026": {
+   "revenue_growth": {
+    "value": "-2.5371",
+    "state": "ok",
+    "formula": "(current / previous) - 1",
+    "inputs": {
+     "current": "9583.26",
+     "previous": "9832.73"
+    },
+    "unit": "%",
+    "ev": [
+     "ev6",
+     "ev5"
+    ]
+   },
+   "pat_margin": {
+    "value": "-2.3559",
+    "state": "ok",
+    "formula": "PAT / total income x 100",
+    "inputs": {
+     "pat": "-226.01",
+     "total_income": "9593.41"
+    },
+    "unit": "%",
+    "ev": [
+     "ev18",
+     "ev4"
+    ]
+   },
+   "net_profit_ratio": {
+    "value": "-2.3584",
+    "state": "ok",
+    "formula": "PAT / revenue from operations x 100",
+    "inputs": {
+     "pat": "-226.01",
+     "revenue_ops": "9583.26"
+    },
+    "unit": "%",
+    "ev": [
+     "ev18",
+     "ev6"
+    ]
+   },
+   "other_income_share": {
+    "value": "0.1058",
+    "state": "ok",
+    "formula": "other income / total income x 100",
+    "inputs": {
+     "other_income": "10.15",
+     "total_income": "9593.41"
+    },
+    "unit": "%",
+    "ev": [
+     "ev8",
+     "ev4"
+    ]
+   },
+   "current_ratio": {
+    "value": null,
+    "state": "inapplicable",
+    "formula": "current assets / current liabilities",
+    "inputs": {},
+    "note": "lenders and insurers present the balance sheet by liquidity without a current / non-current split",
+    "unit": "x",
+    "ev": []
+   },
+   "quick_ratio": {
+    "value": null,
+    "state": "inapplicable",
+    "formula": "current assets / current liabilities",
+    "inputs": {},
+    "note": "lenders and insurers present the balance sheet by liquidity without a current / non-current split",
+    "unit": "x",
+    "ev": []
+   },
+   "roe": {
+    "value": "-0.3772",
+    "state": "ok",
+    "formula": "PAT / average of opening and closing equity x 100",
+    "inputs": {
+     "pat": "-226.01",
+     "average_equity": "59917.32"
+    },
+    "unit": "%",
+    "ev": [
+     "ev18",
+     "ev22",
+     "ev21"
+    ]
+   },
+   "roce": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "(PBT + finance cost) / (total assets - current liabilities) x 100",
+    "inputs": {
+     "ebit": "3691.30",
+     "capital_employed": null
+    },
+    "unit": "%",
+    "ev": [
+     "ev16",
+     "ev12",
+     "ev20"
+    ]
+   },
+   "cfo_to_pat": {
+    "value": "-0.3781",
+    "state": "ok",
+    "formula": "cash from operations / PAT",
+    "inputs": {
+     "cfo": "85.46",
+     "pat": "-226.01"
+    },
+    "unit": "x",
+    "ev": [
+     "ev28",
+     "ev18"
+    ]
+   }
+  }
+ },
+ "valuation": {
+  "period": "FY2026",
+  "shares_used": "129627036",
+  "shares_source": "shares_details",
+  "market_cap": {
+   "value": "11796.0603",
+   "state": "ok",
+   "formula": "price (INR) x shares outstanding / 1e7",
+   "inputs": {
+    "price_inr": "910.00",
+    "shares": "129627036"
+   },
+   "unit": "INR crore"
+  },
+  "eps": {
+   "value": "-17.4354",
+   "state": "ok",
+   "formula": "PAT (INR crore) x 1e7 / shares outstanding",
+   "inputs": {
+    "pat_cr": "-226.01",
+    "shares": "129627036"
+   },
+   "unit": "INR"
+  },
+  "pe": {
+   "value": null,
+   "state": "negative_base",
+   "formula": "price / EPS",
+   "inputs": {
+    "price_inr": "910.00",
+    "eps": "-17.4354"
+   },
+   "note": "loss-making: P/E not meaningful",
+   "unit": "x"
+  },
+  "pb": {
+   "value": "0.1967",
+   "state": "ok",
+   "formula": "market cap / total equity",
+   "inputs": {
+    "market_cap": "11796.060276",
+    "total_equity": "59971.91"
+   },
+   "unit": "x"
+  },
+  "ps": {
+   "value": "1.2296",
+   "state": "ok",
+   "formula": "market cap / total income",
+   "inputs": {
+    "market_cap": "11796.060276",
+    "total_income": "9593.41"
+   },
+   "unit": "x"
+  },
+  "provider": {
+   "pe": "-",
+   "mcap": "11,796.06 Crore",
+   "eps": "-17.44"
+  },
+  "note": "Valued at an indicative unlisted dealer quote against the latest fiscal-year PAT; not a traded market price."
+ },
+ "coverage_gaps": [
+  {
+   "field": "inventories",
+   "state": "not_in_source",
+   "label": "Inventories"
+  },
+  {
+   "field": "shares_outstanding",
+   "state": "not_in_source",
+   "label": "Shares outstanding"
+  },
+  {
+   "field": "current_assets",
+   "state": "not_in_source",
+   "label": "Current assets"
+  }
+ ],
+ "checks": [
+  {
+   "check": "income_identity",
+   "period": "FY2025",
+   "result": "pass",
+   "detail": "total income 9903.33 - (operations 9832.73 + other 70.6 + separate income lines 0) = 0.00"
+  },
+  {
+   "check": "income_identity",
+   "period": "FY2026",
+   "result": "pass",
+   "detail": "total income 9593.41 - (operations 9583.26 + other 10.15 + separate income lines 0) = 0.00"
+  }
+ ],
+ "provider_ratios": {},
+ "evidence": {
+  "ev1": {
+   "source": "WWIPL company overview",
+   "url": "https://wwipl.com/unlisted-shares/hero-fincorp-unlisted-share-price",
+   "retrieved_at": "2026-11-23T16:44:48+00:00",
+   "sha256": "6a4473246e60baa3d5916bb1aaf91a2535486def20f498ccccce5ff467a2f391",
+   "capture_run": "20261123T164433Z",
+   "file": "herofincorp-overview.html",
+   "raw_label": "Last Traded Price",
+   "raw_text": "910.00"
+  },
+  "ev2": {
+   "source": "WWIPL company overview",
+   "url": "https://wwipl.com/unlisted-shares/hero-fincorp-unlisted-share-price",
+   "retrieved_at": "2026-11-23T16:44:48+00:00",
+   "sha256": "6a4473246e60baa3d5916bb1aaf91a2535486def20f498ccccce5ff467a2f391",
+   "capture_run": "20261123T164433Z",
+   "file": "herofincorp-overview.html",
+   "raw_label": "Company fundamentals block"
+  },
+  "ev3": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/hero-fincorp-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:50+00:00",
+   "sha256": "b57c464bc8d4872a2551363d8b3d6ce452e77cedd883ffcb0225a790f26ab29a",
+   "capture_run": "20261123T164433Z",
+   "file": "herofincorp-financial.html",
+   "raw_label": "Total Income",
+   "raw_text": "9,903.33",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "31-03-2025",
+   "basis": "consolidated",
+   "anchor": {
+    "file": "herofincorp-financial.html",
+    "table_index": 2,
+    "row_index": 4,
+    "heading": "Hero FinCorp Limited Consolidated Profit & Loss Statement (Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev4": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/hero-fincorp-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:50+00:00",
+   "sha256": "b57c464bc8d4872a2551363d8b3d6ce452e77cedd883ffcb0225a790f26ab29a",
+   "capture_run": "20261123T164433Z",
+   "file": "herofincorp-financial.html",
+   "raw_label": "Total Income",
+   "raw_text": "9,593.41",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "31-03-2026",
+   "basis": "consolidated",
+   "anchor": {
+    "file": "herofincorp-financial.html",
+    "table_index": 2,
+    "row_index": 4,
+    "heading": "Hero FinCorp Limited Consolidated Profit & Loss Statement (Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev5": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/hero-fincorp-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:50+00:00",
+   "sha256": "b57c464bc8d4872a2551363d8b3d6ce452e77cedd883ffcb0225a790f26ab29a",
+   "capture_run": "20261123T164433Z",
+   "file": "herofincorp-financial.html",
+   "raw_label": "Revenue from Operations",
+   "raw_text": "9,832.73",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "31-03-2025",
+   "basis": "consolidated",
+   "anchor": {
+    "file": "herofincorp-financial.html",
+    "table_index": 2,
+    "row_index": 2,
+    "heading": "Hero FinCorp Limited Consolidated Profit & Loss Statement (Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev6": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/hero-fincorp-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:50+00:00",
+   "sha256": "b57c464bc8d4872a2551363d8b3d6ce452e77cedd883ffcb0225a790f26ab29a",
+   "capture_run": "20261123T164433Z",
+   "file": "herofincorp-financial.html",
+   "raw_label": "Revenue from Operations",
+   "raw_text": "9,583.26",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "31-03-2026",
+   "basis": "consolidated",
+   "anchor": {
+    "file": "herofincorp-financial.html",
+    "table_index": 2,
+    "row_index": 2,
+    "heading": "Hero FinCorp Limited Consolidated Profit & Loss Statement (Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev7": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/hero-fincorp-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:50+00:00",
+   "sha256": "b57c464bc8d4872a2551363d8b3d6ce452e77cedd883ffcb0225a790f26ab29a",
+   "capture_run": "20261123T164433Z",
+   "file": "herofincorp-financial.html",
+   "raw_label": "Other Income",
+   "raw_text": "70.60",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "31-03-2025",
+   "basis": "consolidated",
+   "anchor": {
+    "file": "herofincorp-financial.html",
+    "table_index": 2,
+    "row_index": 3,
+    "heading": "Hero FinCorp Limited Consolidated Profit & Loss Statement (Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev8": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/hero-fincorp-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:50+00:00",
+   "sha256": "b57c464bc8d4872a2551363d8b3d6ce452e77cedd883ffcb0225a790f26ab29a",
+   "capture_run": "20261123T164433Z",
+   "file": "herofincorp-financial.html",
+   "raw_label": "Other Income",
+   "raw_text": "10.15",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "31-03-2026",
+   "basis": "consolidated",
+   "anchor": {
+    "file": "herofincorp-financial.html",
+    "table_index": 2,
+    "row_index": 3,
+    "heading": "Hero FinCorp Limited Consolidated Profit & Loss Statement (Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev9": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/hero-fincorp-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:50+00:00",
+   "sha256": "b57c464bc8d4872a2551363d8b3d6ce452e77cedd883ffcb0225a790f26ab29a",
+   "capture_run": "20261123T164433Z",
+   "file": "herofincorp-financial.html",
+   "raw_label": "Total Expenses",
+   "raw_text": "9,647.24",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "31-03-2025",
+   "basis": "consolidated",
+   "anchor": {
+    "file": "herofincorp-financial.html",
+    "table_index": 2,
+    "row_index": 12,
+    "heading": "Hero FinCorp Limited Consolidated Profit & Loss Statement (Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev10": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/hero-fincorp-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:50+00:00",
+   "sha256": "b57c464bc8d4872a2551363d8b3d6ce452e77cedd883ffcb0225a790f26ab29a",
+   "capture_run": "20261123T164433Z",
+   "file": "herofincorp-financial.html",
+   "raw_label": "Total Expenses",
+   "raw_text": "9,668.54",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "31-03-2026",
+   "basis": "consolidated",
+   "anchor": {
+    "file": "herofincorp-financial.html",
+    "table_index": 2,
+    "row_index": 12,
+    "heading": "Hero FinCorp Limited Consolidated Profit & Loss Statement (Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev11": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/hero-fincorp-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:50+00:00",
+   "sha256": "b57c464bc8d4872a2551363d8b3d6ce452e77cedd883ffcb0225a790f26ab29a",
+   "capture_run": "20261123T164433Z",
+   "file": "herofincorp-financial.html",
+   "raw_label": "Finance cost",
+   "raw_text": "3,827.71",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "31-03-2025",
+   "basis": "consolidated",
+   "anchor": {
+    "file": "herofincorp-financial.html",
+    "table_index": 2,
+    "row_index": 6,
+    "heading": "Hero FinCorp Limited Consolidated Profit & Loss Statement (Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev12": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/hero-fincorp-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:50+00:00",
+   "sha256": "b57c464bc8d4872a2551363d8b3d6ce452e77cedd883ffcb0225a790f26ab29a",
+   "capture_run": "20261123T164433Z",
+   "file": "herofincorp-financial.html",
+   "raw_label": "Finance cost",
+   "raw_text": "3,766.43",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "31-03-2026",
+   "basis": "consolidated",
+   "anchor": {
+    "file": "herofincorp-financial.html",
+    "table_index": 2,
+    "row_index": 6,
+    "heading": "Hero FinCorp Limited Consolidated Profit & Loss Statement (Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev13": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/hero-fincorp-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:50+00:00",
+   "sha256": "b57c464bc8d4872a2551363d8b3d6ce452e77cedd883ffcb0225a790f26ab29a",
+   "capture_run": "20261123T164433Z",
+   "file": "herofincorp-financial.html",
+   "raw_label": "Depreciation & amortization expense",
+   "raw_text": "95.97",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "31-03-2025",
+   "basis": "consolidated",
+   "anchor": {
+    "file": "herofincorp-financial.html",
+    "table_index": 2,
+    "row_index": 10,
+    "heading": "Hero FinCorp Limited Consolidated Profit & Loss Statement (Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev14": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/hero-fincorp-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:50+00:00",
+   "sha256": "b57c464bc8d4872a2551363d8b3d6ce452e77cedd883ffcb0225a790f26ab29a",
+   "capture_run": "20261123T164433Z",
+   "file": "herofincorp-financial.html",
+   "raw_label": "Depreciation & amortization expense",
+   "raw_text": "100.87",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "31-03-2026",
+   "basis": "consolidated",
+   "anchor": {
+    "file": "herofincorp-financial.html",
+    "table_index": 2,
+    "row_index": 10,
+    "heading": "Hero FinCorp Limited Consolidated Profit & Loss Statement (Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev15": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/hero-fincorp-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:50+00:00",
+   "sha256": "b57c464bc8d4872a2551363d8b3d6ce452e77cedd883ffcb0225a790f26ab29a",
+   "capture_run": "20261123T164433Z",
+   "file": "herofincorp-financial.html",
+   "raw_label": "Profit before tax and exceptional items",
+   "raw_text": "256.09",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "31-03-2025",
+   "basis": "consolidated",
+   "anchor": {
+    "file": "herofincorp-financial.html",
+    "table_index": 2,
+    "row_index": 13,
+    "heading": "Hero FinCorp Limited Consolidated Profit & Loss Statement (Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev16": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/hero-fincorp-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:50+00:00",
+   "sha256": "b57c464bc8d4872a2551363d8b3d6ce452e77cedd883ffcb0225a790f26ab29a",
+   "capture_run": "20261123T164433Z",
+   "file": "herofincorp-financial.html",
+   "raw_label": "Profit before tax and exceptional items",
+   "raw_text": "-75.13",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "31-03-2026",
+   "basis": "consolidated",
+   "anchor": {
+    "file": "herofincorp-financial.html",
+    "table_index": 2,
+    "row_index": 13,
+    "heading": "Hero FinCorp Limited Consolidated Profit & Loss Statement (Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev17": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/hero-fincorp-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:50+00:00",
+   "sha256": "b57c464bc8d4872a2551363d8b3d6ce452e77cedd883ffcb0225a790f26ab29a",
+   "capture_run": "20261123T164433Z",
+   "file": "herofincorp-financial.html",
+   "raw_label": "Profit/ Loss for the period from continuing operation",
+   "raw_text": "109.95",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "31-03-2025",
+   "basis": "consolidated",
+   "anchor": {
+    "file": "herofincorp-financial.html",
+    "table_index": 2,
+    "row_index": 18,
+    "heading": "Hero FinCorp Limited Consolidated Profit & Loss Statement (Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev18": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/hero-fincorp-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:50+00:00",
+   "sha256": "b57c464bc8d4872a2551363d8b3d6ce452e77cedd883ffcb0225a790f26ab29a",
+   "capture_run": "20261123T164433Z",
+   "file": "herofincorp-financial.html",
+   "raw_label": "Profit/ Loss for the period from continuing operation",
+   "raw_text": "-226.01",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "31-03-2026",
+   "basis": "consolidated",
+   "anchor": {
+    "file": "herofincorp-financial.html",
+    "table_index": 2,
+    "row_index": 18,
+    "heading": "Hero FinCorp Limited Consolidated Profit & Loss Statement (Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev19": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/hero-fincorp-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:50+00:00",
+   "sha256": "b57c464bc8d4872a2551363d8b3d6ce452e77cedd883ffcb0225a790f26ab29a",
+   "capture_run": "20261123T164433Z",
+   "file": "herofincorp-financial.html",
+   "raw_label": "Total assets",
+   "raw_text": "60,042.39",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "31-03-2025",
+   "basis": "consolidated",
+   "anchor": {
+    "file": "herofincorp-financial.html",
+    "table_index": 1,
+    "row_index": 18,
+    "heading": "Hero FinCorp Limited Consolidated Balance Sheet (Rs. in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev20": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/hero-fincorp-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:50+00:00",
+   "sha256": "b57c464bc8d4872a2551363d8b3d6ce452e77cedd883ffcb0225a790f26ab29a",
+   "capture_run": "20261123T164433Z",
+   "file": "herofincorp-financial.html",
+   "raw_label": "Total assets",
+   "raw_text": "60,191.64",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "31-03-2026",
+   "basis": "consolidated",
+   "anchor": {
+    "file": "herofincorp-financial.html",
+    "table_index": 1,
+    "row_index": 18,
+    "heading": "Hero FinCorp Limited Consolidated Balance Sheet (Rs. in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev21": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/hero-fincorp-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:50+00:00",
+   "sha256": "b57c464bc8d4872a2551363d8b3d6ce452e77cedd883ffcb0225a790f26ab29a",
+   "capture_run": "20261123T164433Z",
+   "file": "herofincorp-financial.html",
+   "raw_label": "Sum of 9 lines under 'equity'",
+   "raw_text": null,
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": null,
+   "basis": "consolidated",
+   "anchor": {
+    "file": "herofincorp-financial.html",
+    "table_index": 1,
+    "row_index": 20,
+    "heading": "Hero FinCorp Limited Consolidated Balance Sheet (Rs. in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": true,
+   "components": [
+    {
+     "label": "Equity share capital",
+     "value": "127.41"
+    },
+    {
+     "label": "Other equity",
+     "value": "5625.74"
+    },
+    {
+     "label": "Trade payables – total outstanding dues of micro and small enterprises",
+     "value": "4.91"
+    },
+    {
+     "label": "Trade payables – total outstanding dues other than above",
+     "value": "527.24"
+    },
+    {
+     "label": "Debt securities",
+     "value": "7174.74"
+    },
+    {
+     "label": "Borrowing",
+     "value": "40782.99"
+    },
+    {
+     "label": "Subordinated liabilities",
+     "value": "4996.91"
+    },
+    {
+     "label": "Lease liabilities",
+     "value": "123.87"
+    },
+    {
+     "label": "Other financial liabilities",
+     "value": "498.92"
+    }
+   ]
+  },
+  "ev22": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/hero-fincorp-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:50+00:00",
+   "sha256": "b57c464bc8d4872a2551363d8b3d6ce452e77cedd883ffcb0225a790f26ab29a",
+   "capture_run": "20261123T164433Z",
+   "file": "herofincorp-financial.html",
+   "raw_label": "Sum of 9 lines under 'equity'",
+   "raw_text": null,
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": null,
+   "basis": "consolidated",
+   "anchor": {
+    "file": "herofincorp-financial.html",
+    "table_index": 1,
+    "row_index": 20,
+    "heading": "Hero FinCorp Limited Consolidated Balance Sheet (Rs. in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": true,
+   "components": [
+    {
+     "label": "Equity share capital",
+     "value": "129.63"
+    },
+    {
+     "label": "Other equity",
+     "value": "5770.12"
+    },
+    {
+     "label": "Trade payables – total outstanding dues of micro and small enterprises",
+     "value": "3.92"
+    },
+    {
+     "label": "Trade payables – total outstanding dues other than above",
+     "value": "568.31"
+    },
+    {
+     "label": "Debt securities",
+     "value": "5884.44"
+    },
+    {
+     "label": "Borrowing",
+     "value": "40642.36"
+    },
+    {
+     "label": "Subordinated liabilities",
+     "value": "6123.6"
+    },
+    {
+     "label": "Lease liabilities",
+     "value": "109.36"
+    },
+    {
+     "label": "Other financial liabilities",
+     "value": "740.17"
+    }
+   ]
+  },
+  "ev23": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/hero-fincorp-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:50+00:00",
+   "sha256": "b57c464bc8d4872a2551363d8b3d6ce452e77cedd883ffcb0225a790f26ab29a",
+   "capture_run": "20261123T164433Z",
+   "file": "herofincorp-financial.html",
+   "raw_label": "Cash and cash equivalent",
+   "raw_text": "1,064.60",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "31-03-2025",
+   "basis": "consolidated",
+   "anchor": {
+    "file": "herofincorp-financial.html",
+    "table_index": 1,
+    "row_index": 2,
+    "heading": "Hero FinCorp Limited Consolidated Balance Sheet (Rs. in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev24": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/hero-fincorp-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:50+00:00",
+   "sha256": "b57c464bc8d4872a2551363d8b3d6ce452e77cedd883ffcb0225a790f26ab29a",
+   "capture_run": "20261123T164433Z",
+   "file": "herofincorp-financial.html",
+   "raw_label": "Cash and cash equivalent",
+   "raw_text": "416.03",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "31-03-2026",
+   "basis": "consolidated",
+   "anchor": {
+    "file": "herofincorp-financial.html",
+    "table_index": 1,
+    "row_index": 2,
+    "heading": "Hero FinCorp Limited Consolidated Balance Sheet (Rs. in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev25": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/hero-fincorp-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:50+00:00",
+   "sha256": "b57c464bc8d4872a2551363d8b3d6ce452e77cedd883ffcb0225a790f26ab29a",
+   "capture_run": "20261123T164433Z",
+   "file": "herofincorp-financial.html",
+   "raw_label": "Loans",
+   "raw_text": "53,815.30",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "31-03-2025",
+   "basis": "consolidated",
+   "anchor": {
+    "file": "herofincorp-financial.html",
+    "table_index": 1,
+    "row_index": 6,
+    "heading": "Hero FinCorp Limited Consolidated Balance Sheet (Rs. in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev26": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/hero-fincorp-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:50+00:00",
+   "sha256": "b57c464bc8d4872a2551363d8b3d6ce452e77cedd883ffcb0225a790f26ab29a",
+   "capture_run": "20261123T164433Z",
+   "file": "herofincorp-financial.html",
+   "raw_label": "Loans",
+   "raw_text": "54,322.68",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "31-03-2026",
+   "basis": "consolidated",
+   "anchor": {
+    "file": "herofincorp-financial.html",
+    "table_index": 1,
+    "row_index": 6,
+    "heading": "Hero FinCorp Limited Consolidated Balance Sheet (Rs. in Crores)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev27": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/hero-fincorp-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:50+00:00",
+   "sha256": "b57c464bc8d4872a2551363d8b3d6ce452e77cedd883ffcb0225a790f26ab29a",
+   "capture_run": "20261123T164433Z",
+   "file": "herofincorp-financial.html",
+   "raw_label": "Net Cash from/(used in) Operating Activities",
+   "raw_text": "-3,913.66",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "31-03-2025",
+   "basis": "consolidated",
+   "anchor": {
+    "file": "herofincorp-financial.html",
+    "table_index": 3,
+    "row_index": 31,
+    "heading": "Hero FinCorp Limited Consolidated Cash Flow Statement (Rs in Crores)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev28": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/hero-fincorp-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:50+00:00",
+   "sha256": "b57c464bc8d4872a2551363d8b3d6ce452e77cedd883ffcb0225a790f26ab29a",
+   "capture_run": "20261123T164433Z",
+   "file": "herofincorp-financial.html",
+   "raw_label": "Net Cash from/(used in) Operating Activities",
+   "raw_text": "85.46",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "31-03-2026",
+   "basis": "consolidated",
+   "anchor": {
+    "file": "herofincorp-financial.html",
+    "table_index": 3,
+    "row_index": 31,
+    "heading": "Hero FinCorp Limited Consolidated Cash Flow Statement (Rs in Crores)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev29": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/hero-fincorp-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:50+00:00",
+   "sha256": "b57c464bc8d4872a2551363d8b3d6ce452e77cedd883ffcb0225a790f26ab29a",
+   "capture_run": "20261123T164433Z",
+   "file": "herofincorp-financial.html",
+   "raw_label": "Net Cash from / (used in) Investing Activities",
+   "raw_text": "-593.15",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "31-03-2025",
+   "basis": "consolidated",
+   "anchor": {
+    "file": "herofincorp-financial.html",
+    "table_index": 3,
+    "row_index": 40,
+    "heading": "Hero FinCorp Limited Consolidated Cash Flow Statement (Rs in Crores)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev30": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/hero-fincorp-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:50+00:00",
+   "sha256": "b57c464bc8d4872a2551363d8b3d6ce452e77cedd883ffcb0225a790f26ab29a",
+   "capture_run": "20261123T164433Z",
+   "file": "herofincorp-financial.html",
+   "raw_label": "Net Cash from / (used in) Investing Activities",
+   "raw_text": "-493.13",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "31-03-2026",
+   "basis": "consolidated",
+   "anchor": {
+    "file": "herofincorp-financial.html",
+    "table_index": 3,
+    "row_index": 40,
+    "heading": "Hero FinCorp Limited Consolidated Cash Flow Statement (Rs in Crores)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev31": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/hero-fincorp-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:50+00:00",
+   "sha256": "b57c464bc8d4872a2551363d8b3d6ce452e77cedd883ffcb0225a790f26ab29a",
+   "capture_run": "20261123T164433Z",
+   "file": "herofincorp-financial.html",
+   "raw_label": "Net Cash from/(used in) Financing Activities",
+   "raw_text": "6,372.63",
+   "raw_unit": "INR crore",
+   "period": "FY2025",
+   "period_label": "31-03-2025",
+   "basis": "consolidated",
+   "anchor": {
+    "file": "herofincorp-financial.html",
+    "table_index": 3,
+    "row_index": 56,
+    "heading": "Hero FinCorp Limited Consolidated Cash Flow Statement (Rs in Crores)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev32": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/hero-fincorp-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:50+00:00",
+   "sha256": "b57c464bc8d4872a2551363d8b3d6ce452e77cedd883ffcb0225a790f26ab29a",
+   "capture_run": "20261123T164433Z",
+   "file": "herofincorp-financial.html",
+   "raw_label": "Net Cash from/(used in) Financing Activities",
+   "raw_text": "-1,140.90",
+   "raw_unit": "INR crore",
+   "period": "FY2026",
+   "period_label": "31-03-2026",
+   "basis": "consolidated",
+   "anchor": {
+    "file": "herofincorp-financial.html",
+    "table_index": 3,
+    "row_index": 56,
+    "heading": "Hero FinCorp Limited Consolidated Cash Flow Statement (Rs in Crores)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev33": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/hero-fincorp-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:50+00:00",
+   "sha256": "b57c464bc8d4872a2551363d8b3d6ce452e77cedd883ffcb0225a790f26ab29a",
+   "capture_run": "20261123T164433Z",
+   "file": "herofincorp-financial.html",
+   "raw_label": "Basic",
+   "raw_text": "8.63",
+   "raw_unit": "INR per share",
+   "period": "FY2025",
+   "period_label": "31-03-2025",
+   "basis": "consolidated",
+   "anchor": {
+    "file": "herofincorp-financial.html",
+    "table_index": 2,
+    "row_index": 28,
+    "heading": "Hero FinCorp Limited Consolidated Profit & Loss Statement (Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev34": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/hero-fincorp-unlisted-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:50+00:00",
+   "sha256": "b57c464bc8d4872a2551363d8b3d6ce452e77cedd883ffcb0225a790f26ab29a",
+   "capture_run": "20261123T164433Z",
+   "file": "herofincorp-financial.html",
+   "raw_label": "Basic",
+   "raw_text": "-17.56",
+   "raw_unit": "INR per share",
+   "period": "FY2026",
+   "period_label": "31-03-2026",
+   "basis": "consolidated",
+   "anchor": {
+    "file": "herofincorp-financial.html",
+    "table_index": 2,
+    "row_index": 28,
+    "heading": "Hero FinCorp Limited Consolidated Profit & Loss Statement (Rs in Crores)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  }
+ },
+ "news": {
+  "query": "\"Hero FinCorp\"",
+  "retrieved_at": "2026-11-23T16:46:11+00:00",
+  "items": [
+   {
+    "title": "Hero FinCorp aims to double loan disbursements over next two quarters",
+    "publisher": "BusinessLine",
+    "date": "2026-11-22",
+    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPcUpfclRHZXJaQ1VUWE11LTFaaFV6czNlekZmNE9EQTVoYk4zY29hNkhEZEV2X0dVRkRLS0poUS1ONzRXU1BlejVNS3FOYzBRYTlpS19FUWJxOU5JbGhJYU5pXzRlaEdPdXI1WHd3RkstREU0VWJOMG1lTnNDam1OMXVJNVRmZU94T3lDMzc0djhmbm5NMUM2clZlcVFJUWNfMk1Qc3NnM1dZcDBRaHRhb2xTaGVWYXJyeFRocTlURFM2S3dxYmRKbEJkSzIxLXFodFdxeGk5Q0pDN3pQ0gHjAUFVX3lxTFAyMEFDSHhVRFhfLWVDcUZyME43NThoZy0xeExvTWZKR3hTRzRMbEE1dU1IdU5jcmRlZDVyNEQ5YjM0anozUkFWV2pwa0JpVWNlMUhzcVFMenFGVk5rNnBPWE42UjdXdDUtcElvSXZYSzUzbGxzbDdWODdCdlNyY1prV0JHU1pYbXRyZ2NkTm80WmpNMGhrOW5mdzV2UDhvRkVyUzJXdzh5ZXJoaHFlLUZJeWoxYzNsYTJpazM1ZDhtbG1DQUR3NmVYczliUHNlWm9YNVBJYzFCVXVZVDdUSndVazVV?oc=5"
+   },
+   {
+    "title": "Hero FinCorp Aims to Double Loan Disbursements Next Quarters",
+    "publisher": "Rediff MoneyWiz",
+    "date": "2026-11-21",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQ004cTdhMGdoazBfbWJUVVgyeFM5dkVFV3psVjEzVjdTMFJoRS1FVzZzU3FaRjJGN3ZudV9BbFEzTDVjbVgzRzQxb3RCbDBpa0syU3BMeFF6WjFHUEpWa2g5QlZtNnFiQWJKQVNaaDdZTjJ4YVFxNzNKRDNINVJCQnBpMHFicDNIXy1ZdzRtMlZlUWRmOGUycmk4TVZ2MEpYc1ZhbVVpVEFKV25zWVlFOFRR0gG3AUFVX3lxTE13SHNaR2lmbzFwQ00xdlhpOWZHdlFoSEQ2N3g1RU13T0VGczJxUVY0VnJCeXlDY2ZOSlR2NHVHNmFQczVDM1dLMjBwZm9yOVVZdEc5czdtYjBNeVc1QjVDaEFuT21xQmFaQ0Q0RVAxN1ZfaW03YkYxNndRMTN2eTVsbVBhQlZibURnVnBJN2p1SUJVT2R1WF9yVFRQNkEtWEp4UV8tNS1BUXVqNkl5emhQbV94WXJ2Zw?oc=5"
+   },
+   {
+    "title": "Hero FinCorp disburses over 2.37 lakh loans across East India in 2026, aims to double growth over the next two quarters",
+    "publisher": "India Education Diary",
+    "date": "2026-11-21",
+    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOLVlnZmNPaWVFQ2VmQ25relgzYXJiUmRsSmlCa0pxOWtSajktQTZCRzV6RXlDZWw3V29KVFhLRUtjWVg2ZUt4OWhUM1V1V2YyUnMyRzRmVGtscUFmMVk2MnAwNHphX2pNQ2tyaG9naVdER3dpdWZqQURwc09GWjJYbWxJYmQzUkdYVFZlZWhxRUlmMDlULTdsQTNMWHFTNmMzV1VRaWdlTXBaZkZnX19GT2QwOEphOG1rYUY5NFVnWkk3SVBQOWxITlhLWFVmNHpoQ2g5R3k0OGU4YlV2T1MtOXVZN2w?oc=5"
+   },
+   {
+    "title": "Hackers are hijacking approved loans. 12 Delhi-NCR firms lose Rs 65 crore",
+    "publisher": "The Indian Express",
+    "date": "2026-11-17",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQaDdxbm00ckhPU09Ec19aazN0bzIwMW9SNDNtajZsQlh6eUVZQno0NjlMNG93c2RlUkZBb3NaZ2Jha2V2ci1rUnJvNk9aVEd5QlhRTVd0cXNNUTJrMVpJZzJ4RzBZNjZPSFFwc0VfZWJSY0FUN2w1YVh3Y2lDRjNHckpWOHh1UGR1aXNhUVpWN3J2ZDdxYWF6OXBlY1kzSm5XRHV5RG5CYzFSZlVRdF90dG1BaDFVRmtnREJEa29KREkwNFZxX21XcTVvSdIB0gFBVV95cUxPbW4tcTdEZk5Fa1dxTWhwWV83QllTcjZqNHhxXzAyMExuS2xEcDNSaC1Gb2d0QlczdU1TbS1sTVRia29LNWo5VkVQdmxzZnJXc0tmel9GT1dYM0l0eFAwYW1fdjd2cG1xZE1XQzRWbEhSU2JKeWxVaTVQejVHOVZLZHY1YWdmMGtZS1UtcDZIWDQ5ZFRzaDByNmpQNHBHOWlpczc3M2M0bFdUcVM4WTFiVFBwS2dwOTJHZ2VDRE9sUnBKTmo1YjcxMnRqdjFhMzVoN3c?oc=5"
+   },
+   {
+    "title": "Hero FinCorp’s Profit Comeback Is Off to a Strong Start",
+    "publisher": "UnlistedZone",
+    "date": "2026-10-29",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1KZmgwbzZLQmVjMTdsdnBGcW5uby1rdzB1ckcwdkwtX0stLU5OLVduSmRXb1lBTDBHZUtNUWlYWmxsQ0dpR3dnT0J3Ml9uTTNJaE9yUTUzMGR2LUFOY2tUSTlYNA?oc=5"
+   },
+   {
+    "title": "🚀 Hero FinCorp Q2 FY27 Results: ₹150 Cr Profit Turnaround, Gross NPAs Fall to 3.48%",
+    "publisher": "LinkedIn",
+    "date": "2026-10-29",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSVZXakI0VVZ0THRjZGFiS1YtZ0xkRzRCM2Q1TFgzV2VZVDBmMURQdkFySjk4UC1TMi1fYld4Z0J5WVR4Qy1yT1JUUldPQ3lwRTI5SW5XY2J5bEdXTGNDZTNrVm9xSHFmcTE2THVkSWZkU0NJWXFHN01PTGROaUpQeWc3YkFYWDJ5UmY5QVVpQ05nNVVN?oc=5"
+   },
+   {
+    "title": "From credit score to context: How Hero FinCorp is using AI to transform lending",
+    "publisher": "ET Enterprise AI",
+    "date": "2026-10-07",
+    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNa2FjZGtHaS1ZQVIyejdnUkZCalV4R2JWel9MRXlFbUhfZGxUQ09tZndIVGhCSWVsNFQ0RG4yQXZqMUVra0k0NXVVYjFmNjNwenlsbWk0X1ZmRTJ5eUxGZFdGN3ZhamNrcktEWjgySGVJeV9NRUlid1F3WWQ3Rml2VzhlMGI3dEdzNjhlT0dqbXA0SkNrRThlYjQ4clJwcFdIQWFGcUdBaEFYaFlGVG1IYzVpZDBPSzJUbmc1TjhiakdwNGczMmM0Z01sVjBYakd4LTJXaEZOTVVla091QkF4SUxBYWJsR1hPeDY0Z9IB8gFBVV95cUxNYy1VaXFsZ3N2RnE2cVRXT3pKdXA1MXhhV0V1ejFEd1dEd2E0LU9GOGtSV1dKeURzaldwRnB6UmFZYWFnS0tFaUtsUk5WSWJlclFCNWY5MzhnUkxacWtYbzBLdEo4NWFLbk1VVXdmc2l5M2RfSTJvXzRkdjhLNkNNTVBEYi1LZFpkdkd3RmJWUUtKYi15aHRCT1FGMDk3eDQxUWJDQ3dJdGZ4X3JaYk8wdk9DMTlCa1MtcVJUbmsxS1d2eGpTVGR3UzBGbXlrVjJ6QnE3Ml91UTlvTktPSHNMZUxUcm1UcnY3X0Vpa2NTWGhhdw?oc=5"
+   },
+   {
+    "title": "“There’s a business world by the men, for the men,Of the Men” says Priya Kashyap, COO, Hero FinCorp, highlighting the need for greater representation of women in boardrooms and business leadership. Kashyap also challenges the idea that flexibility at wor",
+    "publisher": "LinkedIn",
+    "date": "2026-09-30",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQmNXUTRNRl9CeU1KSEJmLVloVDdrSnBVQmdkSHlic0NZYmdrQTZTazh4SGpJbFR0VFZfYU1wX1ZBTUFXMkhFZXpJd3dSYXNWSnJPbUl5Q0FjSVAtNnlvbkJfcTdEVTkxbmQtZjFzaXhPMWwwVFV6UHFkbXAwUVRJQURsMWtzVWRjZmxFc2MzQ2o4WkNKemZuNUp1UTZCaWwzUkREX3RIUUpNd25iY0w4bGFxdjFMNmstUUZj?oc=5"
+   }
+  ],
+  "source": {
+   "name": "Google News RSS search",
+   "url": "https://news.google.com/rss/search?q=%22Hero+FinCorp%22&hl=en-IN&gl=IN&ceid=IN:en",
+   "sha256": "2e44de3365205c35a88547129dbe6da749abd36150e346bb8c50ff98c40f4f03",
+   "run": "20261123T164603Z"
+  }
+ },
+ "peer_reviewed": true,
+ "discovery": [
+  {
+   "id": "ncdex",
+   "short": "NCDEX",
+   "name": "National Commodity & Derivatives Exchange Ltd",
+   "reasons": [
+    "provider reports DRHP filed (IPO research lead)",
+    "in the news 2026-11-11"
+   ],
+   "score": 3,
+   "price_inr": 253.0,
+   "latest_period": "FY2026"
+  },
+  {
+   "id": "oyo",
+   "short": "OYO",
+   "name": "Oravel Stays Ltd (OYO)",
+   "reasons": [
+    "provider reports DRHP filed (IPO research lead)",
+    "in the news 2026-11-23"
+   ],
+   "score": 3,
+   "price_inr": 20.45,
+   "latest_period": "FY2026"
+  },
+  {
+   "id": "pharmeasy",
+   "short": "PharmEasy",
+   "name": "API Holdings Ltd (PharmEasy)",
+   "reasons": [
+    "provider reports DRHP filed (IPO research lead)",
+    "in the news 2026-10-28"
+   ],
+   "score": 3,
+   "price_inr": 6.15,
+   "latest_period": "FY2026"
+  },
+  {
+   "id": "axlesindia",
+   "short": "Axles India",
+   "name": "Axles India Ltd",
+   "reasons": [
+    "in the news 2026-11-20"
+   ],
+   "score": 1,
+   "price_inr": 525.0,
+   "latest_period": "FY2026"
+  },
+  {
+   "id": "cial",
+   "short": "CIAL",
+   "name": "Cochin International Airport Ltd",
+   "reasons": [
+    "in the news 2026-11-21"
+   ],
+   "score": 1,
+   "price_inr": 440.0,
+   "latest_period": "FY2026"
+  },
+  {
+   "id": "csk",
+   "short": "CSK",
+   "name": "Chennai Super Kings Cricket Ltd",
+   "reasons": [
+    "in the news 2026-11-20"
+   ],
+   "score": 1,
+   "price_inr": 245.0,
+   "latest_period": "FY2026"
+  }
+ ],
+ "fallbacks": []
+}

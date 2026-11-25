@@ -1,0 +1,2329 @@
+{
+ "id": "icex",
+ "name": "Indian Commodity Exchange Ltd",
+ "short": "ICEX",
+ "hierarchy": [
+  "Financials",
+  "Capital Markets",
+  "Exchanges & Trading Platforms",
+  "Energy & Commodity Exchanges"
+ ],
+ "model": "exchange",
+ "listed_peers": [
+  "MCX"
+ ],
+ "status_note": null,
+ "market_status": null,
+ "quote": {
+  "price_inr": "4.00",
+  "state": "reported",
+  "change_raw": "+ 0.00 %",
+  "kind": "unlisted dealer quote (indicative, not an exchange trade)",
+  "as_of": "2026-11-23T16:44:46+00:00",
+  "high_52w": "5.00 (16/09/26)",
+  "low_52w": "2.45 (10/08/26)",
+  "ev": "ev1"
+ },
+ "profile": {
+  "provider_sector": "Financial Service",
+  "isin": "INE678L01012",
+  "cin": "U66190GJ2008PLC099142",
+  "registration_date": "18/08/2008",
+  "face_value": "5",
+  "lot_size": null,
+  "drhp_filed": "No",
+  "depository": "nsdl",
+  "rofr": "No",
+  "description": null,
+  "share_details_as_of": "March 31, 2025",
+  "ev": "ev2"
+ },
+ "periods": [
+  "FY2024",
+  "FY2025"
+ ],
+ "basis": "standalone",
+ "raw_units": [
+  "INR thousand"
+ ],
+ "layout": "detailed statements",
+ "fields": {
+  "total_income": {
+   "label": "Total income",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2024": {
+     "value": "9.613393",
+     "state": "reported",
+     "ev": "ev3"
+    },
+    "FY2025": {
+     "value": "6.16101",
+     "state": "reported",
+     "ev": "ev4"
+    }
+   }
+  },
+  "revenue_ops": {
+   "label": "Revenue from operations",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2024": {
+     "value": "0.00609",
+     "state": "reported",
+     "ev": "ev5"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "dash",
+     "ev": "ev6"
+    }
+   }
+  },
+  "other_income": {
+   "label": "Other income",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2024": {
+     "value": "9.607303",
+     "state": "reported",
+     "ev": "ev7"
+    },
+    "FY2025": {
+     "value": "6.16101",
+     "state": "reported",
+     "ev": "ev8"
+    }
+   }
+  },
+  "other_gains": {
+   "label": "Other gains / losses",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "job_work_revenue": {
+   "label": "Revenue from job work",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "total_expenses": {
+   "label": "Total expenses",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2024": {
+     "value": "6.696796",
+     "state": "reported",
+     "ev": "ev9"
+    },
+    "FY2025": {
+     "value": "5.05785",
+     "state": "reported",
+     "ev": "ev10"
+    }
+   }
+  },
+  "finance_cost": {
+   "label": "Finance cost",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2024": {
+     "value": "0.077904",
+     "state": "reported",
+     "ev": "ev11"
+    },
+    "FY2025": {
+     "value": "0.021504",
+     "state": "reported",
+     "ev": "ev12"
+    }
+   }
+  },
+  "depreciation": {
+   "label": "Depreciation",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2024": {
+     "value": "0.903279",
+     "state": "reported",
+     "ev": "ev13"
+    },
+    "FY2025": {
+     "value": "0.619477",
+     "state": "reported",
+     "ev": "ev14"
+    }
+   }
+  },
+  "pbt": {
+   "label": "Profit before tax",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2024": {
+     "value": "2.916597",
+     "state": "reported",
+     "ev": "ev15"
+    },
+    "FY2025": {
+     "value": "1.10316",
+     "state": "reported",
+     "ev": "ev16"
+    }
+   }
+  },
+  "tax": {
+   "label": "Tax",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "pat": {
+   "label": "Profit after tax",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2024": {
+     "value": "2.916597",
+     "state": "reported",
+     "ev": "ev17"
+    },
+    "FY2025": {
+     "value": "1.10316",
+     "state": "reported",
+     "ev": "ev18"
+    }
+   }
+  },
+  "total_assets": {
+   "label": "Total assets",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2024": {
+     "value": "78.84432",
+     "state": "reported",
+     "ev": "ev19"
+    },
+    "FY2025": {
+     "value": "78.390099",
+     "state": "reported",
+     "ev": "ev20"
+    }
+   }
+  },
+  "total_equity": {
+   "label": "Total equity",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2024": {
+     "value": "69.054606",
+     "state": "derived",
+     "ev": "ev21"
+    },
+    "FY2025": {
+     "value": "266.753738",
+     "state": "derived",
+     "ev": "ev22"
+    }
+   }
+  },
+  "total_liabilities": {
+   "label": "Total liabilities",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "current_assets": {
+   "label": "Current assets",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2024": {
+     "value": "63.096181",
+     "state": "derived",
+     "ev": "ev23"
+    },
+    "FY2025": {
+     "value": "62.531470",
+     "state": "derived",
+     "ev": "ev24"
+    }
+   }
+  },
+  "current_liabilities": {
+   "label": "Current liabilities",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2024": {
+     "value": "9.111055",
+     "state": "derived",
+     "ev": "ev25"
+    },
+    "FY2025": {
+     "value": "7.688394",
+     "state": "derived",
+     "ev": "ev26"
+    }
+   }
+  },
+  "inventories": {
+   "label": "Inventories",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "cash": {
+   "label": "Cash & equivalents",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2024": {
+     "value": "0.140095",
+     "state": "reported",
+     "ev": "ev27"
+    },
+    "FY2025": {
+     "value": "0.32712",
+     "state": "reported",
+     "ev": "ev28"
+    }
+   }
+  },
+  "loans": {
+   "label": "Loans",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "cfo": {
+   "label": "Cash from operations",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2024": {
+     "value": "-9.636152",
+     "state": "reported",
+     "ev": "ev29"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "unparsed",
+     "ev": "ev30"
+    }
+   }
+  },
+  "cfi": {
+   "label": "Cash from investing",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2024": {
+     "value": "10.242434",
+     "state": "reported",
+     "ev": "ev31"
+    },
+    "FY2025": {
+     "value": "7.901544",
+     "state": "reported",
+     "ev": "ev32"
+    }
+   }
+  },
+  "cff": {
+   "label": "Cash from financing",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2024": {
+     "value": "-0.569622",
+     "state": "reported",
+     "ev": "ev33"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "unparsed",
+     "ev": "ev34"
+    }
+   }
+  },
+  "ebitda": {
+   "label": "EBITDA",
+   "unit": "INR crore",
+   "by_period": {
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  },
+  "eps": {
+   "label": "EPS (provider)",
+   "unit": "INR",
+   "by_period": {
+    "FY2024": {
+     "value": "0.05",
+     "state": "reported",
+     "ev": "ev35"
+    },
+    "FY2025": {
+     "value": "0.02",
+     "state": "reported",
+     "ev": "ev36"
+    }
+   }
+  },
+  "shares_outstanding": {
+   "label": "Shares outstanding",
+   "unit": "shares",
+   "by_period": {
+    "FY2024": {
+     "value": null,
+     "state": "not_in_source"
+    },
+    "FY2025": {
+     "value": null,
+     "state": "not_in_source"
+    }
+   }
+  }
+ },
+ "cash_flow": {
+  "unit": "INR crore",
+  "by_period": {
+   "FY2024": {
+    "basis": "standalone",
+    "origin": "provider",
+    "lines": {
+     "opening": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "cfo": {
+      "value": "-9.636152",
+      "state": "reported",
+      "ev": "ev29"
+     },
+     "cfi": {
+      "value": "10.242434",
+      "state": "reported",
+      "ev": "ev31"
+     },
+     "cff": {
+      "value": "-0.569622",
+      "state": "reported",
+      "ev": "ev33"
+     },
+     "other_effects": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "net_change": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "closing": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "before_working_capital": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "receivables": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "other_assets": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "payables_and_liabilities": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "tax_paid": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "capex": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "net_investment_purchases": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "debt_principal": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "lease_principal": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "lease_interest": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "overdraft_interest": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "share_proceeds": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "dividends": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "current_accounts": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "settlement_accounts": {
+      "state": "not_in_source",
+      "value": null
+     }
+    },
+    "reconciliation": {
+     "state": "partial"
+    },
+    "provider_comparison": null
+   },
+   "FY2025": {
+    "basis": "standalone",
+    "origin": "provider",
+    "lines": {
+     "opening": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "cfo": {
+      "value": null,
+      "state": "unparsed",
+      "ev": "ev30"
+     },
+     "cfi": {
+      "value": "7.901544",
+      "state": "reported",
+      "ev": "ev32"
+     },
+     "cff": {
+      "value": null,
+      "state": "unparsed",
+      "ev": "ev34"
+     },
+     "other_effects": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "net_change": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "closing": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "before_working_capital": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "receivables": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "other_assets": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "payables_and_liabilities": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "tax_paid": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "capex": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "net_investment_purchases": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "debt_principal": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "lease_principal": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "lease_interest": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "overdraft_interest": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "share_proceeds": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "dividends": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "current_accounts": {
+      "state": "not_in_source",
+      "value": null
+     },
+     "settlement_accounts": {
+      "state": "not_in_source",
+      "value": null
+     }
+    },
+    "reconciliation": {
+     "state": "partial"
+    },
+    "provider_comparison": null
+   }
+  }
+ },
+ "documents": [],
+ "reconciliation": null,
+ "agent": {
+  "inventories": {
+   "company": "icex",
+   "field": "inventories",
+   "status": "not_found_no_documents",
+   "summary": "No issuer documents retained for ICEX; the provider does not report inventories. Expectation: not_expected.",
+   "how_to_verify": "Not verifiable from retained evidence.",
+   "expectation": {
+    "level": "not_expected",
+    "reason": "An exchange earns transaction and membership fees; it does not hold goods for sale."
+   },
+   "evidence": [],
+   "evidence_total": 0,
+   "next_checks": [
+    "Audited annual report: balance sheet 'Inventories' line and note on valuation",
+    "MCA AOC-4 financial statement filing (paid access)",
+    "DRHP 'Restated financial information' if the company files for an IPO"
+   ],
+   "trace": [
+    {
+     "step": 1,
+     "tool": "provider_lookup",
+     "input": {
+      "company": "icex",
+      "field": "inventories"
+     },
+     "output": {
+      "found": false,
+      "periods": [],
+      "detail": "no matching line in the provider's parsed statements"
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 2,
+     "tool": "applicability_rule",
+     "input": {
+      "field": "inventories",
+      "business_model": "exchange"
+     },
+     "output": {
+      "expectation": "not_expected",
+      "reason": "An exchange earns transaction and membership fees; it does not hold goods for sale."
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 3,
+     "tool": "statement_line_check",
+     "input": {
+      "document": null
+     },
+     "output": {
+      "skipped": true,
+      "why": "no retained issuer balance sheet for this company"
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 4,
+     "tool": "document_search",
+     "input": {
+      "documents": [],
+      "patterns": [
+       "\\binventor(?:y|ies)\\b"
+      ]
+     },
+     "output": {
+      "documents_searched": [],
+      "pages_with_word_matches": 0,
+      "pages_with_naive_substring": 0,
+      "note": "naive substring 'inventor' also matches unrelated words (e.g. 'COMPANY' contains 'NPA'); word-boundary patterns used"
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 5,
+     "tool": "classify_passages",
+     "input": {
+      "passages": 0
+     },
+     "output": {
+      "by_kind": {}
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 6,
+     "tool": "verdict",
+     "input": {
+      "signals": {
+       "provider": false,
+       "numeric": 0,
+       "explicit_na": 0,
+       "line_check": null,
+       "expectation": "not_expected"
+      }
+     },
+     "output": {
+      "status": "not_found_no_documents",
+      "summary": "No issuer documents retained for ICEX; the provider does not report inventories. Expectation: not_expected.",
+      "how_to_verify": "Not verifiable from retained evidence."
+     },
+     "ms": 0.0
+    }
+   ],
+   "executed": "deterministic tool sequence (no language model call)"
+  },
+  "npa": {
+   "company": "icex",
+   "field": "npa",
+   "status": "inapplicable",
+   "summary": "Not applicable by business model: NPA is a lender asset-quality measure; this business has no loan book to classify.",
+   "how_to_verify": "No mentions to review; the business-model rule decides.",
+   "expectation": {
+    "level": "not_applicable",
+    "reason": "NPA is a lender asset-quality measure; this business has no loan book to classify."
+   },
+   "evidence": [],
+   "evidence_total": 0,
+   "next_checks": [
+    "Annual report notes: 'Stage 3 assets', 'Gross NPA', 'Net NPA' (RBI disclosure for NBFCs)"
+   ],
+   "trace": [
+    {
+     "step": 1,
+     "tool": "provider_lookup",
+     "input": {
+      "company": "icex",
+      "field": "gross_npa"
+     },
+     "output": {
+      "found": false,
+      "periods": [],
+      "detail": "no matching line in the provider's parsed statements"
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 2,
+     "tool": "applicability_rule",
+     "input": {
+      "field": "npa",
+      "business_model": "exchange"
+     },
+     "output": {
+      "expectation": "not_applicable",
+      "reason": "NPA is a lender asset-quality measure; this business has no loan book to classify."
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 3,
+     "tool": "statement_line_check",
+     "input": {
+      "document": null
+     },
+     "output": {
+      "skipped": true,
+      "why": "no retained issuer balance sheet for this company"
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 4,
+     "tool": "document_search",
+     "input": {
+      "documents": [],
+      "patterns": [
+       "\\bG?N?NPAs?\\b",
+       "\\bnon[- ]performing (?:assets?|loans?)\\b",
+       "\\bstage\\s*(?:3|III)\\s+(?:assets|loans)\\b"
+      ]
+     },
+     "output": {
+      "documents_searched": [],
+      "pages_with_word_matches": 0,
+      "pages_with_naive_substring": 0,
+      "note": "naive substring 'npa' also matches unrelated words (e.g. 'COMPANY' contains 'NPA'); word-boundary patterns used"
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 5,
+     "tool": "classify_passages",
+     "input": {
+      "passages": 0
+     },
+     "output": {
+      "by_kind": {}
+     },
+     "ms": 0.0
+    },
+    {
+     "step": 6,
+     "tool": "verdict",
+     "input": {
+      "signals": {
+       "provider": false,
+       "numeric": 0,
+       "explicit_na": 0,
+       "line_check": null,
+       "expectation": "not_applicable"
+      }
+     },
+     "output": {
+      "status": "inapplicable",
+      "summary": "Not applicable by business model: NPA is a lender asset-quality measure; this business has no loan book to classify.",
+      "how_to_verify": "No mentions to review; the business-model rule decides."
+     },
+     "ms": 0.0
+    }
+   ],
+   "executed": "deterministic tool sequence (no language model call)"
+  }
+ },
+ "metrics": {
+  "FY2024": {
+   "revenue_growth": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "(current / previous) - 1",
+    "inputs": {
+     "current": "0.00609",
+     "previous": null
+    },
+    "unit": "%",
+    "ev": [
+     "ev5"
+    ]
+   },
+   "pat_margin": {
+    "value": "30.3389",
+    "state": "ok",
+    "formula": "PAT / total income x 100",
+    "inputs": {
+     "pat": "2.916597",
+     "total_income": "9.613393"
+    },
+    "unit": "%",
+    "ev": [
+     "ev17",
+     "ev3"
+    ]
+   },
+   "net_profit_ratio": {
+    "value": "47891.5764",
+    "state": "ok",
+    "formula": "PAT / revenue from operations x 100",
+    "inputs": {
+     "pat": "2.916597",
+     "revenue_ops": "0.00609"
+    },
+    "unit": "%",
+    "ev": [
+     "ev17",
+     "ev5"
+    ]
+   },
+   "other_income_share": {
+    "value": "99.9367",
+    "state": "ok",
+    "formula": "other income / total income x 100",
+    "inputs": {
+     "other_income": "9.607303",
+     "total_income": "9.613393"
+    },
+    "unit": "%",
+    "ev": [
+     "ev7",
+     "ev3"
+    ]
+   },
+   "current_ratio": {
+    "value": "6.9252",
+    "state": "ok",
+    "formula": "current assets / current liabilities",
+    "inputs": {
+     "current_assets": "63.096181",
+     "current_liabilities": "9.111055"
+    },
+    "unit": "x",
+    "ev": [
+     "ev23",
+     "ev25"
+    ]
+   },
+   "quick_ratio": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "(current assets - inventories) / current liabilities",
+    "inputs": {
+     "current_assets": "63.096181",
+     "inventories": null,
+     "current_liabilities": "9.111055"
+    },
+    "note": "inventories not disclosed in the available source; quick ratio withheld",
+    "unit": "x",
+    "ev": [
+     "ev23",
+     "ev25"
+    ]
+   },
+   "roe": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "PAT / average of opening and closing equity x 100",
+    "inputs": {
+     "pat": "2.916597",
+     "average_equity": null
+    },
+    "unit": "%",
+    "ev": [
+     "ev17",
+     "ev21"
+    ]
+   },
+   "roce": {
+    "value": "4.2942",
+    "state": "ok",
+    "formula": "(PBT + finance cost) / (total assets - current liabilities) x 100",
+    "inputs": {
+     "ebit": "2.994501",
+     "capital_employed": "69.733265"
+    },
+    "unit": "%",
+    "ev": [
+     "ev15",
+     "ev11",
+     "ev19",
+     "ev25"
+    ]
+   },
+   "cfo_to_pat": {
+    "value": "-3.3039",
+    "state": "ok",
+    "formula": "cash from operations / PAT",
+    "inputs": {
+     "cfo": "-9.636152",
+     "pat": "2.916597"
+    },
+    "unit": "x",
+    "ev": [
+     "ev29",
+     "ev17"
+    ],
+    "note": "exchange/broker CFO includes member settlement and margin flows; swings are not earnings quality by themselves"
+   }
+  },
+  "FY2025": {
+   "revenue_growth": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "(current / previous) - 1",
+    "inputs": {
+     "current": null,
+     "previous": "0.00609"
+    },
+    "unit": "%",
+    "ev": [
+     "ev6",
+     "ev5"
+    ]
+   },
+   "pat_margin": {
+    "value": "17.9055",
+    "state": "ok",
+    "formula": "PAT / total income x 100",
+    "inputs": {
+     "pat": "1.10316",
+     "total_income": "6.16101"
+    },
+    "unit": "%",
+    "ev": [
+     "ev18",
+     "ev4"
+    ]
+   },
+   "net_profit_ratio": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "PAT / revenue from operations x 100",
+    "inputs": {
+     "pat": "1.10316",
+     "revenue_ops": null
+    },
+    "unit": "%",
+    "ev": [
+     "ev18",
+     "ev6"
+    ]
+   },
+   "other_income_share": {
+    "value": "100.0000",
+    "state": "ok",
+    "formula": "other income / total income x 100",
+    "inputs": {
+     "other_income": "6.16101",
+     "total_income": "6.16101"
+    },
+    "unit": "%",
+    "ev": [
+     "ev8",
+     "ev4"
+    ]
+   },
+   "current_ratio": {
+    "value": "8.1332",
+    "state": "ok",
+    "formula": "current assets / current liabilities",
+    "inputs": {
+     "current_assets": "62.531470",
+     "current_liabilities": "7.688394"
+    },
+    "unit": "x",
+    "ev": [
+     "ev24",
+     "ev26"
+    ]
+   },
+   "quick_ratio": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "(current assets - inventories) / current liabilities",
+    "inputs": {
+     "current_assets": "62.531470",
+     "inventories": null,
+     "current_liabilities": "7.688394"
+    },
+    "note": "inventories not disclosed in the available source; quick ratio withheld",
+    "unit": "x",
+    "ev": [
+     "ev24",
+     "ev26"
+    ]
+   },
+   "roe": {
+    "value": "0.6570",
+    "state": "ok",
+    "formula": "PAT / average of opening and closing equity x 100",
+    "inputs": {
+     "pat": "1.10316",
+     "average_equity": "167.904172"
+    },
+    "unit": "%",
+    "ev": [
+     "ev18",
+     "ev22",
+     "ev21"
+    ]
+   },
+   "roce": {
+    "value": "1.5907",
+    "state": "ok",
+    "formula": "(PBT + finance cost) / (total assets - current liabilities) x 100",
+    "inputs": {
+     "ebit": "1.124664",
+     "capital_employed": "70.701705"
+    },
+    "unit": "%",
+    "ev": [
+     "ev16",
+     "ev12",
+     "ev20",
+     "ev26"
+    ]
+   },
+   "cfo_to_pat": {
+    "value": null,
+    "state": "missing_input",
+    "formula": "cash from operations / PAT",
+    "inputs": {
+     "cfo": null,
+     "pat": "1.10316"
+    },
+    "unit": "x",
+    "ev": [
+     "ev30",
+     "ev18"
+    ]
+   }
+  }
+ },
+ "valuation": {
+  "period": "FY2025",
+  "shares_used": "533507476",
+  "shares_source": "shares_details",
+  "market_cap": {
+   "value": "213.4030",
+   "state": "ok",
+   "formula": "price (INR) x shares outstanding / 1e7",
+   "inputs": {
+    "price_inr": "4.00",
+    "shares": "533507476"
+   },
+   "unit": "INR crore"
+  },
+  "eps": {
+   "value": "0.0207",
+   "state": "ok",
+   "formula": "PAT (INR crore) x 1e7 / shares outstanding",
+   "inputs": {
+    "pat_cr": "1.10316",
+    "shares": "533507476"
+   },
+   "unit": "INR"
+  },
+  "pe": {
+   "value": "193.2367",
+   "state": "ok",
+   "formula": "price / EPS",
+   "inputs": {
+    "price_inr": "4.00",
+    "eps": "0.0207"
+   },
+   "unit": "x"
+  },
+  "pb": {
+   "value": "0.8000",
+   "state": "ok",
+   "formula": "market cap / total equity",
+   "inputs": {
+    "market_cap": "213.4029904",
+    "total_equity": "266.753738"
+   },
+   "unit": "x"
+  },
+  "ps": {
+   "value": "34.6377",
+   "state": "ok",
+   "formula": "market cap / total income",
+   "inputs": {
+    "market_cap": "213.4029904",
+    "total_income": "6.16101"
+   },
+   "unit": "x"
+  },
+  "provider": {
+   "pe": "200",
+   "mcap": "213.40 Crore",
+   "eps": "0.02"
+  },
+  "note": "Valued at an indicative unlisted dealer quote against the latest fiscal-year PAT; not a traded market price."
+ },
+ "coverage_gaps": [
+  {
+   "field": "inventories",
+   "state": "not_in_source",
+   "label": "Inventories"
+  },
+  {
+   "field": "shares_outstanding",
+   "state": "not_in_source",
+   "label": "Shares outstanding"
+  }
+ ],
+ "checks": [
+  {
+   "check": "income_identity",
+   "period": "FY2024",
+   "result": "pass",
+   "detail": "total income 9.613393 - (operations 0.00609 + other 9.607303 + separate income lines 0) = 0.000000"
+  }
+ ],
+ "provider_ratios": {
+  "Current Ratio": {
+   "FY2025": {
+    "raw_text": "7.75",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "6.52",
+    "state": "reported"
+   }
+  },
+  "Return on Equity Ratio (%)": {
+   "FY2025": {
+    "raw_text": "2.29",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "11.73",
+    "state": "reported"
+   }
+  },
+  "Trade Receivables Turnover Ratio": {
+   "FY2025": {
+    "raw_text": "0",
+    "state": "explicit_zero"
+   },
+   "FY2024": {
+    "raw_text": "0",
+    "state": "explicit_zero"
+   }
+  },
+  "Trade Payables Turnover Ratio": {
+   "FY2025": {
+    "raw_text": "2.30",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "0.33",
+    "state": "reported"
+   }
+  },
+  "Net Capital Turnover ratio": {
+   "FY2025": {
+    "raw_text": "0.00",
+    "state": "explicit_zero"
+   },
+   "FY2024": {
+    "raw_text": "0.01",
+    "state": "reported"
+   }
+  },
+  "Net Profit ratio": {
+   "FY2025": {
+    "raw_text": "0.18",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "0.30",
+    "state": "reported"
+   }
+  },
+  "Return on capital employed": {
+   "FY2025": {
+    "raw_text": "-14.89",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "-103.08",
+    "state": "reported"
+   }
+  },
+  "Return on Investment": {
+   "FY2025": {
+    "raw_text": "1.38",
+    "state": "reported"
+   },
+   "FY2024": {
+    "raw_text": "1.38",
+    "state": "reported"
+   }
+  }
+ },
+ "evidence": {
+  "ev1": {
+   "source": "WWIPL company overview",
+   "url": "https://wwipl.com/unlisted-shares/indian-commodity-exchange-icex-share-price",
+   "retrieved_at": "2026-11-23T16:44:46+00:00",
+   "sha256": "82303ff00c20b9be6255e766dccab50d2f8d394c82528ce6b6bd651321c886e0",
+   "capture_run": "20261123T164433Z",
+   "file": "icex-overview.html",
+   "raw_label": "Last Traded Price",
+   "raw_text": "4.00"
+  },
+  "ev2": {
+   "source": "WWIPL company overview",
+   "url": "https://wwipl.com/unlisted-shares/indian-commodity-exchange-icex-share-price",
+   "retrieved_at": "2026-11-23T16:44:46+00:00",
+   "sha256": "82303ff00c20b9be6255e766dccab50d2f8d394c82528ce6b6bd651321c886e0",
+   "capture_run": "20261123T164433Z",
+   "file": "icex-overview.html",
+   "raw_label": "Company fundamentals block"
+  },
+  "ev3": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/indian-commodity-exchange-icex-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:47+00:00",
+   "sha256": "ba9a70fcbebafc56b8f70d15ac8836fcf57b31936e7c3b997cb289c8e00c9d0e",
+   "capture_run": "20261123T164433Z",
+   "file": "icex-financial.html",
+   "raw_label": "Total income",
+   "raw_text": "96,133.93",
+   "raw_unit": "INR thousand",
+   "period": "FY2024",
+   "period_label": "31-03-2024",
+   "basis": "standalone",
+   "anchor": {
+    "file": "icex-financial.html",
+    "table_index": 4,
+    "row_index": 4,
+    "heading": "Fusion Techstack Limited Standalone Profit & Loss Statement (Rs in Thousands)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev4": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/indian-commodity-exchange-icex-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:47+00:00",
+   "sha256": "ba9a70fcbebafc56b8f70d15ac8836fcf57b31936e7c3b997cb289c8e00c9d0e",
+   "capture_run": "20261123T164433Z",
+   "file": "icex-financial.html",
+   "raw_label": "Total income",
+   "raw_text": "61,610.10",
+   "raw_unit": "INR thousand",
+   "period": "FY2025",
+   "period_label": "31-03-2025",
+   "basis": "standalone",
+   "anchor": {
+    "file": "icex-financial.html",
+    "table_index": 4,
+    "row_index": 4,
+    "heading": "Fusion Techstack Limited Standalone Profit & Loss Statement (Rs in Thousands)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev5": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/indian-commodity-exchange-icex-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:47+00:00",
+   "sha256": "ba9a70fcbebafc56b8f70d15ac8836fcf57b31936e7c3b997cb289c8e00c9d0e",
+   "capture_run": "20261123T164433Z",
+   "file": "icex-financial.html",
+   "raw_label": "Revenue from operations",
+   "raw_text": "60.90",
+   "raw_unit": "INR thousand",
+   "period": "FY2024",
+   "period_label": "31-03-2024",
+   "basis": "standalone",
+   "anchor": {
+    "file": "icex-financial.html",
+    "table_index": 4,
+    "row_index": 2,
+    "heading": "Fusion Techstack Limited Standalone Profit & Loss Statement (Rs in Thousands)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev6": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/indian-commodity-exchange-icex-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:47+00:00",
+   "sha256": "ba9a70fcbebafc56b8f70d15ac8836fcf57b31936e7c3b997cb289c8e00c9d0e",
+   "capture_run": "20261123T164433Z",
+   "file": "icex-financial.html",
+   "raw_label": "Revenue from operations",
+   "raw_text": "-",
+   "raw_unit": "INR thousand",
+   "period": "FY2025",
+   "period_label": "31-03-2025",
+   "basis": "standalone",
+   "anchor": {
+    "file": "icex-financial.html",
+    "table_index": 4,
+    "row_index": 2,
+    "heading": "Fusion Techstack Limited Standalone Profit & Loss Statement (Rs in Thousands)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev7": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/indian-commodity-exchange-icex-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:47+00:00",
+   "sha256": "ba9a70fcbebafc56b8f70d15ac8836fcf57b31936e7c3b997cb289c8e00c9d0e",
+   "capture_run": "20261123T164433Z",
+   "file": "icex-financial.html",
+   "raw_label": "Other income",
+   "raw_text": "96,073.03",
+   "raw_unit": "INR thousand",
+   "period": "FY2024",
+   "period_label": "31-03-2024",
+   "basis": "standalone",
+   "anchor": {
+    "file": "icex-financial.html",
+    "table_index": 4,
+    "row_index": 3,
+    "heading": "Fusion Techstack Limited Standalone Profit & Loss Statement (Rs in Thousands)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev8": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/indian-commodity-exchange-icex-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:47+00:00",
+   "sha256": "ba9a70fcbebafc56b8f70d15ac8836fcf57b31936e7c3b997cb289c8e00c9d0e",
+   "capture_run": "20261123T164433Z",
+   "file": "icex-financial.html",
+   "raw_label": "Other income",
+   "raw_text": "61,610.10",
+   "raw_unit": "INR thousand",
+   "period": "FY2025",
+   "period_label": "31-03-2025",
+   "basis": "standalone",
+   "anchor": {
+    "file": "icex-financial.html",
+    "table_index": 4,
+    "row_index": 3,
+    "heading": "Fusion Techstack Limited Standalone Profit & Loss Statement (Rs in Thousands)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev9": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/indian-commodity-exchange-icex-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:47+00:00",
+   "sha256": "ba9a70fcbebafc56b8f70d15ac8836fcf57b31936e7c3b997cb289c8e00c9d0e",
+   "capture_run": "20261123T164433Z",
+   "file": "icex-financial.html",
+   "raw_label": "Total expenses",
+   "raw_text": "66,967.96",
+   "raw_unit": "INR thousand",
+   "period": "FY2024",
+   "period_label": "31-03-2024",
+   "basis": "standalone",
+   "anchor": {
+    "file": "icex-financial.html",
+    "table_index": 4,
+    "row_index": 11,
+    "heading": "Fusion Techstack Limited Standalone Profit & Loss Statement (Rs in Thousands)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev10": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/indian-commodity-exchange-icex-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:47+00:00",
+   "sha256": "ba9a70fcbebafc56b8f70d15ac8836fcf57b31936e7c3b997cb289c8e00c9d0e",
+   "capture_run": "20261123T164433Z",
+   "file": "icex-financial.html",
+   "raw_label": "Total expenses",
+   "raw_text": "50,578.50",
+   "raw_unit": "INR thousand",
+   "period": "FY2025",
+   "period_label": "31-03-2025",
+   "basis": "standalone",
+   "anchor": {
+    "file": "icex-financial.html",
+    "table_index": 4,
+    "row_index": 11,
+    "heading": "Fusion Techstack Limited Standalone Profit & Loss Statement (Rs in Thousands)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev11": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/indian-commodity-exchange-icex-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:47+00:00",
+   "sha256": "ba9a70fcbebafc56b8f70d15ac8836fcf57b31936e7c3b997cb289c8e00c9d0e",
+   "capture_run": "20261123T164433Z",
+   "file": "icex-financial.html",
+   "raw_label": "Finance Cost",
+   "raw_text": "779.04",
+   "raw_unit": "INR thousand",
+   "period": "FY2024",
+   "period_label": "31-03-2024",
+   "basis": "standalone",
+   "anchor": {
+    "file": "icex-financial.html",
+    "table_index": 4,
+    "row_index": 8,
+    "heading": "Fusion Techstack Limited Standalone Profit & Loss Statement (Rs in Thousands)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev12": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/indian-commodity-exchange-icex-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:47+00:00",
+   "sha256": "ba9a70fcbebafc56b8f70d15ac8836fcf57b31936e7c3b997cb289c8e00c9d0e",
+   "capture_run": "20261123T164433Z",
+   "file": "icex-financial.html",
+   "raw_label": "Finance Cost",
+   "raw_text": "215.04",
+   "raw_unit": "INR thousand",
+   "period": "FY2025",
+   "period_label": "31-03-2025",
+   "basis": "standalone",
+   "anchor": {
+    "file": "icex-financial.html",
+    "table_index": 4,
+    "row_index": 8,
+    "heading": "Fusion Techstack Limited Standalone Profit & Loss Statement (Rs in Thousands)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev13": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/indian-commodity-exchange-icex-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:47+00:00",
+   "sha256": "ba9a70fcbebafc56b8f70d15ac8836fcf57b31936e7c3b997cb289c8e00c9d0e",
+   "capture_run": "20261123T164433Z",
+   "file": "icex-financial.html",
+   "raw_label": "Depreciation and amortization expense",
+   "raw_text": "9032.79",
+   "raw_unit": "INR thousand",
+   "period": "FY2024",
+   "period_label": "31-03-2024",
+   "basis": "standalone",
+   "anchor": {
+    "file": "icex-financial.html",
+    "table_index": 4,
+    "row_index": 9,
+    "heading": "Fusion Techstack Limited Standalone Profit & Loss Statement (Rs in Thousands)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev14": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/indian-commodity-exchange-icex-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:47+00:00",
+   "sha256": "ba9a70fcbebafc56b8f70d15ac8836fcf57b31936e7c3b997cb289c8e00c9d0e",
+   "capture_run": "20261123T164433Z",
+   "file": "icex-financial.html",
+   "raw_label": "Depreciation and amortization expense",
+   "raw_text": "6,194.77",
+   "raw_unit": "INR thousand",
+   "period": "FY2025",
+   "period_label": "31-03-2025",
+   "basis": "standalone",
+   "anchor": {
+    "file": "icex-financial.html",
+    "table_index": 4,
+    "row_index": 9,
+    "heading": "Fusion Techstack Limited Standalone Profit & Loss Statement (Rs in Thousands)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev15": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/indian-commodity-exchange-icex-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:47+00:00",
+   "sha256": "ba9a70fcbebafc56b8f70d15ac8836fcf57b31936e7c3b997cb289c8e00c9d0e",
+   "capture_run": "20261123T164433Z",
+   "file": "icex-financial.html",
+   "raw_label": "Profit(loss) before tax",
+   "raw_text": "29,165.97",
+   "raw_unit": "INR thousand",
+   "period": "FY2024",
+   "period_label": "31-03-2024",
+   "basis": "standalone",
+   "anchor": {
+    "file": "icex-financial.html",
+    "table_index": 4,
+    "row_index": 12,
+    "heading": "Fusion Techstack Limited Standalone Profit & Loss Statement (Rs in Thousands)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev16": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/indian-commodity-exchange-icex-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:47+00:00",
+   "sha256": "ba9a70fcbebafc56b8f70d15ac8836fcf57b31936e7c3b997cb289c8e00c9d0e",
+   "capture_run": "20261123T164433Z",
+   "file": "icex-financial.html",
+   "raw_label": "Profit(loss) before tax",
+   "raw_text": "11,031.60",
+   "raw_unit": "INR thousand",
+   "period": "FY2025",
+   "period_label": "31-03-2025",
+   "basis": "standalone",
+   "anchor": {
+    "file": "icex-financial.html",
+    "table_index": 4,
+    "row_index": 12,
+    "heading": "Fusion Techstack Limited Standalone Profit & Loss Statement (Rs in Thousands)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev17": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/indian-commodity-exchange-icex-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:47+00:00",
+   "sha256": "ba9a70fcbebafc56b8f70d15ac8836fcf57b31936e7c3b997cb289c8e00c9d0e",
+   "capture_run": "20261123T164433Z",
+   "file": "icex-financial.html",
+   "raw_label": "Profit(loss) for the year",
+   "raw_text": "29,165.97",
+   "raw_unit": "INR thousand",
+   "period": "FY2024",
+   "period_label": "31-03-2024",
+   "basis": "standalone",
+   "anchor": {
+    "file": "icex-financial.html",
+    "table_index": 4,
+    "row_index": 14,
+    "heading": "Fusion Techstack Limited Standalone Profit & Loss Statement (Rs in Thousands)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev18": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/indian-commodity-exchange-icex-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:47+00:00",
+   "sha256": "ba9a70fcbebafc56b8f70d15ac8836fcf57b31936e7c3b997cb289c8e00c9d0e",
+   "capture_run": "20261123T164433Z",
+   "file": "icex-financial.html",
+   "raw_label": "Profit(loss) for the year",
+   "raw_text": "11,031.60",
+   "raw_unit": "INR thousand",
+   "period": "FY2025",
+   "period_label": "31-03-2025",
+   "basis": "standalone",
+   "anchor": {
+    "file": "icex-financial.html",
+    "table_index": 4,
+    "row_index": 14,
+    "heading": "Fusion Techstack Limited Standalone Profit & Loss Statement (Rs in Thousands)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev19": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/indian-commodity-exchange-icex-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:47+00:00",
+   "sha256": "ba9a70fcbebafc56b8f70d15ac8836fcf57b31936e7c3b997cb289c8e00c9d0e",
+   "capture_run": "20261123T164433Z",
+   "file": "icex-financial.html",
+   "raw_label": "Total Assets",
+   "raw_text": "7,88,443.20",
+   "raw_unit": "INR thousand",
+   "period": "FY2024",
+   "period_label": "31-03-2024",
+   "basis": "standalone",
+   "anchor": {
+    "file": "icex-financial.html",
+    "table_index": 2,
+    "row_index": 13,
+    "heading": "Fusion Techstack Limited Standalone Balance Sheet (Rs in Thousands)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev20": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/indian-commodity-exchange-icex-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:47+00:00",
+   "sha256": "ba9a70fcbebafc56b8f70d15ac8836fcf57b31936e7c3b997cb289c8e00c9d0e",
+   "capture_run": "20261123T164433Z",
+   "file": "icex-financial.html",
+   "raw_label": "Total Assets",
+   "raw_text": "7,83,900.99",
+   "raw_unit": "INR thousand",
+   "period": "FY2025",
+   "period_label": "31-03-2025",
+   "basis": "standalone",
+   "anchor": {
+    "file": "icex-financial.html",
+    "table_index": 2,
+    "row_index": 13,
+    "heading": "Fusion Techstack Limited Standalone Balance Sheet (Rs in Thousands)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev21": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/indian-commodity-exchange-icex-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:47+00:00",
+   "sha256": "ba9a70fcbebafc56b8f70d15ac8836fcf57b31936e7c3b997cb289c8e00c9d0e",
+   "capture_run": "20261123T164433Z",
+   "file": "icex-financial.html",
+   "raw_label": "Sum of 3 lines under 'equity'",
+   "raw_text": null,
+   "raw_unit": "INR thousand",
+   "period": "FY2024",
+   "period_label": null,
+   "basis": "standalone",
+   "anchor": {
+    "file": "icex-financial.html",
+    "table_index": 2,
+    "row_index": 15,
+    "heading": "Fusion Techstack Limited Standalone Balance Sheet (Rs in Thousands)"
+   },
+   "statement": "balance_sheet",
+   "derived": true,
+   "components": [
+    {
+     "label": "Equity Share Capital",
+     "value": "266.753738"
+    },
+    {
+     "label": "Other Equity",
+     "value": "-240.446514"
+    },
+    {
+     "label": "Settlement Guarantee Fund",
+     "value": "42.747382"
+    }
+   ]
+  },
+  "ev22": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/indian-commodity-exchange-icex-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:47+00:00",
+   "sha256": "ba9a70fcbebafc56b8f70d15ac8836fcf57b31936e7c3b997cb289c8e00c9d0e",
+   "capture_run": "20261123T164433Z",
+   "file": "icex-financial.html",
+   "raw_label": "Sum of 1 lines under 'equity'",
+   "raw_text": null,
+   "raw_unit": "INR thousand",
+   "period": "FY2025",
+   "period_label": null,
+   "basis": "standalone",
+   "anchor": {
+    "file": "icex-financial.html",
+    "table_index": 2,
+    "row_index": 15,
+    "heading": "Fusion Techstack Limited Standalone Balance Sheet (Rs in Thousands)"
+   },
+   "statement": "balance_sheet",
+   "derived": true,
+   "components": [
+    {
+     "label": "Equity Share Capital",
+     "value": "266.753738"
+    }
+   ]
+  },
+  "ev23": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/indian-commodity-exchange-icex-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:47+00:00",
+   "sha256": "ba9a70fcbebafc56b8f70d15ac8836fcf57b31936e7c3b997cb289c8e00c9d0e",
+   "capture_run": "20261123T164433Z",
+   "file": "icex-financial.html",
+   "raw_label": "Sum of 5 lines under 'current assets'",
+   "raw_text": null,
+   "raw_unit": "INR thousand",
+   "period": "FY2024",
+   "period_label": null,
+   "basis": "standalone",
+   "anchor": {
+    "file": "icex-financial.html",
+    "table_index": 2,
+    "row_index": 7,
+    "heading": "Fusion Techstack Limited Standalone Balance Sheet (Rs in Thousands)"
+   },
+   "statement": "balance_sheet",
+   "derived": true,
+   "components": [
+    {
+     "label": "Investments",
+     "value": "1.919873"
+    },
+    {
+     "label": "Cash and Cash Equivalents",
+     "value": "0.140095"
+    },
+    {
+     "label": "Loans & Advances",
+     "value": "37.5"
+    },
+    {
+     "label": "Other Financial Assets",
+     "value": "1.051861"
+    },
+    {
+     "label": "Other Current Assets",
+     "value": "22.484352"
+    }
+   ]
+  },
+  "ev24": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/indian-commodity-exchange-icex-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:47+00:00",
+   "sha256": "ba9a70fcbebafc56b8f70d15ac8836fcf57b31936e7c3b997cb289c8e00c9d0e",
+   "capture_run": "20261123T164433Z",
+   "file": "icex-financial.html",
+   "raw_label": "Sum of 6 lines under 'current assets'",
+   "raw_text": null,
+   "raw_unit": "INR thousand",
+   "period": "FY2025",
+   "period_label": null,
+   "basis": "standalone",
+   "anchor": {
+    "file": "icex-financial.html",
+    "table_index": 2,
+    "row_index": 7,
+    "heading": "Fusion Techstack Limited Standalone Balance Sheet (Rs in Thousands)"
+   },
+   "statement": "balance_sheet",
+   "derived": true,
+   "components": [
+    {
+     "label": "Investments",
+     "value": "0.484583"
+    },
+    {
+     "label": "Trade receivables",
+     "value": "0.422769"
+    },
+    {
+     "label": "Cash and Cash Equivalents",
+     "value": "0.32712"
+    },
+    {
+     "label": "Loans & Advances",
+     "value": "36.18135"
+    },
+    {
+     "label": "Other Financial Assets",
+     "value": "2.441975"
+    },
+    {
+     "label": "Other Current Assets",
+     "value": "22.673673"
+    }
+   ]
+  },
+  "ev25": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/indian-commodity-exchange-icex-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:47+00:00",
+   "sha256": "ba9a70fcbebafc56b8f70d15ac8836fcf57b31936e7c3b997cb289c8e00c9d0e",
+   "capture_run": "20261123T164433Z",
+   "file": "icex-financial.html",
+   "raw_label": "Sum of 4 lines under 'current liabilities'",
+   "raw_text": null,
+   "raw_unit": "INR thousand",
+   "period": "FY2024",
+   "period_label": null,
+   "basis": "standalone",
+   "anchor": {
+    "file": "icex-financial.html",
+    "table_index": 2,
+    "row_index": 21,
+    "heading": "Fusion Techstack Limited Standalone Balance Sheet (Rs in Thousands)"
+   },
+   "statement": "balance_sheet",
+   "derived": true,
+   "components": [
+    {
+     "label": "Lease Liabilities",
+     "value": "1.235825"
+    },
+    {
+     "label": "Other Financial Liabilities",
+     "value": "6.355974"
+    },
+    {
+     "label": "Other Current Liabilities",
+     "value": "1.401955"
+    },
+    {
+     "label": "Other Current Provisions",
+     "value": "0.117301"
+    }
+   ]
+  },
+  "ev26": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/indian-commodity-exchange-icex-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:47+00:00",
+   "sha256": "ba9a70fcbebafc56b8f70d15ac8836fcf57b31936e7c3b997cb289c8e00c9d0e",
+   "capture_run": "20261123T164433Z",
+   "file": "icex-financial.html",
+   "raw_label": "Sum of 4 lines under 'current liabilities'",
+   "raw_text": null,
+   "raw_unit": "INR thousand",
+   "period": "FY2025",
+   "period_label": null,
+   "basis": "standalone",
+   "anchor": {
+    "file": "icex-financial.html",
+    "table_index": 2,
+    "row_index": 21,
+    "heading": "Fusion Techstack Limited Standalone Balance Sheet (Rs in Thousands)"
+   },
+   "statement": "balance_sheet",
+   "derived": true,
+   "components": [
+    {
+     "label": "Lease Liabilities",
+     "value": "0.719117"
+    },
+    {
+     "label": "Other Financial Liabilities",
+     "value": "5.761943"
+    },
+    {
+     "label": "Other Current Liabilities",
+     "value": "1.050163"
+    },
+    {
+     "label": "Other Current Provisions",
+     "value": "0.157171"
+    }
+   ]
+  },
+  "ev27": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/indian-commodity-exchange-icex-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:47+00:00",
+   "sha256": "ba9a70fcbebafc56b8f70d15ac8836fcf57b31936e7c3b997cb289c8e00c9d0e",
+   "capture_run": "20261123T164433Z",
+   "file": "icex-financial.html",
+   "raw_label": "Cash and Cash Equivalents",
+   "raw_text": "1,400.95",
+   "raw_unit": "INR thousand",
+   "period": "FY2024",
+   "period_label": "31-03-2024",
+   "basis": "standalone",
+   "anchor": {
+    "file": "icex-financial.html",
+    "table_index": 2,
+    "row_index": 9,
+    "heading": "Fusion Techstack Limited Standalone Balance Sheet (Rs in Thousands)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev28": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/indian-commodity-exchange-icex-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:47+00:00",
+   "sha256": "ba9a70fcbebafc56b8f70d15ac8836fcf57b31936e7c3b997cb289c8e00c9d0e",
+   "capture_run": "20261123T164433Z",
+   "file": "icex-financial.html",
+   "raw_label": "Cash and Cash Equivalents",
+   "raw_text": "3,271.20",
+   "raw_unit": "INR thousand",
+   "period": "FY2025",
+   "period_label": "31-03-2025",
+   "basis": "standalone",
+   "anchor": {
+    "file": "icex-financial.html",
+    "table_index": 2,
+    "row_index": 9,
+    "heading": "Fusion Techstack Limited Standalone Balance Sheet (Rs in Thousands)"
+   },
+   "statement": "balance_sheet",
+   "derived": false,
+   "components": null
+  },
+  "ev29": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/indian-commodity-exchange-icex-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:47+00:00",
+   "sha256": "ba9a70fcbebafc56b8f70d15ac8836fcf57b31936e7c3b997cb289c8e00c9d0e",
+   "capture_run": "20261123T164433Z",
+   "file": "icex-financial.html",
+   "raw_label": "Net Cash Generated from/(Used in) Operating Activities",
+   "raw_text": "-96,361.52",
+   "raw_unit": "INR thousand",
+   "period": "FY2024",
+   "period_label": "31-03-2024",
+   "basis": "standalone",
+   "anchor": {
+    "file": "icex-financial.html",
+    "table_index": 6,
+    "row_index": 23,
+    "heading": "Fusion Techstack Limited Standalone Cash Flow Statement (Rs in Thousands)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev30": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/indian-commodity-exchange-icex-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:47+00:00",
+   "sha256": "ba9a70fcbebafc56b8f70d15ac8836fcf57b31936e7c3b997cb289c8e00c9d0e",
+   "capture_run": "20261123T164433Z",
+   "file": "icex-financial.html",
+   "raw_label": "Net Cash Generated from/(Used in) Operating Activities",
+   "raw_text": "- 71,763.08",
+   "raw_unit": "INR thousand",
+   "period": "FY2025",
+   "period_label": "31-03-2025",
+   "basis": "standalone",
+   "anchor": {
+    "file": "icex-financial.html",
+    "table_index": 6,
+    "row_index": 23,
+    "heading": "Fusion Techstack Limited Standalone Cash Flow Statement (Rs in Thousands)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev31": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/indian-commodity-exchange-icex-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:47+00:00",
+   "sha256": "ba9a70fcbebafc56b8f70d15ac8836fcf57b31936e7c3b997cb289c8e00c9d0e",
+   "capture_run": "20261123T164433Z",
+   "file": "icex-financial.html",
+   "raw_label": "Net Cash Generated from/(Used in) Investing Activities",
+   "raw_text": "1,02,424.34",
+   "raw_unit": "INR thousand",
+   "period": "FY2024",
+   "period_label": "31-03-2024",
+   "basis": "standalone",
+   "anchor": {
+    "file": "icex-financial.html",
+    "table_index": 6,
+    "row_index": 33,
+    "heading": "Fusion Techstack Limited Standalone Cash Flow Statement (Rs in Thousands)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev32": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/indian-commodity-exchange-icex-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:47+00:00",
+   "sha256": "ba9a70fcbebafc56b8f70d15ac8836fcf57b31936e7c3b997cb289c8e00c9d0e",
+   "capture_run": "20261123T164433Z",
+   "file": "icex-financial.html",
+   "raw_label": "Net Cash Generated from/(Used in) Investing Activities",
+   "raw_text": "79,015.44",
+   "raw_unit": "INR thousand",
+   "period": "FY2025",
+   "period_label": "31-03-2025",
+   "basis": "standalone",
+   "anchor": {
+    "file": "icex-financial.html",
+    "table_index": 6,
+    "row_index": 33,
+    "heading": "Fusion Techstack Limited Standalone Cash Flow Statement (Rs in Thousands)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev33": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/indian-commodity-exchange-icex-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:47+00:00",
+   "sha256": "ba9a70fcbebafc56b8f70d15ac8836fcf57b31936e7c3b997cb289c8e00c9d0e",
+   "capture_run": "20261123T164433Z",
+   "file": "icex-financial.html",
+   "raw_label": "Net Cash Generated from/(Used in) Financing Activities",
+   "raw_text": "-5,696.22",
+   "raw_unit": "INR thousand",
+   "period": "FY2024",
+   "period_label": "31-03-2024",
+   "basis": "standalone",
+   "anchor": {
+    "file": "icex-financial.html",
+    "table_index": 6,
+    "row_index": 36,
+    "heading": "Fusion Techstack Limited Standalone Cash Flow Statement (Rs in Thousands)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev34": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/indian-commodity-exchange-icex-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:47+00:00",
+   "sha256": "ba9a70fcbebafc56b8f70d15ac8836fcf57b31936e7c3b997cb289c8e00c9d0e",
+   "capture_run": "20261123T164433Z",
+   "file": "icex-financial.html",
+   "raw_label": "Net Cash Generated from/(Used in) Financing Activities",
+   "raw_text": "- 5,382.11",
+   "raw_unit": "INR thousand",
+   "period": "FY2025",
+   "period_label": "31-03-2025",
+   "basis": "standalone",
+   "anchor": {
+    "file": "icex-financial.html",
+    "table_index": 6,
+    "row_index": 36,
+    "heading": "Fusion Techstack Limited Standalone Cash Flow Statement (Rs in Thousands)"
+   },
+   "statement": "cash_flow",
+   "derived": false,
+   "components": null
+  },
+  "ev35": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/indian-commodity-exchange-icex-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:47+00:00",
+   "sha256": "ba9a70fcbebafc56b8f70d15ac8836fcf57b31936e7c3b997cb289c8e00c9d0e",
+   "capture_run": "20261123T164433Z",
+   "file": "icex-financial.html",
+   "raw_label": "Basic",
+   "raw_text": "0.05",
+   "raw_unit": "INR per share",
+   "period": "FY2024",
+   "period_label": "31-03-2024",
+   "basis": "standalone",
+   "anchor": {
+    "file": "icex-financial.html",
+    "table_index": 4,
+    "row_index": 19,
+    "heading": "Fusion Techstack Limited Standalone Profit & Loss Statement (Rs in Thousands)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  },
+  "ev36": {
+   "source": "WWIPL financial statements page",
+   "url": "https://wwipl.com/unlisted-shares/indian-commodity-exchange-icex-share-price/financial",
+   "retrieved_at": "2026-11-23T16:44:47+00:00",
+   "sha256": "ba9a70fcbebafc56b8f70d15ac8836fcf57b31936e7c3b997cb289c8e00c9d0e",
+   "capture_run": "20261123T164433Z",
+   "file": "icex-financial.html",
+   "raw_label": "Basic",
+   "raw_text": "0.02",
+   "raw_unit": "INR per share",
+   "period": "FY2025",
+   "period_label": "31-03-2025",
+   "basis": "standalone",
+   "anchor": {
+    "file": "icex-financial.html",
+    "table_index": 4,
+    "row_index": 19,
+    "heading": "Fusion Techstack Limited Standalone Profit & Loss Statement (Rs in Thousands)"
+   },
+   "statement": "income_statement",
+   "derived": false,
+   "components": null
+  }
+ },
+ "news": {
+  "query": "\"Indian Commodity Exchange\"",
+  "retrieved_at": "2026-11-23T16:46:10+00:00",
+  "items": [
+   {
+    "title": "What are the Timings for Commodity Market Trading? A Complete Guide",
+    "publisher": "Kotak Neo",
+    "date": "2026-06-10",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYjJWMEhOOEZteHFTSkRwSTBJNW5uc0oxeHFJOUhESzMwZXN6X293WFdKel9fRF9HeUFHcDQwNGFLalNTSFpubkg3TnhwWWJPR2ROdmVmaTZ5TS1SRVBDdVMyNmM3UTg3OGhHWXN6djRzVUtYRVZQbHdKVGF5Sy1IMXI4dVdNX0wwU3Bqa0FEWDNDaEhoM3dpb09iRXpSdElULWc5aTVR?oc=5"
+   },
+   {
+    "title": "BSE Targets 15% Commodity Market Share via Strategic Expansion into High-Volume Derivatives",
+    "publisher": "Sahi",
+    "date": "2026-05-13",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVG9MRFJZZ2pRZHJBdEJod1dXZnc2amc2OFp4c1ZvYmJvV1ZzemZOcmJTb1NyX1gzSlpRY1ZTOUFfQTY5T1JCTHFCaUdwVk5VR1lBaXFMdVB2ZVVFZF9TQzBCTUZZTGRlUmw0VXhGSjd5WTdiTXNXTk5VbkpyZ1Y2aVpKNXJZc09YaEEtQ1FqU05WYXdEenRWX3p1X0VlRE1UVjFWMk5ZNWdQY0JISGRfMS1VVGtyN3RSZF9zTnRyQW4xRXVDQWpNZA?oc=5"
+   },
+   {
+    "title": "NCLT Allows Former Promoters To Pursue Oppression & Mismanagement Case Against Indian Commodity Exchange",
+    "publisher": "Live Law",
+    "date": "2025-11-04",
+    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOeXpJOXZnY1NPS1RhYmt6Q0d6WlFwNkQxdUc3US1ZaEk4NlI5Zjlia1NvR21PbmFJcUd6bTh0X2J2SkhOWmFBREYzVTI1OVlvempSRFp3SkJMZGlGS19MZU5vVVdLeWpnZHYtX3d1UGFVUWFOc2k5WFF5c2pqVEZIRnJXckRlempOeHdkWWNxNkIyWTlEazQwQk52cXZHX2hScl9NYnNEOW8xWGhNdzFxaFVkWHpBUHIxSGlZeDk0UW05djM0bVRVWk1aTF95WmlKUVlNYndsbkk1bFRyTGxwTURCdE_SAeoBQVVfeXFMTVdTMXhWWHNRZzJtdGlhdmFmNG1oWm1vaks2WlVTa0VfVkN3MGRzTzRQU1hQRzd3eWx3SVNnWUk5M05CTnI2UkwwTVpGVHcyZmNZa0tsOVh1Z29Hc0U5VzdXeWluZnRIaExhR2xReVlScjF3REFGeDhTSWlrd2NnNG5Za0RGX3hHdnBsWk1TNEFfX2t3WGFsMm9fZThlNzZuTmhac3Rmdm4yVFdNa05PTmUwdF8tRHd6cTBMZzR1ZFNnU1pXR2pkQTJRQ190emFyWTZENUIzZ3Ztd3NXMi01Z0d4bXpaVmw2T1JB?oc=5"
+   },
+   {
+    "title": "Sebi withdraws recognition to Indian Commodity Exchange, paves way for ICEX to exit as an exchange",
+    "publisher": "Moneycontrol.com",
+    "date": "2025-01-02",
+    "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOYXJkWFE3NE0wRG1pQnJTZndWQ1RSN250ck9ZNnd0Z0tiMmF5cjZ5ZXVMVzY5dFgwNC1remoybEl4WWJ1SU5jTlhTRXgyVmlzb3Q3LWw2RDBZWFVTQ0l0S3RjWGRNVUF1TkVlX2tfeGhjQmtfb3ZZQ3NiMkdaV0FPNXlDVFNtWDZrLXFlRWZoVUFab01Db2I1OE1oemFsWEJXejFmYURmLUd5bGJKUzZkTEJsdFhJWkJlOFZVdTd3UFhzendNXzcxVmpUdEk3VWJyOUgzU003RkJjeHpTVnQ5dmhtMFI3d3lEZ1hYXzdnU3liWkxG0gH6AUFVX3lxTE53UzYza0hIYncwLXVXM0pjcF83aWJwN3B1cjctbWFQaGpWcnQ3dXMtazlDVjdGLVBPV0M1aVFpcm5FNWNOdmtCNnBRSnhReVQtMnAtSUI3UDJnVUpRQ1NSNGxDRS05emI0ZVdFMHlSdE56T0dhOVhpMlljQUZGR0lUVzE0UGx3cnVWdmdtQ3lsQmNCc1R2SFFVMHQtcy1SZTVSbnZjci13b2pyWHRPREktREJ4blo1TFFSbDBJWDExZy1VSmxPbW9BbHJkUjdFd0J3OHpCNEwzQ1RhNHBkRGNWVnR5X0VNUWpFZHdLd1lsdEc2OVhHVG80d2c?oc=5"
+   },
+   {
+    "title": "SEBI Notifies Withdrawal Of Recognition Granted To Indian Commodity Exchange",
+    "publisher": "NDTV",
+    "date": "2024-12-27",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdUZFSkZURm1kcFVqb1JrN0FJMlN6RHRxanIzUUNTUXFUaVdreERQeE9KcnhhSWNzZXJaOG9GTzZvbjdvZkxtc21uYXA2MEprWW9DbXRLdFRocFQ2S0lZZWgwZlBzdTBtZFR4X2hfZm9NSGQ0Z0FLVk8yUFp1cTRMM21GOGNReHN0LVBfOVU0UFVweFdmSVZlVXl3OUJmTDBWeFc1ZDl3RTloTEVoZXhsc2RfUVhPTUXSAb8BQVVfeXFMTUtVYUk4S1ZjQnFMa3dwc3lTV01qaUZkLThJRFVsR2l6RXFvS25LREhHclFHbmdCMnk2UEpGZ2tmMnVEbEpaU3BWM0tKN0h5WnlEMVpaRVRlUnljdG9uWWJUbFNkR3lja1A3M1BMSkdGbllCZXpfaHhXZVNPZzl2eDVMd0JWanNrXzRxWHdpNl9CRno3SHRCM0pqODZKOEZBNms1cmhNUHdBNmwyT1dvZ25jWHFpN3pHWnNaLTBEYkk?oc=5"
+   },
+   {
+    "title": "Indian Commodity Exchange: Exit from bourse business confirmed? SEBI takes this action against ICEX",
+    "publisher": "ET Now",
+    "date": "2024-12-27",
+    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPU3VWZjVVdmxCNXVlQVBqd2VZcmVndkJGYllrMWYwdWpGblg3d2dUTEh4dGtlcDZocE8wSWoyamZuUi1VQ25wa0ZubE1DZEZ4Z1JkdzJaLVFFUHdSY0JxNWhNNWZHS2szbkVnekM1UlBmcDNpajRPRHZncDg1SUx6ZjVkMjVfSzhsUUIwNkVPVl9rTXFRYVJzNzVkUDRtcExYeFVpeEFhOHNOQncwU19yeWJXTzlFM2E1MW9WeF9qUzVyZmR3b2xBQTE3aG9MVF8ydE5qLXVqd2hkRTZJS3AtdGRla9IB6AFBVV95cUxOV1hhV2h6VnZYTi1FN0c0ZXRRdGxWdnRhQzRsZ1JmWjhsb2xVY3lkUWs4TDU0MHo0cjFjVGszd2ZqdG1kYThxZzhhY1Q0THh6R1k1QW9VWC00UW51bmx5Z2k2WXZJNmhsSXNlbi1XSlQyV2RialNuaVdYLTNkWmJnRXBuT1B1MGJNck00TnBEUzIwMzVOWFhIaURJNzNoT0ptYkM1VWtHM1MxajdacGtvdnhKV0dTdDNVLVg4eHA2d0RnWGd3LXU3U2h4anN5V0MzTTBOMHRHSDZqQm5OU2JZZDBzak1PNFAz?oc=5"
+   },
+   {
+    "title": "SEBI okays Indian Commodity Exchange's exit, a year after exchange applied for a voluntary surrender",
+    "publisher": "Moneycontrol.com",
+    "date": "2024-12-10",
+    "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPOXBlc3J0Yy1oY0l1SmJ1b3YtZ1VRX2EtVUFKQjRGWHpZNHB2cGE3dGlGRHpJdG16akJ5V0ZsYmtpSEF6cUwweXM0aTVMczlKY0l5Z0xuZFdmdVhybWtaX016NnY0YVVJWEllVUhqZHZQQktwUkxjRTF5bkwwMkN3ZlB0UkZIVXdwVEw4dS1Pb3JCM2swZFNlNFBpVmdHUDI3aGlSOU1wMGhiSWdnY3NQMjFjWHVFZWxndld0cEtyQ1NCQ0VrcHdBbEV4NnFYLVE5NVNGbEl2c0JxRXpyNHdUVDdkRGdZMHBSX2pYZmdlTktYcFp4UF8w0gH8AUFVX3lxTE1Hc1FGNnRzRHhnbWdjbGtFVDNIMUtDQmI1ZGNvbFpOQnZ2Q2w4WGRQY1hQOFVHc1JURW1jMjJPVG52MnRMcGlsT0FObnVDNjlRTGRIWXFlSEE5SnF6a1QtQ0FGd1dVUVFGLV9YTjJkRmowR3dZX0pFUFZKM3FhWmhxQnhWRjFhdUtfN2dfN185aE5tMVB4YWhqcXFrZTVaaVVubU5mQTJSbWJxZjFaVmZPblJoek53SkJ0QXV4RHd1eEhkdFNHdU4zOGFraTlnZF9wNmxTaTVTWU5KbG52elYzRGdQYnhtd1I3YWdkYkFtVk1rNWJ0eEV5X09ELQ?oc=5"
+   },
+   {
+    "title": "List of Stock Exchanges in India",
+    "publisher": "Groww",
+    "date": "2023-06-28",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE43dFEzODJjWWhxVTFBaHU5bHNWWTJ6UGxrNnctc2VWcW5LbkhTdmtWOUpVWnpXTEJPa2dTTVZrNmdrRDJWM1hvS1ozN2RVSnZnSTBiM1VYRXFuWHJIVVJyZUFFNU4?oc=5"
+   }
+  ],
+  "source": {
+   "name": "Google News RSS search",
+   "url": "https://news.google.com/rss/search?q=%22Indian+Commodity+Exchange%22&hl=en-IN&gl=IN&ceid=IN:en",
+   "sha256": "556e27e662a8881176650c706ce67e1e0fc29f4f5df65684f366c54be9d6f568",
+   "run": "20261123T164603Z"
+  }
+ },
+ "peer_reviewed": true,
+ "discovery": [
+  {
+   "id": "ncdex",
+   "short": "NCDEX",
+   "name": "National Commodity & Derivatives Exchange Ltd",
+   "reasons": [
+    "same business: Exchanges & Trading Platforms",
+    "provider reports DRHP filed (IPO research lead)",
+    "in the news 2026-11-11"
+   ],
+   "score": 6,
+   "price_inr": 253.0,
+   "latest_period": "FY2026"
+  },
+  {
+   "id": "hpx",
+   "short": "HPX",
+   "name": "Hindustan Power Exchange Ltd",
+   "reasons": [
+    "same business: Exchanges & Trading Platforms",
+    "in the news 2026-11-10"
+   ],
+   "score": 4,
+   "price_inr": 22.8,
+   "latest_period": "FY2026"
+  },
+  {
+   "id": "igx",
+   "short": "IGX",
+   "name": "Indian Gas Exchange Ltd",
+   "reasons": [
+    "same business: Exchanges & Trading Platforms",
+    "in the news 2026-11-16"
+   ],
+   "score": 4,
+   "price_inr": 488.0,
+   "latest_period": "FY2026"
+  },
+  {
+   "id": "msei",
+   "short": "MSE",
+   "name": "Metropolitan Stock Exchange of India Ltd",
+   "reasons": [
+    "same business: Exchanges & Trading Platforms",
+    "in the news 2026-11-18"
+   ],
+   "score": 4,
+   "price_inr": 6.35,
+   "latest_period": "FY2026"
+  },
+  {
+   "id": "oyo",
+   "short": "OYO",
+   "name": "Oravel Stays Ltd (OYO)",
+   "reasons": [
+    "provider reports DRHP filed (IPO research lead)",
+    "in the news 2026-11-23"
+   ],
+   "score": 3,
+   "price_inr": 20.45,
+   "latest_period": "FY2026"
+  },
+  {
+   "id": "pharmeasy",
+   "short": "PharmEasy",
+   "name": "API Holdings Ltd (PharmEasy)",
+   "reasons": [
+    "provider reports DRHP filed (IPO research lead)",
+    "in the news 2026-10-28"
+   ],
+   "score": 3,
+   "price_inr": 6.15,
+   "latest_period": "FY2026"
+  }
+ ],
+ "fallbacks": []
+}

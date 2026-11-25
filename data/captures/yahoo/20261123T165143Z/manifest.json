@@ -1,0 +1,72 @@
+{
+  "source": "yahoo",
+  "run_id": "20261123T165143Z",
+  "items": [
+    {
+      "url": "https://query1.finance.yahoo.com/v8/finance/chart/%5EBSESN?range=1y&interval=1d",
+      "retrieved_at": "2026-11-23T16:51:43+00:00",
+      "status": 200,
+      "final_url": "https://query1.finance.yahoo.com/v8/finance/chart/%5EBSESN?range=1y&interval=1d",
+      "content_type": "application/json;charset=utf-8",
+      "bytes": 21379,
+      "sha256": "5e70e11c004b0a0b127ec10d7eb2ff28e6ba70d822232728a8202fbcb9576d69",
+      "id": "bsesn-1y",
+      "symbol": "^BSESN",
+      "name": "S&P BSE Sensex",
+      "range": "1y",
+      "interval": "1d",
+      "path": "bsesn-1y.json"
+    },
+    {
+      "url": "https://query1.finance.yahoo.com/v8/finance/chart/%5EBSESN?range=1d&interval=5m",
+      "retrieved_at": "2026-11-23T16:51:45+00:00",
+      "status": 200,
+      "final_url": "https://query1.finance.yahoo.com/v8/finance/chart/%5EBSESN?range=1d&interval=5m",
+      "content_type": "application/json;charset=utf-8",
+      "bytes": 6210,
+      "sha256": "00d511e09e6c6bc8d13e4d06b108486af707b1afd7309d46c029d16806b690a5",
+      "id": "bsesn-1d",
+      "symbol": "^BSESN",
+      "name": "S&P BSE Sensex",
+      "range": "1d",
+      "interval": "5m",
+      "path": "bsesn-1d.json"
+    },
+    {
+      "url": "https://query1.finance.yahoo.com/v8/finance/chart/%5ENSEI?range=1y&interval=1d",
+      "retrieved_at": "2026-11-23T16:51:46+00:00",
+      "status": 200,
+      "final_url": "https://query1.finance.yahoo.com/v8/finance/chart/%5ENSEI?range=1y&interval=1d",
+      "content_type": "application/json;charset=utf-8",
+      "bytes": 23228,
+      "sha256": "953b5255741e6e706e81d7f7212ba0ed436a19ccecfa461c919c24b9fe6d9a69",
+      "id": "nsei-1y",
+      "symbol": "^NSEI",
+      "name": "Nifty 50",
+      "range": "1y",
+      "interval": "1d",
+      "path": "nsei-1y.json"
+    },
+    {
+      "url": "https://query1.finance.yahoo.com/v8/finance/chart/%5ENSEI?range=1d&interval=5m",
+      "retrieved_at": "2026-11-23T16:51:47+00:00",
+      "status": 200,
+      "final_url": "https://query1.finance.yahoo.com/v8/finance/chart/%5ENSEI?range=1d&interval=5m",
+      "content_type": "application/json;charset=utf-8",
+      "bytes": 6617,
+      "sha256": "4dd39ee0de070340abd62004aa8d0467ffbe7d4470ce9ff356d4430125221468",
+      "id": "nsei-1d",
+      "symbol": "^NSEI",
+      "name": "Nifty 50",
+      "range": "1d",
+      "interval": "5m",
+      "path": "nsei-1d.json"
+    }
+  ],
+  "summary": {
+    "attempted": 4,
+    "ok": 4,
+    "failed": 0
+  },
+  "note": "unofficial endpoint; delayed quotes; fallback to last good capture"
+}
